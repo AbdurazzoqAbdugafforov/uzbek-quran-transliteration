@@ -1,0 +1,55 @@
+{
+  "surahNumber": 99,
+  "surahName": "Az-Zalzala",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "uzbekReading": "Izaa zul zilatil ardu zil zaalaha.",
+      "uzbekTranslation": "Vaqtiki, yer o'ziga xos zilzilaga tushsa."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "uzbekReading": "Va ax rajatil ardu asqaalaha.",
+      "uzbekTranslation": "Va yer o'z yuklarini otib chiqarsa."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+      "uzbekReading": "Va qaalal insaanu ma laha.",
+      "uzbekTranslation": "Va inson, unga nima bo'ldi?!, desa."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "uzbekReading": "Yavmaa izin tuhad disu axbaaraha.",
+      "uzbekTranslation": "O'sha kunda u(yer) o'z xabarini aytadir."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "uzbekReading": "Bi-anna Robbaka avhaa laha.",
+      "uzbekTranslation": "Sening Robbing unga vahiy yuborganini."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+      "uzbekReading": "Yavma iziy yas durun naasu ash tatal liyuraw a'maalahum.",
+      "uzbekTranslation": "O'sha kunda odamlar guruh-guruh bo'lib, amallarini ko'rish uchun joylaridan qo'zg'aladir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "uzbekReading": "Famaiy ya'mal misqala zarratin xai raiy-yarah.",
+      "uzbekTranslation": "Bas, kim zarra og'irligida yaxshilik qilsa ham ko'radir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "uzbekReading": "Va maiy-y'amal misqala zarratin sharraiy-yarah.",
+      "uzbekTranslation": "Va kim zarra og'irligida yomonlik qilsa ham ko'radir."
+    }
+  ]
+}

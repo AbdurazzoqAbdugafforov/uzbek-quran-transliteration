@@ -1,0 +1,127 @@
+{
+  "surahNumber": 73,
+  "surahName": "Al-Muzzammil",
+  "juzNumber": 29,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "يَا أَيُّهَا الْمُزَّمِّلُ",
+      "uzbekReading": "Yaw ayyuhal muzzammil.",
+      "uzbekTranslation": "Ey o'ranib yotuvchi!"
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+      "uzbekReading": "Qumil laila illaa qaliylaa.",
+      "uzbekTranslation": "Kechani ozginasidan boshqasini (ibodatda) tik turib o'tkaz!"
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+      "uzbekReading": "Nisfahuuo avinqus minhu qaliylaa.",
+      "uzbekTranslation": "Yarmini yoki undan bir oz qisqarog'ini."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+      "uzbekReading": "Aw zid 'alaihi va rattilil Qur'aana tartiyla.",
+      "uzbekTranslation": "Yoki u."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+      "uzbekReading": "Innaa sanulqiy 'alika qavalan saqiylaa.",
+      "uzbekTranslation": "Albatta, Biz ustingga og'ir so'zni tashlarmiz."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+      "uzbekReading": "Inn naashi'atal laili hiya ashadddu vat anw va aqvamu qiylaa.",
+      "uzbekTranslation": "Albatta, kechasigi ibodat ko'proq muvofiq keladir va qiroati to'g'riroq bo'ladir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+      "uzbekReading": "Inna laka fin nahaari sabhan taviylaa.",
+      "uzbekTranslation": "Albatta, kunduzi sening uzoq ishlashing bor."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+      "uzbekReading": "Vazkuris ma Robbika va tabattal ilaihi tabtiylaa.",
+      "uzbekTranslation": "Va Robbingning ismini zikr et va Uning ibodatiga butunlay ajralib chiq."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+      "uzbekReading": "Robbul mashriqi val mag'riibi laaa ilaaha illaa Huva fattaxizhu vakiylaa.",
+      "uzbekTranslation": "U mashriqu mag'ribning Robbisidir. Undan o'zga ibodatga sazovor iloh yo'q. Bas, Uni o'zingga vakil tut."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+      "uzbekReading": "Vasbir 'alaa maa yaquu luuna vahjurhum hajran jamiylaa.",
+      "uzbekTranslation": "Va ularning gaplariga sabr qil va ulardan chiroyli chetlashla, chetlab tur."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+      "uzbekReading": "Va zarniy valmukaz zibiyna ulin na'mati va mahhilhum qaliylaa.",
+      "uzbekTranslation": "Ahli ne'mat bo'lgan, yolg'onga chiqaruvchilarni O'zimga qo'yib qo'y va ularga ozgina muhlat ber."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+      "uzbekReading": "Inna ladainaaa ankaalanw va jahiymaa.",
+      "uzbekTranslation": "Albatta, Bizda og'ir kishanlar va jahannam bor."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+      "uzbekReading": "Va ta'aaman zaa g'ussa tinw va'azaaban aliymaa.",
+      "uzbekTranslation": "Va (tomoqqa) tiqiladigan taom va alamli azob bor."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+      "uzbekReading": "Yavma tarjuful ardu valjibaalu va kaanatil jibaalu kasiybam mahiylaa.",
+      "uzbekTranslation": "Bir kundaki, unda yeru tog'lar larzaga keladir va tog'lar oquvchi qumtepalarga aylanadir."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+      "uzbekReading": "Innaa arsalnaaa ilaikum rasuulan shahidan 'alikum kamaaa arsalnaaa ilaa Fir'avna Rasuulna.",
+      "uzbekTranslation": "Albatta, Biz sizlarga, xuddi Fir'avnga Rasul yuborganimizdek, siz haqingizda guvohlik beruvchi Rasulni yubordik."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+      "uzbekReading": "Fa'asaa Fir'avnur Rasuula fa axaznaahu axzanw vabiylaa.",
+      "uzbekTranslation": "Bas, Fir'avn Rasulga osiy bo'ldi va Biz uni shiddatli azob bilan tutdik."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+      "uzbekReading": "Fakaifa tattaquuna in kafartum yavmany yaj'alul vildaana shiyba.",
+      "uzbekTranslation": "Agar kofir bo'lsangiz, bolalarning sochini oqartib yuboradigan kundan qanday saqlanasiz?!"
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+      "uzbekReading": "Assamaaa'u munfatirum bih; kaana va'duhuu maf'uula.",
+      "uzbekTranslation": "Unda osmon parchalanuvchidir, U zotning va'dasi amalga oshadir."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+      "uzbekReading": "Inna haazihiy tazkiratun fa man shaaa'at taxaza ilaa Robbihiy sabiylaa.",
+      "uzbekTranslation": "Albatta, bular eslatmadir, Kim xohlasa, o'z Robisi tomon yo'l oladir."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+      "uzbekReading": "Inna Robbaka ya'lamu annaka taquumu adnaa min sulusa yil laili va nisfahuu va sulusahuu va taaa'ifatum minal laziyna ma'ak; val laahu yuqaddirul laila vanna haar; 'alima al lan tuhsuuhu fataaba 'alaikum faqra'uu maa tayassara minal quraan; 'alima an sa yakuunu minkum mardaa va aaxaruuna yadribuuna fil ardi yabtag'uuna min fadlil laahi va aaxaruuna yuqaatiluuna fiy sabiylil laahi faqra'uu ma tayassara minhu va aqiymus salaata va aatuz zakaata va aqridul laaha qardan hasanaa; va maa tuqadimuu li anfusikum min xairin tajiduuhu 'indal laahi huva xayranw va a'zama ajraa; vastag'firul laahaa innal laaha g'afuurur rahiym.",
+      "uzbekTranslation": "Albatta, Robbing seni kechaning uchdan biridan ozrog'ini, yo yarmini, yo uchdan birini qoim bo'lib o'tkazayotganingni va sen bilan birga bo'lganlardan ham bir toifa."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "surahNumber": 111,
+  "surahName": "Al-Masad",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "uzbekReading": "Tab bat yadaa abiy Lahabinw-va tabb.",
+      "uzbekTranslation": "Abu Lahabning ikki qo'li halok bo'lsin, halok!"
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "uzbekReading": "Maa ag'na 'anhu maaluhu va ma kasab.",
+      "uzbekTranslation": "Unga moli va kasb qilgan narsalari foyda bermadi."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "uzbekReading": "Sa yas laa naran zaata lahab.",
+      "uzbekTranslation": "U tezda cho'g'i qizib turgan o'tga kiradi."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "uzbekReading": "Vam ra-atuh hamma latal-hatab.",
+      "uzbekTranslation": "Va uning xotini, o'tin ko'targan ayol ham."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+      "uzbekReading": "Fiy jiydiha hab lum mim-masad.",
+      "uzbekTranslation": "U(ayol)ning bo'ynida eshilgan arqon bor holda."
+    }
+  ]
+}

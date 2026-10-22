@@ -1,0 +1,49 @@
+{
+  "surahNumber": 107,
+  "surahName": "Al-Maa'un",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "uzbekReading": "Ara-aital laziy yu kazzibu bid diyn.",
+      "uzbekTranslation": "Jazo kunini yolg'onga chiqaruvchini ko'rdingmi?"
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "uzbekReading": "Fa zaalikal lazi yadu'ul-yatiym.",
+      "uzbekTranslation": "Ana o'sha, yetimni qo'pollik bilan haydaydir."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "uzbekReading": "Va la ya huddu 'alaa ta'amil miskiyn.",
+      "uzbekTranslation": "Va miskinlarga taom berishga qiziqtirmaydir."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "فَوَيْلٌ لِلْمُصَلِّينَ",
+      "uzbekReading": "Fa vai lul-lil mu salliyn.",
+      "uzbekTranslation": "«Namozxonlar»ga vayl bo'lsin."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+      "uzbekReading": "Al laziyna hum 'an salaatihim sahuun.",
+      "uzbekTranslation": "Ular o'z namozlarini unituvchilardir."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "uzbekReading": "Al laziyna hum yuraa-uun.",
+      "uzbekTranslation": "Ana o'shalar riyo qiladiganlardir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "uzbekReading": "Va yamna'uunal ma'uun.",
+      "uzbekTranslation": "Va mao'unni man qiladiganlardir."
+    }
+  ]
+}

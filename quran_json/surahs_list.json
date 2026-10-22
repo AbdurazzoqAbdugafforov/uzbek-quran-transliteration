@@ -1,0 +1,686 @@
+[
+  {
+    "surahNumber": 1,
+    "surahName": "Al-Fatiha",
+    "juzNumber": 1,
+    "totalAyahs": 7
+  },
+  {
+    "surahNumber": 2,
+    "surahName": "Al-Baqara",
+    "juzNumber": 1,
+    "totalAyahs": 286
+  },
+  {
+    "surahNumber": 3,
+    "surahName": "Aal-i-Imraan",
+    "juzNumber": 3,
+    "totalAyahs": 200
+  },
+  {
+    "surahNumber": 4,
+    "surahName": "An-Nisaa",
+    "juzNumber": 4,
+    "totalAyahs": 176
+  },
+  {
+    "surahNumber": 5,
+    "surahName": "Al-Maaida",
+    "juzNumber": 6,
+    "totalAyahs": 120
+  },
+  {
+    "surahNumber": 6,
+    "surahName": "Al-An'aam",
+    "juzNumber": 7,
+    "totalAyahs": 165
+  },
+  {
+    "surahNumber": 7,
+    "surahName": "Al-A'raaf",
+    "juzNumber": 8,
+    "totalAyahs": 206
+  },
+  {
+    "surahNumber": 8,
+    "surahName": "Al-Anfaal",
+    "juzNumber": 9,
+    "totalAyahs": 75
+  },
+  {
+    "surahNumber": 9,
+    "surahName": "At-Tawba",
+    "juzNumber": 10,
+    "totalAyahs": 129
+  },
+  {
+    "surahNumber": 10,
+    "surahName": "Yunus",
+    "juzNumber": 11,
+    "totalAyahs": 109
+  },
+  {
+    "surahNumber": 11,
+    "surahName": "Hud",
+    "juzNumber": 11,
+    "totalAyahs": 123
+  },
+  {
+    "surahNumber": 12,
+    "surahName": "Yusuf",
+    "juzNumber": 12,
+    "totalAyahs": 111
+  },
+  {
+    "surahNumber": 13,
+    "surahName": "Ar-Ra'd",
+    "juzNumber": 13,
+    "totalAyahs": 43
+  },
+  {
+    "surahNumber": 14,
+    "surahName": "Ibrahim",
+    "juzNumber": 13,
+    "totalAyahs": 52
+  },
+  {
+    "surahNumber": 15,
+    "surahName": "Al-Hijr",
+    "juzNumber": 14,
+    "totalAyahs": 99
+  },
+  {
+    "surahNumber": 16,
+    "surahName": "An-Nahl",
+    "juzNumber": 14,
+    "totalAyahs": 128
+  },
+  {
+    "surahNumber": 17,
+    "surahName": "Al-Israa",
+    "juzNumber": 15,
+    "totalAyahs": 111
+  },
+  {
+    "surahNumber": 18,
+    "surahName": "Al-Kahf",
+    "juzNumber": 15,
+    "totalAyahs": 110
+  },
+  {
+    "surahNumber": 19,
+    "surahName": "Maryam",
+    "juzNumber": 16,
+    "totalAyahs": 98
+  },
+  {
+    "surahNumber": 20,
+    "surahName": "Taa-Haa",
+    "juzNumber": 16,
+    "totalAyahs": 135
+  },
+  {
+    "surahNumber": 21,
+    "surahName": "Al-Anbiyaa",
+    "juzNumber": 17,
+    "totalAyahs": 112
+  },
+  {
+    "surahNumber": 22,
+    "surahName": "Al-Hajj",
+    "juzNumber": 17,
+    "totalAyahs": 78
+  },
+  {
+    "surahNumber": 23,
+    "surahName": "Al-Muminoon",
+    "juzNumber": 18,
+    "totalAyahs": 118
+  },
+  {
+    "surahNumber": 24,
+    "surahName": "An-Noor",
+    "juzNumber": 18,
+    "totalAyahs": 64
+  },
+  {
+    "surahNumber": 25,
+    "surahName": "Al-Furqaan",
+    "juzNumber": 18,
+    "totalAyahs": 77
+  },
+  {
+    "surahNumber": 26,
+    "surahName": "Ash-Shu'araa",
+    "juzNumber": 19,
+    "totalAyahs": 227
+  },
+  {
+    "surahNumber": 27,
+    "surahName": "An-Naml",
+    "juzNumber": 19,
+    "totalAyahs": 93
+  },
+  {
+    "surahNumber": 28,
+    "surahName": "Al-Qasas",
+    "juzNumber": 20,
+    "totalAyahs": 88
+  },
+  {
+    "surahNumber": 29,
+    "surahName": "Al-Ankaboot",
+    "juzNumber": 20,
+    "totalAyahs": 69
+  },
+  {
+    "surahNumber": 30,
+    "surahName": "Ar-Room",
+    "juzNumber": 21,
+    "totalAyahs": 60
+  },
+  {
+    "surahNumber": 31,
+    "surahName": "Luqman",
+    "juzNumber": 21,
+    "totalAyahs": 34
+  },
+  {
+    "surahNumber": 32,
+    "surahName": "As-Sajda",
+    "juzNumber": 21,
+    "totalAyahs": 30
+  },
+  {
+    "surahNumber": 33,
+    "surahName": "Al-Ahzaab",
+    "juzNumber": 21,
+    "totalAyahs": 73
+  },
+  {
+    "surahNumber": 34,
+    "surahName": "Saba",
+    "juzNumber": 22,
+    "totalAyahs": 54
+  },
+  {
+    "surahNumber": 35,
+    "surahName": "Faatir",
+    "juzNumber": 22,
+    "totalAyahs": 45
+  },
+  {
+    "surahNumber": 36,
+    "surahName": "Yaseen",
+    "juzNumber": 22,
+    "totalAyahs": 83
+  },
+  {
+    "surahNumber": 37,
+    "surahName": "As-Saaffaat",
+    "juzNumber": 23,
+    "totalAyahs": 182
+  },
+  {
+    "surahNumber": 38,
+    "surahName": "Saad",
+    "juzNumber": 23,
+    "totalAyahs": 88
+  },
+  {
+    "surahNumber": 39,
+    "surahName": "Az-Zumar",
+    "juzNumber": 23,
+    "totalAyahs": 75
+  },
+  {
+    "surahNumber": 40,
+    "surahName": "Ghafir",
+    "juzNumber": 24,
+    "totalAyahs": 85
+  },
+  {
+    "surahNumber": 41,
+    "surahName": "Fussilat",
+    "juzNumber": 24,
+    "totalAyahs": 54
+  },
+  {
+    "surahNumber": 42,
+    "surahName": "Ash-Shura",
+    "juzNumber": 25,
+    "totalAyahs": 53
+  },
+  {
+    "surahNumber": 43,
+    "surahName": "Az-Zukhruf",
+    "juzNumber": 25,
+    "totalAyahs": 89
+  },
+  {
+    "surahNumber": 44,
+    "surahName": "Ad-Dukhaan",
+    "juzNumber": 25,
+    "totalAyahs": 59
+  },
+  {
+    "surahNumber": 45,
+    "surahName": "Al-Jaathiya",
+    "juzNumber": 25,
+    "totalAyahs": 37
+  },
+  {
+    "surahNumber": 46,
+    "surahName": "Al-Ahqaf",
+    "juzNumber": 26,
+    "totalAyahs": 35
+  },
+  {
+    "surahNumber": 47,
+    "surahName": "Muhammad",
+    "juzNumber": 26,
+    "totalAyahs": 38
+  },
+  {
+    "surahNumber": 48,
+    "surahName": "Al-Fath",
+    "juzNumber": 26,
+    "totalAyahs": 29
+  },
+  {
+    "surahNumber": 49,
+    "surahName": "Al-Hujuraat",
+    "juzNumber": 26,
+    "totalAyahs": 18
+  },
+  {
+    "surahNumber": 50,
+    "surahName": "Qaaf",
+    "juzNumber": 26,
+    "totalAyahs": 45
+  },
+  {
+    "surahNumber": 51,
+    "surahName": "Adh-Dhaariyat",
+    "juzNumber": 26,
+    "totalAyahs": 60
+  },
+  {
+    "surahNumber": 52,
+    "surahName": "At-Tur",
+    "juzNumber": 27,
+    "totalAyahs": 49
+  },
+  {
+    "surahNumber": 53,
+    "surahName": "An-Najm",
+    "juzNumber": 27,
+    "totalAyahs": 62
+  },
+  {
+    "surahNumber": 54,
+    "surahName": "Al-Qamar",
+    "juzNumber": 27,
+    "totalAyahs": 55
+  },
+  {
+    "surahNumber": 55,
+    "surahName": "Ar-Rahmaan",
+    "juzNumber": 27,
+    "totalAyahs": 78
+  },
+  {
+    "surahNumber": 56,
+    "surahName": "Al-Waaqia",
+    "juzNumber": 27,
+    "totalAyahs": 96
+  },
+  {
+    "surahNumber": 57,
+    "surahName": "Al-Hadid",
+    "juzNumber": 27,
+    "totalAyahs": 29
+  },
+  {
+    "surahNumber": 58,
+    "surahName": "Al-Mujaadila",
+    "juzNumber": 28,
+    "totalAyahs": 22
+  },
+  {
+    "surahNumber": 59,
+    "surahName": "Al-Hashr",
+    "juzNumber": 28,
+    "totalAyahs": 24
+  },
+  {
+    "surahNumber": 60,
+    "surahName": "Al-Mumtahana",
+    "juzNumber": 28,
+    "totalAyahs": 13
+  },
+  {
+    "surahNumber": 61,
+    "surahName": "As-Saff",
+    "juzNumber": 28,
+    "totalAyahs": 14
+  },
+  {
+    "surahNumber": 62,
+    "surahName": "Al-Jumu'a",
+    "juzNumber": 28,
+    "totalAyahs": 11
+  },
+  {
+    "surahNumber": 63,
+    "surahName": "Al-Munaafiqoon",
+    "juzNumber": 28,
+    "totalAyahs": 11
+  },
+  {
+    "surahNumber": 64,
+    "surahName": "At-Taghaabun",
+    "juzNumber": 28,
+    "totalAyahs": 18
+  },
+  {
+    "surahNumber": 65,
+    "surahName": "At-Talaaq",
+    "juzNumber": 28,
+    "totalAyahs": 12
+  },
+  {
+    "surahNumber": 66,
+    "surahName": "At-Tahrim",
+    "juzNumber": 28,
+    "totalAyahs": 12
+  },
+  {
+    "surahNumber": 67,
+    "surahName": "Al-Mulk",
+    "juzNumber": 29,
+    "totalAyahs": 30
+  },
+  {
+    "surahNumber": 68,
+    "surahName": "Al-Qalam",
+    "juzNumber": 29,
+    "totalAyahs": 52
+  },
+  {
+    "surahNumber": 69,
+    "surahName": "Al-Haaqqa",
+    "juzNumber": 29,
+    "totalAyahs": 52
+  },
+  {
+    "surahNumber": 70,
+    "surahName": "Al-Ma'aarij",
+    "juzNumber": 29,
+    "totalAyahs": 44
+  },
+  {
+    "surahNumber": 71,
+    "surahName": "Nooh",
+    "juzNumber": 29,
+    "totalAyahs": 28
+  },
+  {
+    "surahNumber": 72,
+    "surahName": "Al-Jinn",
+    "juzNumber": 29,
+    "totalAyahs": 28
+  },
+  {
+    "surahNumber": 73,
+    "surahName": "Al-Muzzammil",
+    "juzNumber": 29,
+    "totalAyahs": 20
+  },
+  {
+    "surahNumber": 74,
+    "surahName": "Al-Muddaththir",
+    "juzNumber": 29,
+    "totalAyahs": 56
+  },
+  {
+    "surahNumber": 75,
+    "surahName": "Al-Qiyaama",
+    "juzNumber": 29,
+    "totalAyahs": 40
+  },
+  {
+    "surahNumber": 76,
+    "surahName": "Al-Insaan",
+    "juzNumber": 29,
+    "totalAyahs": 31
+  },
+  {
+    "surahNumber": 77,
+    "surahName": "Al-Mursalaat",
+    "juzNumber": 29,
+    "totalAyahs": 50
+  },
+  {
+    "surahNumber": 78,
+    "surahName": "An-Naba",
+    "juzNumber": 30,
+    "totalAyahs": 40
+  },
+  {
+    "surahNumber": 79,
+    "surahName": "An-Naazi'aat",
+    "juzNumber": 30,
+    "totalAyahs": 46
+  },
+  {
+    "surahNumber": 80,
+    "surahName": "Abasa",
+    "juzNumber": 30,
+    "totalAyahs": 42
+  },
+  {
+    "surahNumber": 81,
+    "surahName": "At-Takwir",
+    "juzNumber": 30,
+    "totalAyahs": 29
+  },
+  {
+    "surahNumber": 82,
+    "surahName": "Al-Infitaar",
+    "juzNumber": 30,
+    "totalAyahs": 19
+  },
+  {
+    "surahNumber": 83,
+    "surahName": "Al-Mutaffifin",
+    "juzNumber": 30,
+    "totalAyahs": 36
+  },
+  {
+    "surahNumber": 84,
+    "surahName": "Al-Inshiqaaq",
+    "juzNumber": 30,
+    "totalAyahs": 25
+  },
+  {
+    "surahNumber": 85,
+    "surahName": "Al-Burooj",
+    "juzNumber": 30,
+    "totalAyahs": 22
+  },
+  {
+    "surahNumber": 86,
+    "surahName": "At-Taariq",
+    "juzNumber": 30,
+    "totalAyahs": 17
+  },
+  {
+    "surahNumber": 87,
+    "surahName": "Al-A'laa",
+    "juzNumber": 30,
+    "totalAyahs": 19
+  },
+  {
+    "surahNumber": 88,
+    "surahName": "Al-Ghaashiya",
+    "juzNumber": 30,
+    "totalAyahs": 26
+  },
+  {
+    "surahNumber": 89,
+    "surahName": "Al-Fajr",
+    "juzNumber": 30,
+    "totalAyahs": 30
+  },
+  {
+    "surahNumber": 90,
+    "surahName": "Al-Balad",
+    "juzNumber": 30,
+    "totalAyahs": 20
+  },
+  {
+    "surahNumber": 91,
+    "surahName": "Ash-Shams",
+    "juzNumber": 30,
+    "totalAyahs": 15
+  },
+  {
+    "surahNumber": 92,
+    "surahName": "Al-Lail",
+    "juzNumber": 30,
+    "totalAyahs": 21
+  },
+  {
+    "surahNumber": 93,
+    "surahName": "Ad-Dhuhaa",
+    "juzNumber": 30,
+    "totalAyahs": 11
+  },
+  {
+    "surahNumber": 94,
+    "surahName": "Ash-Sharh",
+    "juzNumber": 30,
+    "totalAyahs": 8
+  },
+  {
+    "surahNumber": 95,
+    "surahName": "At-Tin",
+    "juzNumber": 30,
+    "totalAyahs": 8
+  },
+  {
+    "surahNumber": 96,
+    "surahName": "Al-Alaq",
+    "juzNumber": 30,
+    "totalAyahs": 19
+  },
+  {
+    "surahNumber": 97,
+    "surahName": "Al-Qadr",
+    "juzNumber": 30,
+    "totalAyahs": 5
+  },
+  {
+    "surahNumber": 98,
+    "surahName": "Al-Bayyina",
+    "juzNumber": 30,
+    "totalAyahs": 8
+  },
+  {
+    "surahNumber": 99,
+    "surahName": "Az-Zalzala",
+    "juzNumber": 30,
+    "totalAyahs": 8
+  },
+  {
+    "surahNumber": 100,
+    "surahName": "Al-Aadiyaat",
+    "juzNumber": 30,
+    "totalAyahs": 11
+  },
+  {
+    "surahNumber": 101,
+    "surahName": "Al-Qaari'a",
+    "juzNumber": 30,
+    "totalAyahs": 11
+  },
+  {
+    "surahNumber": 102,
+    "surahName": "At-Takaathur",
+    "juzNumber": 30,
+    "totalAyahs": 8
+  },
+  {
+    "surahNumber": 103,
+    "surahName": "Al-Asr",
+    "juzNumber": 30,
+    "totalAyahs": 3
+  },
+  {
+    "surahNumber": 104,
+    "surahName": "Al-Humaza",
+    "juzNumber": 30,
+    "totalAyahs": 9
+  },
+  {
+    "surahNumber": 105,
+    "surahName": "Al-Fil",
+    "juzNumber": 30,
+    "totalAyahs": 5
+  },
+  {
+    "surahNumber": 106,
+    "surahName": "Quraish",
+    "juzNumber": 30,
+    "totalAyahs": 4
+  },
+  {
+    "surahNumber": 107,
+    "surahName": "Al-Maa'un",
+    "juzNumber": 30,
+    "totalAyahs": 7
+  },
+  {
+    "surahNumber": 108,
+    "surahName": "Al-Kawthar",
+    "juzNumber": 30,
+    "totalAyahs": 3
+  },
+  {
+    "surahNumber": 109,
+    "surahName": "Al-Kaafiroon",
+    "juzNumber": 30,
+    "totalAyahs": 6
+  },
+  {
+    "surahNumber": 110,
+    "surahName": "An-Nasr",
+    "juzNumber": 30,
+    "totalAyahs": 3
+  },
+  {
+    "surahNumber": 111,
+    "surahName": "Al-Masad",
+    "juzNumber": 30,
+    "totalAyahs": 5
+  },
+  {
+    "surahNumber": 112,
+    "surahName": "Al-Ikhlaas",
+    "juzNumber": 30,
+    "totalAyahs": 4
+  },
+  {
+    "surahNumber": 113,
+    "surahName": "Al-Falaq",
+    "juzNumber": 30,
+    "totalAyahs": 5
+  },
+  {
+    "surahNumber": 114,
+    "surahName": "An-Naas",
+    "juzNumber": 30,
+    "totalAyahs": 6
+  }
+]

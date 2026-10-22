@@ -1,0 +1,1369 @@
+{
+  "surahNumber": 26,
+  "surahName": "Ash-Shu'araa",
+  "juzNumber": 19,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "طسم",
+      "uzbekReading": "Taa-Siyen-Miyem.",
+      "uzbekTranslation": "To. Sin. Mim."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
+      "uzbekReading": "Tilka Aayaatul Kitaabil Mubiyn.",
+      "uzbekTranslation": "Bular ochiq kitobning oyatlaridir."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "لَعَلَّكَ بَاخِعٌ نَفْسَكَ أَلَّا يَكُونُوا مُؤْمِنِينَ",
+      "uzbekReading": "La'allaka baaxi'un nafsaka allaa yakuunuu mu'miniyn.",
+      "uzbekTranslation": "Ehtimol,."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "إِنْ نَشَأْ نُنَزِّلْ عَلَيْهِمْ مِنَ السَّمَاءِ آيَةً فَظَلَّتْ أَعْنَاقُهُمْ لَهَا خَاضِعِينَ",
+      "uzbekReading": "In nashaa nunazzil 'alaihim minas samaaa'i Aayatan fazallat a'naaquhum lahaa xaadi'iyn.",
+      "uzbekTranslation": "Agar xohlasak, ularga osmondan oyat-mo''jiza nozil qilurmiz. Bas, ularning bo'yinlari unga egilib qoladir."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَمَا يَأْتِيهِمْ مِنْ ذِكْرٍ مِنَ الرَّحْمَٰنِ مُحْدَثٍ إِلَّا كَانُوا عَنْهُ مُعْرِضِينَ",
+      "uzbekReading": "Va maa yaatiyhim min zikrim minar Rohmaani muhdasin illaa kaanuu 'anhu mu'ridiyn.",
+      "uzbekTranslation": "Ularga Rohmandan yangi eslatma kelibdiki, albatta, undan yuz o'girguvchi bo'lganlar."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "فَقَدْ كَذَّبُوا فَسَيَأْتِيهِمْ أَنْبَاءُ مَا كَانُوا بِهِ يَسْتَهْزِئُونَ",
+      "uzbekReading": "Faqad kazzabuu fasa yaatiyhim ambaaa'u maa kaanuu bihiy yastahzi'uun.",
+      "uzbekTranslation": "Bas, batahqiq, yolg'onga chiqardilar. Yaqinda ularga o'zlari istehzo qilgan narsaning xabari kelajakdir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "أَوَلَمْ يَرَوْا إِلَى الْأَرْضِ كَمْ أَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ كَرِيمٍ",
+      "uzbekReading": "Ava lam yaraw ilal ardi kam ambatnaa fiyhaa min kulli zavjin kariym.",
+      "uzbekTranslation": "Ular yerga qaramaydilarmi?! Biz unda go'zal navlardan qanchalarini undirib qo'yibmiz."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Inn fiy zaalika la Aayah; va maa kaana aksaruhum mu'miniyn.",
+      "uzbekTranslation": "Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmaslar."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la Huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰ أَنِ ائْتِ الْقَوْمَ الظَّالِمِينَ",
+      "uzbekReading": "Va iz naadaa Robbuka Muusaaa ani'-til qavmaz zaalimiyn.",
+      "uzbekTranslation": "Robbing Musoga: «U zolim qavmga borgin."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+      "uzbekReading": "Qavma Fir'avn; alaa yattaquun.",
+      "uzbekTranslation": "Fir'avn qavmiga."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "قَالَ رَبِّ إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ",
+      "uzbekReading": "Qaala Robbi inniye axaafu ai yukazzibuun.",
+      "uzbekTranslation": "U: «Ey Robbim, ular meni yolg'onchi qilishlaridan qo'rqaman."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَيَضِيقُ صَدْرِي وَلَا يَنْطَلِقُ لِسَانِي فَأَرْسِلْ إِلَىٰ هَارُونَ",
+      "uzbekReading": "Va yadiyqu sadriy va laa yantaliqu lisaaniy fa arsil ilaa Haaruun.",
+      "uzbekTranslation": "Va dilim siqilishidan hamda tilim burro bo'lmay qolishidan. Bas, Horunni elchi qil."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "وَلَهُمْ عَلَيَّ ذَنْبٌ فَأَخَافُ أَنْ يَقْتُلُونِ",
+      "uzbekReading": "Va lahum 'alaiya zambun fa axaafu ai yaqtuluun.",
+      "uzbekTranslation": "Mening zimmamda ular nazdida gunoh bor. Bas, meni o'ldirishlaridan xavfdaman», dedi."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "قَالَ كَلَّا ۖ فَاذْهَبَا بِآيَاتِنَا ۖ إِنَّا مَعَكُمْ مُسْتَمِعُونَ",
+      "uzbekReading": "Qaala kallaa fazhabaa bi Aayaatinaaa innaa ma'akum mustami'uun.",
+      "uzbekTranslation": "U zot: «Yo'q! Bas, ikkingiz Bizning oyat-mo''jizalarimiz ila boringlar. Albatta, Biz ikkingiz bilan eshitguvchilarmiz."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "فَأْتِيَا فِرْعَوْنَ فَقُولَا إِنَّا رَسُولُ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Faatiyaa Fir'avna faquulaaa innaa Rasuulu Robbil 'aalamiyn.",
+      "uzbekTranslation": "Bas, Fir'avnga boringlar va unga: «Biz Robbul Olamiynning Payg'ambarlarimiz."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "أَنْ أَرْسِلْ مَعَنَا بَنِي إِسْرَائِيلَ",
+      "uzbekReading": "An arsil ma'anaa Baniye Israaa'iyl.",
+      "uzbekTranslation": "Bani Isroilni biz bilan qo'yib yubor», deb aytinglar, dedi."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "uzbekReading": "Qaala alam nurabbika fiynaa valiydanw va labista fiynaa min 'umurika siniyn.",
+      "uzbekTranslation": "U (Fir'avn): «Biz seni go'dakligingdan o'z ichimizda tarbiya qilmadikmi?! Umringning bir necha yilini bizning ichimizda o'tkazmadingmi?!"
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "وَفَعَلْتَ فَعْلَتَكَ الَّتِي فَعَلْتَ وَأَنْتَ مِنَ الْكَافِرِينَ",
+      "uzbekReading": "Va fa'alta fa'latakal latiy fa'alta va anta minal kaafiriyn.",
+      "uzbekTranslation": "Va nonko'rlardan bo'lib, qiladigan ishingni qilib qo'ymadingmi?!» dedi."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "قَالَ فَعَلْتُهَا إِذًا وَأَنَا مِنَ الضَّالِّينَ",
+      "uzbekReading": "Qaala fa'altuhaaa izanw va ana minad daaaliyn.",
+      "uzbekTranslation": "(Muso): «O'sha ishni qilgan bo'lsam, bilmasdan qilganman."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "فَفَرَرْتُ مِنْكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِي رَبِّي حُكْمًا وَجَعَلَنِي مِنَ الْمُرْسَلِينَ",
+      "uzbekReading": "Fafarartu minkum lam maa xiftukum favahaba liy Robbiy hukmanw va ja'alaniy minal mursaliyn.",
+      "uzbekTranslation": "Bas, sizlardan xavfsirab qochib ketdim. Keyin Alloh menga hikmat berdi va meni Payg'ambarlardan qildi."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَيَّ أَنْ عَبَّدْتَ بَنِي إِسْرَائِيلَ",
+      "uzbekReading": "Va tilka ni'matun tamun nuhaa 'alaiya an 'abbatta Baniye Israaa'iyl.",
+      "uzbekTranslation": "O'sha menga qilayotgan minnating Bani Isroilni qul qilib olganingdandir», dedi."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "قَالَ فِرْعَوْنُ وَمَا رَبُّ الْعَالَمِينَ",
+      "uzbekReading": "Qaala Fir'avnu va maa Robbul 'aalamiyn.",
+      "uzbekTranslation": "Fir'avn: «Robbul Olamiyn nima?» dedi."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "قَالَ رَبُّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ إِنْ كُنْتُمْ مُوقِنِينَ",
+      "uzbekReading": "Qaala Robbus samaavaati val ardi va maa bainahumaa in kuntum muuqiniyn.",
+      "uzbekTranslation": "U (Muso): «Agar anglamoqchi bo'lsangiz, U osmonlaru yer va ularning orasidagi narsalarning Robbidir», dedi."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "قَالَ لِمَنْ حَوْلَهُ أَلَا تَسْتَمِعُونَ",
+      "uzbekReading": "Qaala liman havlahuuo alaa tastami'uun.",
+      "uzbekTranslation": "U atrofidagi kishilarga: «Eshitmayapsizlarmi?!» dedi."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "قَالَ رَبُّكُمْ وَرَبُّ آبَائِكُمُ الْأَوَّلِينَ",
+      "uzbekReading": "Qaala Robbukum va Robbu aabaaa'ikumul avwaliyn.",
+      "uzbekTranslation": "U(Muso): « U zot sizning Robbingiz va avvalgi ota-bobolaringizning Robbidir», dedi."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "قَالَ إِنَّ رَسُولَكُمُ الَّذِي أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+      "uzbekReading": "Qaala inna Rasuulakumul laziy ursila ilaikum lamajnuun.",
+      "uzbekTranslation": "U: «Albatta, sizga yuborilgan Payg'ambaringiz jinnidir», dedi."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "قَالَ رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ وَمَا بَيْنَهُمَا ۖ إِنْ كُنْتُمْ تَعْقِلُونَ",
+      "uzbekReading": "Qaala Robbul mashriqi val mag'ribi va maa baina humaa in kuntum ta'qiluun.",
+      "uzbekTranslation": "U(Muso): «U, agar aql yuritsangiz, mashriqu mag'ribning va ular o'rtasidagi narsalarning Robbidir», dedi."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "قَالَ لَئِنِ اتَّخَذْتَ إِلَٰهًا غَيْرِي لَأَجْعَلَنَّكَ مِنَ الْمَسْجُونِينَ",
+      "uzbekReading": "Qaala la'init taxazta ilaahan g'airiy la aj'alannaka minal masjuuniyn.",
+      "uzbekTranslation": "U: «Agar mendan boshqani iloh qilib olsang, albatta, men seni zindonbandlardan qilurman», dedi."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "قَالَ أَوَلَوْ جِئْتُكَ بِشَيْءٍ مُبِينٍ",
+      "uzbekReading": "Qaala avalw ji'tuka bishai'im mubiyn.",
+      "uzbekTranslation": "U(Muso): «Agar men senga ochiq-oydin narsa keltirsam ham-a?!» dedi."
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "قَالَ فَأْتِ بِهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+      "uzbekReading": "Qaala faati bihiye in kunta minas saadiqiyn.",
+      "uzbekTranslation": "U: «Agar rostgo'ylardan bo'lsang, keltir uni!» dedi."
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ",
+      "uzbekReading": "Fa alqaa 'asaahu fa izaaa hiya su'baanum mubiyn.",
+      "uzbekTranslation": "Bas, u."
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "وَنَزَعَ يَدَهُ فَإِذَا هِيَ بَيْضَاءُ لِلنَّاظِرِينَ",
+      "uzbekReading": "Va naza'a yadahuu faizaa hiya baidaaa'u linnaa ziriyn.",
+      "uzbekTranslation": "Va qo'lini chiqardi. Banagoh u nazar qilguvchilarga oppoq ko'rindi."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "قَالَ لِلْمَلَإِ حَوْلَهُ إِنَّ هَٰذَا لَسَاحِرٌ عَلِيمٌ",
+      "uzbekReading": "Qaala lilmala-i havlahuuo inna haazaa lasaahirun 'aliym.",
+      "uzbekTranslation": "U(Fir'avn) atrofidagi a'yonlariga: «Albatta, bu o'ta bilimdon sehrgardir."
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "يُرِيدُ أَنْ يُخْرِجَكُمْ مِنْ أَرْضِكُمْ بِسِحْرِهِ فَمَاذَا تَأْمُرُونَ",
+      "uzbekReading": "Yuriydu ai yuxrijakum min ardikum bisihrihiy famaazaa taamuruun.",
+      "uzbekTranslation": "U o'z sehri bilan sizlarni yeringizdan chiqarmoqchi, nima deysizlar?», dedi."
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "قَالُوا أَرْجِهْ وَأَخَاهُ وَابْعَثْ فِي الْمَدَائِنِ حَاشِرِينَ",
+      "uzbekReading": "Qaaluuo arjih va axaahu vab'as filmadaaa'ini haashiriyn.",
+      "uzbekTranslation": "Ular: «Uni va akasini qo'yib turgin-da, shaharlarga to'plovchilarni yubor."
+    },
+    {
+      "ayahNumber": 37,
+      "arabic": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+      "uzbekReading": "Yaatuuka bikulli sah haarin 'aliym.",
+      "uzbekTranslation": "Senga barcha o'ta bilimdon sehrgarlarni olib kelsinlar», dedilar."
+    },
+    {
+      "ayahNumber": 38,
+      "arabic": "فَجُمِعَ السَّحَرَةُ لِمِيقَاتِ يَوْمٍ مَعْلُومٍ",
+      "uzbekReading": "Fa jumi'as saharatu limiyqaati Yavmim ma'luum.",
+      "uzbekTranslation": "Bas, sehrgarlar ma'lum kuni kelishilgan vaqtda jamlandilar."
+    },
+    {
+      "ayahNumber": 39,
+      "arabic": "وَقِيلَ لِلنَّاسِ هَلْ أَنْتُمْ مُجْتَمِعُونَ",
+      "uzbekReading": "Va qiyla linnaasi hal antum mujtami'uun.",
+      "uzbekTranslation": "Va odamlarga: «Sizlar to'planib bo'ldingizmi?"
+    },
+    {
+      "ayahNumber": 40,
+      "arabic": "لَعَلَّنَا نَتَّبِعُ السَّحَرَةَ إِنْ كَانُوا هُمُ الْغَالِبِينَ",
+      "uzbekReading": "La'allanaa nattabi'us saharata in kaanuu humul g'aalibiyn.",
+      "uzbekTranslation": "Ajab ermas, ustin kelsalar, sehrgarlarga ergashsak», deyildi."
+    },
+    {
+      "ayahNumber": 41,
+      "arabic": "فَلَمَّا جَاءَ السَّحَرَةُ قَالُوا لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِنْ كُنَّا نَحْنُ الْغَالِبِينَ",
+      "uzbekReading": "Falammaa jaaa'as saharatu qaaluu li Fir'avna a'inna lanaa la ajjran in kunnaa nahnul g'aalibiyn.",
+      "uzbekTranslation": "Sehrgarlar kelgan chog'larida Fir'avnga: «Agar biz g'olib kelguvchi bo'lsak, bizga, albatta, haq beriladimi?» dedilar."
+    },
+    {
+      "ayahNumber": 42,
+      "arabic": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَمِنَ الْمُقَرَّبِينَ",
+      "uzbekReading": "Qaala na'am va innakum izal laminal muqarrabiyn.",
+      "uzbekTranslation": "U: «Ha! U holda siz, albatta, eng yaqinlarimdan bo'lasiz», dedi."
+    },
+    {
+      "ayahNumber": 43,
+      "arabic": "قَالَ لَهُمْ مُوسَىٰ أَلْقُوا مَا أَنْتُمْ مُلْقُونَ",
+      "uzbekReading": "Qaala lahum Muusaaa alquu maaa antum mulquun.",
+      "uzbekTranslation": "Muso ularga: «Siz tashlaydigan narsangizni tashlang», dedi."
+    },
+    {
+      "ayahNumber": 44,
+      "arabic": "فَأَلْقَوْا حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ الْغَالِبُونَ",
+      "uzbekReading": "Fa alqaw hibaalahum va 'isiyyahum va qaaluu bi'izzati Fir'avna innaa lanahnul g'aalibuun.",
+      "uzbekTranslation": "Bas, ular arqonlari va asolarini tashladilar va «Fir'avnning izzati bilan qasamki, albatta, biz g'oliblarmiz», dedilar."
+    },
+    {
+      "ayahNumber": 45,
+      "arabic": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ",
+      "uzbekReading": "Fa alqaa Muusaa 'asaahu fa izaa hiya talqafu maa yaafikuun.",
+      "uzbekTranslation": "So'ngra Muso asosini tashlagan edi, birdan u ularning uydirmalarini yuta boshladi."
+    },
+    {
+      "ayahNumber": 46,
+      "arabic": "فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ",
+      "uzbekReading": "Fa ulqiyas saharatu saajidiyn.",
+      "uzbekTranslation": "Bas, sehrgarlar sajda qilgan hollarida yiqildilar."
+    },
+    {
+      "ayahNumber": 47,
+      "arabic": "قَالُوا آمَنَّا بِرَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Qaaluuo aamannaa bi Robbil 'aalamiyn.",
+      "uzbekTranslation": "Ular: «Robbul Olamiynga iymon keltirdik."
+    },
+    {
+      "ayahNumber": 48,
+      "arabic": "رَبِّ مُوسَىٰ وَهَارُونَ",
+      "uzbekReading": "Robbi Muusaa va Haaruun.",
+      "uzbekTranslation": "Muso va Horunning Robbiga», dedilar."
+    },
+    {
+      "ayahNumber": 49,
+      "arabic": "قَالَ آمَنْتُمْ لَهُ قَبْلَ أَنْ آذَنَ لَكُمْ ۖ إِنَّهُ لَكَبِيرُكُمُ الَّذِي عَلَّمَكُمُ السِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُمْ مِنْ خِلَافٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+      "uzbekReading": "Qaala aamantum lahuu qabla an aazana lakum innahuu lakabiyrukumul laziy 'alla makumus sihra falasavfa ta'lamuun; la uqatti'anna aidiyakum va arjulakum min xilaafinw va la usallibanna kum ajma'iyn.",
+      "uzbekTranslation": "U: «Men sizga izn bermasimdan oldin unga iymon keltirdingiz! Albatta, u sizga sehr o'rgatgan kattangizdir! Endi tezda bilasiz, men, albatta, qo'l-oyog'ingizni qarama-qarshi tomonidan kesajakman va barchangizni osajakman», dedi."
+    },
+    {
+      "ayahNumber": 50,
+      "arabic": "قَالُوا لَا ضَيْرَ ۖ إِنَّا إِلَىٰ رَبِّنَا مُنْقَلِبُونَ",
+      "uzbekReading": "Qaaluu la daira innaaa ilaa Robbinaa munqallibuun.",
+      "uzbekTranslation": "Ular: «Zarari yo'q. Albatta, biz Robbimizga qaytguvchimiz."
+    },
+    {
+      "ayahNumber": 51,
+      "arabic": "إِنَّا نَطْمَعُ أَنْ يَغْفِرَ لَنَا رَبُّنَا خَطَايَانَا أَنْ كُنَّا أَوَّلَ الْمُؤْمِنِينَ",
+      "uzbekReading": "Innaa natma'u ai yag'fira lanaa Robbunna xataa yaanaaa an kunnaaa avwalal mu'miniyn.",
+      "uzbekTranslation": "Mo'minlarning avvalgisi bo'lganimiz uchun Robbimiz xatolarimizni kechirishidan umid qilamiz», dedilar."
+    },
+    {
+      "ayahNumber": 52,
+      "arabic": "۞ وَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنْ أَسْرِ بِعِبَادِي إِنَّكُمْ مُتَّبَعُونَ",
+      "uzbekReading": "Va avhainaaa ilaa Muusaaa an asri bi'ibaadiye innakum muttaba'uun.",
+      "uzbekTranslation": "Va Musoga: «Bandalarim bilan kechasi yo'lga chiq. Albatta, ta'qib etilursiz», deb vahiy yubordik."
+    },
+    {
+      "ayahNumber": 53,
+      "arabic": "فَأَرْسَلَ فِرْعَوْنُ فِي الْمَدَائِنِ حَاشِرِينَ",
+      "uzbekReading": "Fa arsala Fir'avnu filmadaaa'ini haashiriyn.",
+      "uzbekTranslation": "Bas, Fir'avn shaharlarga to'plovchilar yubordi:."
+    },
+    {
+      "ayahNumber": 54,
+      "arabic": "إِنَّ هَٰؤُلَاءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+      "uzbekReading": "Inna haaa'ulaaa'i lashir zimatun qaliyluun.",
+      "uzbekTranslation": "«Shubhasiz, anavilar ozgina toifadirlar."
+    },
+    {
+      "ayahNumber": 55,
+      "arabic": "وَإِنَّهُمْ لَنَا لَغَائِظُونَ",
+      "uzbekReading": "Va innahum lanaa lag'aaa'izuun.",
+      "uzbekTranslation": "Albatta, ular bizni g'azablantirguvchilardir."
+    },
+    {
+      "ayahNumber": 56,
+      "arabic": "وَإِنَّا لَجَمِيعٌ حَاذِرُونَ",
+      "uzbekReading": "Va innaa lajamiy'un haaziruun.",
+      "uzbekTranslation": "Albatta, biz hammamiz hushyormiz», deb."
+    },
+    {
+      "ayahNumber": 57,
+      "arabic": "فَأَخْرَجْنَاهُمْ مِنْ جَنَّاتٍ وَعُيُونٍ",
+      "uzbekReading": "Fa axrajnaahum min Jannaatinw va 'uyuun.",
+      "uzbekTranslation": "Bas, Biz ularni bog'-rog'lar va buloqlardan."
+    },
+    {
+      "ayahNumber": 58,
+      "arabic": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
+      "uzbekReading": "Va kunuuzinw va ma qaamin kariym.",
+      "uzbekTranslation": "Xazinalar va muhtaram maskandan chiqardik."
+    },
+    {
+      "ayahNumber": 59,
+      "arabic": "كَذَٰلِكَ وَأَوْرَثْنَاهَا بَنِي إِسْرَائِيلَ",
+      "uzbekReading": "Kazaalika va avrasnaahaa Baniye Israaa'iyl.",
+      "uzbekTranslation": "Ana shunday. O'sha."
+    },
+    {
+      "ayahNumber": 60,
+      "arabic": "فَأَتْبَعُوهُمْ مُشْرِقِينَ",
+      "uzbekReading": "Fa atba'uuhum mushriqiyn.",
+      "uzbekTranslation": "Bas, ularni quyosh chiqish paytida quvib yetdilar."
+    },
+    {
+      "ayahNumber": 61,
+      "arabic": "فَلَمَّا تَرَاءَى الْجَمْعَانِ قَالَ أَصْحَابُ مُوسَىٰ إِنَّا لَمُدْرَكُونَ",
+      "uzbekReading": "Falammaa taraaa'al jam'aani qaala as haabu Muusaaa innaa lamudrakuun.",
+      "uzbekTranslation": "Ikki jamoat bir-birlarini ko'rgan chog'ida, Musoning odamlari: «Endi qo'lga tushdik», dedilar."
+    },
+    {
+      "ayahNumber": 62,
+      "arabic": "قَالَ كَلَّا ۖ إِنَّ مَعِيَ رَبِّي سَيَهْدِينِ",
+      "uzbekReading": "Qaala kallaaa inna ma'iya Robbiy sa yahdiyn.",
+      "uzbekTranslation": "U (Muso): »Yo'q! Albatta, Robbim men bilan, U menga to'g'ri yo'lni ko'rsatur«, dedi."
+    },
+    {
+      "ayahNumber": 63,
+      "arabic": "فَأَوْحَيْنَا إِلَىٰ مُوسَىٰ أَنِ اضْرِبْ بِعَصَاكَ الْبَحْرَ ۖ فَانْفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَالطَّوْدِ الْعَظِيمِ",
+      "uzbekReading": "Fa avhainaaa ilaa Muusaaa anidrib bi'asaakal bahra fanfalaqa fakaana kullu firqin kattavdil 'aziym.",
+      "uzbekTranslation": "Bas, Biz Musoga: «Asong bilan dengizni ur», deb vahiy qildik. Bas, u."
+    },
+    {
+      "ayahNumber": 64,
+      "arabic": "وَأَزْلَفْنَا ثَمَّ الْآخَرِينَ",
+      "uzbekReading": "Va azlafnaa sammal aaxariyn.",
+      "uzbekTranslation": "Va keyin boshqalarni ham yaqinlashtirdik."
+    },
+    {
+      "ayahNumber": 65,
+      "arabic": "وَأَنْجَيْنَا مُوسَىٰ وَمَنْ مَعَهُ أَجْمَعِينَ",
+      "uzbekReading": "Va anjainaa Muusaa va mam ma'ahuuo ajma'iyn.",
+      "uzbekTranslation": "Muso va unga ergashganlarga, hammalariga najot berdik."
+    },
+    {
+      "ayahNumber": 66,
+      "arabic": "ثُمَّ أَغْرَقْنَا الْآخَرِينَ",
+      "uzbekReading": "Summa ag'raqnal aaxariyn.",
+      "uzbekTranslation": "So'ngra boshqalarni g'arq qildik."
+    },
+    {
+      "ayahNumber": 67,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Inna fiy zaalika la Aayaah; va maa kaana aksaru hu mu'miniyn.",
+      "uzbekTranslation": "Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmadilar."
+    },
+    {
+      "ayahNumber": 68,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la Huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 69,
+      "arabic": "وَاتْلُ عَلَيْهِمْ نَبَأَ إِبْرَاهِيمَ",
+      "uzbekReading": "Vatlu 'alaihim naba-a Ibraahiym.",
+      "uzbekTranslation": "Va ularga Ibrohimning xabarini tilovat qilib ber."
+    },
+    {
+      "ayahNumber": 70,
+      "arabic": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِ مَا تَعْبُدُونَ",
+      "uzbekReading": "Iz qaala li abiyhi va qavmihiy maa ta'buduun.",
+      "uzbekTranslation": "O'shanda u otasi va qavmiga: «Nimaga ibodat qilmoqdasizlar?» degan edi."
+    },
+    {
+      "ayahNumber": 71,
+      "arabic": "قَالُوا نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَاكِفِينَ",
+      "uzbekReading": "Qaaluu na'budu asnaaman fanazallu lahaa 'aakifiyn.",
+      "uzbekTranslation": "Ular: «Sanamlarga ibodat qilmoqdamiz. Va ularga ixlos ila ibodat qilishda bardavom bo'lurmiz», dedilar."
+    },
+    {
+      "ayahNumber": 72,
+      "arabic": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+      "uzbekReading": "Qaala hal yasma'uuna kum iz tad'uun.",
+      "uzbekTranslation": "U: «Iltijo qilganingizda ular sizni eshitadilarmi?"
+    },
+    {
+      "ayahNumber": 73,
+      "arabic": "أَوْ يَنْفَعُونَكُمْ أَوْ يَضُرُّونَ",
+      "uzbekReading": "Aw yanfa'uunakum aw yadurruun.",
+      "uzbekTranslation": "Yoxud naf yoki zarar yetkaza oladilarmi?» dedi."
+    },
+    {
+      "ayahNumber": 74,
+      "arabic": "قَالُوا بَلْ وَجَدْنَا آبَاءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "uzbekReading": "Qaaluu bal vajadnaaa aabaaa 'anaa kazaalika yaf'aluun.",
+      "uzbekTranslation": "Ular: «Yo'q, biz ota-bobolarimizni shunday qilayotganlarini ko'rdik», dedilar."
+    },
+    {
+      "ayahNumber": 75,
+      "arabic": "قَالَ أَفَرَأَيْتُمْ مَا كُنْتُمْ تَعْبُدُونَ",
+      "uzbekReading": "Qaala afara 'aitum maa kuntum ta'buduun.",
+      "uzbekTranslation": "U: «Nimaga ibodat qilayotganingizni bildingizmi?!"
+    },
+    {
+      "ayahNumber": 76,
+      "arabic": "أَنْتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ",
+      "uzbekReading": "Antum va aabaaa'ukumul aqdamuun.",
+      "uzbekTranslation": "Siz va qadimgi otalaringiz?!"
+    },
+    {
+      "ayahNumber": 77,
+      "arabic": "فَإِنَّهُمْ عَدُوٌّ لِي إِلَّا رَبَّ الْعَالَمِينَ",
+      "uzbekReading": "Fa innahum 'aduvwwul liye illaa Robbal 'aalamiyn.",
+      "uzbekTranslation": "Albatta, Robbul Olamiyndan boshqa ularning barchasi menga dushmandir», dedi."
+    },
+    {
+      "ayahNumber": 78,
+      "arabic": "الَّذِي خَلَقَنِي فَهُوَ يَهْدِينِ",
+      "uzbekReading": "Allaziy xalaqaniy fa Huva yahdiyn.",
+      "uzbekTranslation": "U meni yaratgan zotdir. Bas, meni hidoyat qiladi ham Uning O'zi."
+    },
+    {
+      "ayahNumber": 79,
+      "arabic": "وَالَّذِي هُوَ يُطْعِمُنِي وَيَسْقِينِ",
+      "uzbekReading": "Vallaziy Huva yut'imuniy va yasqiyn.",
+      "uzbekTranslation": "Va meni taomlantiradigan va sug'oradigan ham Uning O'zi."
+    },
+    {
+      "ayahNumber": 80,
+      "arabic": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "uzbekReading": "Va izaa mardtu fahuva yashfiyn.",
+      "uzbekTranslation": "Bemor bo'lganimda menga shifo beradigan ham Uning O'zi."
+    },
+    {
+      "ayahNumber": 81,
+      "arabic": "وَالَّذِي يُمِيتُنِي ثُمَّ يُحْيِينِ",
+      "uzbekReading": "Vallaziy yumiytuniy summa yuhyiyn.",
+      "uzbekTranslation": "Meni o'ldiradigan, so'ngra tiriltiradigan ham Uning O'zi."
+    },
+    {
+      "ayahNumber": 82,
+      "arabic": "وَالَّذِي أَطْمَعُ أَنْ يَغْفِرَ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+      "uzbekReading": "Vallaziye atma'u ai yag'fira liy xatiye' atiy Yavmad Diyn.",
+      "uzbekTranslation": "Va mening xatoimni qiyomat kuni mag'firat qilishidan umidvor bo'lganim ham Uning O'zi."
+    },
+    {
+      "ayahNumber": 83,
+      "arabic": "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+      "uzbekReading": "Robbi hab liy hukmanw va alhiqniy bis saalihiyn.",
+      "uzbekTranslation": "Ey Robbim, menga hikmat hadya et va meni solihlarga qo'shgin."
+    },
+    {
+      "ayahNumber": 84,
+      "arabic": "وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ",
+      "uzbekReading": "Vaj'al liy lisaana sidqin fil aaxiriyn.",
+      "uzbekTranslation": "Va menga keyin kelguvchilar ichida sodiq maqtovlar bo'ladigan qilgin."
+    },
+    {
+      "ayahNumber": 85,
+      "arabic": "وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ",
+      "uzbekReading": "Vaj'alniy minw varasati Jannnatin Na'iym.",
+      "uzbekTranslation": "Va meni na'iym jannati vorislaridan qilgin."
+    },
+    {
+      "ayahNumber": 86,
+      "arabic": "وَاغْفِرْ لِأَبِي إِنَّهُ كَانَ مِنَ الضَّالِّينَ",
+      "uzbekReading": "Vag'fir li abiye innahuu kaana mind daalliyn.",
+      "uzbekTranslation": "Va otamni mag'firat qil. Albatta, u adashganlardan bo'ldi."
+    },
+    {
+      "ayahNumber": 87,
+      "arabic": "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ",
+      "uzbekReading": "Va laa tuxziniy Yavma yub'asuun.",
+      "uzbekTranslation": "Va qayta tiriltiriladigan kunda meni sharmanda qilmagin."
+    },
+    {
+      "ayahNumber": 88,
+      "arabic": "يَوْمَ لَا يَنْفَعُ مَالٌ وَلَا بَنُونَ",
+      "uzbekReading": "Yavma laa yanfa'u maalunw va laa banuun.",
+      "uzbekTranslation": "U kunda na mol manfaat berar va na bolalar."
+    },
+    {
+      "ayahNumber": 89,
+      "arabic": "إِلَّا مَنْ أَتَى اللَّهَ بِقَلْبٍ سَلِيمٍ",
+      "uzbekReading": "Illaa man atal laaha biqalbin saliym.",
+      "uzbekTranslation": "Magar kim Alloh huzuriga toza qalb ila kelar, (o'sha manfaat topar)."
+    },
+    {
+      "ayahNumber": 90,
+      "arabic": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ",
+      "uzbekReading": "Va uzlifatil Jannatu lilmuttaqiyn.",
+      "uzbekTranslation": "Va jannat taqvodorlarga yaqinlashtirildi."
+    },
+    {
+      "ayahNumber": 91,
+      "arabic": "وَبُرِّزَتِ الْجَحِيمُ لِلْغَاوِينَ",
+      "uzbekReading": "Va burrizatil Jahiymu lilg'aaviyn.",
+      "uzbekTranslation": "Jahiym ig'voga uchganlarga zohir qilindi."
+    },
+    {
+      "ayahNumber": 92,
+      "arabic": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنْتُمْ تَعْبُدُونَ",
+      "uzbekReading": "Va qiyla lahum aina maa kuntum ta'buduun.",
+      "uzbekTranslation": "Va ularga: »Allohdan o'zga ibodat qilib yurgan narsalaringiz qani?!"
+    },
+    {
+      "ayahNumber": 93,
+      "arabic": "مِنْ دُونِ اللَّهِ هَلْ يَنْصُرُونَكُمْ أَوْ يَنْتَصِرُونَ",
+      "uzbekReading": "Min duunil laahi hal yansuruunakum aw yantasiruun.",
+      "uzbekTranslation": "Ular sizga yordam bera olurlarmi yoki o'zlarini qutqara olurlarmi?! « deyildi."
+    },
+    {
+      "ayahNumber": 94,
+      "arabic": "فَكُبْكِبُوا فِيهَا هُمْ وَالْغَاوُونَ",
+      "uzbekReading": "Fakubkibuu fiyhaa hum valg'aavuun.",
+      "uzbekTranslation": "Bas, unga ular, ig'voga uchganlar."
+    },
+    {
+      "ayahNumber": 95,
+      "arabic": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+      "uzbekReading": "Va junuudu Ibliysa ajma'uun.",
+      "uzbekTranslation": "Va Iblisning askarlari birgalikda yuztuban taxlab tashlandilar."
+    },
+    {
+      "ayahNumber": 96,
+      "arabic": "قَالُوا وَهُمْ فِيهَا يَخْتَصِمُونَ",
+      "uzbekReading": "Qaaluu va hum fiyhaa yakxtasimuun.",
+      "uzbekTranslation": "Ular uning ichida bir-birlari ila xusumat qilar ekanlar, dedilar:."
+    },
+    {
+      "ayahNumber": 97,
+      "arabic": "تَاللَّهِ إِنْ كُنَّا لَفِي ضَلَالٍ مُبِينٍ",
+      "uzbekReading": "Tallaahi in kunnaa lafiy dalaalim mubiyn.",
+      "uzbekTranslation": "«Allohga qasamki, albatta, biz ochiq-oydin adashuvda ekanmiz."
+    },
+    {
+      "ayahNumber": 98,
+      "arabic": "إِذْ نُسَوِّيكُمْ بِرَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Iz nusavwiykum bi Robbil 'aalamiyn.",
+      "uzbekTranslation": "Chunki sizlarni Robbul Olamiynga tenglashtirardik."
+    },
+    {
+      "ayahNumber": 99,
+      "arabic": "وَمَا أَضَلَّنَا إِلَّا الْمُجْرِمُونَ",
+      "uzbekReading": "Va maaa adallanaaa illal mujrimuun.",
+      "uzbekTranslation": "Bizni faqat jinoyatchilar yo'ldan ozdirdilar."
+    },
+    {
+      "ayahNumber": 100,
+      "arabic": "فَمَا لَنَا مِنْ شَافِعِينَ",
+      "uzbekReading": "Famaa lanaa min shaa fi'iyn.",
+      "uzbekTranslation": "Mana endi biz uchun shafoatchilar ham yo'q."
+    },
+    {
+      "ayahNumber": 101,
+      "arabic": "وَلَا صَدِيقٍ حَمِيمٍ",
+      "uzbekReading": "Va laa sadiyqin hamiym.",
+      "uzbekTranslation": "Biron qadrdon do'st ham yo'q."
+    },
+    {
+      "ayahNumber": 102,
+      "arabic": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ الْمُؤْمِنِينَ",
+      "uzbekReading": "Falaw anna lanaa karratan fanakuuna minal mu'miniyn.",
+      "uzbekTranslation": "Qani endi ortga qaytsagu mo'minlardan bo'lsak»."
+    },
+    {
+      "ayahNumber": 103,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Inna fiy zaalika la Aayatanw va maa kaana aksaruhum mu'miniyn.",
+      "uzbekTranslation": "Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmadilar."
+    },
+    {
+      "ayahNumber": 104,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la Huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 105,
+      "arabic": "كَذَّبَتْ قَوْمُ نُوحٍ الْمُرْسَلِينَ",
+      "uzbekReading": "Kazzabat qavmu Nuuhinil Mursaliyn.",
+      "uzbekTranslation": "Nuh qavmi Payg'ambarlarni yolg'onchi qildi."
+    },
+    {
+      "ayahNumber": 106,
+      "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+      "uzbekReading": "Iz qaala lahum axuuhum Nuuhun alaa tattaquun.",
+      "uzbekTranslation": "O'shanda ularga birodarlari Nuh dedi: «U zotdan qo'rqmaysizmi?!"
+    },
+    {
+      "ayahNumber": 107,
+      "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+      "uzbekReading": "Inniy lakum Rasuulun amiyn.",
+      "uzbekTranslation": "Albatta, men sizlarga ishonchli Payg'ambarman."
+    },
+    {
+      "ayahNumber": 108,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqullaaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar."
+    },
+    {
+      "ayahNumber": 109,
+      "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Va maaa as'alukum 'alaihi min ajrin in ajriya illaa 'alaa Robbil 'aalamiyn.",
+      "uzbekTranslation": "Men sizlardan buning uchun haq-ajr so'ramasman. Mening ajrim faqatgina Robbul Olamiynning zimmasidadir."
+    },
+    {
+      "ayahNumber": 110,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqul laaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar»."
+    },
+    {
+      "ayahNumber": 111,
+      "arabic": "۞ قَالُوا أَنُؤْمِنُ لَكَ وَاتَّبَعَكَ الْأَرْذَلُونَ",
+      "uzbekReading": "Qaaluuo anu'minu laka vattaba 'akal arzaluun.",
+      "uzbekTranslation": "Ular: «Senga pastkashlar ergashib turgan holda, biz senga iymon keltirarmidik?!» dedilar."
+    },
+    {
+      "ayahNumber": 112,
+      "arabic": "قَالَ وَمَا عِلْمِي بِمَا كَانُوا يَعْمَلُونَ",
+      "uzbekReading": "Qaala va maa 'ilmiy bimaa kaanuu ya'maluun.",
+      "uzbekTranslation": "U dedi: «Mening ular nima qilayotganlari haqida ilmim yo'q."
+    },
+    {
+      "ayahNumber": 113,
+      "arabic": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّي ۖ لَوْ تَشْعُرُونَ",
+      "uzbekReading": "In hisaabuhum illaa 'alaa Robbiy law tash'uruun.",
+      "uzbekTranslation": "Agar sezsangiz, ularning hisobi faqat Allohning zimmasidadir."
+    },
+    {
+      "ayahNumber": 114,
+      "arabic": "وَمَا أَنَا بِطَارِدِ الْمُؤْمِنِينَ",
+      "uzbekReading": "Va maaa ana bitaaridil mu'miniyn.",
+      "uzbekTranslation": "Va men mo'minlarni haydab yuborguvchi emasman."
+    },
+    {
+      "ayahNumber": 115,
+      "arabic": "إِنْ أَنَا إِلَّا نَذِيرٌ مُبِينٌ",
+      "uzbekReading": "In ana illaa naziyrum mubiyn.",
+      "uzbekTranslation": "Men faqat ochiq-oydin ogohlantirguvchiman, xolos»."
+    },
+    {
+      "ayahNumber": 116,
+      "arabic": "قَالُوا لَئِنْ لَمْ تَنْتَهِ يَا نُوحُ لَتَكُونَنَّ مِنَ الْمَرْجُومِينَ",
+      "uzbekReading": "Qaaluu la'il lam tantahi yaa Nuuhu latakuunanna minal marjuumiyn.",
+      "uzbekTranslation": "Ular: «Ey Nuh, agar to'xtamasang, albatta, toshbo'ron qilinganlardan bo'lursan», dedilar."
+    },
+    {
+      "ayahNumber": 117,
+      "arabic": "قَالَ رَبِّ إِنَّ قَوْمِي كَذَّبُونِ",
+      "uzbekReading": "Qaala Robbi inna qavmiy kazzabuun.",
+      "uzbekTranslation": "U: «Ey Robbim, shubhasiz, qavmim meni yolg'onchi qildilar."
+    },
+    {
+      "ayahNumber": 118,
+      "arabic": "فَافْتَحْ بَيْنِي وَبَيْنَهُمْ فَتْحًا وَنَجِّنِي وَمَنْ مَعِيَ مِنَ الْمُؤْمِنِينَ",
+      "uzbekReading": "Faftab bainiy va bai nahum fat hanw va najjiniy va mam ma'iya minal mu'miniyn.",
+      "uzbekTranslation": "Bas, O'zing men bilan ularning oramizni yaxshilab ochgin va menga hamda men bilan birga bo'lgan mo'minlarga najot bergin», dedi."
+    },
+    {
+      "ayahNumber": 119,
+      "arabic": "فَأَنْجَيْنَاهُ وَمَنْ مَعَهُ فِي الْفُلْكِ الْمَشْحُونِ",
+      "uzbekReading": "Fa anjainaahu va mamma'ahuu fil fulkil mashhuun.",
+      "uzbekTranslation": "Bas, Biz unga va u bilan birga bo'lganlarga to'lgan kemada najot berdik."
+    },
+    {
+      "ayahNumber": 120,
+      "arabic": "ثُمَّ أَغْرَقْنَا بَعْدُ الْبَاقِينَ",
+      "uzbekReading": "Summa ag'raqnaa ba'dul baaqiyn.",
+      "uzbekTranslation": "So'ngra qolganlarni g'arq qildik."
+    },
+    {
+      "ayahNumber": 121,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Inna fiy zaalika la Aayaah; va maa kaana aksaruhum mu'miniyn.",
+      "uzbekTranslation": "Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmadilar."
+    },
+    {
+      "ayahNumber": 122,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 123,
+      "arabic": "كَذَّبَتْ عَادٌ الْمُرْسَلِينَ",
+      "uzbekReading": "Kazzabat 'Aadunil mursaliyn.",
+      "uzbekTranslation": "Od qavmi Payg'ambarlarni yolg'onchi qildi."
+    },
+    {
+      "ayahNumber": 124,
+      "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+      "uzbekReading": "Iz qaala lahum axuuhum Huudun alaa tattaquun.",
+      "uzbekTranslation": "O'shanda ularga birodarlari Hud dedi: «Qo'rqmaysizlarmi?!"
+    },
+    {
+      "ayahNumber": 125,
+      "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+      "uzbekReading": "Inniy lakum Rasuulun amiyn.",
+      "uzbekTranslation": "Albatta, men sizlarga ishonchli Payg'ambarman."
+    },
+    {
+      "ayahNumber": 126,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqullaaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar."
+    },
+    {
+      "ayahNumber": 127,
+      "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Va maa as'alukum 'alaihi min ajrin in ajriya illaa 'alaa Robbil 'aalamiyn.",
+      "uzbekTranslation": "Men sizlardan buning uchun haq-ajr so'ramasman. Mening ajrim faqatgina Robbul Olamiyn zimmasidadir."
+    },
+    {
+      "ayahNumber": 128,
+      "arabic": "أَتَبْنُونَ بِكُلِّ رِيعٍ آيَةً تَعْبَثُونَ",
+      "uzbekReading": "Atabnuuna bikulli riy'in aayatan ta'basuun.",
+      "uzbekTranslation": "Har tepalikka bir belgi bo'ladigan bino qurib, behuda o'yin qilaverasizmi?"
+    },
+    {
+      "ayahNumber": 129,
+      "arabic": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+      "uzbekReading": "Va tattaxizuuna masaani'a la'allakum taxluduun.",
+      "uzbekTranslation": "Va xuddi mangu turajakdek «masna'lar» tutaverasizmi?."
+    },
+    {
+      "ayahNumber": 130,
+      "arabic": "وَإِذَا بَطَشْتُمْ بَطَشْتُمْ جَبَّارِينَ",
+      "uzbekReading": "Va izaa batashtum batashtum jabbaariyn.",
+      "uzbekTranslation": "Tutganingizda o'ta jabrchi bo'lib tutdingiz."
+    },
+    {
+      "ayahNumber": 131,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqul laaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqing va menga itoat qiling."
+    },
+    {
+      "ayahNumber": 132,
+      "arabic": "وَاتَّقُوا الَّذِي أَمَدَّكُمْ بِمَا تَعْلَمُونَ",
+      "uzbekReading": "Vattaqul laziye amad dakum bimaa ta'lamuun.",
+      "uzbekTranslation": "Sizga o'zingiz bilgan narsa ila madad bergan zotdan qo'rqing."
+    },
+    {
+      "ayahNumber": 133,
+      "arabic": "أَمَدَّكُمْ بِأَنْعَامٍ وَبَنِينَ",
+      "uzbekReading": "Amaddakum bi an'aa minw va baniyn.",
+      "uzbekTranslation": "U sizlarga chorva hayvonlari va farzandlar ila madad berdi."
+    },
+    {
+      "ayahNumber": 134,
+      "arabic": "وَجَنَّاتٍ وَعُيُونٍ",
+      "uzbekReading": "Va jannaatinw va 'uyuun.",
+      "uzbekTranslation": "Bog'-rog'lar va buloqlar ila."
+    },
+    {
+      "ayahNumber": 135,
+      "arabic": "إِنِّي أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "uzbekReading": "Inniy axaafu 'alaikum 'azaaba Yavmin 'aziym.",
+      "uzbekTranslation": "Men, albatta, sizga ulug' kunning azobi kelishidan qo'ruraman»."
+    },
+    {
+      "ayahNumber": 136,
+      "arabic": "قَالُوا سَوَاءٌ عَلَيْنَا أَوَعَظْتَ أَمْ لَمْ تَكُنْ مِنَ الْوَاعِظِينَ",
+      "uzbekReading": "Qaaluu savaaa'un 'alainaaa ava 'azta am lam takum minal vaa'iziyn.",
+      "uzbekTranslation": "Ular: «Biz uchun va'z qilsang ham yoki va'z qilguvchilardan bo'lmasang ham, baribir."
+    },
+    {
+      "ayahNumber": 137,
+      "arabic": "إِنْ هَٰذَا إِلَّا خُلُقُ الْأَوَّلِينَ",
+      "uzbekReading": "In haazaaa illaa xuluqul avwaliyn.",
+      "uzbekTranslation": "Bu eskilarning odati, xolos."
+    },
+    {
+      "ayahNumber": 138,
+      "arabic": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "uzbekReading": "Va maa nahnu bimu 'azzabiyn.",
+      "uzbekTranslation": "Biz azoblanguvchi emasmiz», dedilar."
+    },
+    {
+      "ayahNumber": 139,
+      "arabic": "فَكَذَّبُوهُ فَأَهْلَكْنَاهُمْ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Fakazzabuuhu fa ahlaknaahum; inna fiy zaalika la aayah; va maa kaana aksaruhum mu'miniyn.",
+      "uzbekTranslation": "Ular u."
+    },
+    {
+      "ayahNumber": 140,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 141,
+      "arabic": "كَذَّبَتْ ثَمُودُ الْمُرْسَلِينَ",
+      "uzbekReading": "Kazzabat Samuudul mursaliyn.",
+      "uzbekTranslation": "Samud qavmi Payg'ambarlarni yolg'onchi qildi."
+    },
+    {
+      "ayahNumber": 142,
+      "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَالِحٌ أَلَا تَتَّقُونَ",
+      "uzbekReading": "Iz qaala lahum axuuhum Saalihun alaa tattaquun.",
+      "uzbekTranslation": "O'shanda ularga birodarlari Solih dedi: «Qo'rqmaysizlarmi?!"
+    },
+    {
+      "ayahNumber": 143,
+      "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+      "uzbekReading": "Inniy lakum Rasuulun amiyn.",
+      "uzbekTranslation": "Albatta, men sizlarga ishonchli Payg'ambarman."
+    },
+    {
+      "ayahNumber": 144,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqul laaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar."
+    },
+    {
+      "ayahNumber": 145,
+      "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Va maaa as'alukum 'alaihi min ajrin in ajriya illaa 'alaa Robbil 'aalamiyn.",
+      "uzbekTranslation": "Men sizlardan buning uchun haq-ajr so'ramasman. Mening ajrim faqatgina Robbul olamiyn zimmasidadir."
+    },
+    {
+      "ayahNumber": 146,
+      "arabic": "أَتُتْرَكُونَ فِي مَا هَاهُنَا آمِنِينَ",
+      "uzbekReading": "Atutrakuuna fiy maa haahunnaaa aaminiyn.",
+      "uzbekTranslation": "Siz bu joydagi narsalarda omon holda tark qilinasizmi?!"
+    },
+    {
+      "ayahNumber": 147,
+      "arabic": "فِي جَنَّاتٍ وَعُيُونٍ",
+      "uzbekReading": "Fiy jannaatinw va 'uyuun.",
+      "uzbekTranslation": "Bog'-rog'larda, buloqlarda?!"
+    },
+    {
+      "ayahNumber": 148,
+      "arabic": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+      "uzbekReading": "Va zuruu inw va naxlin tal 'uhaa hadiym.",
+      "uzbekTranslation": "Ekinzorlaru mayin xurmozor ichlarida-ya?!"
+    },
+    {
+      "ayahNumber": 149,
+      "arabic": "وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ",
+      "uzbekReading": "Va tanhituuna minal jibaali buyuutan faarihiyn.",
+      "uzbekTranslation": "Va tog'lardan manmanlik-la uylar yo'naverasizmi?!"
+    },
+    {
+      "ayahNumber": 150,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqul laaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar."
+    },
+    {
+      "ayahNumber": 151,
+      "arabic": "وَلَا تُطِيعُوا أَمْرَ الْمُسْرِفِينَ",
+      "uzbekReading": "Va laa tutiy'uuo amral musrifiyn.",
+      "uzbekTranslation": "Va yer yuzida isrofchilik qiladiganlarning ishiga itoat qilmanglar."
+    },
+    {
+      "ayahNumber": 152,
+      "arabic": "الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ",
+      "uzbekReading": "Allaziyna yufsiduuna fil ardi va laa yuslihuun.",
+      "uzbekTranslation": "Buzg'unchilik qiladigan, islohchilik etmaydiganlarning»."
+    },
+    {
+      "ayahNumber": 153,
+      "arabic": "قَالُوا إِنَّمَا أَنْتَ مِنَ الْمُسَحَّرِينَ",
+      "uzbekReading": "Qaaluuo innamaa anta minal musahhariyn.",
+      "uzbekTranslation": "Ular: «Sen, albatta, sehrlanganlardandirsan."
+    },
+    {
+      "ayahNumber": 154,
+      "arabic": "مَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا فَأْتِ بِآيَةٍ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+      "uzbekReading": "Maaa anta illaa basharum mislunaa faati bi Aayatin in kunta minas saadiqiyn.",
+      "uzbekTranslation": "Sen bizga o'xshagan bashardan boshqa hech narsa emassan. Agar rostgo'ylardan bo'lsang, oyat-mo''jiza keltir», dedilar."
+    },
+    {
+      "ayahNumber": 155,
+      "arabic": "قَالَ هَٰذِهِ نَاقَةٌ لَهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَعْلُومٍ",
+      "uzbekReading": "Qaala haazihiy naaqatul lahaa shirbunw w alakum shirbu yavmim ma'luum.",
+      "uzbekTranslation": "U: «Mana bu tuya. Unga."
+    },
+    {
+      "ayahNumber": 156,
+      "arabic": "وَلَا تَمَسُّوهَا بِسُوءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+      "uzbekReading": "Va laa tamassuuhaa bisuuo'in fa yaaxuzakum 'azaabu Yavmin 'Aziym.",
+      "uzbekTranslation": "Va unga yomonlik yetkazmanglar, unda sizni ulug' kunning azobi tutadir», dedi."
+    },
+    {
+      "ayahNumber": 157,
+      "arabic": "فَعَقَرُوهَا فَأَصْبَحُوا نَادِمِينَ",
+      "uzbekReading": "Fa'aqaruuhaa fa asbahuu naadimiyn.",
+      "uzbekTranslation": "Bas, u."
+    },
+    {
+      "ayahNumber": 158,
+      "arabic": "فَأَخَذَهُمُ الْعَذَابُ ۗ إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Fa axazahumul 'azaab; inna fiy zaalika la Aayah; va maa kaana aksaruhum m'miniyn.",
+      "uzbekTranslation": "Bas, ularni azob tutdi. Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmadilar."
+    },
+    {
+      "ayahNumber": 159,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la Huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 160,
+      "arabic": "كَذَّبَتْ قَوْمُ لُوطٍ الْمُرْسَلِينَ",
+      "uzbekReading": "kazzabat qavmu Luutinil mursaliyn.",
+      "uzbekTranslation": "Lut qavmi Payg'ambarlarni yolg'onchi qildi."
+    },
+    {
+      "ayahNumber": 161,
+      "arabic": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+      "uzbekReading": "Iz qaala lahum axuuhum Luutun alaa tattaquun.",
+      "uzbekTranslation": "O'shanda ularga birodarlari Lut dedi: «Qo'rqmaysizlarmi?!"
+    },
+    {
+      "ayahNumber": 162,
+      "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+      "uzbekReading": "Inniy lakum rasuulun amiyn.",
+      "uzbekTranslation": "Albatta, men sizlarga ishonchli Payg'ambarman."
+    },
+    {
+      "ayahNumber": 163,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqul laaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar."
+    },
+    {
+      "ayahNumber": 164,
+      "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Va maaa as'alukum 'alaihi min ajrin in ajriya illaa 'alaa Robbil 'aalamiyn.",
+      "uzbekTranslation": "Men sizlardan buning uchun haq-ajr so'ramasman. Mening ajrim faqatgina Robbul Olamiyn zimmasidadir."
+    },
+    {
+      "ayahNumber": 165,
+      "arabic": "أَتَأْتُونَ الذُّكْرَانَ مِنَ الْعَالَمِينَ",
+      "uzbekReading": "Ataatuunaz zukraana minal 'aalamiyn.",
+      "uzbekTranslation": "Olamlar ichidan erkaklarga borasizmi?!"
+    },
+    {
+      "ayahNumber": 166,
+      "arabic": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُمْ مِنْ أَزْوَاجِكُمْ ۚ بَلْ أَنْتُمْ قَوْمٌ عَادُونَ",
+      "uzbekReading": "Va tazaruuna maa xalaqa lakum Robbukum min azvaajikum; bal antum qavmun 'aaduun.",
+      "uzbekTranslation": "Va Robbingiz siz uchun yaratgan jufti halollaringizni tark qilasizmi?! Yo'q!!! Siz haddan oshgan qavmsiz»."
+    },
+    {
+      "ayahNumber": 167,
+      "arabic": "قَالُوا لَئِنْ لَمْ تَنْتَهِ يَا لُوطُ لَتَكُونَنَّ مِنَ الْمُخْرَجِينَ",
+      "uzbekReading": "Qaluu la'il lam tantahi yaa Luutu latakuunanna minal muxrajiyn.",
+      "uzbekTranslation": "Ular: «Ey Lut, agar to'xtamasang, albatta, haydab chiqarilganlardan bo'lursan!» dedilar."
+    },
+    {
+      "ayahNumber": 168,
+      "arabic": "قَالَ إِنِّي لِعَمَلِكُمْ مِنَ الْقَالِينَ",
+      "uzbekReading": "Qaala inniy li'amalikum minal qaaliyn.",
+      "uzbekTranslation": "U: «Albatta, men bu ishingizni o'ta yomon ko'rguvchilardanman."
+    },
+    {
+      "ayahNumber": 169,
+      "arabic": "رَبِّ نَجِّنِي وَأَهْلِي مِمَّا يَعْمَلُونَ",
+      "uzbekReading": "Robbi najjjiniy va ahliy mimmmaa ya'maluun.",
+      "uzbekTranslation": "Ey Robbim, menga va ahlimga qilayotgan narsalaridan najot bergin!» dedi."
+    },
+    {
+      "ayahNumber": 170,
+      "arabic": "فَنَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
+      "uzbekReading": "Fanajjainaahu va ahlahuuo ajma'iyn.",
+      "uzbekTranslation": "Bas, unga va ahliga, hammalariga najot berdik."
+    },
+    {
+      "ayahNumber": 171,
+      "arabic": "إِلَّا عَجُوزًا فِي الْغَابِرِينَ",
+      "uzbekReading": "Illaa 'ajuuzan filg'aabiriyn.",
+      "uzbekTranslation": "Magar."
+    },
+    {
+      "ayahNumber": 172,
+      "arabic": "ثُمَّ دَمَّرْنَا الْآخَرِينَ",
+      "uzbekReading": "Summa dammarnal aa xariyn.",
+      "uzbekTranslation": "So'ngra qolganlarini yer bilan yakson qildik."
+    },
+    {
+      "ayahNumber": 173,
+      "arabic": "وَأَمْطَرْنَا عَلَيْهِمْ مَطَرًا ۖ فَسَاءَ مَطَرُ الْمُنْذَرِينَ",
+      "uzbekReading": "Va amtarnaa 'alaihim mataran fasaaa'a matarul munzariyn.",
+      "uzbekTranslation": "Va ularning ustiga bir yomg'ir yog'dirdikki, bas, ogohlantirilganlarning yomg'iri qandoq ham yomon bo'ldi."
+    },
+    {
+      "ayahNumber": 174,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Inna fiy zaalika la Aayah; va maa kaana aksaruhum mu'miniyn.",
+      "uzbekTranslation": "Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmadilar."
+    },
+    {
+      "ayahNumber": 175,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la Huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 176,
+      "arabic": "كَذَّبَ أَصْحَابُ الْأَيْكَةِ الْمُرْسَلِينَ",
+      "uzbekReading": "Kazzaba As haabul Aykatil mursaliyn.",
+      "uzbekTranslation": "Qalin daraxtzor egalari Payg'ambarlarni yolg'onchi qildilar."
+    },
+    {
+      "ayahNumber": 177,
+      "arabic": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+      "uzbekReading": "Iz qaala lahum Shu'aybun alaa tattaquun.",
+      "uzbekTranslation": "O'shanda ularga birodarlari Shuayb dedi: «Qo'rqmaysizlarmi?!"
+    },
+    {
+      "ayahNumber": 178,
+      "arabic": "إِنِّي لَكُمْ رَسُولٌ أَمِينٌ",
+      "uzbekReading": "Inniy lakum Rasuulun amiyn.",
+      "uzbekTranslation": "Albatta, men sizlarga ishonchli Payg'ambarman."
+    },
+    {
+      "ayahNumber": 179,
+      "arabic": "فَاتَّقُوا اللَّهَ وَأَطِيعُونِ",
+      "uzbekReading": "Fattaqul laaha va atiy'uun.",
+      "uzbekTranslation": "Bas, Allohdan qo'rqinglar va menga itoat qilinglar."
+    },
+    {
+      "ayahNumber": 180,
+      "arabic": "وَمَا أَسْأَلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِيَ إِلَّا عَلَىٰ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Va maaa as'alukum 'alaihi min ajrin in ajriya illaa 'alaa Robbil 'aalamiyn.",
+      "uzbekTranslation": "Men sizlardan buning uchun haq-ajr so'ramasman. Mening ajrim faqatgina Robbul Olamiyn zimmasidadir."
+    },
+    {
+      "ayahNumber": 181,
+      "arabic": "۞ أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ",
+      "uzbekReading": "Avful kaila va laa takuunuu minal muxsiriyn.",
+      "uzbekTranslation": "Bas, o'lchovni to'liq o'lchanglar va kamaytirguvchilardan bo'lmanglar."
+    },
+    {
+      "ayahNumber": 182,
+      "arabic": "وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ",
+      "uzbekReading": "Va zinuu bilqistaasil mustaqiym.",
+      "uzbekTranslation": "Va to'g'ri tarozi ila tortinglar."
+    },
+    {
+      "ayahNumber": 183,
+      "arabic": "وَلَا تَبْخَسُوا النَّاسَ أَشْيَاءَهُمْ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
+      "uzbekReading": "Va laa tabxasun naasa ashyaaa 'ahum va laa ta'saw fil ardi mufsidiyn.",
+      "uzbekTranslation": "Odamlarning narsalarini kamaytirib bermang. Yer yuzida turli buzg'unchiliklar qilmanglar."
+    },
+    {
+      "ayahNumber": 184,
+      "arabic": "وَاتَّقُوا الَّذِي خَلَقَكُمْ وَالْجِبِلَّةَ الْأَوَّلِينَ",
+      "uzbekReading": "Vattaqul laziy xalaqakum valjibillatal avwaliyn.",
+      "uzbekTranslation": "Sizni va avvalgi nasllarni yaratgan zotdan qo'rqing»."
+    },
+    {
+      "ayahNumber": 185,
+      "arabic": "قَالُوا إِنَّمَا أَنْتَ مِنَ الْمُسَحَّرِينَ",
+      "uzbekReading": "Qaaluuo innamaa anta minal musahhariyn.",
+      "uzbekTranslation": "Ular: «Albatta, sen sehrlanganlardansan."
+    },
+    {
+      "ayahNumber": 186,
+      "arabic": "وَمَا أَنْتَ إِلَّا بَشَرٌ مِثْلُنَا وَإِنْ نَظُنُّكَ لَمِنَ الْكَاذِبِينَ",
+      "uzbekReading": "Va maaa anta illaa basharum mislunaa va innazunnuka laminal kaazibiyn.",
+      "uzbekTranslation": "Va sen bizga o'xshagan bashardan boshqa narsa emassan. Biz seni, albatta, yolg'onchilardan, deb biuramiz."
+    },
+    {
+      "ayahNumber": 187,
+      "arabic": "فَأَسْقِطْ عَلَيْنَا كِسَفًا مِنَ السَّمَاءِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
+      "uzbekReading": "Fa asqit 'alainaa kisafam minas samaaa'i in kunta minas saadiqiyn.",
+      "uzbekTranslation": "Agar rostgo'ylardan bo'lsang ustimizdan osmonning bir bo'lagini tashlavor», dedilar."
+    },
+    {
+      "ayahNumber": 188,
+      "arabic": "قَالَ رَبِّي أَعْلَمُ بِمَا تَعْمَلُونَ",
+      "uzbekReading": "Qaala Robbiye a'lamu bimaa ta'maluun.",
+      "uzbekTranslation": "U: «Robbim qilayotgan ishingizni o'ta yaxshi bilguvchidir», dedi."
+    },
+    {
+      "ayahNumber": 189,
+      "arabic": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ الظُّلَّةِ ۚ إِنَّهُ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "uzbekReading": "Fakazzabuuhu fa axazahum 'azaabu Yavmiz zullah; innahuu kaana 'azaaba Yavmin 'Aziym.",
+      "uzbekTranslation": "Bas, ular u."
+    },
+    {
+      "ayahNumber": 190,
+      "arabic": "إِنَّ فِي ذَٰلِكَ لَآيَةً ۖ وَمَا كَانَ أَكْثَرُهُمْ مُؤْمِنِينَ",
+      "uzbekReading": "Inna fiy zaalika la Aayah; va maa kaana aksaruhum mu'miniyn.",
+      "uzbekTranslation": "Albatta, bunda oyat-belgi bor. Lekin ko'plari mo'min bo'lmadilar."
+    },
+    {
+      "ayahNumber": 191,
+      "arabic": "وَإِنَّ رَبَّكَ لَهُوَ الْعَزِيزُ الرَّحِيمُ",
+      "uzbekReading": "Va inna Robbaka la huval 'Aziyzur Rahiym.",
+      "uzbekTranslation": "Albatta, Robbing O'zi azizu mehribondir."
+    },
+    {
+      "ayahNumber": 192,
+      "arabic": "وَإِنَّهُ لَتَنْزِيلُ رَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Va innahuu latanziylu Robbil 'aalamiyn.",
+      "uzbekTranslation": "Albatta, u."
+    },
+    {
+      "ayahNumber": 193,
+      "arabic": "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ",
+      "uzbekReading": "Nazala bihir Ruuhul Amiyn.",
+      "uzbekTranslation": "Uni Ruhul amiyn olib tushdi."
+    },
+    {
+      "ayahNumber": 194,
+      "arabic": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ الْمُنْذِرِينَ",
+      "uzbekReading": "'Alaa qalbika litakuuna minal munziriyn.",
+      "uzbekTranslation": "Sening qalbingga, ogohlantirguvchilardan bo'lishing uchun."
+    },
+    {
+      "ayahNumber": 195,
+      "arabic": "بِلِسَانٍ عَرَبِيٍّ مُبِينٍ",
+      "uzbekReading": "Bilisaanin 'Arabiyyim mubiyn.",
+      "uzbekTranslation": "Ochiq-oydin arab tilida."
+    },
+    {
+      "ayahNumber": 196,
+      "arabic": "وَإِنَّهُ لَفِي زُبُرِ الْأَوَّلِينَ",
+      "uzbekReading": "Va innahuu lafiy Zuburil avwaliyn.",
+      "uzbekTranslation": "Albatta, u."
+    },
+    {
+      "ayahNumber": 197,
+      "arabic": "أَوَلَمْ يَكُنْ لَهُمْ آيَةً أَنْ يَعْلَمَهُ عُلَمَاءُ بَنِي إِسْرَائِيلَ",
+      "uzbekReading": "Avalam yakul lahum Aayatan ai ya'lamahuu 'ulamaaa'u Baniye Israaa'iyl.",
+      "uzbekTranslation": "Uni Bani Isroil ulamolarining bilishlari, ular uchun oyat-dalil emasmi?!"
+    },
+    {
+      "ayahNumber": 198,
+      "arabic": "وَلَوْ نَزَّلْنَاهُ عَلَىٰ بَعْضِ الْأَعْجَمِينَ",
+      "uzbekReading": "Va law nazzalnaahu 'alaa ba'dil a'jamiyn.",
+      "uzbekTranslation": "Agar Biz uni ba'zi ajamiylarga nozil qilsak."
+    },
+    {
+      "ayahNumber": 199,
+      "arabic": "فَقَرَأَهُ عَلَيْهِمْ مَا كَانُوا بِهِ مُؤْمِنِينَ",
+      "uzbekReading": "Faqara ahuu 'alaihim maa kaanuu bihiy mu'miniyn.",
+      "uzbekTranslation": "Bas, u ularga uni o'qib bersa ham, mo'min bo'lmas edilar."
+    },
+    {
+      "ayahNumber": 200,
+      "arabic": "كَذَٰلِكَ سَلَكْنَاهُ فِي قُلُوبِ الْمُجْرِمِينَ",
+      "uzbekReading": "Kazaalika salaknaahu fiy quluubil mujrimiyn.",
+      "uzbekTranslation": "Biz u."
+    },
+    {
+      "ayahNumber": 201,
+      "arabic": "لَا يُؤْمِنُونَ بِهِ حَتَّىٰ يَرَوُا الْعَذَابَ الْأَلِيمَ",
+      "uzbekReading": "Laa yu'minuuna bihiy hattaa yaravul 'azaabal aliym.",
+      "uzbekTranslation": "Ular unga to alamli azobni ko'rmagunlaricha iymon keltirmaslar."
+    },
+    {
+      "ayahNumber": 202,
+      "arabic": "فَيَأْتِيَهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "uzbekReading": "Fayaatiyahum bag'tatanw va hum laa yash'uruun.",
+      "uzbekTranslation": "Bas, ularga u."
+    },
+    {
+      "ayahNumber": 203,
+      "arabic": "فَيَقُولُوا هَلْ نَحْنُ مُنْظَرُونَ",
+      "uzbekReading": "Fa yaquuluu hal nahnu munzaruun.",
+      "uzbekTranslation": "Shunda ular: «Bizga muhlat berilarmikan?!» derlar."
+    },
+    {
+      "ayahNumber": 204,
+      "arabic": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "uzbekReading": "Aafabi 'azaabinaa yasta'jiluun.",
+      "uzbekTranslation": "Bizning azobimizning tezroq kelishini istaydilarmi-ya?!"
+    },
+    {
+      "ayahNumber": 205,
+      "arabic": "أَفَرَأَيْتَ إِنْ مَتَّعْنَاهُمْ سِنِينَ",
+      "uzbekReading": "Aara'aita im matta'naahum siniyn.",
+      "uzbekTranslation": "Aytgin-chi, agar Biz ularni yillarcha huzurlantirsak-da."
+    },
+    {
+      "ayahNumber": 206,
+      "arabic": "ثُمَّ جَاءَهُمْ مَا كَانُوا يُوعَدُونَ",
+      "uzbekReading": "Summa jaaa'ahum maa kaanuu yuu'aduun.",
+      "uzbekTranslation": "so'ngra ularga va'da qilingan narsa kelsa."
+    },
+    {
+      "ayahNumber": 207,
+      "arabic": "مَا أَغْنَىٰ عَنْهُمْ مَا كَانُوا يُمَتَّعُونَ",
+      "uzbekReading": "Maaa ag'naaa 'anhum maa kaanuu yumaatuu'uun.",
+      "uzbekTranslation": "O'sha huzurlanib yurgan narsalari nimaga asqotur?!"
+    },
+    {
+      "ayahNumber": 208,
+      "arabic": "وَمَا أَهْلَكْنَا مِنْ قَرْيَةٍ إِلَّا لَهَا مُنْذِرُونَ",
+      "uzbekReading": "Va maaa ahlaknaa min qaryatin illaa lahaa munziruun.",
+      "uzbekTranslation": "Biz biron shahar-qishloqni halok qilgan bo'lsak, albatta, uning ogohlantirguvchilari bo'lgan."
+    },
+    {
+      "ayahNumber": 209,
+      "arabic": "ذِكْرَىٰ وَمَا كُنَّا ظَالِمِينَ",
+      "uzbekReading": "Zikraa va maa kunnaa zaalimiyn.",
+      "uzbekTranslation": "Eslatma bo'lishi uchundir. Biz zulm qilguvchi bo'lmasdik."
+    },
+    {
+      "ayahNumber": 210,
+      "arabic": "وَمَا تَنَزَّلَتْ بِهِ الشَّيَاطِينُ",
+      "uzbekReading": "Va maa tanazzalat bihish Shayaatiyn.",
+      "uzbekTranslation": "U(Qur'on)ni shaytonlar olib tushganlari yo'q. (Mushriklar da'vo qilayotganlaridek, Qur'onni shaytonlar olib tushganlari yo'q. Ularning bu gaplari bo'htondan iborat.)."
+    },
+    {
+      "ayahNumber": 211,
+      "arabic": "وَمَا يَنْبَغِي لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "uzbekReading": "Va maa yambag'iy lahum va maa yastatiy'uun.",
+      "uzbekTranslation": "Bunga ularning imkonlari yo'q va unga qodir ham emaslar."
+    },
+    {
+      "ayahNumber": 212,
+      "arabic": "إِنَّهُمْ عَنِ السَّمْعِ لَمَعْزُولُونَ",
+      "uzbekReading": "Innahum 'anis sam'i lama'zuuluun.",
+      "uzbekTranslation": "Albatta, ular eshitishdan chetlatilgandirlar."
+    },
+    {
+      "ayahNumber": 213,
+      "arabic": "فَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَتَكُونَ مِنَ الْمُعَذَّبِينَ",
+      "uzbekReading": "Falaa tad'u ma'al laahi ilaahan aaxara fatakuuna minal mu'azzabiyn.",
+      "uzbekTranslation": "Alloh bilan birga boshqa ilohga iltijo qilma. Yo'qsa, azoblanganlardan bo'lursan."
+    },
+    {
+      "ayahNumber": 214,
+      "arabic": "وَأَنْذِرْ عَشِيرَتَكَ الْأَقْرَبِينَ",
+      "uzbekReading": "Va anzir 'ashiyratakal aqrabiyn.",
+      "uzbekTranslation": "Va yaqin qarindoshlaringni ogohlantir."
+    },
+    {
+      "ayahNumber": 215,
+      "arabic": "وَاخْفِضْ جَنَاحَكَ لِمَنِ اتَّبَعَكَ مِنَ الْمُؤْمِنِينَ",
+      "uzbekReading": "Vaxfid janaahaka limanit taba 'aka minal mu'miniyn.",
+      "uzbekTranslation": "Va senga ergashgan mo'minlarga qanotingni pastlat."
+    },
+    {
+      "ayahNumber": 216,
+      "arabic": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّي بَرِيءٌ مِمَّا تَعْمَلُونَ",
+      "uzbekReading": "Fa in asavka faqul inniy bariye'um mimmmaa ta'maluun.",
+      "uzbekTranslation": "Bas, agar ular senga isyon qilsalar: «Men siz qilayotgan amallardan bezorman», degin."
+    },
+    {
+      "ayahNumber": 217,
+      "arabic": "وَتَوَكَّلْ عَلَى الْعَزِيزِ الرَّحِيمِ",
+      "uzbekReading": "Va tavakkal alal 'Aziyzir Rahiym.",
+      "uzbekTranslation": "Va aziz va mehribon zotga tavakkal qil;."
+    },
+    {
+      "ayahNumber": 218,
+      "arabic": "الَّذِي يَرَاكَ حِينَ تَقُومُ",
+      "uzbekReading": "Allaziy yaraaka hiyna taquum.",
+      "uzbekTranslation": "Seni qoim bo'lganingda ko'radigan."
+    },
+    {
+      "ayahNumber": 219,
+      "arabic": "وَتَقَلُّبَكَ فِي السَّاجِدِينَ",
+      "uzbekReading": "Va taqallubaka fis saajidiyn.",
+      "uzbekTranslation": "Va sajda qilguvchilar ichida harakatlanishingni."
+    },
+    {
+      "ayahNumber": 220,
+      "arabic": "إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+      "uzbekReading": "Innahuu Huvas Samiy'ul 'Aliym.",
+      "uzbekTranslation": "Albatta, Uning O'zi o'ta eshitguvchi va o'ta bilguvchi zotdir."
+    },
+    {
+      "ayahNumber": 221,
+      "arabic": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَنْ تَنَزَّلُ الشَّيَاطِينُ",
+      "uzbekReading": "Hal unabbi'ukum 'alaa man tanazzalush Shayaatiyn.",
+      "uzbekTranslation": "Sizlarga shaytonlar kimga tushishini aytib beraymi?"
+    },
+    {
+      "ayahNumber": 222,
+      "arabic": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+      "uzbekReading": "Tanazzalu 'alaa kulli affaakin asiym.",
+      "uzbekTranslation": "Ular o'ta uydirmachi va o'ta gunohkorlarga tushurlar."
+    },
+    {
+      "ayahNumber": 223,
+      "arabic": "يُلْقُونَ السَّمْعَ وَأَكْثَرُهُمْ كَاذِبُونَ",
+      "uzbekReading": "Yulquunas sam'a va aksaruhum aazibuun.",
+      "uzbekTranslation": "Ular."
+    },
+    {
+      "ayahNumber": 224,
+      "arabic": "وَالشُّعَرَاءُ يَتَّبِعُهُمُ الْغَاوُونَ",
+      "uzbekReading": "Vashshu 'araaa'u yattabi 'uhumul g'aavuun.",
+      "uzbekTranslation": "Va shoirlarga gumrohlar ergashur."
+    },
+    {
+      "ayahNumber": 225,
+      "arabic": "أَلَمْ تَرَ أَنَّهُمْ فِي كُلِّ وَادٍ يَهِيمُونَ",
+      "uzbekReading": "Alam tara annahum fiy kulli vaadiny yahiymuun.",
+      "uzbekTranslation": "Ularning har vodiyda daydishini."
+    },
+    {
+      "ayahNumber": 226,
+      "arabic": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+      "uzbekReading": "Va annahum yaquuluuna ma laa yaf'aluun.",
+      "uzbekTranslation": "Va o'zlari qilmaydigan ishlarni aytishini ko'rmadingmi?"
+    },
+    {
+      "ayahNumber": 227,
+      "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَذَكَرُوا اللَّهَ كَثِيرًا وَانْتَصَرُوا مِنْ بَعْدِ مَا ظُلِمُوا ۗ وَسَيَعْلَمُ الَّذِينَ ظَلَمُوا أَيَّ مُنْقَلَبٍ يَنْقَلِبُونَ",
+      "uzbekReading": "Illal laziyna aamanuu w a'amilus saalihaati va zakarul laaha kasiyranw vantasaruu mim ba'di maa zulimuu; va saya'lamul laziyna zalamuuo aiya munqalbiny yanqalibuun.",
+      "uzbekTranslation": "Magar iymon keltirib, solih amallar qilganlar, Allohni ko'p zikr etganlar va mazlum bo'lganlaridan keyin nusrat qozonganlar."
+    }
+  ]
+}

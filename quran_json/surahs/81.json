@@ -1,0 +1,181 @@
+{
+  "surahNumber": 81,
+  "surahName": "At-Takwir",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "إِذَا الشَّمْسُ كُوِّرَتْ",
+      "uzbekReading": "Izash shamsu kuvwirat.",
+      "uzbekTranslation": "Vaqtiki, quyoshni buklab, o'ralsa."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+      "uzbekReading": "Va izan nujuumun kadarat.",
+      "uzbekTranslation": "Va, vaqtiki, yulduzlar sochilib ketsa."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+      "uzbekReading": "Va izal jibaalu suyyirat.",
+      "uzbekTranslation": "Va, vaqtiki, tog'lar sayr qildirilsa."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+      "uzbekReading": "Va izal 'ishaaru 'uttilat.",
+      "uzbekTranslation": "Va, vaqtiki, homilasiga o'n oy to'lgan tuyalar qarovsiz qolsa."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+      "uzbekReading": "Va izal vuhuushu hushirat.",
+      "uzbekTranslation": "Va, vaqtiki, vahshiy hayvonlar bir joyga to'plansa."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+      "uzbekReading": "Va izal bihaaru sujjirat.",
+      "uzbekTranslation": "Va, vaqtiki, dengizlar alanga olib yonsa."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+      "uzbekReading": "Va izan nufuusu zuvwijat.",
+      "uzbekTranslation": "Va vaqtiki, nafslar juftlashtirilsa."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+      "uzbekReading": "Va izal maw'uudatu su'ilat.",
+      "uzbekTranslation": "Va vaqtiki, tiriklay ko'milgan qizdan so'ralsa."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+      "uzbekReading": "Bi ayyi zambin qutilat.",
+      "uzbekTranslation": "U nima gunoh uchun o'ldirilgan?"
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+      "uzbekReading": "Va izas suhufu nushirat.",
+      "uzbekTranslation": "Va, vaqtiki, sahifalar nashr qilinsa."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+      "uzbekReading": "Va izas samaaa'u kushitat.",
+      "uzbekTranslation": "Va, vaqtiki, osmon qo'porilsa."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+      "uzbekReading": "Va izal jahiymu su'-'irat.",
+      "uzbekTranslation": "Va, vaqtiki, jahannam qizdirilsa."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+      "uzbekReading": "Va izal jannatu uzlifat.",
+      "uzbekTranslation": "Va, vaqtiki, jannat yaqinlashtirilsa."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+      "uzbekReading": "'Alimat nafsum maaa ahdarat.",
+      "uzbekTranslation": "Har bir jon nima hozirlanganini biladi."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+      "uzbekReading": "Falaaa uqsimu bil xunnas.",
+      "uzbekTranslation": "(Kunduzi) maxfiy bo'luvchi(yulduz)lar bilan qasam."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "الْجَوَارِ الْكُنَّسِ",
+      "uzbekReading": "Al javaaril kunnas.",
+      "uzbekTranslation": "(Kechalari) yuruvchi, berkinuvchi(yulduz)lar bilan qasam."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+      "uzbekReading": "Vallaili izaa 'as'as.",
+      "uzbekTranslation": "Qorong'uligi bilan kirib kelgan kecha bilan qasam."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+      "uzbekReading": "Vassubhi izaa tanaffas.",
+      "uzbekTranslation": "Nafas olib, kirib kelgan tong bilan qasam."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "uzbekReading": "Innahuu laqavlu rasuulin kariym.",
+      "uzbekTranslation": "Albatta u."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+      "uzbekReading": "Ziy quvwatin 'inda zil 'arshi makiyn.",
+      "uzbekTranslation": "U quvvatlidir. Arsh egasi huzurida martabasi oliydir."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "مُطَاعٍ ثَمَّ أَمِينٍ",
+      "uzbekReading": "Mutaa'in samma amiyn.",
+      "uzbekTranslation": "Itoat qilingan, omonatli."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+      "uzbekReading": "Va maa saahibukum bimajnuun.",
+      "uzbekTranslation": "Sizning sohibingiz majnun emas."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+      "uzbekReading": "Va laqad ra aahu bilufuqil mubiyn.",
+      "uzbekTranslation": "Batahqiq ul ani ochiq-oydin ufqda ko'rdi."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+      "uzbekReading": "Va maa huva 'alal g'aibi bidaniyn.",
+      "uzbekTranslation": "Va u g'aybga baxil emas."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+      "uzbekReading": "Va maa huva biqavli shaitaanir rajiym.",
+      "uzbekTranslation": "Va u."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "فَأَيْنَ تَذْهَبُونَ",
+      "uzbekReading": "Fa ayna tazhabuun.",
+      "uzbekTranslation": "Bas, qayoqqa ketmoqdasiz?!"
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+      "uzbekReading": "In huva illaa zikrul lil'aalamiyn.",
+      "uzbekTranslation": "U (Qur'on) olamlarga eslatmadan boshqa narsa emas."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+      "uzbekReading": "Liman shaaa'a minkum ai yastaqiym.",
+      "uzbekTranslation": "Sizlardan mustaqim bo'lishni xohlovchilar uchun."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+      "uzbekReading": "Va maa tashaaa'uuna illaaa ai yashaaa 'al laahu Robbul 'Aalamiyn.",
+      "uzbekTranslation": "Olamlarning Robbisi Alloh xohlamasa, sizlar xohlay olmassizlar."
+    }
+  ]
+}

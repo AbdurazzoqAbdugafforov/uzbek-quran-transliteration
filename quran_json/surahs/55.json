@@ -1,0 +1,475 @@
+{
+  "surahNumber": 55,
+  "surahName": "Ar-Rahmaan",
+  "juzNumber": 27,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "الرَّحْمَٰنُ",
+      "uzbekReading": "Ar Rohmaan.",
+      "uzbekTranslation": "Rohman."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "عَلَّمَ الْقُرْآنَ",
+      "uzbekReading": "'Allamal Quran.",
+      "uzbekTranslation": "Qur'oni o'rgatdi."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "خَلَقَ الْإِنْسَانَ",
+      "uzbekReading": "Xalaqal insaan.",
+      "uzbekTranslation": "Insonni yaratdi."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "عَلَّمَهُ الْبَيَانَ",
+      "uzbekReading": "'Allamalhul bayaan.",
+      "uzbekTranslation": "Unga bayonni o'rgatdi."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "الشَّمْسُ وَالْقَمَرُ بِحُسْبَانٍ",
+      "uzbekReading": "Ashshamsu valqamaru bihusbaan.",
+      "uzbekTranslation": "Quyosh va oy hisobdadir."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "وَالنَّجْمُ وَالشَّجَرُ يَسْجُدَانِ",
+      "uzbekReading": "Vannajmu vashshajaru yasjudan.",
+      "uzbekTranslation": "O't-o'lan ham, daraxtlar ham sajda qilurlar."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَالسَّمَاءَ رَفَعَهَا وَوَضَعَ الْمِيزَانَ",
+      "uzbekReading": "Vassamaaa'a rafa'ahaa va vada'al Miyzan.",
+      "uzbekTranslation": "Osmonni baland ko'tardi va tarozuni o'rnatdi."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
+      "uzbekReading": "Allaa tatg'aw fil miyzaan.",
+      "uzbekTranslation": "Tortishda haddan oshmasligingiz uchun."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَأَقِيمُوا الْوَزْنَ بِالْقِسْطِ وَلَا تُخْسِرُوا الْمِيزَانَ",
+      "uzbekReading": "Va aqiymul vazna bilqisti va laa tuxsirul miyzaan.",
+      "uzbekTranslation": "Adolat ila o'lchang va tarozudan urib qolmang."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَالْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "uzbekReading": "Val arda vada'ahaa lilanaame.",
+      "uzbekTranslation": "Va yerni haloyiq uchun qo'ydi."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
+      "uzbekReading": "Fiyhaa faakihatunw van naxlu zaatul akmaam.",
+      "uzbekTranslation": "U(yer)da mevalar va gulkosali xurmolar bor."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَالْحَبُّ ذُو الْعَصْفِ وَالرَّيْحَانُ",
+      "uzbekReading": "Valhabbu zul 'asfi var Raihaanu.",
+      "uzbekTranslation": "Va somonli donlar hamda rayhon bor."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "خَلَقَ الْإِنْسَانَ مِنْ صَلْصَالٍ كَالْفَخَّارِ",
+      "uzbekReading": "Xalaqal insaana min salsaalin kalfaxxaari.",
+      "uzbekTranslation": "Insonni sopolga o'xshash qurigan loydan yaratdi."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "وَخَلَقَ الْجَانَّ مِنْ مَارِجٍ مِنْ نَارٍ",
+      "uzbekReading": "Va xalaqal jaaan mim maarijim min naar.",
+      "uzbekTranslation": "Va jinlarni alangadan yaratdi."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "رَبُّ الْمَشْرِقَيْنِ وَرَبُّ الْمَغْرِبَيْنِ",
+      "uzbekReading": "Robbul mashriqayni va Robbul mag'ribayni.",
+      "uzbekTranslation": "U ikki mashriq va ikki mag'ribning Robbisidir."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?"
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "مَرَجَ الْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "uzbekReading": "Marajal bahrayni yalta qiyaani.",
+      "uzbekTranslation": "Daryo-dengizlarni bir-biri bilan uchrashadigan qilib qo'ydi."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "بَيْنَهُمَا بَرْزَخٌ لَا يَبْغِيَانِ",
+      "uzbekReading": "Bainahumaa barzaxul laa yabg'iyaan.",
+      "uzbekTranslation": "O'rtalaridagi to'siqdan oshib o'tolmaslar."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?"
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "يَخْرُجُ مِنْهُمَا اللُّؤْلُؤُ وَالْمَرْجَانُ",
+      "uzbekReading": "Yaxruju minhumal lu 'lu u val marjaanu.",
+      "uzbekTranslation": "U ikkisidan lu'lu' va marjon chiqar."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlrini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "وَلَهُ الْجَوَارِ الْمُنْشَآتُ فِي الْبَحْرِ كَالْأَعْلَامِ",
+      "uzbekReading": "Va lahul javaaril mun sha'aatu fil bahri kal a'laam.",
+      "uzbekTranslation": "Dengizlarda tog'dek bo'lib suzib yuruvchilar ham Unikidir."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "uzbekReading": "Kullu man 'alaihaa faan.",
+      "uzbekTranslation": "(Yer) yuzidagi barcha jonzot foniydir."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ",
+      "uzbekReading": "Va yabqaa vajhu Robbika zul jalaali val ikraam.",
+      "uzbekTranslation": "Ulug'lik va ikrom egasi Robbingning O'zigina boqiydir."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?"
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "يَسْأَلُهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِي شَأْنٍ",
+      "uzbekReading": "Yas'aluhuu man fissamaavaati valard; kulla yvmin huva fiy shaan.",
+      "uzbekTranslation": "Undan yeru osmondagi jonzotlar so'rarlar. U har kuni ishdadir."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "سَنَفْرُغُ لَكُمْ أَيُّهَ الثَّقَلَانِ",
+      "uzbekReading": "Sanafrug'u lakum ayyuhas saqalaan.",
+      "uzbekTranslation": "Albatta, sizlar uchun vaqt toparmiz, ey insu jinlar!"
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ أَنْ تَنْفُذُوا مِنْ أَقْطَارِ السَّمَاوَاتِ وَالْأَرْضِ فَانْفُذُوا ۚ لَا تَنْفُذُونَ إِلَّا بِسُلْطَانٍ",
+      "uzbekReading": "Yaa ma'sharal jinni val insi inis tata'tum an tanfuzuu min aqtaaris samaavaati val ardi fanfuzuu; laa tanfuzuuna illaa bisultaan.",
+      "uzbekTranslation": "Ey jin va ins jamoalari, agar siz osmonlaru yer chegaralaridan chiqib ketishga qodir bo'lsalaringiz, chiqaveringlar. Faqat Sulton ila chiqa olursiz, xolos."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
+      "uzbekReading": "Yursalu 'alaikumaa shuvaazum min naarifiw-va nuhaasun falaa tantasiraan.",
+      "uzbekTranslation": "Ustingizdan o't-cho'g' va tutun yuborilur. Bas, qutula olmassiz."
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 37,
+      "arabic": "فَإِذَا انْشَقَّتِ السَّمَاءُ فَكَانَتْ وَرْدَةً كَالدِّهَانِ",
+      "uzbekReading": "Fa-izan shaqqatis samaaa'u fakaanat vardatan kaddihaan.",
+      "uzbekTranslation": "Osmon yorilib, qirmizi moyga aylangan vaqtda..."
+    },
+    {
+      "ayahNumber": 38,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 39,
+      "arabic": "فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ",
+      "uzbekReading": "Fa-yavma'izil laa yus'alu 'an zambihiye insunw va laa jaann.",
+      "uzbekTranslation": "Bas, u kunda ins ham, jin ham gunohidan so'ralmas."
+    },
+    {
+      "ayahNumber": 40,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 41,
+      "arabic": "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+      "uzbekReading": "Yu'raful mujrimuuna bisiymaahum fa'yu'xazu binna vaasi val aqdaam.",
+      "uzbekTranslation": "Jinoyatchmlar siymolaridan bilinib turur. Va ularning peshona sochlari va oyoqlaridan tutilur."
+    },
+    {
+      "ayahNumber": 42,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 43,
+      "arabic": "هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الْمُجْرِمُونَ",
+      "uzbekReading": "Haazihiy jahannamul latiy yukazzibu bihal mujrimuun.",
+      "uzbekTranslation": "Jinoyatchilar yolg'onga chiqarayotgan jahannam shu bo'lur."
+    },
+    {
+      "ayahNumber": 44,
+      "arabic": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ آنٍ",
+      "uzbekReading": "Yatuufuuna bainahaa va baina hamiymim aan.",
+      "uzbekTranslation": "Ular jahannam bilan o'ta qaynoq suv o'rtasida aylanur."
+    },
+    {
+      "ayahNumber": 45,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 46,
+      "arabic": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِ جَنَّتَانِ",
+      "uzbekReading": "Va liman xaafa maqaama Robbihiy jannataan.",
+      "uzbekTranslation": "Robbisi huzurida turishdan qo'rqqanlar uchun ikki jannat bor."
+    },
+    {
+      "ayahNumber": 47,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 48,
+      "arabic": "ذَوَاتَا أَفْنَانٍ",
+      "uzbekReading": "Zavaataaa afnaan.",
+      "uzbekTranslation": "Ular shox-novdalidirlar."
+    },
+    {
+      "ayahNumber": 49,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 50,
+      "arabic": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "uzbekReading": "Fiyhimaa 'aynaani tajriyaan.",
+      "uzbekTranslation": "Ikkovlarida oquvchi ikki buloq bor."
+    },
+    {
+      "ayahNumber": 51,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 52,
+      "arabic": "فِيهِمَا مِنْ كُلِّ فَاكِهَةٍ زَوْجَانِ",
+      "uzbekReading": "Fiyhimaa min kulli faakihatin zavjaan.",
+      "uzbekTranslation": "Ikkovlarida ham mevadan juft navlar bor."
+    },
+    {
+      "ayahNumber": 53,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 54,
+      "arabic": "مُتَّكِئِينَ عَلَىٰ فُرُشٍ بَطَائِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى الْجَنَّتَيْنِ دَانٍ",
+      "uzbekReading": "Muttaki'iyna 'alaa furushim bataaa'inuhaa min istabraq; vajanal jannataini daan.",
+      "uzbekTranslation": "Ipak astarli to'shaklarga yonboshlagan va ikki jannat mevalari yaqin bo'lgan hollari bor."
+    },
+    {
+      "ayahNumber": 55,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 56,
+      "arabic": "فِيهِنَّ قَاصِرَاتُ الطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "uzbekReading": "Fiyhinna qaasiratut tarfi lam yatmishunna insun qablahum va laa jaaann.",
+      "uzbekTranslation": "Ularda ko'zlari tiyilgan, avval ins ham, jin ham tegmagan(hur)lar bor."
+    },
+    {
+      "ayahNumber": 57,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 58,
+      "arabic": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
+      "uzbekReading": "ka annahunnal yaaquutu val marjaan.",
+      "uzbekTranslation": "U(hur)lar xuddi yoqut va marjonga o'xsharlar."
+    },
+    {
+      "ayahNumber": 59,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 60,
+      "arabic": "هَلْ جَزَاءُ الْإِحْسَانِ إِلَّا الْإِحْسَانُ",
+      "uzbekReading": "Hal jazaaa'ul ihsaani illal ihsaan.",
+      "uzbekTranslation": "Ehsonning mukofoti, faqat ehsondir."
+    },
+    {
+      "ayahNumber": 61,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 62,
+      "arabic": "وَمِنْ دُونِهِمَا جَنَّتَانِ",
+      "uzbekReading": "Va min duunihimaa jannataan.",
+      "uzbekTranslation": "U ikkovidan pastroqda yana ikki jannat bor."
+    },
+    {
+      "ayahNumber": 63,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 64,
+      "arabic": "مُدْهَامَّتَانِ",
+      "uzbekReading": "Muzaaammataan.",
+      "uzbekTranslation": "Ikkovlari yam-yashildir."
+    },
+    {
+      "ayahNumber": 65,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 66,
+      "arabic": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "uzbekReading": "Fiyhimaa 'aynaani nad daaxataan.",
+      "uzbekTranslation": "Ikkovlarida otilib turuvchi ikki buloq bor."
+    },
+    {
+      "ayahNumber": 67,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 68,
+      "arabic": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "uzbekReading": "Fiyhimaa faakihatunw va naxlunw va rummaan.",
+      "uzbekTranslation": "Ikkovlarida mevalar, xurmo va anorlar bor."
+    },
+    {
+      "ayahNumber": 69,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 70,
+      "arabic": "فِيهِنَّ خَيْرَاتٌ حِسَانٌ",
+      "uzbekReading": "Fiyhinna xairaatun hisaan.",
+      "uzbekTranslation": "Ularda yaxshi, go'zallar bor."
+    },
+    {
+      "ayahNumber": 71,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 72,
+      "arabic": "حُورٌ مَقْصُورَاتٌ فِي الْخِيَامِ",
+      "uzbekReading": "Huurum maqsuuraatun fil xiyaam.",
+      "uzbekTranslation": "Chodirlarni lozim tutgan hurlar bor."
+    },
+    {
+      "ayahNumber": 73,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 74,
+      "arabic": "لَمْ يَطْمِثْهُنَّ إِنْسٌ قَبْلَهُمْ وَلَا جَانٌّ",
+      "uzbekReading": "Lam yatmis hunna insun qablahum va laa jaaann.",
+      "uzbekTranslation": "Avval ularga ins ham, jin ham tegmagan."
+    },
+    {
+      "ayahNumber": 75,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 76,
+      "arabic": "مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
+      "uzbekReading": "Muttaki'iyna 'alaa rafratin xudrinw va 'abqariyyin hisaan.",
+      "uzbekTranslation": "Yashil bolishlarga va go'zal gilamlarda yonboshlagan hollari bor."
+    },
+    {
+      "ayahNumber": 77,
+      "arabic": "فَبِأَيِّ آلَاءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "uzbekReading": "Fabi ayyi aalaaa'i Robbikumaa tukazzibaan.",
+      "uzbekTranslation": "Bas, Robbingizning qaysi ne'matlarini yolg'on deya olursiz?!"
+    },
+    {
+      "ayahNumber": 78,
+      "arabic": "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+      "uzbekReading": "Tabaarakasmu Robbika Zil-Jalaali val-Ikraam.",
+      "uzbekTranslation": "Ulug'lik va ikrom egasi bo'lmish Robbing ismi muborak bo'ldi."
+    }
+  ]
+}

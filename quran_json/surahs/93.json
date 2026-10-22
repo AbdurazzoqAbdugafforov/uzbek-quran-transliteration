@@ -1,0 +1,73 @@
+{
+  "surahNumber": 93,
+  "surahName": "Ad-Dhuhaa",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَالضُّحَىٰ",
+      "uzbekReading": "Vad duhaa.",
+      "uzbekTranslation": "Choshgoh bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "uzbekReading": "Val laili iza sajaa.",
+      "uzbekTranslation": "Sukunatga cho'mgan tun bilan qasam."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "uzbekReading": "Ma vad da'aka Robbuka va ma qalaa.",
+      "uzbekTranslation": "Robbing seni tark qilmadi va g'azab ham qilmadi."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+      "uzbekReading": "Valal-aaxiratu xairul laka minal-uula.",
+      "uzbekTranslation": "Va, albatta, oxirat sen uchun bu dunyodan yaxshidir."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "uzbekReading": "Va la savfa y'utiyka Robbuka fatarda.",
+      "uzbekTranslation": "Va tezda Robbing senga ato qiladir va sen rozi bo'lursan."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "uzbekReading": "Alam ya jidka yatiyman fa aavaa.",
+      "uzbekTranslation": "U seni yetim topib, joylab qo'ymadimi?"
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "uzbekReading": "Va va jadaka daal lan fahada.",
+      "uzbekTranslation": "Va U seni hayron topib, hidoyatga boshlamadimi?"
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "uzbekReading": "Va va jadaka 'aa-ilan fa ag'naa.",
+      "uzbekTranslation": "Va U seni kambag'al topib, boy qilmadimi?"
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "uzbekReading": "Fa am mal yatiyma fala taqhar.",
+      "uzbekTranslation": "Ammo yetimga qahr qilma."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "uzbekReading": "Va am mas saa-ila fala tanhar.",
+      "uzbekTranslation": "Va, ammo, «soil»ga zajr qilma."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "uzbekReading": "Va amma bi ni'mati Robbika fahad dis.",
+      "uzbekTranslation": "Va, ammo, Robbingning bergan ne'mati haqida so'zla."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "surahNumber": 100,
+  "surahName": "Al-Aadiyaat",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَالْعَادِيَاتِ ضَبْحًا",
+      "uzbekReading": "Val'aadi yaati dabha.",
+      "uzbekTranslation": "Harsillab chopuvchiotlar bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "فَالْمُورِيَاتِ قَدْحًا",
+      "uzbekReading": "Fal muuri yaati qaza.",
+      "uzbekTranslation": "O't chaqnatib chopuvchi otlar bilan qasam."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "فَالْمُغِيرَاتِ صُبْحًا",
+      "uzbekReading": "Fal mug'iyraati subha.",
+      "uzbekTranslation": "Tong chog'ida g'orat qiluvchi otlar bilan qasam."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "uzbekReading": "Fa asarna bihiy naq'a.",
+      "uzbekTranslation": "O'sha paytda chang qo'zg'otdilar."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "uzbekReading": "Fava satna bihiy jam'a.",
+      "uzbekTranslation": "Va u ila jamoa o'rtasiga (yorib) kirdilar."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "uzbekReading": "Innal-insana lirabbihiy lakanuud.",
+      "uzbekTranslation": "Albatta, inson o'z Robbisiga noshukrdir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "uzbekReading": "Va innahu 'alaa zaalika la shahiyd.",
+      "uzbekTranslation": "Va albatta, u ana shunga o'zi guvohdir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "uzbekReading": "Va innahu lihubbil xairi la shadiyd.",
+      "uzbekTranslation": "Albatta, u mol-dunyoga haddan tashqari o'chdir."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "uzbekReading": "Afala ya'lamu iza b'usira ma filqubuur.",
+      "uzbekTranslation": "U bilmasmi?! Qabrdagilar qo'zg'atilganda."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "uzbekReading": "Va hussila maa fis suduur.",
+      "uzbekTranslation": "Va ko'kraklaridagi oshkor bo'lganda."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ",
+      "uzbekReading": "Inna Robbahum bihim yauma 'izil la xabiyr.",
+      "uzbekTranslation": "O'sha kunda Robbilari ulardan, xabardor ekanini?!"
+    }
+  ]
+}

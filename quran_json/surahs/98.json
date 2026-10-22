@@ -1,0 +1,55 @@
+{
+  "surahNumber": 98,
+  "surahName": "Al-Bayyina",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+      "uzbekReading": "Lam ya kunil laziyna kafaru min ahlil kitaabi val mushri kiyna mun fak kiyna hattaa ta-tiya humul bayyinah.",
+      "uzbekTranslation": "Ahli kitob va mushriklardan bo'lgan kufr keltirganlarga «bayyina» kelmaguncha ajralmasdilar."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+      "uzbekReading": "Rasuulum minal laahi yatlu suhufam mutahharah.",
+      "uzbekTranslation": "U (bayyina) Alloh tarafidan yuborilgan Rasul bo'lib, poklangan sahifalarni tilovat qiladir."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+      "uzbekReading": "Fiyha kutubun qaiyimah.",
+      "uzbekTranslation": "Ularda ajoyib bitiklar bordir."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+      "uzbekReading": "Va maa tafarraqal laziyna uutul kitaaba il-la mim b'adi ma jaa-at humul baiyyinah.",
+      "uzbekTranslation": "Kitob berilganlar ularga «bayyina» kelganidan so'nggina bo'linib ketishdi."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+      "uzbekReading": "Va maa umiruu il-la liy'abu dul laaha muxlisiyna lahud-diyna huna faa-a va yuqiymus salaahta va yu-tuz zakaata; va zaalika diynul qaiyimah.",
+      "uzbekTranslation": "Holbuki, ular faqat Allohgagina ibodat qilishga, Uning dinigagina ixlos qilishga, boshqa dinlarga moyil bo'lmaslikka, namozni to'liq o'qishga, zakot berishga buyurilgan edilar. Ana shu to'g'ri millatning dinidir."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+      "uzbekReading": "Innal laziyna kafaru min ahlil kitaabi val mushri kiyna fiy nari jahan nama xaali diyna fiyha; ulaa-ika hum shar rul ba riyyah.",
+      "uzbekTranslation": "Albatta, ahli kitob va mushriklardan bo'lgan kufr keltirganlar jahannam o'tidadurlar, u yerda abadiy qolurlar. Ana o'shalar xaloyiqning eng yomonlaridir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+      "uzbekReading": "Innal laziyna aamanu va 'amilus saalihaati ula-ika hum xairul bariyy yah.",
+      "uzbekTranslation": "Albatta, iymon keltirganlar va solih amallarni qilganlar, ana o'shalar, xaloyiqning eng yaxshilaridir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+      "uzbekReading": "Jazaa-uhum inda Robbihim jan naatu 'adnin tajriy min tahtihal an haaru xalidiyna fiyha abada; radiy-yallaahu 'anhum va ra du 'an zaalika liman xashiya Robbah.",
+      "uzbekTranslation": "Ularning mukofotlari Robbilari huzuridagi ostidan anhorlar oqib turgan jannat «adn»dir. U yerda abadul abad qolajaklar. Alloh ulardan rozi bo'ldi, ular ham U zotdan rozi bo'ldilar. Bu Robbisidan qo'rqqanlar uchundir."
+    }
+  ]
+}

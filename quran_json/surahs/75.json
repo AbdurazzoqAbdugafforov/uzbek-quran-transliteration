@@ -1,0 +1,247 @@
+{
+  "surahNumber": 75,
+  "surahName": "Al-Qiyaama",
+  "juzNumber": 29,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+      "uzbekReading": "Laaa uqsimu bi yavmil qiyaamah.",
+      "uzbekTranslation": "Qiyomat kuni bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+      "uzbekReading": "Va laaa uqsimu bin nafsil lavwaamah.",
+      "uzbekTranslation": "Va malomatchi nafs bilan qasam."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ",
+      "uzbekReading": "Ayahsabul insaanu al lan najm'a 'izaamah.",
+      "uzbekTranslation": "(Kofir) Inson Bizni, uning suyaklarini jamlay olmas, deb o'ylarmi?"
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ",
+      "uzbekReading": "Balaa qaadiriyna 'alaaa an nusavwiya banaanah.",
+      "uzbekTranslation": "Ha, Biz uning barmoq uchlarini ham asl holiga keltirishga qodirmiz."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ",
+      "uzbekReading": "Bal yuriydul insaanu liyafjura amaamah.",
+      "uzbekTranslation": "Balki inson kelajakda fisqu fujur qilishni xohlaydir."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+      "uzbekReading": "Yas'alu ayyyaana yavmul qiyaamah.",
+      "uzbekTranslation": "U: «Qiyomat kuni qachon?» deb so'raydir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "فَإِذَا بَرِقَ الْبَصَرُ",
+      "uzbekReading": "Fa izaa bariqal basar.",
+      "uzbekTranslation": "Qachonki ko'z dahshatda lol qolsa."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَخَسَفَ الْقَمَرُ",
+      "uzbekReading": "Ve xasafal qamar.",
+      "uzbekTranslation": "Va oy tutilsa."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+      "uzbekReading": "Va jumi'ash shamusu val qamar.",
+      "uzbekTranslation": "Va quyosh bilan oy jamlansa."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+      "uzbekReading": "Yaquulul insaanu yaw ma 'izin aynal mafarr.",
+      "uzbekTranslation": "O'shal kunda inson, qochar joy qayda? deb qolar."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "كَلَّا لَا وَزَرَ",
+      "uzbekReading": "Kallaa laa vazar.",
+      "uzbekTranslation": "Yo'q! Qochadigan joy yo'q!"
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+      "uzbekReading": "Ilaa Robbika yavma 'izinil mustaqarr.",
+      "uzbekTranslation": "U kunda istiqror faqat Robbing huzurida bo'lar."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+      "uzbekReading": "Yunabba 'ul insaanu yavma 'izim bimaa qaddama va axxar.",
+      "uzbekTranslation": "U kunda insonga avvalu oxir qilganining xabari berilar."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ",
+      "uzbekReading": "Balil insaanu 'alaa nafsihiy basiyrah.",
+      "uzbekTranslation": "Ha, inson o'z nafsiga qarshi o'zi shohiddir."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ",
+      "uzbekReading": "Va law alqaa ma'aaziyrah.",
+      "uzbekTranslation": "Garchi uzr-ma'zurlarini to'kib soladir."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+      "uzbekReading": "Laa tuharrik bihiy lisaa naka lita'jala bih.",
+      "uzbekTranslation": "Sen shoshilib, u."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+      "uzbekReading": "Inna 'alainaa jam'ahuu va qur aanah.",
+      "uzbekTranslation": "Albatta, uni jamlash va o'qib berish Bizning zimmamizdadir."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+      "uzbekReading": "Fa izaa qaraanaahu fattabi' qur aanah.",
+      "uzbekTranslation": "Bas, Biz uni o'qisak, qiroatiga zehn solib tur."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+      "uzbekReading": "Summa inna 'alainaa bayaanah.",
+      "uzbekTranslation": "So'ngra uni bayon qilib berish ham Bizning zimmamizdadir."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+      "uzbekReading": "Kallaa bal tuhibbuunal 'aajilah.",
+      "uzbekTranslation": "Yo'q! Balki sizlar shoshar dunyoni yaxshi ko'rasizlar."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "وَتَذَرُونَ الْآخِرَةَ",
+      "uzbekReading": "Va tazaruunal Aaxirah.",
+      "uzbekTranslation": "Va oxiratni tark etasizlar."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ",
+      "uzbekReading": "Vujuuhuny yavma 'izin naadirah.",
+      "uzbekTranslation": "U kunda bor chiroyli yuzlar."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+      "uzbekReading": "Ilaa Robbihaa naazirah.",
+      "uzbekTranslation": "Robbisiga nazar soluvchilar."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+      "uzbekReading": "Va vujuuhuny yavma 'izim baasirah.",
+      "uzbekTranslation": "Va u kunda bor tirishib-burishgan yuzlar."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ",
+      "uzbekReading": "Tazunnu any yuf'ala bihaa faaqirah.",
+      "uzbekTranslation": "O'ziga umurtqasin sindirar ish bo'lishiga ishonar."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+      "uzbekReading": "Kallaaa izaa balag'atit taraaqiy.",
+      "uzbekTranslation": "Yo'q! jon halqumga kelganda."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "وَقِيلَ مَنْ ۜ رَاقٍ",
+      "uzbekReading": "Va qiyla man raaq.",
+      "uzbekTranslation": "Va, qutqaruvchi kim? deganda."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+      "uzbekReading": "Va zanna annahul firaaq.",
+      "uzbekTranslation": "Va, albatta, u firoqligin bilganda."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+      "uzbekReading": "Valtaffatis saaqu bissaaq.",
+      "uzbekTranslation": "Va boldirlar bir-biriga almashganda."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+      "uzbekReading": "Ilaa Robbika yavma'izinil masaaq.",
+      "uzbekTranslation": "U kunda haydab borar joy faqat Robbinggadir."
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+      "uzbekReading": "Falaa saddaqa va laa sallaa.",
+      "uzbekTranslation": "Bas, u tasdiqlamadi va namoz o'qimadi."
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "وَلَٰكِنْ كَذَّبَ وَتَوَلَّىٰ",
+      "uzbekReading": "Va laakin kazzaba va tavalla.",
+      "uzbekTranslation": "Va lekin yolg'onga chiqardi va yuz o'girdi."
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ",
+      "uzbekReading": "Summa zahaba ilaaa ahlihiy yatamatta.",
+      "uzbekTranslation": "So'ng o'z ahliga kerilib bordi."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "uzbekReading": "Avlaa laka fa avlaa.",
+      "uzbekTranslation": "Holingga voy bo'lsin sening, voy bo'lsin!"
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+      "uzbekReading": "Summa avlaa laka fa avla.",
+      "uzbekTranslation": "Yana holingga voy bo'lsin sening, voy bo'lsin!"
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى",
+      "uzbekReading": "Ayahsabul insaanu anyytraka sudaa.",
+      "uzbekTranslation": "Inson behuda tark qilinishning hisobini qilurmi?"
+    },
+    {
+      "ayahNumber": 37,
+      "arabic": "أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ",
+      "uzbekReading": "Alam yaku nutfatam mim maniyyiny yumnaa.",
+      "uzbekTranslation": "U maniydan oqqan nutfa bo'lmaganmidi?"
+    },
+    {
+      "ayahNumber": 38,
+      "arabic": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+      "uzbekReading": "Summa kaana 'alaqata faxalaq fasavwaa.",
+      "uzbekTranslation": "So'ng alaqa bo'ldi. Bas bekamu-ko'st etib yaratdi."
+    },
+    {
+      "ayahNumber": 39,
+      "arabic": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+      "uzbekReading": "Faja'ala minhuz zavjayniz zakara val unsaa.",
+      "uzbekTranslation": "Bas undan juftni–erkak va ayolni yaratdi."
+    },
+    {
+      "ayahNumber": 40,
+      "arabic": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ",
+      "uzbekReading": "Alaisa zaalika biqaadirin 'alaaa any yuhyiyal mavtaa.",
+      "uzbekTranslation": "Shunday zot o'liklarni tiriltirishga qodir emasmi?!"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "surahNumber": 86,
+  "surahName": "At-Taariq",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَالسَّمَاءِ وَالطَّارِقِ",
+      "uzbekReading": "Vassamaaa'i vattaariq.",
+      "uzbekTranslation": "Osmon bilan qasam va toriq bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+      "uzbekReading": "Va maaa adraaka mattaariq.",
+      "uzbekTranslation": "Toriq nimaligini senga ne bildirdi?"
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "النَّجْمُ الثَّاقِبُ",
+      "uzbekReading": "Annajmus saaqib.",
+      "uzbekTranslation": "U nur sochib turuvchi yulduzdir."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+      "uzbekReading": "In kullu nafsil lammaa 'alaihaa haafiz.",
+      "uzbekTranslation": "Hech bir jon yo'qki, uning hifz qilib turuvchisi bo'lmasa."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+      "uzbekReading": "Fal yanzuril insaanu mimma xuliq.",
+      "uzbekTranslation": "Inson nimadan yaralganiga nazar solsin."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+      "uzbekReading": "Xuliqa mim maaa'in daafiq.",
+      "uzbekTranslation": "U otilib chiquvchi suvdan yaratilgandir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+      "uzbekReading": "Yaxruju mim bainissulbi vat taraaa'ib.",
+      "uzbekTranslation": "U (suv) sulb (umurtqa) va taroib (ko'krak suyagi) orasidan chiqadir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+      "uzbekReading": "Innahuu 'alaa raj'ihiy laqaadir.",
+      "uzbekTranslation": "Albatta U zot uni qayta tiriltirishga qodirdir."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "يَوْمَ تُبْلَى السَّرَائِرُ",
+      "uzbekReading": "Yavma tublas saraaa'ir.",
+      "uzbekTranslation": "Sirlar fosh bo'ladigan kundadir."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+      "uzbekReading": "Famaa lahuu min quvwatinw va laa naasir.",
+      "uzbekTranslation": "Bas,."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+      "uzbekReading": "Vassamaaa'i zaatir raj'.",
+      "uzbekTranslation": "Qaytuvchi."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+      "uzbekReading": "Val ardi zaatis sad'.",
+      "uzbekTranslation": "Yorib chiquvchi egasi bo'lgan yer bilan qasam."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+      "uzbekReading": "Innahuu laqavlun fasl.",
+      "uzbekTranslation": "Albatta u(Qur'on) ajratuvchi so'zdir."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "وَمَا هُوَ بِالْهَزْلِ",
+      "uzbekReading": "Va maa huva bil hazl.",
+      "uzbekTranslation": "Va u hazil emasdir."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+      "uzbekReading": "Innahum yakiyduuna kaidaa.",
+      "uzbekTranslation": "Albatta ular hiyla-nayrang qilarlar."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "وَأَكِيدُ كَيْدًا",
+      "uzbekReading": "Va akiydu kaidaa.",
+      "uzbekTranslation": "Va Men ham hiyla qilurman."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+      "uzbekReading": "Famahhilil kaafiriyna amhilhum ruvaidaa.",
+      "uzbekTranslation": "Muhlat ber kofirlarga, ularga ozgina muhlat ber."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "surahNumber": 102,
+  "surahName": "At-Takaathur",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "أَلْهَاكُمُ التَّكَاثُرُ",
+      "uzbekReading": "Al haaku mut takasur.",
+      "uzbekTranslation": "Kimniki ko'p sizni mashg'ul qildi."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+      "uzbekReading": "Hatta zurtumul-maqaabir.",
+      "uzbekTranslation": "To qabrlarni ziyorat qilguningizcha."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "uzbekReading": "Kalla savfa ta'lamuun.",
+      "uzbekTranslation": "Yo'q! Sizlar tezda bilasizlar."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "uzbekReading": "Summa kalla savfa ta'lamuun.",
+      "uzbekTranslation": "Yana yo'q! Sizlar tezda bilasizlar."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+      "uzbekReading": "Kalla law ta'lamuuna 'ilmal yaqiyn.",
+      "uzbekTranslation": "Yo'q! Agar sizlar aniq ilm ila bilganingizda edi."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "لَتَرَوُنَّ الْجَحِيمَ",
+      "uzbekReading": "Latara-vun nal jahiym.",
+      "uzbekTranslation": "Albatta, jahannamni ko'rasizlar."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+      "uzbekReading": "Summa latara vunnaha 'ainal yaqiyn.",
+      "uzbekTranslation": "Va yana, albatta, uni ishonch ko'zi bilan ko'rasizlar."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+      "uzbekReading": "Summa latus alunna yauma-izin 'anin na'iym.",
+      "uzbekTranslation": "So'ngra o'sha kunda, albatta, berilgan ne'matlardan so'ralasizlar."
+    }
+  ]
+}

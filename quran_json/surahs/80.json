@@ -1,0 +1,259 @@
+{
+  "surahNumber": 80,
+  "surahName": "Abasa",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "عَبَسَ وَتَوَلَّىٰ",
+      "uzbekReading": "'Abasa va tavallaa.",
+      "uzbekTranslation": "Aftini burishtirdi va yuz o'girdi."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "أَنْ جَاءَهُ الْأَعْمَىٰ",
+      "uzbekReading": "An jaa-ahul 'a-maa.",
+      "uzbekTranslation": "Ko'zi ko'r kishi huzuriga kelganda."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+      "uzbekReading": "Va maa yudriyka la'allahu yaz zakkaa.",
+      "uzbekTranslation": "Qayerdan bilasan, ehtimol, u poklanar."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+      "uzbekReading": "Au yaz zak karu fatanfa 'ahuz zikraa.",
+      "uzbekTranslation": "Yoki nasihat olar va mav'iza unga manfaat berar."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "أَمَّا مَنِ اسْتَغْنَىٰ",
+      "uzbekReading": "Amma manis tag'naa.",
+      "uzbekTranslation": "Ammo istig'no qilganga bo'lsa..."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "فَأَنْتَ لَهُ تَصَدَّىٰ",
+      "uzbekReading": "Fa-anta lahu tasaddaa.",
+      "uzbekTranslation": "Sen u tomonga intilasan."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "uzbekReading": "Va ma 'alaika allaa yaz zakka.",
+      "uzbekTranslation": "U poklanmasa, seni hech kim malomat qilmas."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+      "uzbekReading": "Va amma man jaa-aka yas'a.",
+      "uzbekTranslation": "Ammo huzuringga shoshilib kelgan."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَهُوَ يَخْشَىٰ",
+      "uzbekReading": "Vahuva yaxshaa,.",
+      "uzbekTranslation": "Va (Allohdan) qo'rqqan holda bo'lgandan esa..."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+      "uzbekReading": "Fa-anta 'anhu talah haa.",
+      "uzbekTranslation": "Bas, Sen undan mashg'ul bo'lasan."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+      "uzbekReading": "Kalla innaha tazkirah.",
+      "uzbekTranslation": "Yo'q! Albatta u(oyat)lar eslatmadir."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "فَمَنْ شَاءَ ذَكَرَهُ",
+      "uzbekReading": "Faman shaa a zakarah.",
+      "uzbekTranslation": "Kim xohlasa uni eslaydir."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "فِي صُحُفٍ مُكَرَّمَةٍ",
+      "uzbekReading": "Fi suhufim mukar rama,.",
+      "uzbekTranslation": "Hurmatlangan sahifalardadir."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+      "uzbekReading": "Marfuu'atim mutah hara,.",
+      "uzbekTranslation": "Oliy qadardirlar, poklangandirlar."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "بِأَيْدِي سَفَرَةٍ",
+      "uzbekReading": "Bi'aidiy safara.",
+      "uzbekTranslation": "Elchi(farishta)lar qo'llaridadir."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "كِرَامٍ بَرَرَةٍ",
+      "uzbekReading": "Kiraamim bararah.",
+      "uzbekTranslation": "Ular hurmatlangan va o'ta yaxshidirlar."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+      "uzbekReading": "Qutilal-insanu maa akfarah.",
+      "uzbekTranslation": "(Kofir) insonga la'nat bo'lsin, uning kofirligi qandoq shiddatli bo'ldi."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+      "uzbekReading": "Min aiyyi shai-in Xalaq.",
+      "uzbekTranslation": "Uni qaysi narsadan yaratdi?"
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+      "uzbekReading": "Min nutfah; xalaqahu faqad-darah.",
+      "uzbekTranslation": "Nutfadan yaratdi. Uni yaratdi va unni o'lchovli qildi."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+      "uzbekReading": "Summas sabiyla yas-sarah.",
+      "uzbekTranslation": "So'ngra chiqish yo'lini oson qildi."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+      "uzbekReading": "Summa amatahu fa-aqbarah.",
+      "uzbekTranslation": "So'ngra o'ldirdi va qabrga kiritdi."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+      "uzbekReading": "Summa iza shaa-a ansharah.",
+      "uzbekTranslation": "So'ngra qachon xohlasa, uni qayta tiriltiradi."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+      "uzbekReading": "Kalla lamma yaqdi maa amarah.",
+      "uzbekTranslation": "Yo'q undoq emas! U o'ziga U zot qilgan amrni bajarmadi."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+      "uzbekReading": "Falyanzuril insanu ilaa ta-amih.",
+      "uzbekTranslation": "Inson o'z taomiga nazar solsin."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+      "uzbekReading": "Anna sabab nalmaa-a sabba.",
+      "uzbekTranslation": "Albatta, Biz suvni rosa quyib qo'ydik."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+      "uzbekReading": "Summa sha qaqnal-arda shaqqa.",
+      "uzbekTranslation": "So'ngra yerni o'ziga xos yordik."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+      "uzbekReading": "Fa ambatna fiyha habba.",
+      "uzbekTranslation": "Biz unda don o'stirib qo'ydik."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "وَعِنَبًا وَقَضْبًا",
+      "uzbekReading": "Va 'inabaw-va qadba.",
+      "uzbekTranslation": "Va uzum va ko'klarni ham."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "وَزَيْتُونًا وَنَخْلًا",
+      "uzbekReading": "Va zaituunaw vanax la'.",
+      "uzbekTranslation": "Va zaytun va xurmolarni ham."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "وَحَدَائِقَ غُلْبًا",
+      "uzbekReading": "Va hadaa-iqa g'ulba.",
+      "uzbekTranslation": "Va tig'iz bog'larni ham."
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "وَفَاكِهَةً وَأَبًّا",
+      "uzbekReading": "Va faki hataw-va abba.",
+      "uzbekTranslation": "Va mevalarni va o't-o'lanlarni ham."
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+      "uzbekReading": "Mata'al-lakum va li-an'amikum.",
+      "uzbekTranslation": "Sizlarga va chorvalaringizga manfaat bo'lsin, deb."
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+      "uzbekReading": "Faiza jaa-atis saaxah.",
+      "uzbekTranslation": "Vaqtiki quloqlarni kar qiluvchi ovoz kelsa."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+      "uzbekReading": "Yauma yafir-rul mar-u min axiyh.",
+      "uzbekTranslation": "U kunda kishi qochadir; o'z aka-ukasidan."
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "وَأُمِّهِ وَأَبِيهِ",
+      "uzbekReading": "Va ummihiy va abiyh.",
+      "uzbekTranslation": "Va onasi va otasidan."
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "وَصَاحِبَتِهِ وَبَنِيهِ",
+      "uzbekReading": "Va sahi batihiy va baniyh.",
+      "uzbekTranslation": "Va xotini va bola-chaqasidan."
+    },
+    {
+      "ayahNumber": 37,
+      "arabic": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "uzbekReading": "Likul limri-im-minuhm yaumaa-izin shaa nuy-yug'niyh.",
+      "uzbekTranslation": "U kunda ulardan har bir shaxsni ovora qiluvchi o'z ishi bor."
+    },
+    {
+      "ayahNumber": 38,
+      "arabic": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+      "uzbekReading": "Vujuu huny-yauma-izim-musfira;.",
+      "uzbekTranslation": "U kunda porloq chehralar bor."
+    },
+    {
+      "ayahNumber": 39,
+      "arabic": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+      "uzbekReading": "Dahi katum mustab shirah.",
+      "uzbekTranslation": "Ular kulgu bilan to'la, yetgan xushxabardan xursand."
+    },
+    {
+      "ayahNumber": 40,
+      "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "uzbekReading": "Va vujuuhuy yauma-izin 'alaiha g'abar a.",
+      "uzbekTranslation": "U kunda g'ubor bosgan chehralar bor."
+    },
+    {
+      "ayahNumber": 41,
+      "arabic": "تَرْهَقُهَا قَتَرَةٌ",
+      "uzbekReading": "Tarhaquha qatarah.",
+      "uzbekTranslation": "Ustini zulmat qoplagan."
+    },
+    {
+      "ayahNumber": 42,
+      "arabic": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+      "uzbekReading": "Ulaa-ika humul-kafa ratul-fajarah.",
+      "uzbekTranslation": "Ular, ana o'shalar, kofirlar va fojirlardir."
+    }
+  ]
+}

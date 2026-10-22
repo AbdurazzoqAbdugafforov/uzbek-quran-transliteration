@@ -1,0 +1,55 @@
+{
+  "surahNumber": 95,
+  "surahName": "At-Tin",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَالتِّينِ وَالزَّيْتُونِ",
+      "uzbekReading": "Vat tiyni vaz zaituun.",
+      "uzbekTranslation": "Anjir bilan qasam va zaytun bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَطُورِ سِينِينَ",
+      "uzbekReading": "Va tuuri siniyn.",
+      "uzbekTranslation": "Va Turi Siyno bilan qasam."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+      "uzbekReading": "Va haazal balad-il amiyn.",
+      "uzbekTranslation": "Va mana bu, eminlik yurti (Makka) bilan qasam."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+      "uzbekReading": "Laqad xalaqnal insaana fiy ahsani taqviym.",
+      "uzbekTranslation": "Batahqiq, Biz insonni eng yaxshi suratda yaratdik."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+      "uzbekReading": "Summa ra dad naahu asfala saafiliyn.",
+      "uzbekTranslation": "So'ngra uni asfala safilinga qaytardik."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "uzbekReading": "Ill-lal laziyna aamanuu va 'amilus saalihaati; falahum ajrun g'airu mamnuun.",
+      "uzbekTranslation": "Magar iymon keltirganlar va yaxshi amallar qilganlarga minnatsiz va uzluksiz ajrlar bordir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+      "uzbekReading": "Fama yu kaz zibuka b'adu bid diyn.",
+      "uzbekTranslation": "Bas, seni nima oxiratni yolg'onga chiqarishga olib keladi (ey kofir)?"
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+      "uzbekReading": "Alai sal laahu bi-ahkamil haakimiyn.",
+      "uzbekTranslation": "Alloh hukm qilguvchilarning eng hikmatlisi emasmi?!"
+    }
+  ]
+}

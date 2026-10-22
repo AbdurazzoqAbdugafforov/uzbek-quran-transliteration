@@ -1,0 +1,73 @@
+{
+  "surahNumber": 101,
+  "surahName": "Al-Qaari'a",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "الْقَارِعَةُ",
+      "uzbekReading": "Al qaari'ah.",
+      "uzbekTranslation": "Al-Qori'atu."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "مَا الْقَارِعَةُ",
+      "uzbekReading": "Mal qaariah.",
+      "uzbekTranslation": "Qori'atu nima?"
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+      "uzbekReading": "Va maa adraaka mal qaari'ah.",
+      "uzbekTranslation": "Qori'at qandoq narsa ekanligini senga nima bildirdi?"
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "uzbekReading": "Yauma ya kuunun naasu kal farashil mabsuus.",
+      "uzbekTranslation": "U kunda odamlar to'zib ketgan kapalakka o'xshab qolarlar."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+      "uzbekReading": "Va ta kuunul jibalu kal 'ihnil manfuush.",
+      "uzbekTranslation": "Va tog'lar titilgan junga o'xshab qolar."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+      "uzbekReading": "Fa-amma man saqulat mava ziynuh.",
+      "uzbekTranslation": "Kimning torozusi og'ir kelsa..."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+      "uzbekReading": "Fahuva fiy 'ishatir raadiyah.",
+      "uzbekTranslation": "Bas, u rozilik hayotidadir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "uzbekReading": "Va amma man xaffat mava ziynuh.",
+      "uzbekTranslation": "Va ammo kimning tarozusi yengil kelsa..."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "فَأُمُّهُ هَاوِيَةٌ",
+      "uzbekReading": "Fa-ummuhu haaviyah.",
+      "uzbekTranslation": "Bas, uning onasi do'zaxdir."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+      "uzbekReading": "Va maa adraaka maa hiyah.",
+      "uzbekTranslation": "U qandoq narsa ekanligini senga nima bildirdi?"
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "نَارٌ حَامِيَةٌ",
+      "uzbekReading": "Naarun hamiyah.",
+      "uzbekTranslation": "U qattiq qizigan o'tdir."
+    }
+  ]
+}

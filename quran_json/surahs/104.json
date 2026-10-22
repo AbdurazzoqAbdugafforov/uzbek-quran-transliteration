@@ -1,0 +1,61 @@
+{
+  "surahNumber": 104,
+  "surahName": "Al-Humaza",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+      "uzbekReading": "Vai lul-li kulli hu mazatil-lumaza.",
+      "uzbekTranslation": "Har bir obro' to'kuvchi va ayblovchiga «vayl» bo'lsin."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+      "uzbekReading": "Al-lazi jama'a maalaw va'addadah.",
+      "uzbekTranslation": "U mol jamladi va uni sanab turdi."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+      "uzbekReading": "Yahsabu anna maalahu axladah.",
+      "uzbekTranslation": "U, albatta, uni abadiy qoldirur, deb hisoblar."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+      "uzbekReading": "Kalla layum ba zanna fil hutamah.",
+      "uzbekTranslation": "Yo'q! Albatta u «hutoma»ga xor-zor etib tashlanar."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+      "uzbekReading": "Va maa adraaka mal-hutamah.",
+      "uzbekTranslation": "«Hutoma» qandoq narsa ekanini senga nima bildirar?"
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "نَارُ اللَّهِ الْمُوقَدَةُ",
+      "uzbekReading": "Narul laahil-muuqada.",
+      "uzbekTranslation": "U Allohning shiddatli, o'chmas olovidir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+      "uzbekReading": "Al latiy tat tali'u 'alalafidah.",
+      "uzbekTranslation": "Qalbgacha yetib boradir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+      "uzbekReading": "Innaha 'alaihim muusada.",
+      "uzbekTranslation": "Albatta, u ularni ustidan qoplangandir."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "فِي عَمَدٍ مُمَدَّدَةٍ",
+      "uzbekReading": "Fiy 'amadim-mu mad dadah.",
+      "uzbekTranslation": "Uzun-uzun ustunlarga bog'langandirlar."
+    }
+  ]
+}

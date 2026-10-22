@@ -1,0 +1,223 @@
+{
+  "surahNumber": 83,
+  "surahName": "Al-Mutaffifin",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَيْلٌ لِلْمُطَفِّفِينَ",
+      "uzbekReading": "Vailul lil mutaffifiyn.",
+      "uzbekTranslation": "Vayl."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+      "uzbekReading": "Allaziyna izak taaluu 'alan naasi yastavfuun.",
+      "uzbekTranslation": "Ular odamlardan narsa o'lchab olsalar, to'liq olarlar."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
+      "uzbekReading": "Va izaa kaaluuhum aw vazanuuhum yuxsiruun.",
+      "uzbekTranslation": "Va agar odamlarga o'lchab yoki tortib bersalar, kamaytirarlar."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ",
+      "uzbekReading": "Alaa yazunnu ulaaa'ika annahum mab'uusuun.",
+      "uzbekTranslation": "Ana shular, albatta, qayta tiriltirilishlarini o'ylamaydilarmi?"
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "لِيَوْمٍ عَظِيمٍ",
+      "uzbekReading": "Li Yavmin 'Aziym.",
+      "uzbekTranslation": "Ulug' bir kunda."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+      "uzbekReading": "Yavma yaquumun naasu li Robbil 'aalamiyn.",
+      "uzbekTranslation": "U kunda, odamlar olamlar Robbisi huzurida tik turarlar."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+      "uzbekReading": "Kallaaa inna kitaabal fujjaari lafiy Sijjiyn.",
+      "uzbekTranslation": "Yo'q! Albatta fojirlarlarning kitobi «sijjin»dadir."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+      "uzbekReading": "Va maa adraaka maa Sijjiyn.",
+      "uzbekTranslation": "«Sijjin» qanday narsa ekanini senga nima bildirdi?!"
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "كِتَابٌ مَرْقُومٌ",
+      "uzbekReading": "Kitaabum marquum.",
+      "uzbekTranslation": "U yozilgan kitobdur."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "uzbekReading": "Vailuny yavma'izil lil mukazzibiyn.",
+      "uzbekTranslation": "O'sha kunda yolg'onga chiqaruvchilarga vayl bo'lsin!"
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+      "uzbekReading": "Allaziyna yukazzibuuna bi yavmid diyn.",
+      "uzbekTranslation": "Ular jazo kunini yolg'onga chiqararlar."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "uzbekReading": "Va maa yukazzibu bihiye illaa kullu mu'tadin asiym.",
+      "uzbekTranslation": "U kunni haddan oshuvchi va o'ta gunohkorlardan boshqalar yolg'onga chiqarmaslar."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "uzbekReading": "Izaa tutlaa'alaihi aayaatunaa qaala asaatiyrul avwaliyn.",
+      "uzbekTranslation": "Qachon unga oyatlarimiz tilovat qilinsa, «avalgilarning afsonalari», der."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+      "uzbekReading": "Kallaa bal raana 'alaa quluubihim maa kaanuu yaksibuun.",
+      "uzbekTranslation": "Yo'q! Ularning qilgan kasblari qalblariga mog'or bo'lib o'rnashib qolgan, xolos."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ",
+      "uzbekReading": "Kallaaa innahum 'ar Robbihim yavma'izil lamah juubuun.",
+      "uzbekTranslation": "Yo'q! Albatta, ular o'sha kunda o'z Robbilarini ko'rishdan to'silarlar."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+      "uzbekReading": "Summa innahum lasaa lul jahiym.",
+      "uzbekTranslation": "So'ngra ular albatta jahiymga kiruvchidirlar."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "uzbekReading": "Summa yuqaalu haazal laziy kuntum bihiy tukazzibuun.",
+      "uzbekTranslation": "So'ngra, mana bu, sizlar yolg'onga chiqarib yurgan narsa, deyilar."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+      "uzbekReading": "Kallaaa inna kitaabal abraari lafiy'Illiyyiyn.",
+      "uzbekTranslation": "Yo'q! Albatta abrorlarning kitobi «Illiyyun»dadir."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+      "uzbekReading": "Va maaa adraaka maa 'Illiyyuun.",
+      "uzbekTranslation": "«Illiyyun» qandoq narsa ekanini senga nima bildirdi?!"
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "كِتَابٌ مَرْقُومٌ",
+      "uzbekReading": "Kitaabum marquum.",
+      "uzbekTranslation": "U yozilgan kitobdur."
+    },
+    {
+      "ayahNumber": 21,
+      "arabic": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+      "uzbekReading": "Yashhadu hul muqarra buun.",
+      "uzbekTranslation": "Unga muqarrab(farishta)lar shohid bo'larlar."
+    },
+    {
+      "ayahNumber": 22,
+      "arabic": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "uzbekReading": "Innal abraara lafiy Na'iym.",
+      "uzbekTranslation": "Albatta, abrorlar jannati nayimdadirlar."
+    },
+    {
+      "ayahNumber": 23,
+      "arabic": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+      "uzbekReading": "'Alal araaa'iki yanzuruun.",
+      "uzbekTranslation": "Pardali baland so'rilar ustida nazar solib turarlar."
+    },
+    {
+      "ayahNumber": 24,
+      "arabic": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+      "uzbekReading": "Ta'rifu fiy vujuuhihim nadratan na'iym.",
+      "uzbekTranslation": "Ularning chehralaridan jannat ravnaqini bilib olarsan."
+    },
+    {
+      "ayahNumber": 25,
+      "arabic": "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ",
+      "uzbekReading": "Yusqavna mir rahiyqim maxtuum.",
+      "uzbekTranslation": "Ular muhrlangan, nihoyatda pok, sharobdan icharlar."
+    },
+    {
+      "ayahNumber": 26,
+      "arabic": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+      "uzbekReading": "Xitaamuhuu misk; va fiy zaalika falyatanaafasil Mutanaafisuun.",
+      "uzbekTranslation": "U(sharob)ning xotimasi miskdir. Va shu narsa uchun musobaqa qiluvchilar musobaqa qilsinlar."
+    },
+    {
+      "ayahNumber": 27,
+      "arabic": "وَمِزَاجُهُ مِنْ تَسْنِيمٍ",
+      "uzbekReading": "Va mizaajuhuu min Tasniym.",
+      "uzbekTranslation": "U(sharob)ning aralashmasi «tasnim»dandir."
+    },
+    {
+      "ayahNumber": 28,
+      "arabic": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+      "uzbekReading": "'Ainaiy yashrabu bihal muqarrabuun.",
+      "uzbekTranslation": "U(Tasnim) bir buloqdirki, undan muqarrablar icharlar."
+    },
+    {
+      "ayahNumber": 29,
+      "arabic": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+      "uzbekReading": "Innal laziyna ajramuu kaanuu minal laziyna aamanuu yazakuun.",
+      "uzbekTranslation": "Albatta jinoyat qilganlar iymon keltirganlar ustidan kular edilar."
+    },
+    {
+      "ayahNumber": 30,
+      "arabic": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+      "uzbekReading": "Va izaa marruu bihim yatag'aamazuun.",
+      "uzbekTranslation": "Agar ul."
+    },
+    {
+      "ayahNumber": 31,
+      "arabic": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+      "uzbekReading": "Va izan qalabuuo ilaaa ahlihimun qalabuu fakihiyn.",
+      "uzbekTranslation": "Agar u."
+    },
+    {
+      "ayahNumber": 32,
+      "arabic": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
+      "uzbekReading": "Va izaa ra avhum qaaluuo inna haaa'ulaaa'i ladaaal luun.",
+      "uzbekTranslation": "Va agar u."
+    },
+    {
+      "ayahNumber": 33,
+      "arabic": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+      "uzbekReading": "Va maaa ursiluu 'alaihim haafiziyn.",
+      "uzbekTranslation": "Holbuki, ular a."
+    },
+    {
+      "ayahNumber": 34,
+      "arabic": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+      "uzbekReading": "Fal yavmal laziyna aamanuu minal kuffaari yazakuun.",
+      "uzbekTranslation": "Endi, bu Kunda iymon keltirganlar kofirlar ustidan kularlar."
+    },
+    {
+      "ayahNumber": 35,
+      "arabic": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+      "uzbekReading": "'Alal araaa'iki yanzuruun.",
+      "uzbekTranslation": "Pardali, baland so'rilar ustida nazar solib turarlar."
+    },
+    {
+      "ayahNumber": 36,
+      "arabic": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+      "uzbekReading": "Hal suvwibal kuffaaru maa kaanuu yaf'aluun.",
+      "uzbekTranslation": "Kofirlar qilgan ishlarining «savobini» olar mikanlar?!"
+    }
+  ]
+}

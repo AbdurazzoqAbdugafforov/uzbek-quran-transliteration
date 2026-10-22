@@ -1,0 +1,37 @@
+{
+  "surahNumber": 105,
+  "surahName": "Al-Fil",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "uzbekReading": "Alam tara kaifa fa'ala Robbuka bi ashaabil fiyl.",
+      "uzbekTranslation": "Robbing fil sohiblarini qandoq qilganini bilmadingmi?"
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "uzbekReading": "Alam yaj'al kai dahum fiy tad liyl.",
+      "uzbekTranslation": "Ularning makru hiylasini zoye ketkazmadimi?"
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "uzbekReading": "Va arsala 'alaihim tairan abaabiyl.",
+      "uzbekTranslation": "Va ularning ustiga to'p-to'p qushlarni yubormadimi?"
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+      "uzbekReading": "Tar miyhim bi hi jaaratim min sij jiyl.",
+      "uzbekTranslation": "Loydan pishirilgan toshlarni otadiganlarni?"
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+      "uzbekReading": "Faja 'alahum ka'asfim m'akuul.",
+      "uzbekTranslation": "Bas, ularni qurt yeb tashlagan o'simlikka o'xshatib yubormadimi?. Muhammad alayhissalom «Fil yili»da tug'ilganlar deyilishining sababi ham shu."
+    }
+  ]
+}

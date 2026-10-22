@@ -1,0 +1,31 @@
+{
+  "surahNumber": 112,
+  "surahName": "Al-Ikhlaas",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+      "uzbekReading": "Qul huval laahu ahad.",
+      "uzbekTranslation": "Ayt: «U Alloh yagonadir»."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "اللَّهُ الصَّمَدُ",
+      "uzbekReading": "Allah hus-samad.",
+      "uzbekTranslation": "Alloh somaddir."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "uzbekReading": "Lam yalid va lam yuulad.",
+      "uzbekTranslation": "U tug'magan va tug'ilmagan."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "uzbekReading": "Va lam yakul-lahu kufuvan ahad.",
+      "uzbekTranslation": "Va Unga hech kim teng bo'lmagan."
+    }
+  ]
+}

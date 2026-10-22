@@ -1,0 +1,37 @@
+{
+  "surahNumber": 97,
+  "surahName": "Al-Qadr",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
+      "uzbekReading": "Innaa anzalnaahu fiy lailatil qadr.",
+      "uzbekTranslation": "Albatta, Biz u."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
+      "uzbekReading": "Va maa adraaka ma lailatul qadr.",
+      "uzbekTranslation": "Laylatul Qadr qandoq narsa ekanini senga nima bildirdi?"
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
+      "uzbekReading": "Lailatul qadri xairum min alfiy shahr.",
+      "uzbekTranslation": "Laylatul Qadr ming oydin yaxshiroqdir."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
+      "uzbekReading": "Tanaz zalul malaa-ikatu var ruuhu fiyha bi izni-rab bihim min kulli amr.",
+      "uzbekTranslation": "Unda farishtalar va Ruh Robbilari izni bilan barcha ishlar uchun tushadir."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
+      "uzbekReading": "Salaamun hiya hattaa mat la'il fajr.",
+      "uzbekTranslation": "U to tong otguncha salom bo'lib turadir."
+    }
+  ]
+}

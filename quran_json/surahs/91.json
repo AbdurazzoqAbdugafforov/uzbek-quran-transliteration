@@ -1,0 +1,97 @@
+{
+  "surahNumber": 91,
+  "surahName": "Ash-Shams",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "وَالشَّمْسِ وَضُحَاهَا",
+      "uzbekReading": "Vash shamsi va duhaa haa.",
+      "uzbekTranslation": "Quyosh bilan va uning ziyosi bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَالْقَمَرِ إِذَا تَلَاهَا",
+      "uzbekReading": "Val qamari izaa talaa haa.",
+      "uzbekTranslation": "Uning ortidan keladigan Oy bilan qasam."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+      "uzbekReading": "Vannahaari izaa jallaa haa.",
+      "uzbekTranslation": "Va u."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+      "uzbekReading": "Vallaili izaa yag'shaa haa.",
+      "uzbekTranslation": "Va u."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+      "uzbekReading": "Vassamaaa'i va maa banaahaa.",
+      "uzbekTranslation": "Va osmon bilan va uning bino qilinishi bilan qasam."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "وَالْأَرْضِ وَمَا طَحَاهَا",
+      "uzbekReading": "Val ardi va maa tahaahaa.",
+      "uzbekTranslation": "Va yer bilan va uning to'shalishi bilan qasam."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "وَنَفْسٍ وَمَا سَوَّاهَا",
+      "uzbekReading": "Va nafsinw va maa savwaahaa.",
+      "uzbekTranslation": "Va nafs bilan va uning bekam-ko'st qilib yaratilishi bilan qasam."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+      "uzbekReading": "Fa-alhamahaa fujuurahaa va taqvaahaa.",
+      "uzbekTranslation": "Bas, u."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+      "uzbekReading": "Qad aflaha man zakkaahaa.",
+      "uzbekTranslation": "Batahqiq, kim u."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+      "uzbekReading": "Va qad xaaba man dassaahaa.",
+      "uzbekTranslation": "Va batahqiq, kim u."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+      "uzbekReading": "Kazzabat Samuudu bi tag'vaahaaa.",
+      "uzbekTranslation": "Samud qavmi o'z tug'yoni ila."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "إِذِ انْبَعَثَ أَشْقَاهَا",
+      "uzbekReading": "Izim ba'asa ashqaahaa.",
+      "uzbekTranslation": "Vaqtiki,."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+      "uzbekReading": "Faqaala lahum Rasuulul laahi naaqatal laahi va suqiyaahaa.",
+      "uzbekTranslation": "Bas, ularga Allohning Rasuli «Allohning tuyasiga va uning suviga tegmanglar», dedi."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+      "uzbekReading": "Fakazzabuuhu fa'aqaruuhaa fadamdama 'alaihim Robbuhum bizambihim fasaw vaahaa.",
+      "uzbekTranslation": "Bas, uni yolg'onchiga chiqarishdi va ul(tuyani) so'yishdi."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "وَلَا يَخَافُ عُقْبَاهَا",
+      "uzbekReading": "Va laa yaxaafu'uqbaahaa.",
+      "uzbekTranslation": "Va U zot bu ishning oqibatidan qo'rqmaydi."
+    }
+  ]
+}

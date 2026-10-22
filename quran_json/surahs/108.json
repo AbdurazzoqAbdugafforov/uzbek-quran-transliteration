@@ -1,0 +1,25 @@
+{
+  "surahNumber": 108,
+  "surahName": "Al-Kawthar",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "uzbekReading": "Innaa a'taina kal kausar.",
+      "uzbekTranslation": "Albatta, Biz senga Kavsarni berdik."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "uzbekReading": "Fa salli li Robbika vanhar.",
+      "uzbekTranslation": "Bas, Robbingga namoz o'qi va jonlik so'y."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "uzbekReading": "Inna shani-aka huval abtar.",
+      "uzbekTranslation": "Albatta, seni yomon ko'rib, ayblovchining orqasi kesikdir."
+    }
+  ]
+}

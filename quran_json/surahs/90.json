@@ -1,0 +1,127 @@
+{
+  "surahNumber": 90,
+  "surahName": "Al-Balad",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+      "uzbekReading": "Laaa uqsimu bihaazal balad.",
+      "uzbekTranslation": "Mana shu shahar bilan qasam."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+      "uzbekReading": "Va anta hillum bihaazal balad.",
+      "uzbekTranslation": "Sen muqim turgan bu shaharla."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
+      "uzbekReading": "Va vaalidinw va maa valad.",
+      "uzbekTranslation": "Va volid va undan tarqagan valadlar bilan qasam."
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+      "uzbekReading": "Laqad xalaqnal insaana fiy kabad.",
+      "uzbekTranslation": "Batahqiq, Biz insonni mashaqqatda yaratdik."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "uzbekReading": "Ayahsabu al-lai yaqdira 'alaihi ahad.",
+      "uzbekTranslation": "U inson unga hech kimning kuchi yetmaydi, deb hisoblaydimi?"
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+      "uzbekReading": "Yaquulu ahlaktu maalal lubadaa.",
+      "uzbekTranslation": "U, ko'plab mol-dunyo nafaqa qildim, deydir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
+      "uzbekReading": "Ayahsabu al lam yarahuuo ahad.",
+      "uzbekTranslation": "U inson uni birov ko'rmadi, deb o'ylaydimi?"
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ",
+      "uzbekReading": "Alam naj'al lahuu 'aynayn.",
+      "uzbekTranslation": "Biz unga ikki ko'zni bermadikmi?"
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
+      "uzbekReading": "Va lisaananw va shafatayn.",
+      "uzbekTranslation": "Va tilni va ikki labni (bermadikmi?)."
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+      "uzbekReading": "Va hadaynaahun najdayn.",
+      "uzbekTranslation": "Va Biz uni ikki:."
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+      "uzbekReading": "Falaq tahamal-'aqabah.",
+      "uzbekTranslation": "Bas, u dovon oshib o'tmadi."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+      "uzbekReading": "Va maaa adraaka mal'aqabah.",
+      "uzbekTranslation": "Dovon qandoq narsa ekanini senga nima bildirdi?"
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "فَكُّ رَقَبَةٍ",
+      "uzbekReading": "Fakku raqabah.",
+      "uzbekTranslation": "U qul ozod qilishdir."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+      "uzbekReading": "Aw it'aamun fiy yavmin ziy masg'abah.",
+      "uzbekTranslation": "Yoki ocharchilik kunida taom berishdir."
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "uzbekReading": "Yatiyman zaa maqrabah.",
+      "uzbekTranslation": "Qarindosh yetimlarga."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "uzbekReading": "Aw miskiynan zaa matrabah.",
+      "uzbekTranslation": "Yoki tuproqqa qorigan miskinlarga."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+      "uzbekReading": "Summa kaana minal laziyna aamanuu va tavaasaw bissabri va tavaasaw bilmarhamah.",
+      "uzbekTranslation": "So'ngra iymon keltirganlar va bir-birini sabrga, mehr-shafqatga chaqirganlar bo'lsa."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+      "uzbekReading": "Ulaaa'ika As-haabul maimanah.",
+      "uzbekTranslation": "Ana o'shalar o'ng tomon egalaridir."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+      "uzbekReading": "Vallaziyna kafaruu bi aayaatinaa hum as-haabul Mash'amah.",
+      "uzbekTranslation": "Oyatlarimizga kufr keltirganlar, ular, chap tomon egalaridir."
+    },
+    {
+      "ayahNumber": 20,
+      "arabic": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+      "uzbekReading": "Alaihim naarum mu'sadah.",
+      "uzbekTranslation": "Ularni chiqib bo'lmaydigan o't-olov o'rab olgandir."
+    }
+  ]
+}

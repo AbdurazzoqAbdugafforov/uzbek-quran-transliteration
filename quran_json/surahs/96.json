@@ -1,0 +1,121 @@
+{
+  "surahNumber": 96,
+  "surahName": "Al-Alaq",
+  "juzNumber": 30,
+  "ayahs": [
+    {
+      "ayahNumber": 1,
+      "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "uzbekReading": "Iqra bismi rab bikal laziy xalaq.",
+      "uzbekTranslation": "Yaratgan Robbing nomi bilan o'qi."
+    },
+    {
+      "ayahNumber": 2,
+      "arabic": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+      "uzbekReading": "Xalaqal insaana min 'alaq.",
+      "uzbekTranslation": "U insonni alaqdan yaratdi."
+    },
+    {
+      "ayahNumber": 3,
+      "arabic": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+      "uzbekReading": "Iqra va rab bukal akram.",
+      "uzbekTranslation": "O'qi! Va Robbing eng karamlidir!"
+    },
+    {
+      "ayahNumber": 4,
+      "arabic": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+      "uzbekReading": "Al laziy 'allama bil qalam.",
+      "uzbekTranslation": "U qalam bilan ilm o'rgatgandir."
+    },
+    {
+      "ayahNumber": 5,
+      "arabic": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+      "uzbekReading": "'Al lamal insaana ma lam y'alam.",
+      "uzbekTranslation": "U insonga u bilmagan narsani o'rgatdi."
+    },
+    {
+      "ayahNumber": 6,
+      "arabic": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+      "uzbekReading": "Kallaa innal insaana layatg'aa.",
+      "uzbekTranslation": "Yo'q! Albatta inson tug'yonga ketadir."
+    },
+    {
+      "ayahNumber": 7,
+      "arabic": "أَنْ رَآهُ اسْتَغْنَىٰ",
+      "uzbekReading": "Ar-ra aahus tag'naa.",
+      "uzbekTranslation": "O'zini boy ko'rgani uchun."
+    },
+    {
+      "ayahNumber": 8,
+      "arabic": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+      "uzbekReading": "Innna ilaa Robbikar ruj'aa.",
+      "uzbekTranslation": "Albatta, qaytib borish Robbingadir."
+    },
+    {
+      "ayahNumber": 9,
+      "arabic": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+      "uzbekReading": "Ara-aital laziy yanhaa.",
+      "uzbekTranslation": "Qaytarganni ko'rdingmi?!"
+    },
+    {
+      "ayahNumber": 10,
+      "arabic": "عَبْدًا إِذَا صَلَّىٰ",
+      "uzbekReading": "'Abdan iza sallaa.",
+      "uzbekTranslation": "Bandani namoz o'qiyotganida?!"
+    },
+    {
+      "ayahNumber": 11,
+      "arabic": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+      "uzbekReading": "Ara-aita in kana 'alal hudaa.",
+      "uzbekTranslation": "Ayt-chi, agar o'sha hidoyatda bo'lsa."
+    },
+    {
+      "ayahNumber": 12,
+      "arabic": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+      "uzbekReading": "Au amara bit taqvaa.",
+      "uzbekTranslation": "Yoki taqvoga amr qilsa."
+    },
+    {
+      "ayahNumber": 13,
+      "arabic": "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ",
+      "uzbekReading": "Ara-aita in kaz zaba va ta valla.",
+      "uzbekTranslation": "Ayt-chi, o'sha yolg'onga chiqarsa va yuz o'girsa."
+    },
+    {
+      "ayahNumber": 14,
+      "arabic": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ",
+      "uzbekReading": "Alam y'alam bi-an nal lahaa yaraa.",
+      "uzbekTranslation": "Albatta Alloh uni ko'rishini bilmasmi?!"
+    },
+    {
+      "ayahNumber": 15,
+      "arabic": "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+      "uzbekReading": "Kalla la illam yantahi la nasfa'am bin nasiyah.",
+      "uzbekTranslation": "Yo'q! Agar qaytmasa, peshonasidan shiddatla tutamiz."
+    },
+    {
+      "ayahNumber": 16,
+      "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+      "uzbekReading": "Nasiyatin kazi batin xaatiyah.",
+      "uzbekTranslation": "Yolg'onchi, xatokor peshonasidan."
+    },
+    {
+      "ayahNumber": 17,
+      "arabic": "فَلْيَدْعُ نَادِيَهُ",
+      "uzbekReading": "Fal yad'u naadiyah.",
+      "uzbekTranslation": "Bas, o'z to'pini chaqirsin."
+    },
+    {
+      "ayahNumber": 18,
+      "arabic": "سَنَدْعُ الزَّبَانِيَةَ",
+      "uzbekReading": "Sanad 'uz zabaaniyah.",
+      "uzbekTranslation": "Biz ham zaboniyalarni chaqiramiz."
+    },
+    {
+      "ayahNumber": 19,
+      "arabic": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+      "uzbekReading": "Kalla; la tuti'hu vasjud vaqtarib.",
+      "uzbekTranslation": "Yo'q! Sen unga itoat qilma! Sajda qil va qurbat hosil qil."
+    }
+  ]
+}
