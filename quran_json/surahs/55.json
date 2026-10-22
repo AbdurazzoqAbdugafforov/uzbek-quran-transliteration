@@ -27,7 +27,7 @@
     {
       "ayahNumber": 4,
       "arabic": "عَلَّمَهُ الْبَيَانَ",
-      "uzbekReading": "'Allamalhul bayaan.",
+      "uzbekReading": "'Allamahul bayaan.",
       "russianReading": "'Алламахул байан.",
       "uzbekTranslation": "Unga bayonni o'rgatdi."
     },
@@ -55,7 +55,7 @@
     {
       "ayahNumber": 8,
       "arabic": "أَلَّا تَطْغَوْا فِي الْمِيزَانِ",
-      "uzbekReading": "Allaa tatg'aw fil miyzaan.",
+      "uzbekReading": "Allaa tatg'av fil miyzaan.",
       "russianReading": "Алла татгау фиил миизан.",
       "uzbekTranslation": "Tortishda haddan oshmasligingiz uchun."
     },
@@ -76,7 +76,7 @@
     {
       "ayahNumber": 11,
       "arabic": "فِيهَا فَاكِهَةٌ وَالنَّخْلُ ذَاتُ الْأَكْمَامِ",
-      "uzbekReading": "Fiyhaa faakihatunw van naxlu zaatul akmaam.",
+      "uzbekReading": "Fiyhaa faakihatunv van naxlu zaatul akmaam.",
       "russianReading": "Фииха факихатуу уаннахлу затул акмам.",
       "uzbekTranslation": "U(yer)da mevalar va gulkosali xurmolar bor."
     },
@@ -244,7 +244,7 @@
     {
       "ayahNumber": 35,
       "arabic": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِنْ نَارٍ وَنُحَاسٌ فَلَا تَنْتَصِرَانِ",
-      "uzbekReading": "Yursalu 'alaikumaa shuvaazum min naarifiw-va nuhaasun falaa tantasiraan.",
+      "uzbekReading": "Yursalu 'alaikumaa shuvaazum min naarifiv-va nuhaasun falaa tantasiraan.",
       "russianReading": "Йурсалу 'алайкума шууазум мин нариу уанухасун фала тантасиран.",
       "uzbekTranslation": "Ustingizdan o't-cho'g' va tutun yuborilur. Bas, qutula olmassiz."
     },
@@ -272,7 +272,7 @@
     {
       "ayahNumber": 39,
       "arabic": "فَيَوْمَئِذٍ لَا يُسْأَلُ عَنْ ذَنْبِهِ إِنْسٌ وَلَا جَانٌّ",
-      "uzbekReading": "Fa-yavma'izil laa yus'alu 'an zambihiye insunw va laa jaann.",
+      "uzbekReading": "Fa-yavma'izil laa yus'alu 'an zambihiy insunv va laa jaann.",
       "russianReading": "Файаумаизил ла йусалу 'ан занбихи инсуу уала жанн.",
       "uzbekTranslation": "Bas, u kunda ins ham, jin ham gunohidan so'ralmas."
     },
@@ -405,7 +405,7 @@
     {
       "ayahNumber": 58,
       "arabic": "كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ",
-      "uzbekReading": "ka annahunnal yaaquutu val marjaan.",
+      "uzbekReading": "Ka annahunnal yaaquutu val marjaan.",
       "russianReading": "Кааннахуннал йакууту уалмаржан.",
       "uzbekTranslation": "U(hur)lar xuddi yoqut va marjonga o'xsharlar."
     },
@@ -475,7 +475,7 @@
     {
       "ayahNumber": 68,
       "arabic": "فِيهِمَا فَاكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
-      "uzbekReading": "Fiyhimaa faakihatunw va naxlunw va rummaan.",
+      "uzbekReading": "Fiyhimaa faakihatunv va naxlunv va rummaan.",
       "russianReading": "Фиихима факихатуу уанахлуу уарумман.",
       "uzbekTranslation": "Ikkovlarida mevalar, xurmo va anorlar bor."
     },
@@ -531,7 +531,7 @@
     {
       "ayahNumber": 76,
       "arabic": "مُتَّكِئِينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِيٍّ حِسَانٍ",
-      "uzbekReading": "Muttaki'iyna 'alaa rafratin xudrinw va 'abqariyyin hisaan.",
+      "uzbekReading": "Muttaki'iyna 'alaa rafrafin xudrinv va 'abqariyyin hisaan.",
       "russianReading": "Муттакиина 'ала рафрафин худриу уа'абкариййин хисан.",
       "uzbekTranslation": "Yashil bolishlarga va go'zal gilamlarda yonboshlagan hollari bor."
     },

@@ -20,7 +20,7 @@
     {
       "ayahNumber": 3,
       "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
-      "uzbekReading": "Va vaalidinw va maa valad.",
+      "uzbekReading": "Va vaalidinv va maa valad.",
       "russianReading": "Уауалидиу уама уалад.",
       "uzbekTranslation": "Va volid va undan tarqagan valadlar bilan qasam."
     },
@@ -48,7 +48,7 @@
     {
       "ayahNumber": 7,
       "arabic": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
-      "uzbekReading": "Ayahsabu al lam yarahuuo ahad.",
+      "uzbekReading": "Ayahsabu al lam yarahuu ahad.",
       "russianReading": "Айахсабу ал лам йараху ахад.",
       "uzbekTranslation": "U inson uni birov ko'rmadi, deb o'ylaydimi?"
     },
@@ -62,7 +62,7 @@
     {
       "ayahNumber": 9,
       "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
-      "uzbekReading": "Va lisaananw va shafatayn.",
+      "uzbekReading": "Va lisaananv va shafatayn.",
       "russianReading": "Уалисанау уашафатайн.",
       "uzbekTranslation": "Va tilni va ikki labni (bermadikmi?)."
     },
@@ -97,7 +97,7 @@
     {
       "ayahNumber": 14,
       "arabic": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
-      "uzbekReading": "Aw it'aamun fiy yavmin ziy masg'abah.",
+      "uzbekReading": "Av it'aamun fiy yavmin ziy masg'abah.",
       "russianReading": "Ау ит'амун фии йаумин зии масгаба.",
       "uzbekTranslation": "Yoki ocharchilik kunida taom berishdir."
     },
@@ -111,14 +111,14 @@
     {
       "ayahNumber": 16,
       "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
-      "uzbekReading": "Aw miskiynan zaa matrabah.",
+      "uzbekReading": "Av miskiynan zaa matrabah.",
       "russianReading": "Ау мискиинан за матраба.",
       "uzbekTranslation": "Yoki tuproqqa qorigan miskinlarga."
     },
     {
       "ayahNumber": 17,
       "arabic": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
-      "uzbekReading": "Summa kaana minal laziyna aamanuu va tavaasaw bissabri va tavaasaw bilmarhamah.",
+      "uzbekReading": "Summa kaana minal laziyna aamanuu va tavaasav bissabri va tavaasav bilmarhamah.",
       "russianReading": "Сумма кана минал лазиина амануу уатауасау биссабри уатауасау билмархама.",
       "uzbekTranslation": "So'ngra iymon keltirganlar va bir-birini sabrga, mehr-shafqatga chaqirganlar bo'lsa."
     },

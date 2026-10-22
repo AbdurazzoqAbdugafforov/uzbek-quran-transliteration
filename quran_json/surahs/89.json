@@ -76,7 +76,7 @@
     {
       "ayahNumber": 11,
       "arabic": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
-      "uzbekReading": "Allaziyna tag'aw fil bilaad.",
+      "uzbekReading": "Allaziyna tag'av fil bilaad.",
       "russianReading": "Аллазиина тагау фиил билад.",
       "uzbekTranslation": "Ular turli o'lkalarda tug'yonga ketgan edilar."
     },
@@ -104,21 +104,21 @@
     {
       "ayahNumber": 15,
       "arabic": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
-      "uzbekReading": "Fa ammal insaanu izaa mab talaahu Robbuhuu fa akramahuu va na' 'amahuu fa yaquulu Robbiye akraman.",
+      "uzbekReading": "Fa ammal insaanu izaa mab talaahu Robbuhuu fa akramahuu va na' 'amahuu fa yaquulu Robbiy akraman.",
       "russianReading": "Фааммал инсану иза ма бталаху раббуху фаакрамаху уана''амаху файакуулу раббии акраман.",
       "uzbekTranslation": "Bas, qachon insonni Robbisi sinash uchun ikrom qilsa va ne'mat bersa: «Meni Robbim ikrom qildi», deydir."
     },
     {
       "ayahNumber": 16,
       "arabic": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
-      "uzbekReading": "Va ammaaa izaa mabtalaahu faqadara 'alaihi rizqahuu fa yaquulu Robbiye ahaanan.",
+      "uzbekReading": "Va ammaaa izaa mabtalaahu faqadara 'alaihi rizqahuu fa yaquulu Robbiy ahaanan.",
       "russianReading": "Уаамма иза ма бталаху факадара 'алайхи ризкаху файакуулу раббии аханан.",
       "uzbekTranslation": "Bas, qachon Robbisi sinash uchun rizqini tor qilib qo'ysa: «Robbim meni xorladi», deydir."
     },
     {
       "ayahNumber": 17,
       "arabic": "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
-      "uzbekReading": "Kalla bal laa tukrimuuo nal yatiym.",
+      "uzbekReading": "Kalla bal laa tukrimuu nal yatiym.",
       "russianReading": "Калла бал ла тукримуунал йатиим.",
       "uzbekTranslation": "Yo'q! Balki Sizlar yetimlarni ikrom qilmassizlar."
     },
@@ -160,7 +160,7 @@
     {
       "ayahNumber": 23,
       "arabic": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
-      "uzbekReading": "Va jiye'a yavma'izim bi jahannnam; Yavma 'iziny yatazakkarul insaanu va annaa lahuz zikraa.",
+      "uzbekReading": "Va jiy'a yavma'izim bi jahannnam; Yavma 'iziny yatazakkarul insaanu va annaa lahuz zikraa.",
       "russianReading": "Уажииа йаумаизин бижаханнам йаумаизий йатазаккарул инсану уаанна лахуз зикра.",
       "uzbekTranslation": "Va o'sha kunda jahannamni keltirilsa, o'sha kunda inson eslaydir. Lekin bu eslashdan endi ne foyda?!"
     },
@@ -174,14 +174,14 @@
     {
       "ayahNumber": 25,
       "arabic": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
-      "uzbekReading": "Fa Yavma izil laa yu'azzibu 'azaabahuuo ahad.",
+      "uzbekReading": "Fa Yavma izil laa yu'azzibu 'azaabahuu ahad.",
       "russianReading": "Файаумаизил ла йу'аззибу 'азабаху ахад.",
       "uzbekTranslation": "Bas, o'sha kunda Allohning azobiga o'xshash azobla hech kim azoblamas."
     },
     {
       "ayahNumber": 26,
       "arabic": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
-      "uzbekReading": "Va laa yuusiqu vasaaqa huuo ahad.",
+      "uzbekReading": "Va laa yuusiqu vasaaqa huu ahad.",
       "russianReading": "Уала йуусику уасакаху ахад.",
       "uzbekTranslation": "Va Uning bog'lashiga o'xshash hech kim bog'lamas."
     },
@@ -195,7 +195,7 @@
     {
       "ayahNumber": 28,
       "arabic": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
-      "uzbekReading": "Irji'iye ilaa Robbiki raadiyatam mardiyyah.",
+      "uzbekReading": "Irji'iy ilaa Robbiki raadiyatam mardiyyah.",
       "russianReading": "Иржи'ии ила раббики радийатам мардиййа.",
       "uzbekTranslation": "Robbingga sen Undan, U sendan rozi bo'lgan holingda qayt!"
     },

@@ -69,14 +69,14 @@
     {
       "ayahNumber": 10,
       "arabic": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
-      "uzbekReading": "'Alal kaafiriyna g'ayru yasiyr.",
+      "uzbekReading": "'Alal kaafiriyna g'airu yasiyr.",
       "russianReading": "'Алал кафириина гайру йасиир.",
       "uzbekTranslation": "U kofirlarga oson emasdir."
     },
     {
       "ayahNumber": 11,
       "arabic": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
-      "uzbekReading": "Zamiy va man xalaqtu vahiydaa.",
+      "uzbekReading": "Zarniy va man xalaqtu vahiydaa.",
       "russianReading": "Зарнии уаман халакту уахиида.",
       "uzbekTranslation": "Meni, O'zim yakka yaratgan kimsa bidan qo'yib qo'y."
     },
@@ -202,7 +202,7 @@
     {
       "ayahNumber": 29,
       "arabic": "لَوَّاحَةٌ لِلْبَشَرِ",
-      "uzbekReading": "Lavwaahatul lilbashar.",
+      "uzbekReading": "Lavvaahatul lilbashar.",
       "russianReading": "Лаууахатул лилбашар.",
       "uzbekTranslation": "U terini ko'p kuydiruvchidir."
     },
@@ -216,7 +216,7 @@
     {
       "ayahNumber": 31,
       "arabic": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
-      "uzbekReading": "Va maaja''alnaaa As haaban naari illaa malaaa 'ikatanw va maa ja'alnaa 'iddatahum illaa fitnatal lillaziyna kafaruu liyastayqinal laziyna uutul kitaaba va yazdaadal laziyna aamanuuo iymaananw va laa yartaabal laziyna uutul kitaaba valmu'minuuna va liyaquulal laziyna fiy quluu bihim maradunw valkaafiruuna maazaaa araadal laahu bihaazaa masalaa; kazaalika yudillul laahu many yashaaa'u va yahdiy many yashaaa'; va maa ya'lamu junuuda Robbika illaa huu; va maa hiya illaa zikraa lil bashar.",
+      "uzbekReading": "Va maaja'alnaaa As-haaban naari illaa malaaa 'ikatanv va maa ja'alnaa 'iddatahum illaa fitnatal lillaziyna kafaruu liyastaiqinal laziyna uutul kitaaba va yazdaadal laziyna aamanuu iymaananv va laa yartaabal laziyna uutul kitaaba valmu'minuuna va liyaquulal laziyna fiy quluu bihim maradunv valkaafiruuna maazaaa araadal laahu bihaazaa masalaa; kazaalika yudillul laahu mai yashaaa'u va yahdiy mai yashaaa'; va maa ya'lamu junuuda Robbika illaa huu; va maa hiya illaa zikraa lil bashar.",
       "russianReading": "Уама жа'ална асхабан нари илла малаикатан уама жа'ална 'иддатахум илла фитнатал лиллазиина кафаруу лийастайкинал лазиина уутуул китаба уайаздадал лазиина амануу ииманан уала йартабал лазиина уутуул китаба уалму'минууна уалийакуулал лазиина фии кулуубихим марадуу уалкафирууна маза арадаллаху бихаза масала казалика йудиллуллаху май йашау уайахдии май йаша уама йа'ламу жунууда раббика илла хуу уама хийа илла зикра лилбашар.",
       "uzbekTranslation": "Do'zax sohiblarini farishtalardan qilganimiz va ularning adadi ham faqat kofirlarni sanash uchundir. Kitob berilganlar ishonch hosil qilishlari uchundir. Va iymonlilarning iymoni ziyoda bo'lishi uchundir. Kitob berilganlar va mo'minlar shak-shubha qilmasliklari uchundir va qalblarida kasali bor."
     },
@@ -230,7 +230,7 @@
     {
       "ayahNumber": 33,
       "arabic": "وَاللَّيْلِ إِذْ أَدْبَرَ",
-      "uzbekReading": "Vallaili adbar.",
+      "uzbekReading": "Vallaili id adbar.",
       "russianReading": "Уаллайли из адбар.",
       "uzbekTranslation": "Va chekinayotgan tun bilan qasam."
     },
@@ -258,7 +258,7 @@
     {
       "ayahNumber": 37,
       "arabic": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
-      "uzbekReading": "Liman shaaa'a minkum any yataqaddama aw yata axxar.",
+      "uzbekReading": "Liman shaaa'a minkum any yataqaddama av yata axxar.",
       "russianReading": "Лиман шаа минкум ай йатакаддама ау йатааххар.",
       "uzbekTranslation": "Sizlardan peshqadam bo'lishni yoki ortda qolishni xohlayotgan kimsalar uchun hamdir."
     },

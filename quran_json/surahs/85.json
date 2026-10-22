@@ -13,14 +13,14 @@
     {
       "ayahNumber": 2,
       "arabic": "وَالْيَوْمِ الْمَوْعُودِ",
-      "uzbekReading": "Val yavmil maw'uud.",
+      "uzbekReading": "Val yavmil mav'uud.",
       "russianReading": "Уалйаумил мау'ууд.",
       "uzbekTranslation": "Va va'da qilingan kun bilan qasam."
     },
     {
       "ayahNumber": 3,
       "arabic": "وَشَاهِدٍ وَمَشْهُودٍ",
-      "uzbekReading": "Va shaahidinw va mashhuud.",
+      "uzbekReading": "Va shaahidinv va mashhuud.",
       "russianReading": "Уашахидиу уамашхууд.",
       "uzbekTranslation": "Guvohlik beruvchi va guvohlik berilgan bilan qasam."
     },
@@ -139,7 +139,7 @@
     {
       "ayahNumber": 20,
       "arabic": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
-      "uzbekReading": "Vallaahu minw varaaa'ihim muhiyt.",
+      "uzbekReading": "Vallaahu minv varaaa'ihim muhiyt.",
       "russianReading": "Уаллаху миу уараихим мухиит.",
       "uzbekTranslation": "Holbuki, Alloh ularning ortidan ihota qilib turuvchidir."
     },

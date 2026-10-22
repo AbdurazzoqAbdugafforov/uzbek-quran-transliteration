@@ -62,7 +62,7 @@
     {
       "ayahNumber": 9,
       "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
-      "uzbekReading": "Vaja'alnan naumakum subata.",
+      "uzbekReading": "Vaja'alna naumakum subata.",
       "russianReading": "Уажа'ална наумакум субата.",
       "uzbekTranslation": "Va uyqularingizni rohat qilib qo'ydik."
     },
@@ -90,7 +90,7 @@
     {
       "ayahNumber": 13,
       "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
-      "uzbekReading": "Vaja'alna siraajaw vah haaja.",
+      "uzbekReading": "Vaja'alna siraajav vah haaja.",
       "russianReading": "Уажа'ална сиражау уаххажа.",
       "uzbekTranslation": "Va shu'la taratuvchi chiroq ham qildik."
     },
@@ -104,7 +104,7 @@
     {
       "ayahNumber": 15,
       "arabic": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
-      "uzbekReading": "Linux rija bihiy habbaw vana baata.",
+      "uzbekReading": "Linux rija bihiy habbav vana baata.",
       "russianReading": "Линухрижа бихи хаббау уанабата.",
       "uzbekTranslation": "U(suv) bilan don va nabotot chiqarishimiz uchun."
     },
@@ -167,21 +167,21 @@
     {
       "ayahNumber": 24,
       "arabic": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
-      "uzbekReading": "Laa ya zuuquuna fiyha bar daw valaa sharaaba.",
+      "uzbekReading": "Laa ya zuuquuna fiyha bar dav valaa sharaaba.",
       "russianReading": "Ла йазуукууна фииха бардау уала шараба.",
       "uzbekTranslation": "Ular unda sovuqni ham, sharobni ham tatiy olmaslar."
     },
     {
       "ayahNumber": 25,
       "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
-      "uzbekReading": "Illa hamiy maw-va g'as saaqa.",
+      "uzbekReading": "Illa hamiy mav-va g'as saaqa.",
       "russianReading": "Илла хамиимау уагассака.",
       "uzbekTranslation": "Magar qaynoq suv va yiringni (tatirlar)."
     },
     {
       "ayahNumber": 26,
       "arabic": "جَزَاءً وِفَاقًا",
-      "uzbekReading": "Jazaa-aw vi faaqa.",
+      "uzbekReading": "Jazaa-av vi faaqa.",
       "russianReading": "Жазаау уифака.",
       "uzbekTranslation": "Muvofiq jazo o'laroq."
     },
@@ -244,7 +244,7 @@
     {
       "ayahNumber": 35,
       "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
-      "uzbekReading": "Laa yasma'uuna fiha lag' vaw valaa kizzaba.",
+      "uzbekReading": "Laa yasma'uuna fiha lag' vav valaa kizzaba.",
       "russianReading": "Ла йасма'ууна фииха лагуау уала киззаба.",
       "uzbekTranslation": "U yerda bekorchi gaplarni ham, yolg'on gaplarni ham eshitmaslar."
     },

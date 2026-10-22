@@ -7,7 +7,7 @@
       "ayahNumber": 1,
       "arabic": "يُسَبِّحُ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ الْمَلِكِ الْقُدُّوسِ الْعَزِيزِ الْحَكِيمِ",
       "uzbekReading": "Yusabbihu lilaahi maa fis samaavaati va maa fil ardil Malikil Qudduusil 'Aziyzil Hakiym.",
-      "russianReading": "Бисмиллахир Рахманир Рахиим йусаббиху лиллахи ма фиис самауати уама фиил ардил маликил куддуусил 'азиизил хакиим.",
+      "russianReading": "Йусаббиху лиллахи ма фиис самауати уама фиил ардил маликил куддуусил 'азиизил хакиим.",
       "uzbekTranslation": "Osmonlaru yerdagi barcha narsalar Xoja, Benuqson, Aziz, Hakim Allohga tasbih aytadir."
     },
     {
@@ -27,7 +27,7 @@
     {
       "ayahNumber": 4,
       "arabic": "ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
-      "uzbekReading": "Zaalika fadlul laahi yu'tiyhi many-yashaaa; vallaahu zul fadil 'aziym.",
+      "uzbekReading": "Zaalika fadlul laahi yu'tiyhi many-yashaaa; vallaahu zul fadlil 'aziym.",
       "russianReading": "Залика фадлуллахи йу'тиихи май йаша уаллаху зуул фадлил 'азиим.",
       "uzbekTranslation": "Bu Allohning fazlidir."
     },
@@ -48,7 +48,7 @@
     {
       "ayahNumber": 7,
       "arabic": "وَلَا يَتَمَنَّوْنَهُ أَبَدًا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
-      "uzbekReading": "Va laa yatamannaw nahuuo abadam bimaa qaddamat aydiyhim; vallaahu 'aliymum bix zaalimiyn.",
+      "uzbekReading": "Va laa yatamannav nahuu abadam bimaa qaddamat aydiyhim; vallaahu 'aliymum bix zaalimiyn.",
       "russianReading": "Уала йатаманнаунаху абадан бима каддамат айдиихим уаллаху 'алиимун биззалимиин.",
       "uzbekTranslation": "Ular qo'llari qilgan."
     },
@@ -62,7 +62,7 @@
     {
       "ayahNumber": 9,
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نُودِيَ لِلصَّلَاةِ مِنْ يَوْمِ الْجُمُعَةِ فَاسْعَوْا إِلَىٰ ذِكْرِ اللَّهِ وَذَرُوا الْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
-      "uzbekReading": "Yaaa ayyuhal laziyna aamanuu izaa nuudiya lis-Salaati miny yavmil Jumu'ati fas'aw ilaa zikril laahi va zarul bai'; zaalikum xayrul lakum in kuntum ta'lamuun.",
+      "uzbekReading": "Yaaa ayyuhal laziyna aamanuu izaa nuudiya lis-Salaati miny yavmil Jumu'ati fas'av ilaa zikril laahi va zarul bai'; zaalikum xayrul lakum in kuntum ta'lamuun.",
       "russianReading": "Йа аййухал лазиина амануу иза нуудийа лиссалати мий йаумил жуму'ати фас'ау ила зикриллахи уазаруул бай' заликум хайрул лакум ин кунтум та'ламуун.",
       "uzbekTranslation": "Ey iymon keltirganlar! Juma kuni namozga nido qilinganda, Allohning zikriga shoshiling va savdoni qo'ying. Agar bilsangiz, bu o'zingiz uchun yaxshidir."
     },
@@ -76,7 +76,7 @@
     {
       "ayahNumber": 11,
       "arabic": "وَإِذَا رَأَوْا تِجَارَةً أَوْ لَهْوًا انْفَضُّوا إِلَيْهَا وَتَرَكُوكَ قَائِمًا ۚ قُلْ مَا عِنْدَ اللَّهِ خَيْرٌ مِنَ اللَّهْوِ وَمِنَ التِّجَارَةِ ۚ وَاللَّهُ خَيْرُ الرَّازِقِينَ",
-      "uzbekReading": "Va izaa ra'aw tijaaratan aw lahvanin fadduuo ilaihaa va tarakuuka qaaa'imaa; qul maa 'indal laahi xairum minal lahvi va minat tijaarah; vallaahu xayrur raaziqiyn.",
+      "uzbekReading": "Va izaa ra'av tijaaratan av lahvanin fadduu ilaihaa va tarakuuka qaaa'imaa; qul maa 'indal laahi xairum minal lahvi va minat tijaarah; vallaahu xayrur raaziqiyn.",
       "russianReading": "Уаиза раау тижаратан ау лахуан нфаддуу илайха уатаракуука каима кул ма 'индаллахи хайрум миналлахуи уаминат тижара уаллаху хайрур разикиин.",
       "uzbekTranslation": "Va ular tijorat yoki o'yin-kulgu ko'rganlarida, unga tomon yopirildilar va seni tik holda tark etdilar. Sen: «Allohning huzuridagi narsa o'yin-kulgudan va tijoratdan yaxshidir. Va Alloh eng yaxshi rizq beruvchidir», deb ayt."
     }

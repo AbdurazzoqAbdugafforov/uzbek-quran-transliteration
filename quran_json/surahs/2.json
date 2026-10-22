@@ -6,14 +6,14 @@
     {
       "ayahNumber": 1,
       "arabic": "الم",
-      "uzbekReading": "Alif-Laaam-Miyem.",
+      "uzbekReading": "Alif-Laaam-Miym.",
       "russianReading": "Алиф лам мим.",
       "uzbekTranslation": "Alif Lom Mim."
     },
     {
       "ayahNumber": 2,
       "arabic": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ",
-      "uzbekReading": "Zaalikal Kitaabu laa raiba fiyh; udal lilmuttaqiyn.",
+      "uzbekReading": "Zaalikal Kitaabu laa raiba fiyh; hudal lilmuttaqiyn.",
       "russianReading": "Заликал китабу ла райба фиихи худал лилмуттакиин.",
       "uzbekTranslation": "Bu kitobda shak-shubha yo'q, u taqvodorlarga hidoyatdir."
     },
@@ -48,7 +48,7 @@
     {
       "ayahNumber": 7,
       "arabic": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
-      "uzbekReading": "Xatamal laahu 'alaa quluubihim va 'alaa sam'i-him va 'alaaa absaarihim g'ishaa vatunw va lahum 'azaabun 'aziym.",
+      "uzbekReading": "Xatamal laahu 'alaa quluubihim va 'alaa sam'i-him va 'alaaa absaarihim g'ishaa vatunv va lahum 'azaabun 'aziym.",
       "russianReading": "Хатамаллаху 'ала кулуубихим уа'ала сам'ихим уа'ала абсарихим гишауатун уалахум 'азабун 'азиим.",
       "uzbekTranslation": "Alloh ularning qalblari va quloqlarini muhrlab qo'ygan va ko'zlarida parda bor. Va ularga ulkan azob bordir."
     },
@@ -69,7 +69,7 @@
     {
       "ayahNumber": 10,
       "arabic": "فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
-      "uzbekReading": "Fiy quluubihim mara dun fazzdahumul laahu maradan va lahum 'azaabun aliymum bimaa kaanuu yakzibuun.",
+      "uzbekReading": "Fiy quluubihim mara dun fazaadahumul laahu maradan va lahum 'azaabun aliymum bimaa kaanuu yakzibuun.",
       "russianReading": "Фии кулуубихим марадун фазадахумуллаху марадан уалахум 'азабун алиимун бима кануу йакзибуун.",
       "uzbekTranslation": "Ularning qalblarida kasal bor. Alloh kasallarini ziyoda qildi. Va ularga yolg'on gapirganlari uchun alamli azob bor."
     },
@@ -90,14 +90,14 @@
     {
       "ayahNumber": 13,
       "arabic": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ ۗ أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَٰكِنْ لَا يَعْلَمُونَ",
-      "uzbekReading": "Va izaa qiyla lahum aaminuu kamaaa aamanan naasu qaaluuo anu'minu kamaaa aamanas sufahaaa'; alaaa innahum humus sufahaaa'u va laakil laa ya'lamuun.",
+      "uzbekReading": "Va izaa qiyla lahum aaminuu kamaaa aamanan naasu qaaluu anu'minu kamaaa aamanas sufahaaa'; alaaa innahum humus sufahaaa'u va laakil laa ya'lamuun.",
       "russianReading": "Уаиза киила лахум аминуу кама аманан насу калуу ану'мину кама аманас суфаха ала иннахум хумус суфахау уалакил ла йа'ламуун.",
       "uzbekTranslation": "Va agar ularga, odamlar iymon keltirganidek, iymon keltiringlar, deyilsa, \"Esipastlar iymon keltirganidek iymon keltiramizmi?\" deyishadi. Ogoh bo'ling, ular, faqat ular esipastlardir va lekin o'zlari bilmaydilar."
     },
     {
       "ayahNumber": 14,
       "arabic": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ",
-      "uzbekReading": "Va izaa laqul laziyna aamanuu qaaluuo aamannaa va izaa xalw ilaa shayaatiynihim qaaluuo innaa ma'akum innamaa nahnu mustahzi'uun.",
+      "uzbekReading": "Va izaa laqul laziyna aamanuu qaaluu aamannaa va izaa xalv ilaa shayaatiynihim qaaluu innaa ma'akum innamaa nahnu mustahzi'uun.",
       "russianReading": "Уаиза лакуул лазиина амануу калуу аманна уаиза халау ила шайатиинихим калуу инна ма'акум иннама нахну мустахзиуун.",
       "uzbekTranslation": "Ular iymon keltirganlarni uchratsalar, iymon keltirdik, deydilar, shaytonlari bilan holi qolganda esa, biz sizlar bilanmiz, faqat istehzo qilyapmiz xolos, deydilar."
     },
@@ -132,14 +132,14 @@
     {
       "ayahNumber": 19,
       "arabic": "أَوْ كَصَيِّبٍ مِنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ ۚ وَاللَّهُ مُحِيطٌ بِالْكَافِرِينَ",
-      "uzbekReading": "Aw kasaiyibim minas samaaa'i fiyhi zulumaatunw va ra'dunw va barq, yaj'aluuna asaabi'ahum fiye aazaanihim minas savaa'iqi hazaral mavt' vallaahu muhiytum bilkaafiriyn.",
+      "uzbekReading": "Av kasaiyibim minas samaaa'i fiyhi zulumaatunv va ra'dunv va barq, yaj'aluuna asaabi'ahum fiy aazaanihim minas savaa'iqi hazaral mavt' vallaahu muhiytum bilkaafiriyn.",
       "russianReading": "Ау касайибим минас самаи фиихи зулуматуу уара'дуу уабаркун йаж'алууна асаби'ахум фии азанихим минас сауа'ики хазарал маут уаллаху мухиитун билкафириин.",
       "uzbekTranslation": "Yoki xuddi osmondan yomg'ir yog'ib, qorong'u bosib, momaqaldiroq va chaqmoq chaqqanda, yashindan qochib, panjalarini quloqlariga tiqib, o'limdan ehtiyot bo'layotgan odamga o'xsharlar. Va Alloh kofirlarni o'rab oluvchidir."
     },
     {
       "ayahNumber": 20,
       "arabic": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ ۖ كُلَّمَا أَضَاءَ لَهُمْ مَشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا ۚ وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-      "uzbekReading": "Yakaadul barqu yaxtafu absaarahum kullamaaa adaaa'a lahum mashaw fiyhi va izaaa azlama 'alaihim qaamuu; va law shaaa'al laahu lazahaba bisam'ihim va absaarihim; innal laaha 'alaa kulli shai'in Qadiyr.",
+      "uzbekReading": "Yakaadul barqu yaxtafu absaarahum kullamaaa adaaa'a lahum mashav fiyhi va izaaa azlama 'alaihim qaamuu; va lav shaaa'al laahu lazahaba bisam'ihim va absaarihim; innal laaha 'alaa kulli shai'in Qadiyr.",
       "russianReading": "Йакадул барку йахтафу абсарахум куллама адаа лахум машау фиихи уаиза азлама 'алайхим каму уалау шааллаху лазахаба бисам'ихим уаабсарихим инналлаха 'ала кулли шайин кадиир.",
       "uzbekTranslation": "Chaqmoq ularning ko'zini olib qo'yay deydi. Yorigan paytda yurishadi, qorong'i bo'lsa, to'xtashadi. Agar Alloh xohlasa, ularning ko'zu quloqlarini ketkizadi. Albatta, Alloh har bir narsaga qodirdir."
     },
@@ -153,7 +153,7 @@
     {
       "ayahNumber": 22,
       "arabic": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ ۖ فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ",
-      "uzbekReading": "Allaziy ja'ala lakumul arda firaashanw vassamaaa'a binaaa 'anw va anzala minassamaaa'i maaa'an fa axraja bihiy minas samaraati rizqal lakum falaa taj'aluu lillaahi andaadanw va antum ta'lamuun.",
+      "uzbekReading": "Allaziy ja'ala lakumul arda firaashanv vassamaaa'a binaaa 'anv va anzala minassamaaa'i maaa'an fa axraja bihiy minas samaraati rizqal lakum falaa taj'aluu lillaahi andaadanv va antum ta'lamuun.",
       "russianReading": "Аллазии жа'ала лакумул арда фирашау уассамаа бинаау уаанзала минас самаи маан фаахража бихи минас самарати ризкал лакум фала таж'алуу лиллахи андадау уаантум та'ламуун.",
       "uzbekTranslation": "U sizlarga yerni to'shab, osmonni bino qilgan va osmondan suv tushirib, u bilan sizlarga mevalarni rizq qilib chiqargan zotdir. Bilib turib Allohga boshqalarni tenglashtirmang."
     },
@@ -174,21 +174,21 @@
     {
       "ayahNumber": 25,
       "arabic": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۖ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا ۙ قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ ۖ وَأُتُوا بِهِ مُتَشَابِهًا ۖ وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ ۖ وَهُمْ فِيهَا خَالِدُونَ",
-      "uzbekReading": "Va bashshiril laziyna aamanuu va 'amilus saalihaati anna lahum jannaatin tajriy min tahtihal anhaaru kullamaa riziquu minhaa min samaratir rizqan qaaluu haazal laziy ruziqnaa min qablu va utuu bihiy mutashaabihaa, va lahum fiyhaaa azvaajum mutahhara tunw va hum fiyhaa xaaliduun.",
+      "uzbekReading": "Va bashshiril laziyna aamanuu va 'amilus saalihaati anna lahum jannaatin tajriy min tahtihal anhaaru kullamaa riziquu minhaa min samaratir rizqan qaaluu haazal laziy ruziqnaa min qablu va utuu bihiy mutashaabihaa, va lahum fiyhaaa azvaajum mutahhara tunv va hum fiyhaa xaaliduun.",
       "russianReading": "Уабашширил лазиина амануу уа'амилуус салихати анна лахум жаннатин тажрии мин тахтихал анхару куллама рузикуу минха мин самаратир ризкан калуу хазал лазии рузикна мин каблу уаутуу бихи муташабихан уалахум фииха азуажум мутаххаратун уахум фииха халидуун.",
       "uzbekTranslation": "Iymon keltirgan va solih amallar qilganlarga, ular uchun ostidan anhorlar oqib turgan jannatlar borligining bashoratini ber. Qachonki ularning mevasidan bahramand bo'lsalar, bundan avval ham rizqlangan edik, deyishadi. Ularga o'xshash narsalar berilgandir. Ularga bu yerda pokiza juftlar bor va ular u yerda abadiy qolurlar."
     },
     {
       "ayahNumber": 26,
       "arabic": "۞ إِنَّ اللَّهَ لَا يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً فَمَا فَوْقَهَا ۚ فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ ۖ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۘ يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا ۚ وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
-      "uzbekReading": "Innal laaha laa yastahyiye ai yadriba masalam maa ba'uudatan famaa favqahaa; faammal laziyna aamanuu faya'lamuuna annahul haqqu mir Robbihim va ammal laziyna kafaruu fayaquuluuna maazaaa araadal laahu bihaazaa masalaa; yudillu bihiy kasiyranw va yahdiy bihiy kasiyraa; va maa yudillu bihiye illal faasiqiyn.",
+      "uzbekReading": "Innal laaha laa yastahyiy ai yadriba masalam maa ba'uudatan famaa favqahaa; faammal laziyna aamanuu faya'lamuuna annahul haqqu mir Robbihim va ammal laziyna kafaruu fayaquuluuna maazaaa araadal laahu bihaazaa masalaa; yudillu bihiy kasiyranv va yahdiy bihiy kasiyraa; va maa yudillu bihiy illal faasiqiyn.",
       "russianReading": "Инналлаха ла йастахии ай йадриба масалам ма ба'уудатан фама фаукаха фааммал лазиина амануу файа'ламууна аннахул хакку мир раббихим уааммал лазиина кафаруу файакуулууна маза арадаллаху бихаза масала йудиллу бихи касиирау уайахдии бихи касиира уама йудиллу бихи иллал фасикиин.",
       "uzbekTranslation": "Albatta, Alloh chivin yoki undan ustunroq narsani misol keltirishdan uyalmas. Iymon keltirganlar, albatta, u Robbilaridan kelgan haqligini biladilar. Ammo kufr keltirganlar. Alloh bu misoldan nimani iroda qiladi, deyishadi. U bilan ko'pchilikni zalolatga ketkizadi va ko'pchilikni hidoyatga soladi. U bilan faqat fosiqlarnigina zalolatga ketkizadi."
     },
     {
       "ayahNumber": 27,
       "arabic": "الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ ۚ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
-      "uzbekReading": "Allaziyna yanquduuna 'ahdal laahi mim ba'di miysaaqihiy va yaqt'uuna maaa amaral laahu bihiye ai yuusala va yufsiduuna fil ard; ulaaa'ika hum xaasirron.",
+      "uzbekReading": "Allaziyna yanquduuna 'ahdal laahi mim ba'di miysaaqihiy va yaqt'uuna maaa amaral laahu bihiy ai yuusala va yufsiduuna fil ard; ulaaa'ika hum xaasirron.",
       "russianReading": "Аллазиина йанкудууна 'ахдаллахи мин ба'ди миисакихи уайакта'ууна ма амараллаху бихи ай йуусала уайуфсидууна фиил ард уулаика хумул хасируун.",
       "uzbekTranslation": "Ular Allohning ahdini bog'langandan so'ng buzadigan, Alloh bog'lanishiga buyurgan narsalarni kesadigan, yer yuzida fasod qiladigan zotlardir. Ana o'shalar yutqazuvchilardir."
     },
@@ -202,14 +202,14 @@
     {
       "ayahNumber": 29,
       "arabic": "هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ ۚ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
-      "uzbekReading": "Huval laziy xalaqa lakum maa fil ardi jamiy'an summas tavaaa ilas samaaa'i fasaw vaahunna sab'a samaa vaat; va Huva bikulli shai'in Aliym.",
+      "uzbekReading": "Huval laziy xalaqa lakum maa fil ardi jamiy'an summas tavaaa ilas samaaa'i fasav vaahunna sab'a samaa vaat; va Huva bikulli shai'in Aliym.",
       "russianReading": "Хууал лазии халака лакум ма фиил арди жамии'ан сумма стауа илас самаи фасаууахунна саб'а самауат уахууа бикулли шайин 'алиим.",
       "uzbekTranslation": "U sizlar uchun yer yuzidagi barcha narsani yaratgan zot. So'ngra osmonga yuzlandi va ularni yettita qilib to'g'riladi. Va U har bir narsani biluvchi zotdir."
     },
     {
       "ayahNumber": 30,
       "arabic": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً ۖ قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ ۖ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
-      "uzbekReading": "Va iz qaala Robbuka lil malaaa'ikati inniy jaa'ilun fil ardi xaliyfatan qaaluuo ataj'alu fiyhaa mai yufsidu fiyhaa va yasfikud dimaaa'a va nahnu nusabbihu bihamdika va nuqaddisu laka qaala inniye a'lamu maa laa ta'lamuun.",
+      "uzbekReading": "Va iz qaala Robbuka lil malaaa'ikati inniy jaa'ilun fil ardi xaliyfatan qaaluu ataj'alu fiyhaa mai yufsidu fiyhaa va yasfikud dimaaa'a va nahnu nusabbihu bihamdika va nuqaddisu laka qaala inniy a'lamu maa laa ta'lamuun.",
       "russianReading": "Уаиз кала раббука лилмалаикати иннии жа'илун фиил арди халиифатан калуу атаж'алу фииха май йуфсиду фииха уайасфикуд димаа уанахну нусаббиху бихамдика уанукаддису лака кала иннии а'ламу ма ла та'ламуун.",
       "uzbekTranslation": "Esla, vaqtiki Robbing farishtalarga: \"Men yer yuzida xalifa qilmoqchiman\", dedi. Ular: \"Unda fasod qiladigan, qon to'kadigan kimsani qilmoqchimisan? Va holbuki, biz Senga tasbih, hamd aytib va Seni ulug'lab turibmiz\", dedilar. U: \"Men siz bilmaganni bilaman\", dedi."
     },
@@ -230,14 +230,14 @@
     {
       "ayahNumber": 33,
       "arabic": "قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ ۖ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
-      "uzbekReading": "Qaala yaaa Aadamu ambi' hum biasmaaa'ihimfalammaaa amba ahum bi asmaaa'ihim qaala alam aqul lakum inniye a'lamu g'aibas samaavaati val ardi va a'lamu maa tubduuna va maa kuntum taktumuun.",
+      "uzbekReading": "Qaala yaaa Aadamu ambi' hum biasmaaa'ihimfalammaaa amba ahum bi asmaaa'ihim qaala alam aqul lakum inniy a'lamu g'aibas samaavaati val ardi va a'lamu maa tubduuna va maa kuntum taktumuun.",
       "russianReading": "Кала йа адаму анбихум биасмаихим фаламма анбаахум биасмаихим кала алам акул лакум иннии а'ламу гайбас самауати уаларди уаа'ламу ма тубдууна уама кунтум тактумуун.",
       "uzbekTranslation": "U zot:\"Ey Odam, bularga u narsalarning ismlarini aytib ber\", dedi. Ularga o'sha narsalarning ismlarini aytib bergan chog'ida, \"Men sizlarga osmonlaru yerning g'aybini bilaman va sizlar berkitmaganu berkitgan narsalarni ham bilaman demabmidim\", dedi."
     },
     {
       "ayahNumber": 34,
       "arabic": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُدُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
-      "uzbekReading": "Va iz qulnaa lilmalaaa'i katis juduu liAadama fasajaduuo illaaa Ibliysa abaa vastakbara va kaana minal kaafiriyn.",
+      "uzbekReading": "Va iz qulnaa lilmalaaa'i katis juduu liAadama fasajaduu illaaa Ibliysa abaa vastakbara va kaana minal kaafiriyn.",
       "russianReading": "Уаиз кулна лилмалаикати сжудуу лиадама фасажадуу илла иблииса аба уастакбара уакана минал кафириин.",
       "uzbekTranslation": "Esla, farishtalarga: \"Odamga sajda qilinglar!\" deganimizni. Bas, sajda qildilar, magar Iblis bosh tortdi, mutakabbirlik qildi va kofirlardan bo'ldi."
     },
@@ -251,14 +251,14 @@
     {
       "ayahNumber": 36,
       "arabic": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ ۖ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ ۖ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ",
-      "uzbekReading": "Fa azallahumash Shaitaanu 'anhaa fa axrajahumaa mimmaa kaanaa fiy va qulnah bituu ba'dukum liba'din 'aduvwunw va lakum fil ardi mustaqarrunw va mataa'un ilaa hiyn.",
+      "uzbekReading": "Fa azallahumash Shaitaanu 'anhaa fa axrajahumaa mimmaa kaanaa fiy va qulnah bituu ba'dukum liba'din 'aduvvunv va lakum fil ardi mustaqarrunv va mataa'un ilaa hiyn.",
       "russianReading": "Фаазаллахумаш шайтану 'анха фаахражахума мимма кана фиихи уакулна хбитуу ба'дукум либа'дин 'адууун уалакум фиил арди мустакарруу уамата'ун ила хиин.",
       "uzbekTranslation": "Shayton ularni undan ozdirdi va bo'lgan narsalaridan chiqardi. Va Biz: \"Ba'zingiz ba'zingizga dushman bo'lib tushinglar, sizlarga yer yuzida qarorgoh va bir muddat huzur qilish bordir\", dedik."
     },
     {
       "ayahNumber": 37,
       "arabic": "فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
-      "uzbekReading": "Fatalaqqaaa Aadamu mir Robbihiy Kalimaatin fataaba 'alayh; innahuu Huvat Tavwaabur Rahiym.",
+      "uzbekReading": "Fatalaqqaaa Aadamu mir Robbihiy Kalimaatin fataaba 'alayh; innahuu Huvat Tavvaabur Rahiym.",
       "russianReading": "Фаталакка адаму мир раббихи калиматин фатаба 'алайх иннаху хууат таууабур рахиим.",
       "uzbekTranslation": "Bas, Odam o'z Robbisidan so'zlarni qabul qilib oldi, keyin U zot uning tavbasini qabul qildi. Albatta, U tavbani qabul qiluvchi va rahmli zotdir."
     },
@@ -272,21 +272,21 @@
     {
       "ayahNumber": 39,
       "arabic": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
-      "uzbekReading": "Vallaziyna kafaruu va kaz zabuuo bi aayaatinaa ulaaa'ika Ashaabun Naari hum fiyhaa xaaliduun.",
+      "uzbekReading": "Vallaziyna kafaruu va kaz zabuu bi aayaatinaa ulaaa'ika Ashaabun Naari hum fiyhaa xaaliduun.",
       "russianReading": "Уаллазиина кафаруу уаказзабуу биайатина уулаика асхабун нари хум фииха халидуун.",
       "uzbekTranslation": "Va kufr keltirgan hamda oyatlarimizni yolg'onga chiqarganlar esa, ular do'zax egalaridir, ular unda abadiy qolurlar."
     },
     {
       "ayahNumber": 40,
       "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ",
-      "uzbekReading": "Yaa Baniye Israaa'iylaz kuruu ni'matiyal latiye an'amtu 'alaikum va avfuu bi'Ahdiye uufi bi ahdikum va iyyaaya farhabuun.",
+      "uzbekReading": "Yaa Baniy Israaa'iylaz kuruu ni'matiyal latiy an'amtu 'alaikum va avfuu bi'Ahdiy uufi bi ahdikum va iyyaaya farhabuun.",
       "russianReading": "Йа бании исраиила зкуруу ни'матийал латии ан'амту 'алайкум уаауфуу би'ахдии ууфи би'ахдикум уаиййайа фархабуун.",
       "uzbekTranslation": "Ey Bani Isroil, sizga bergan ne'matlarimni eslang va Menga bergan ahdingizga vafo qiling. Men ham sizga bergan ahdimga vafo qilaman. Va Mendangina qo'rqing."
     },
     {
       "ayahNumber": 41,
       "arabic": "وَآمِنُوا بِمَا أَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ ۖ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
-      "uzbekReading": "Va aaminuu bimaaa anzaltu musaddiqal limaa ma'akum va laa takuunuuo avwala kaafirim bihiy va laa tashtaruu bi Aayaatiy samanan qaliylanw va iyyaaya fattaquun.",
+      "uzbekReading": "Va aaminuu bimaaa anzaltu musaddiqal limaa ma'akum va laa takuunuu avvala kaafirim bihiy va laa tashtaruu bi Aayaatiy samanan qaliylanv va iyyaaya fattaquun.",
       "russianReading": "Уааминуу бима анзалту мусаддикал лима ма'акум уала такуунуу аууала кафирин бихи уала таштаруу биайатии саманан калиилау уаиййайа фаттакуун.",
       "uzbekTranslation": "Va sizdagi narsani tasdiqlovchi qilib tushirgan narsamga iymon keltiring. Unga birinchi kufr keltiruvchi bo'lmang. Mening oyatlarimni oz bahoga sotmang va Mengagina taqvo qiling."
     },
@@ -328,21 +328,21 @@
     {
       "ayahNumber": 47,
       "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
-      "uzbekReading": "Yaa Baniye Israaa'iylaz kuruu ni'matiyal latiye an'amtu 'alaikum va anniy faddaltukum 'alal 'aalamiyn.",
+      "uzbekReading": "Yaa Baniy Israaa'iylaz kuruu ni'matiyal latiy an'amtu 'alaikum va anniy faddaltukum 'alal 'aalamiyn.",
       "russianReading": "Йа бании исраиила зкуруу ни'матийал латии ан'амту 'алайкум уааннии фаддалтукум 'алал 'аламиин.",
       "uzbekTranslation": "Ey Bani Isroil, sizga bergan ne'matlarimni va Men sizlarni olamlardan afzal qilib qo'yganimni eslang!"
     },
     {
       "ayahNumber": 48,
       "arabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
-      "uzbekReading": "Vattaquu Yavmal laa tajziy nafsun 'an nafsin shai'anw va laa yuqbalu minhaa shafaa'atunw va laa yu'xazu minhaa 'adlunw va laa hum yunsaruun.",
+      "uzbekReading": "Vattaquu Yavmal laa tajziy nafsun 'an nafsin shai'anv va laa yuqbalu minhaa shafaa'atunv va laa yu'xazu minhaa 'adlunv va laa hum yunsaruun.",
       "russianReading": "Уаттакуу йаумал ла тажзии нафсун 'ан нафсин шайау уала йукбалу минха шафа'атуу уала йу'хазу минха 'адлуу уала хум йунсаруун.",
       "uzbekTranslation": "Bir jon boshqasidan hech narsani ado qila olmaydigan, undan shafoat qabul qilinmaydigan, undan to'lov olinmaydigan va ularga yordam berilmaydigan kundan qo'rqing."
     },
     {
       "ayahNumber": 49,
       "arabic": "وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ ۚ وَفِي ذَٰلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ",
-      "uzbekReading": "Va iz najjainaakum min Aali Fir'avna yasuumuunakum suuo'al azaabi yuzabbihuuna abuaaa'akum va yastahyuuna nisaaa'akum; va fiy zaalikum balaaa'um mir Robbikum 'aziym.",
+      "uzbekReading": "Va iz najjainaakum min Aali Fir'avna yasuumuunakum suu'al azaabi yuzabbihuuna abuaaa'akum va yastahyuuna nisaaa'akum; va fiy zaalikum balaaa'um mir Robbikum 'aziym.",
       "russianReading": "Уаиз нажжайнакум мин али фир'ауна йасуумуунакум сууал 'азаби йузаббихууна абнаакум уайастахйууна нисаакум уафии заликум балаум мир раббикум 'азиим.",
       "uzbekTranslation": "Sizni yomon azoblarga solib, o'g'illaringizni so'yib, qizlaringizni tirik qoldirayotgan Fir'avn ahlidan qutqarganimizni eslang. Ana o'shanda Robbingizdan ulug' sinov bordir."
     },
@@ -377,7 +377,7 @@
     {
       "ayahNumber": 54,
       "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ إِنَّكُمْ ظَلَمْتُمْ أَنْفُسَكُمْ بِاتِّخَاذِكُمُ الْعِجْلَ فَتُوبُوا إِلَىٰ بَارِئِكُمْ فَاقْتُلُوا أَنْفُسَكُمْ ذَٰلِكُمْ خَيْرٌ لَكُمْ عِنْدَ بَارِئِكُمْ فَتَابَ عَلَيْكُمْ ۚ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
-      "uzbekReading": "Va iz qaala Muusaa liqavmihiy yaa qavmi innakum zalamtum anfusakum bittixaa zikumul 'ijla fatuubuuo ilaa Baari'ikum faqtuluuo anfusakum zaalikum xairul lakum 'inda Baari'ikum fataaba 'alaikum; innahuu Huvat Tavwaabur Rahiym.",
+      "uzbekReading": "Va iz qaala Muusaa liqavmihiy yaa qavmi innakum zalamtum anfusakum bittixaa zikumul 'ijla fatuubuu ilaa Baari'ikum faqtuluu anfusakum zaalikum xairul lakum 'inda Baari'ikum fataaba 'alaikum; innahuu Huvat Tavvaabur Rahiym.",
       "russianReading": "Уаиз кала мууса ликаумихи йа кауми иннакум заламтум анфусакум биттихазикумул 'ижла фатуубуу ила бариикум фактулуу анфусакум заликум хайрул лакум 'инда бариикум фатаба 'алайкум иннаху хууат таууабур рахиим.",
       "uzbekTranslation": "Musoning o'z qavmiga: «Ey qavmim, albatta, siz buzoqni."
     },
@@ -398,14 +398,14 @@
     {
       "ayahNumber": 57,
       "arabic": "وَظَلَّلْنَا عَلَيْكُمُ الْغَمَامَ وَأَنْزَلْنَا عَلَيْكُمُ الْمَنَّ وَالسَّلْوَىٰ ۖ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْ ۖ وَمَا ظَلَمُونَا وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
-      "uzbekReading": "Va zallalnaa 'alaikumul g'amaama va anzalnaa 'alaikumul Manna vas Salvaa kuluu min taiyibaati maa razaqnaakum va maa zalamuunaa va laakin kaanuuo anfusahum yazlimuun.",
+      "uzbekReading": "Va zallalnaa 'alaikumul g'amaama va anzalnaa 'alaikumul Manna vas Salvaa kuluu min taiyibaati maa razaqnaakum va maa zalamuunaa va laakin kaanuu anfusahum yazlimuun.",
       "russianReading": "Уазаллална 'алайкумул гамама уаанзална 'алайкумул манна уассалуа кулуу мин тайибати ма разакнакум уама заламууна уалакин кануу анфусахум йазлимуун.",
       "uzbekTranslation": "Va bulutni ustingizdan soya soldirib qo'ydik, sizga mann va bedanani tushirdik. Rizq qilib bergan narsalarimizning poklarini yenglar. Bizga zulm qilmadilar. Lekin o'zlariga zulm qilar edilar."
     },
     {
       "ayahNumber": 58,
       "arabic": "وَإِذْ قُلْنَا ادْخُلُوا هَٰذِهِ الْقَرْيَةَ فَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ رَغَدًا وَادْخُلُوا الْبَابَ سُجَّدًا وَقُولُوا حِطَّةٌ نَغْفِرْ لَكُمْ خَطَايَاكُمْ ۚ وَسَنَزِيدُ الْمُحْسِنِينَ",
-      "uzbekReading": "Va iz qulnad xuluu haazihil qaryata fakuluu minhaa haisu shi'tum rag'adanw vadxulul baaba sujjadanw va quuluu hittatun nag'fir lakum xataayaakum; va sanaziydul muhsiniyn.",
+      "uzbekReading": "Va iz qulnad xuluu haazihil qaryata fakuluu minhaa haisu shi'tum rag'adanv vadxulul baaba sujjadanv va quuluu hittatun nag'fir lakum xataayaakum; va sanaziydul muhsiniyn.",
       "russianReading": "Уаиз кулна дхулуу хазихил карйата факулуу минха хайсу шитум рагадау уадхулуул баба сужжадау уакуулуу хиттатун нагфир лакум хатайакум уасаназиидул мухсиниин.",
       "uzbekTranslation": "«Ushbu qishloqqa kiringiz va uning xohlagan joyida yenglar, yeganingiz osh bo'lsin va eshikdan ta'zim bilan, hittatun, deb kiring, sizning xatolaringizni mag'firat qilamiz va yaxshilarga ziyoda qilamiz», deganimizni eslang."
     },
@@ -419,14 +419,14 @@
     {
       "ayahNumber": 60,
       "arabic": "۞ وَإِذِ اسْتَسْقَىٰ مُوسَىٰ لِقَوْمِهِ فَقُلْنَا اضْرِبْ بِعَصَاكَ الْحَجَرَ ۖ فَانْفَجَرَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًا ۖ قَدْ عَلِمَ كُلُّ أُنَاسٍ مَشْرَبَهُمْ ۖ كُلُوا وَاشْرَبُوا مِنْ رِزْقِ اللَّهِ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
-      "uzbekReading": "Va izis tasqaa Muusaa liqavmihiy faqulnad rib bi'asaakal hajara fanfajarat minhusnataaa 'ashrata 'aynan qad 'alima kullu unaasim mash rabahum kuluu vashrabuu mir rizqil laahi va laa ta'saw fil ardi mufsidiyn.",
+      "uzbekReading": "Va izis tasqaa Muusaa liqavmihiy faqulnad rib bi'asaakal hajara fanfajarat minhusnataaa 'ashrata 'aynan qad 'alima kullu unaasim mash rabahum kuluu vashrabuu mir rizqil laahi va laa ta'sav fil ardi mufsidiyn.",
       "russianReading": "Уаизи стаска мууса ликаумихи факулна дриб бби'асакал хажара фанфажарат минху сната 'ашрата 'айнан кад 'алима куллу унасим машрабахум кулуу уашрабуу мир ризкиллахи уала та'сау фиил арди муфсидиин.",
       "uzbekTranslation": "Muso o'z qavmini serob qilishni so'raganida, «Hassang bilan toshni ur!» deganimizni eslang. Bas, undan o'n ikki buloq otilib chiqdi. Har qabila o'z suvini bildi. Alloh bergan rizqdan yeb-ichinglar. Yer yuzida buzg'unchilik ustiga buzg'unchilik qilmanglar."
     },
     {
       "ayahNumber": 61,
       "arabic": "وَإِذْ قُلْتُمْ يَا مُوسَىٰ لَنْ نَصْبِرَ عَلَىٰ طَعَامٍ وَاحِدٍ فَادْعُ لَنَا رَبَّكَ يُخْرِجْ لَنَا مِمَّا تُنْبِتُ الْأَرْضُ مِنْ بَقْلِهَا وَقِثَّائِهَا وَفُومِهَا وَعَدَسِهَا وَبَصَلِهَا ۖ قَالَ أَتَسْتَبْدِلُونَ الَّذِي هُوَ أَدْنَىٰ بِالَّذِي هُوَ خَيْرٌ ۚ اهْبِطُوا مِصْرًا فَإِنَّ لَكُمْ مَا سَأَلْتُمْ ۗ وَضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ وَالْمَسْكَنَةُ وَبَاءُوا بِغَضَبٍ مِنَ اللَّهِ ۗ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ النَّبِيِّينَ بِغَيْرِ الْحَقِّ ۗ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
-      "uzbekReading": "Va iz qultum yaa Muusaa lan nasbira 'alaa ta'aaminw vaahidin fad'u lanaa Robbaka yuxrij lanaa mimmaa tumbitul ardu mimbaqlihaa va qis saaa'ihaa va fuumihaa va 'adasihaa va basalihaa qaala atastabdiluunal laziy huva adnaa billaziy huva xayr; ihbituu misran fa inna lakum maa sa altum; va duribat 'alaihimuz zillatu valmaskanatu va baaa'uu big'adabim minal laah; zaalika bi annahum kaano yakfuruuna bi aayaatil laahi va yaqtuluunan Nabiyyiyna big'airil haqq; zaalika bimaa 'asaw va kaanuu ya'taduun.",
+      "uzbekReading": "Va iz qultum yaa Muusaa lan nasbira 'alaa ta'aaminv vaahidin fad'u lanaa Robbaka yuxrij lanaa mimmaa tumbitul ardu mimbaqlihaa va qis saaa'ihaa va fuumihaa va 'adasihaa va basalihaa qaala atastabdiluunal laziy huva adnaa billaziy huva xayr; ihbituu misran fa inna lakum maa sa altum; va duribat 'alaihimuz zillatu valmaskanatu va baaa'uu big'adabim minal laah; zaalika bi annahum kaano yakfuruuna bi aayaatil laahi va yaqtuluunan Nabiyyiyna big'airil haqq; zaalika bimaa 'asav va kaanuu ya'taduun.",
       "russianReading": "Уаиз култум йа мууса лан насбира 'ала та'амиу уахидин фад'у лана раббака йухриж лана мимма тунбитул арду мин баклиха уакиссаиха уафуумиха уа'адасиха уабасалиха кала атастабдилуунал лазии хууа адна биллазии хууа хайр ихбитуу мисран фаинна лакум ма саалтум уадурибат 'алайхимуз зиллату уалмасканату уабауу бигадабим миналлах залика бианнахум кануу йакфурууна биайатиллахи уайактулуунан набийиина бигайрил хакк залика бима 'асау ууакануу йа'тадуун.",
       "uzbekTranslation": "«Ey Muso, bir xil taomga hech chiday olmaymiz, Robbingga duo qil, bizga yerda o'sadigan narsalardan–sabzavot, bodring, sarimsoq, mosh, piyoz chiqarib bersin», deganingizni eslang. U: «Yaxshi narsani past narsaga almashtirishni so'raysizlarmi? Birorta shaharga tushing, so'raganingizni albatta, topasiz», dedi. Ularga xorlik va miskinlik yozildi va Allohning g'azabiga loyiq bo'ldilar. Bu Allohning oyatlariga kufr keltirganlari, Payg'ambarlarni nohaq qatl etganlari uchundir. Bu isyonga ketganlari va haddan oshganlari uchundir."
     },
@@ -440,7 +440,7 @@
     {
       "ayahNumber": 63,
       "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا فِيهِ لَعَلَّكُمْ تَتَّقُونَ",
-      "uzbekReading": "Va iz axaznaa miysaaqakum va rafa'naa favqakumut Tuura xuzuu maaa aatainaakum biquvwatinw vazkuruu maa fiyhi la'allakum tattaquun.",
+      "uzbekReading": "Va iz axaznaa miysaaqakum va rafa'naa favqakumut Tuura xuzuu maaa aatainaakum biquvvatinv vazkuruu maa fiyhi la'allakum tattaquun.",
       "russianReading": "Уаиз ахазна миисакакум уарафа'на фаукакумут туура хузуу ма атайнакум бикууатиу уазкуруу ма фиихи ла'аллакум таттакуун.",
       "uzbekTranslation": "Ahdu paymonlaringizni olganimizni va ustingizga Turni ko'targanimizni, «Biz sizga bergan narsani quvvat bilan oling va undagi narsani eslang, shoyadki taqvodor bo'lsangiz», deganimizni eslang."
     },
@@ -454,28 +454,28 @@
     {
       "ayahNumber": 65,
       "arabic": "وَلَقَدْ عَلِمْتُمُ الَّذِينَ اعْتَدَوْا مِنْكُمْ فِي السَّبْتِ فَقُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِئِينَ",
-      "uzbekReading": "Va laqad 'alimtumul laziyna'-tadaw minkum fis Sabti faqulnaa lahum kuunuu qiradatan xaasi'iyn.",
+      "uzbekReading": "Va laqad 'alimtumul laziyna'-tadav minkum fis Sabti faqulnaa lahum kuunuu qiradatan xaasi'iyn.",
       "russianReading": "Уалакад 'алимтумул лазиина 'тадау минкум фиис сабти факулна лахум куунуу кирадатан хасиин.",
       "uzbekTranslation": "Batahqiq, sizlardan shanba kuni tajovuzkorlik qilganlarni bildingiz. Biz ularga: «Quvilgan, xor-zor maymunga aylaning», dedik."
     },
     {
       "ayahNumber": 66,
       "arabic": "فَجَعَلْنَاهَا نَكَالًا لِمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِلْمُتَّقِينَ",
-      "uzbekReading": "Faja'alnaahaa nakaalal limaa baina yadihaa va maa xalfahaa va maw'izatal lilmuttaqiyn.",
+      "uzbekReading": "Faja'alnaahaa nakaalal limaa baina yadihaa va maa xalfahaa va mav'izatal lilmuttaqiyn.",
       "russianReading": "Фажа'алнаха накалал лима байна йадайха уама халфаха уамау'изатал лилмуттакиин.",
       "uzbekTranslation": "Biz bu."
     },
     {
       "ayahNumber": 67,
       "arabic": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تَذْبَحُوا بَقَرَةً ۖ قَالُوا أَتَتَّخِذُنَا هُزُوًا ۖ قَالَ أَعُوذُ بِاللَّهِ أَنْ أَكُونَ مِنَ الْجَاهِلِينَ",
-      "uzbekReading": "Va iz qaala Muusaa liqavmihiye innal laaha yaamurukum an tazbahuu baqaratan qaaluuo atattaxizunna huzuvan qaala a'uuzu billaahi an akuuna minal jaahiliyn.",
+      "uzbekReading": "Va iz qaala Muusaa liqavmihiy innal laaha yaamurukum an tazbahuu baqaratan qaaluu atattaxizunna huzuvan qaala a'uuzu billaahi an akuuna minal jaahiliyn.",
       "russianReading": "Уаиз кала мууса ликаумихи инналлаха йа'мурукум ан тазбахуу бакаратан калуу ататтахизуна хузууан кала а'уузу биллахи ан акууна минал жахилиин.",
       "uzbekTranslation": "Muso o'z qavmiga: «Alloh sizga sigir so'ymoqni buyurmoqda», deganini eslang. Ular: «Bizni masxara qilyapsanmi?» dedilar. U: «Johillardan bo'lishimdan Allohdan panoh so'rayman», dedi."
     },
     {
       "ayahNumber": 68,
       "arabic": "قَالُوا ادْعُ لَنَا رَبَّكَ يُبَيِّنْ لَنَا مَا هِيَ ۚ قَالَ إِنَّهُ يَقُولُ إِنَّهَا بَقَرَةٌ لَا فَارِضٌ وَلَا بِكْرٌ عَوَانٌ بَيْنَ ذَٰلِكَ ۖ فَافْعَلُوا مَا تُؤْمَرُونَ",
-      "uzbekReading": "Qaalud-'u lanaa Robbaka yubaiyil lanaa maa hiy; qaala innahuu yaquulu innahaa baqaratul laa faaridunw va laa bikrun 'avaanum baina zaalika faf'aluu maa tu'maruun.",
+      "uzbekReading": "Qaalud-'u lanaa Robbaka yubaiyil lanaa maa hiy; qaala innahuu yaquulu innahaa baqaratul laa faaridunv va laa bikrun 'avaanum baina zaalika faf'aluu maa tu'maruun.",
       "russianReading": "Калуу д'у лана раббака йубайил лана ма хий кала иннаху йакуулу иннаха бакаратул ла фаридуу уала бикрун 'ауанун байна залика фаф'алуу ма ту'маруун.",
       "uzbekTranslation": "Ular: «Robbingga duo qil, uning qanday ekanini bayon qilib bersin», dedilar. U: «U qari ham, yosh ham bo'lmagan, ikkovining o'rtasidagi sigir, deyapti. Bas, buyurilgan narsani bajaring», dedi."
     },
@@ -517,7 +517,7 @@
     {
       "ayahNumber": 74,
       "arabic": "ثُمَّ قَسَتْ قُلُوبُكُمْ مِنْ بَعْدِ ذَٰلِكَ فَهِيَ كَالْحِجَارَةِ أَوْ أَشَدُّ قَسْوَةً ۚ وَإِنَّ مِنَ الْحِجَارَةِ لَمَا يَتَفَجَّرُ مِنْهُ الْأَنْهَارُ ۚ وَإِنَّ مِنْهَا لَمَا يَشَّقَّقُ فَيَخْرُجُ مِنْهُ الْمَاءُ ۚ وَإِنَّ مِنْهَا لَمَا يَهْبِطُ مِنْ خَشْيَةِ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
-      "uzbekReading": "Summa qasat quluubukum mim ba'di zaalika fahiya kalhijaarati aw-ashaadu qasvah; va inna minal hijaarati lamaa yatafajjaru minhul anhaar; va inna minhaa lamaa yash shaqqaqu fayaxruju minhul maaa'; va inna minhaa lamaa yahbitu min xashyatil laa; va mal laahu big'aafilin 'ammaa ta'maluun.",
+      "uzbekReading": "Summa qasat quluubukum mim ba'di zaalika fahiya kalhijaarati av-ashaadu qasvah; va inna minal hijaarati lamaa yatafajjaru minhul anhaar; va inna minhaa lamaa yash shaqqaqu fayaxruju minhul maaa'; va inna minhaa lamaa yahbitu min xashyatil laa; va mal laahu big'aafilin 'ammaa ta'maluun.",
       "russianReading": "Сумма касат кулуубукум мин ба'ди залика фахийа калхижарати ау ашадду касуа уаинна минал хижарати лама йатафажжару минхул анхар уаинна минха лама йашшаккаку файахружу минхул ма уаинна минха лама йахбиту мин хашйатиллах уамаллаху бигафилин 'амма та'малуун.",
       "uzbekTranslation": "So'ngra, shundan keyin qalblaringiz qattiq bo'ldi, ular toshdek yoki toshdan ham qattiq. Va holbuki, toshlarning ba'zilaridan anhorlar otilib chiqadi, ba'zilari yorilib undan suv chiqadi va ba'zilari Allohdan qo'rqqanidan qulab tushadi. Va Alloh qilayotgan ishlaringizdan g'ofil emas."
     },
@@ -531,7 +531,7 @@
     {
       "ayahNumber": 76,
       "arabic": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَا بَعْضُهُمْ إِلَىٰ بَعْضٍ قَالُوا أَتُحَدِّثُونَهُمْ بِمَا فَتَحَ اللَّهُ عَلَيْكُمْ لِيُحَاجُّوكُمْ بِهِ عِنْدَ رَبِّكُمْ ۚ أَفَلَا تَعْقِلُونَ",
-      "uzbekReading": "Va izaa laqul laziyna aamanuu qaaluuo aamannaa va izaaxalaa ba'duhum ilaa ba'din qaaluuo atuhaddisuunahum bimaa fatahal laahu 'alaikum liyuhaajjuukum bihiy 'inda Robbikum; afalaa ta'qiluun.",
+      "uzbekReading": "Va izaa laqul laziyna aamanuu qaaluu aamannaa va izaaxalaa ba'duhum ilaa ba'din qaaluu atuhaddisuunahum bimaa fatahal laahu 'alaikum liyuhaajjuukum bihiy 'inda Robbikum; afalaa ta'qiluun.",
       "russianReading": "Уаиза лакуул лазиина амануу калуу аманна уаиза хала ба'духум ила ба'дин калуу атухаддисуунахум бима фатахаллаху 'алайкум лийухажжуукум бихи 'инда раббикум афала та'килуун.",
       "uzbekTranslation": "Ular iymon keltirganlarni uchratsalar, iymon keltirdik, deydilar. Ba'zilari ba'zilari bilan xoli qolsalar: «Ularga Alloh sizga ochgan narsa haqida Robbingiz huzurida hujjat talashishlari uchun gapiryapsizmi? Aqlni ishlatmaysizmi?» deydilar."
     },
@@ -559,14 +559,14 @@
     {
       "ayahNumber": 80,
       "arabic": "وَقَالُوا لَنْ تَمَسَّنَا النَّارُ إِلَّا أَيَّامًا مَعْدُودَةً ۚ قُلْ أَتَّخَذْتُمْ عِنْدَ اللَّهِ عَهْدًا فَلَنْ يُخْلِفَ اللَّهُ عَهْدَهُ ۖ أَمْ تَقُولُونَ عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
-      "uzbekReading": "Va qaaluu lan tamassanan Naaru illaaa ayyaamam ma'duu dah; qul attaxaztum 'indal laahi 'ahdan falai yuxlifal laahu 'ahdahuuo am taquuluuna 'alal laahi maa laa ta'lamuun.",
+      "uzbekReading": "Va qaaluu lan tamassanan Naaru illaaa ayyaamam ma'duu dah; qul attaxaztum 'indal laahi 'ahdan falai yuxlifal laahu 'ahdahuu am taquuluuna 'alal laahi maa laa ta'lamuun.",
       "russianReading": "Уакалуу лан тамассанан нару илла аййамам ма'дууда кул аттахазтум 'индаллахи 'ахдан фалай йухлифаллаху 'ахдаху ам такуулууна 'алаллахи ма ла та'ламуун.",
       "uzbekTranslation": "Va ular: «Bizga."
     },
     {
       "ayahNumber": 81,
       "arabic": "بَلَىٰ مَنْ كَسَبَ سَيِّئَةً وَأَحَاطَتْ بِهِ خَطِيئَتُهُ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
-      "uzbekReading": "Balaa man kasaba sayyi'atanw va ahaatat bihiy xatiye'atuhuu fa-ulaaa'ika Ashaabun Naari hum fiyhaa xaaliduun.",
+      "uzbekReading": "Balaa man kasaba sayyi'atanv va ahaatat bihiy xatiy'atuhuu fa-ulaaa'ika Ashaabun Naari hum fiyhaa xaaliduun.",
       "russianReading": "Бала ман касаба сайиатау уаахатат бихи хатииатуху фауулаика асхабун нари хум фииха халидуун.",
       "uzbekTranslation": "Yo'q! Kim gunoh qilsa va uni xatolari o'rab olgan bo'lsa, ana o'shalar do'zax egalaridir. Ular unda abadiy qolurlar."
     },
@@ -580,7 +580,7 @@
     {
       "ayahNumber": 83,
       "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ لَا تَعْبُدُونَ إِلَّا اللَّهَ وَبِالْوَالِدَيْنِ إِحْسَانًا وَذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَقُولُوا لِلنَّاسِ حُسْنًا وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ ثُمَّ تَوَلَّيْتُمْ إِلَّا قَلِيلًا مِنْكُمْ وَأَنْتُمْ مُعْرِضُونَ",
-      "uzbekReading": "Va iz axaznaa miysaaqa Baniye Israaa'iyla laa ta'buduuna illal laaha va bil vaalidaini ihsaananw va zil qurbaa valyataamaa valmasaakiyni va quuluu linnaasi husnanw va aqiymus salaata va aatuzZakaata summa tavallitum illaa qaliylam minkum va antum mu'riduun.",
+      "uzbekReading": "Va iz axaznaa miysaaqa Baniy Israaa'iyla laa ta'buduuna illal laaha va bil vaalidaini ihsaananv va zil qurbaa valyataamaa valmasaakiyni va quuluu linnaasi husnanv va aqiymus salaata va aatuzZakaata summa tavallitum illaa qaliylam minkum va antum mu'riduun.",
       "russianReading": "Уаиз ахазна миисака бании исраиила ла та'будууна иллаллаха уабилуалидайни ихсанау уазиил курба уалйатама уалмасакиини уакуулуу линнаси хуснау уаакиимуус салата уаатууз заката сумма тауаллайтум илла калиилам минкум уаантум му'ридуун.",
       "uzbekTranslation": "Bani Isorildan Allohdan boshqaga ibodat etmaysiz, ota-onaga, qarindoshlarga, yetimlarga, miskinlarga yaxshilik qilasiz, odamlarga yaxshi gaplar ayting, namozni qoim qiling, zakot bering, deb ahdu paymon olganimizni eslang. So'ngra ozginangizdan boshqangiz yuz o'girib, ortga qarab ketdingiz."
     },
@@ -629,7 +629,7 @@
     {
       "ayahNumber": 90,
       "arabic": "بِئْسَمَا اشْتَرَوْا بِهِ أَنْفُسَهُمْ أَنْ يَكْفُرُوا بِمَا أَنْزَلَ اللَّهُ بَغْيًا أَنْ يُنَزِّلَ اللَّهُ مِنْ فَضْلِهِ عَلَىٰ مَنْ يَشَاءُ مِنْ عِبَادِهِ ۖ فَبَاءُوا بِغَضَبٍ عَلَىٰ غَضَبٍ ۚ وَلِلْكَافِرِينَ عَذَابٌ مُهِينٌ",
-      "uzbekReading": "Bi'samash taraw bihiye anfusahum ai yakfuruu bimaaa anzalal laahu bag'yan ai yunazzilal laahu min fadlilhiy 'alaa mai yashaaa'u min ibaadihiy fabaaa'uu big'adabin 'alaa g'adab; va lilkaafiriyna 'azaabum muhiyn.",
+      "uzbekReading": "Bi'samash tarav bihiy anfusahum ai yakfuruu bimaaa anzalal laahu bag'yan ai yunazzilal laahu min fadlilhiy 'alaa mai yashaaa'u min ibaadihiy fabaaa'uu big'adabin 'alaa g'adab; va lilkaafiriyna 'azaabum muhiyn.",
       "russianReading": "Бисама штарау бихи анфусахум ай йакфуруу бима анзалаллаху багиан ай йуназзилаллаху мин фадлихи 'ала май йашау мин 'ибадихи фабауу бигадабин 'ала гадаб уалилкафириина 'азабум мухиин.",
       "uzbekTranslation": "Ular o'zlarini sotgan narsa, Alloh bandalaridan xohlaganiga O'z fazlidan tushirganiga hasad qilib, Alloh tushirgan narsaga kufr keltirmoqlik, qandoq ham yomon. Ular g'azabning ustiga g'azabni lozim tutdilar. Kofirlarga xor qiluvchi azob bordir."
     },
@@ -650,7 +650,7 @@
     {
       "ayahNumber": 93,
       "arabic": "وَإِذْ أَخَذْنَا مِيثَاقَكُمْ وَرَفَعْنَا فَوْقَكُمُ الطُّورَ خُذُوا مَا آتَيْنَاكُمْ بِقُوَّةٍ وَاسْمَعُوا ۖ قَالُوا سَمِعْنَا وَعَصَيْنَا وَأُشْرِبُوا فِي قُلُوبِهِمُ الْعِجْلَ بِكُفْرِهِمْ ۚ قُلْ بِئْسَمَا يَأْمُرُكُمْ بِهِ إِيمَانُكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
-      "uzbekReading": "Va iz axaznaa miysaaqakum va rafa'naa favqa kumut Tuura xuzuu maaa aatainaakum biquvwatinw vasma'uu qaaluu sami'naa va 'asainaa va ushribuu fiy quluubihimul 'ijla bikufrihim; qul bi'samaa yaamurukum bihiye iymaanukum in kuntum m'miniyn.",
+      "uzbekReading": "Va iz axaznaa miysaaqakum va rafa'naa favqa kumut Tuura xuzuu maaa aatainaakum biquvvatinv vasma'uu qaaluu sami'naa va 'asainaa va ushribuu fiy quluubihimul 'ijla bikufrihim; qul bi'samaa yaamurukum bihiy iymaanukum in kuntum mu'miniyn.",
       "russianReading": "Уаиз ахазна миисакакум уарафа'на фаукакумут туура хузуу ма атайнакум бикууатиу уасма'уу калуу сами'на уа'асайна уаушрибуу фии кулуубихимул 'ижла бикуфрихим кул бисама йа'мурукум бихи ииманукум ин кунтум му'миниин.",
       "uzbekTranslation": "Sizdan ahdu paymoningizni olib, ustingizga Turni ko'tarib: «Sizga Biz bergan narsani quvvat bilan tuting va tinglang», deganimizni eslang. Ular: «Tingladik va isyon qildik», dedilar. Kufrlari sababli qalblariga buzoq o'rnashtirildi. Ayt: «Agar mo'min bo'lsangiz sizning iymoningiz qanday ham yomon narsaga buyuradi!»"
     },
@@ -671,28 +671,28 @@
     {
       "ayahNumber": 96,
       "arabic": "وَلَتَجِدَنَّهُمْ أَحْرَصَ النَّاسِ عَلَىٰ حَيَاةٍ وَمِنَ الَّذِينَ أَشْرَكُوا ۚ يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ وَمَا هُوَ بِمُزَحْزِحِهِ مِنَ الْعَذَابِ أَنْ يُعَمَّرَ ۗ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
-      "uzbekReading": "Va latajidannahum ahrasannaasi 'alaa hayaatinw va minal laziyna ashrakuu; yavaddu ahaduhum law yu'ammaru alfa sanatinw va maa huva bi muzahzihihiy minal 'azaabi ai yu'ammar; vallaahu basiyrum bimaa ya'maluun.",
+      "uzbekReading": "Va latajidannahum ahrasannaasi 'alaa hayaatinv va minal laziyna ashrakuu; yavaddu ahaduhum lav yu'ammaru alfa sanatinv va maa huva bi muzahzihihiy minal 'azaabi ai yu'ammar; vallaahu basiyrum bimaa ya'maluun.",
       "russianReading": "Уалатажиданнахум ахрасан наси 'ала хайатиу уаминал лазиина ашраку йауадду ахадухум лау йу'аммару алфа санатиу уама хууа бимузахзихихи минал 'азаби ай йу'аммар уаллаху басиирун бима йа'малуун.",
       "uzbekTranslation": "Ularning hayotga eng hirs qo'ygan odamlar ekanligini bilasan. Mushriklardan birlari ming yil umr ko'rishni suyadi. Ammo uzoq umr ko'rishi uni azobdan qutqarmaydi. Va Alloh ularning qilayotganlarini ko'ruvchidir."
     },
     {
       "ayahNumber": 97,
       "arabic": "قُلْ مَنْ كَانَ عَدُوًّا لِجِبْرِيلَ فَإِنَّهُ نَزَّلَهُ عَلَىٰ قَلْبِكَ بِإِذْنِ اللَّهِ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَهُدًى وَبُشْرَىٰ لِلْمُؤْمِنِينَ",
-      "uzbekReading": "Qul man kaana 'aduvwal li Jibriyla fainnahuu nazzalahuu 'alaa qalbika bi iznil laahi musaddiqal limaa baina yadihi va hudanw va bushraa lilmu'miniyn.",
+      "uzbekReading": "Qul man kaana 'aduvval li Jibriyla fainnahuu nazzalahuu 'alaa qalbika bi iznil laahi musaddiqal limaa baina yadihi va hudanv va bushraa lilmu'miniyn.",
       "russianReading": "Кул ман кана 'адууал лижибриила фаиннаху наззалаху 'ала калбика биизниллахи мусаддикал лима байна йадайхи уахудау уабушра лилму'миниин.",
       "uzbekTranslation": "Jibroilga dushman bo'lganlarga ayt, albatta u."
     },
     {
       "ayahNumber": 98,
       "arabic": "مَنْ كَانَ عَدُوًّا لِلَّهِ وَمَلَائِكَتِهِ وَرُسُلِهِ وَجِبْرِيلَ وَمِيكَالَ فَإِنَّ اللَّهَ عَدُوٌّ لِلْكَافِرِينَ",
-      "uzbekReading": "Man kaana 'aduvwal lillaahi va malaaa'ikatihiy va Rusulihiy va Jibriyla va Miykaala fa innal laaha 'aduvwul lilkaafiriyn.",
+      "uzbekReading": "Man kaana 'aduvval lillaahi va malaaa'ikatihiy va Rusulihiy va Jibriyla va Miykaala fa innal laaha 'aduvvul lilkaafiriyn.",
       "russianReading": "Ман кана 'адууал лиллахи уамалаикатихи уарусулихи уажибриила уамиикала фаинналлаха 'адууул лилкафириин.",
       "uzbekTranslation": "Kim Allohga, uning farishtalariga, Payg'ambarlariga, Jibroilga va Mikoilga dushman bo'lsa, albatta, Alloh kofirlarning dushmanidir."
     },
     {
       "ayahNumber": 99,
       "arabic": "وَلَقَدْ أَنْزَلْنَا إِلَيْكَ آيَاتٍ بَيِّنَاتٍ ۖ وَمَا يَكْفُرُ بِهَا إِلَّا الْفَاسِقُونَ",
-      "uzbekReading": "Va laqad anzalnaaa ilaika Aayaatim baiyinaatinw va maa yakfuru bihaaa illal faasiquun.",
+      "uzbekReading": "Va laqad anzalnaaa ilaika Aayaatim baiyinaatinv va maa yakfuru bihaaa illal faasiquun.",
       "russianReading": "Уалакад анзална илайка айатин байинатин уама йакфуру биха иллал фасикуун.",
       "uzbekTranslation": "Batahqiq, senga ravshan oyatlarni tushirdik, ularga faqat fosiqlargina kufr keltiradir."
     },
@@ -713,14 +713,14 @@
     {
       "ayahNumber": 102,
       "arabic": "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ ۖ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنْزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ ۚ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ ۖ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ ۚ وَمَا هُمْ بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ ۚ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنْفَعُهُمْ ۚ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ ۚ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنْفُسَهُمْ ۚ لَوْ كَانُوا يَعْلَمُونَ",
-      "uzbekReading": "Vattaba'uu maa tatlush Shayaatiynu 'alaa mulki Sulaimaana va maa kafara Sulaimaanu va laakinnash Shayattena kafaruu yu'al limuunan naasas sihra va maaa unzila 'alal malakaini bi Baabila Haaruuta va Maaruut; va maa yu'allimaani min ahadin hattaa yaquulaaa innamaa nahnu fitnatun falaa takfur fayata'al lamuuna minhumaa maa yufarriquuna bihiy bainal mar'i va zavjih; va maa hum bidaaarriyna bihiy min ahadin illaa bi-iznillah; va yata'allamuuna maa yadurruhum va laa yanfa'uhum; va laqad 'alimuu lamanish taraahu maa lahuu fil Aaxirati min xalaaq; va labi'sa maa sharaw bihiye anfusahum; law kaanuu ya'lamuun.",
+      "uzbekReading": "Vattaba'uu maa tatlush Shayaatiynu 'alaa mulki Sulaimaana va maa kafara Sulaimaanu va laakinnash Shayattena kafaruu yu'al limuunan naasas sihra va maaa unzila 'alal malakaini bi Baabila Haaruuta va Maaruut; va maa yu'allimaani min ahadin hattaa yaquulaaa innamaa nahnu fitnatun falaa takfur fayata'al lamuuna minhumaa maa yufarriquuna bihiy bainal mar'i va zavjih; va maa hum bidaaarriyna bihiy min ahadin illaa bi-iznillah; va yata'allamuuna maa yadurruhum va laa yanfa'uhum; va laqad 'alimuu lamanish taraahu maa lahuu fil Aaxirati min xalaaq; va labi'sa maa sharav bihiy anfusahum; lav kaanuu ya'lamuun.",
       "russianReading": "Уаттаба'уу ма татлууш шайатиину 'ала мулки сулаймана уама кафара сулайману уалакиннаш шайатиина кафаруу йу'аллимуунан насас сихра уама унзила 'алал малакайни бибабила харуута уамаруут уама йу'аллимани мин ахадин хатта йакуула иннама нахну фитнатун фала такфур файата'алламууна минхума ма йуфаррикууна бихи байнал мари уазаужих уама хум бидарриина бихи мин ахадин илла биизниллах уайата'алламууна ма йадуррухум уала йанфа'ухум уалакад 'алимуу ламани штараху ма лаху фиил ахирати мин халак уалабиса ма шарау бихи анфусахум лау кануу йа'ламуун.",
       "uzbekTranslation": "Va Sulaymon podsholigida shaytonlar tilovat qilgan narsaga ergashdilar. Sulaymon kufr keltirgani yo'q. Lekin shaytonlar odamlarga sehrni o'rgatib, kofir bo'ldilar. Va Bobilda Horut va Morut nomli ikki farishtaga tushgan narsaga ergashdilar. Ikkovlari hatto: «Biz fitna-sinov uchunmiz, kofir bo'lmagin», demasdan oldin hech kimga o'rgatmasdilar. Bas, ikkovlaridan er-xotinning o'rtasini buzadigan narsani o'rganishar edi. Va ular Allohning iznisiz biror kishiga zarar yetkazuvchi emasdilar. Va ikkovlaridan zarar keltiradigan, foyda keltirmaydigan narsani o'rganadilar. Va, batahqiq, biladilarki, uni sotib olgan kishiga oxiratda nasiba yo'q. Agar bilsalar, o'zlarini sotgan narsa qandoq ham yomon!"
     },
     {
       "ayahNumber": 103,
       "arabic": "وَلَوْ أَنَّهُمْ آمَنُوا وَاتَّقَوْا لَمَثُوبَةٌ مِنْ عِنْدِ اللَّهِ خَيْرٌ ۖ لَوْ كَانُوا يَعْلَمُونَ",
-      "uzbekReading": "Va law annahum aamanuu vattaqaw lamasuubatum min 'indillaahi xairun law kaanuu ya'lamuun.",
+      "uzbekReading": "Va lav annahum aamanuu vattaqav lamasuubatum min 'indillaahi xairun lav kaanuu ya'lamuun.",
       "russianReading": "Уалау аннахум амануу уаттакау ламасуубатум мин 'индиллахи хайрул лау кануу йа'ламуун.",
       "uzbekTranslation": "Agar ular iymon keltirib, taqvo qilganlarida, gar bilsalar, Allohning huzuridagi savob yaxshi edi."
     },
@@ -741,14 +741,14 @@
     {
       "ayahNumber": 106,
       "arabic": "۞ مَا نَنْسَخْ مِنْ آيَةٍ أَوْ نُنْسِهَا نَأْتِ بِخَيْرٍ مِنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-      "uzbekReading": "Maa nansax min aayatin aw nunsihaa na-ti bixairim minhaaa aw mislihaaa; alam ta'lam annal laaha 'alaa kulli shai'in qadiyr.",
+      "uzbekReading": "Maa nansax min aayatin av nunsihaa na-ti bixairim minhaaa av mislihaaa; alam ta'lam annal laaha 'alaa kulli shai'in qadiyr.",
       "russianReading": "Ма нансах мин айатин ау нунсиха на'ти бихайрим минха ау мислиха алам та'лам анналлаха 'ала кулли шайин кадиир.",
       "uzbekTranslation": "Oyatlardan birontasini nasx qilsak yoki unutdirsak, undan yaxshisini yoki unga o'xshashini keltiramiz. Alloh har narsaga qodir ekanini bilmadingmi?"
     },
     {
       "ayahNumber": 107,
       "arabic": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۗ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
-      "uzbekReading": "Alam ta'lam annallaaha lahuu mulkus samaavaati val ard; va maa lakum min duunil laahi minw valiyyinw va laa nasiyr.",
+      "uzbekReading": "Alam ta'lam annallaaha lahuu mulkus samaavaati val ard; va maa lakum min duunil laahi minv valiyyinv va laa nasiyr.",
       "russianReading": "Алам та'лам анналлаха лаху мулкус самауати уалард уама лакум мин дууниллахи миу уалиййиу уала насиир.",
       "uzbekTranslation": "Albatta, osmonlaru yerning mulki Allohniki ekanini va sizlarga Allohdan o'zga do'st yo'q, yordamchi ham yo'qligini bilmadingmi?"
     },
@@ -762,7 +762,7 @@
     {
       "ayahNumber": 109,
       "arabic": "وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ مِنْ بَعْدِ إِيمَانِكُمْ كُفَّارًا حَسَدًا مِنْ عِنْدِ أَنْفُسِهِمْ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُمُ الْحَقُّ ۖ فَاعْفُوا وَاصْفَحُوا حَتَّىٰ يَأْتِيَ اللَّهُ بِأَمْرِهِ ۗ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-      "uzbekReading": "Vadda kasiyrum min ahlil kitaabi law yarudduu nakum mim ba'di iymaanikum kuffaaran hasadam min 'indi anfusihim mim ba'di maa tabaiyana lahumul haqqu fa'fuu vashfahuu hattaa yaa tiyallaahu bi amrih; innal laaha 'alaa kulli shai'in qadiyr.",
+      "uzbekReading": "Vadda kasiyrum min ahlil kitaabi lav yarudduu nakum mim ba'di iymaanikum kuffaaran hasadam min 'indi anfusihim mim ba'di maa tabaiyana lahumul haqqu fa'fuu vashfahuu hattaa yaa tiyallaahu bi amrih; innal laaha 'alaa kulli shai'in qadiyr.",
       "russianReading": "Уадда касиирум мин ахлил китаби лау йаруддуунакум мин ба'ди ииманикум куффаран хасадам мин 'инди анфусихим мин ба'ди ма табаййана лахумул хакку фа'фуу уасфахуу хатта йа'тийаллаху биамрих инналлаха 'ала кулли шайин кадиир.",
       "uzbekTranslation": "Ahli kitoblardan ko'plari ularga haq ravshan bo'lganidan keyin, o'zlaricha hasad qilib, sizlarni iymonli bo'lganingizdan keyin kofirlikka qaytarmoqchi bo'ladilar. Allohning amri kelguncha afv eting, kechirimli bo'ling. Albatta, Alloh har bir narsaga qodirdir."
     },
@@ -776,28 +776,28 @@
     {
       "ayahNumber": 111,
       "arabic": "وَقَالُوا لَنْ يَدْخُلَ الْجَنَّةَ إِلَّا مَنْ كَانَ هُودًا أَوْ نَصَارَىٰ ۗ تِلْكَ أَمَانِيُّهُمْ ۗ قُلْ هَاتُوا بُرْهَانَكُمْ إِنْ كُنْتُمْ صَادِقِينَ",
-      "uzbekReading": "Va qaaluu lai yadxulal jannata illaa man kaana Huudan aw Nasaaraa; tilka ammniyyuhum; qul haatuu burhaa nakum in kuntum saadiqiyn.",
+      "uzbekReading": "Va qaaluu lai yadxulal jannata illaa man kaana Huudan av Nasaaraa; tilka ammniyyuhum; qul haatuu burhaa nakum in kuntum saadiqiyn.",
       "russianReading": "Уакалуу лай йадхулал жанната илла ман кана хуудан ау насара тилка аманиййухум кул хатуу бурханакум ин кунтум садикиин.",
       "uzbekTranslation": "Va ular: «Jannatga yahudiy va nasroniylardan boshqa hech kim kirmaydi», dedilar. Bu ularning xom xayollaridir. «Agar rostgo'y bo'lsangiz, hujjatingizni keltiring», deb ayt."
     },
     {
       "ayahNumber": 112,
       "arabic": "بَلَىٰ مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ فَلَهُ أَجْرُهُ عِنْدَ رَبِّهِ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
-      "uzbekReading": "Balaa man aslama vajhahuu lillaahi va huva muhsinun falahuuo ajruhuu 'inda Robbihiy va laa xavfun 'alaihim va laa hum yahzanuun.",
+      "uzbekReading": "Balaa man aslama vajhahuu lillaahi va huva muhsinun falahuu ajruhuu 'inda Robbihiy va laa xavfun 'alaihim va laa hum yahzanuun.",
       "russianReading": "Бала ман аслама уажхаху лиллахи уахууа мухсинун фалаху ажруху 'инда раббихи уала хауфун 'алайхим уала хум йахзануун.",
       "uzbekTranslation": "Yo'q! Kimki yaxshilik qilgan holida yuzini Allohga topshirsa, unga Robbi huzurida ajr bordir. Ularga xavf yo'q va ular xafa ham bo'lmaslar."
     },
     {
       "ayahNumber": 113,
       "arabic": "وَقَالَتِ الْيَهُودُ لَيْسَتِ النَّصَارَىٰ عَلَىٰ شَيْءٍ وَقَالَتِ النَّصَارَىٰ لَيْسَتِ الْيَهُودُ عَلَىٰ شَيْءٍ وَهُمْ يَتْلُونَ الْكِتَابَ ۗ كَذَٰلِكَ قَالَ الَّذِينَ لَا يَعْلَمُونَ مِثْلَ قَوْلِهِمْ ۚ فَاللَّهُ يَحْكُمُ بَيْنَهُمْ يَوْمَ الْقِيَامَةِ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ",
-      "uzbekReading": "Va qaalatil Yahuudu laisatin Nasaaraa 'alaa shai'inw-va qaalatin Nasaaraaa laisatil Yahuudu 'alaa shai'inw'va hum yatluunal Kitaab; kazaalika qaalal laziyna la ya'lamuuna misla qavlihim Yavmal Qiyaamati fiymaa kaanuu fiyhi yaxtalifuun.",
+      "uzbekReading": "Va qaalatil Yahuudu laisatin Nasaaraa 'alaa shai'inv-va qaalatin Nasaaraaa laisatil Yahuudu 'alaa shai'inv'va hum yatluunal Kitaab; kazaalika qaalal laziyna la ya'lamuuna misla qavlihim Yavmal Qiyaamati fiymaa kaanuu fiyhi yaxtalifuun.",
       "russianReading": "Уакалатил йахууду лайсатин насара 'ала шайиу уакалатин насара лайсатил йахууду 'ала шайиу уахум йатлуунал китаб казалика калал лазиина ла йа'ламууна мисла каулихим фаллаху йахкуму байнахум йаумал кийамати фиима кануу фиихи йахталифуун.",
       "uzbekTranslation": "Yahudiylar: «Nasroniylar arzimas narsadadirlar», dedilar. Nasroniylar: «Yahudiylar arzimas narsadadirlar», dedilar. Va holbuki, ular kitob tilovat qiladilar. Shuningdek, bilmaydigan kimsalar ham ularning gapiga o'xshash gap aytdilar. Bas, qiyomat kuni oralarida Alloh ular ixtilof qilgan narsa haqida hakamlik qiladi."
     },
     {
       "ayahNumber": 114,
       "arabic": "وَمَنْ أَظْلَمُ مِمَّنْ مَنَعَ مَسَاجِدَ اللَّهِ أَنْ يُذْكَرَ فِيهَا اسْمُهُ وَسَعَىٰ فِي خَرَابِهَا ۚ أُولَٰئِكَ مَا كَانَ لَهُمْ أَنْ يَدْخُلُوهَا إِلَّا خَائِفِينَ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
-      "uzbekReading": "Va man azlamu mimmam-mana'a masaajidal laahi ai-yuzkara fiyhas muhuu va sa'aa fiy xaraabihaaa; ulaaa'ika maa kaana lahum ai yadxuluuhaaa illaa xaaa''fiyn; lahum fiddunyaa xizyunw va lahum fil aaxirati 'azaabun 'aziym.",
+      "uzbekReading": "Va man azlamu mimmam-mana'a masaajidal laahi ai-yuzkara fiyhas muhuu va sa'aa fiy xaraabihaaa; ulaaa'ika maa kaana lahum ai yadxuluuhaaa illaa xaaa''fiyn; lahum fiddunyaa xizyunv va lahum fil aaxirati 'azaabun 'aziym.",
       "russianReading": "Уаман азламу миммам мана'а масажидаллахи ай йузкара фииха смуху уаса'а фии харабиха уулаика ма кана лахум ай йадхулууха илла хаифиин лахум фиид дунйа хизиуу уалахум фиил ахирати 'азабун 'азиим.",
       "uzbekTranslation": "Allohning masjidlarida Uning ismi zikr qilinishini man etgan va ularni buzishga harakat qilgandan ham zolimroq odam bormi? Ana o'shalar u joylarga faqat qo'rqqan hollaridagina kirishlari kerak edi-ku! Ularga bu dunyoda xorlik bordir va ularga oxiratda ulug' azob bordir."
     },
@@ -825,42 +825,42 @@
     {
       "ayahNumber": 118,
       "arabic": "وَقَالَ الَّذِينَ لَا يَعْلَمُونَ لَوْلَا يُكَلِّمُنَا اللَّهُ أَوْ تَأْتِينَا آيَةٌ ۗ كَذَٰلِكَ قَالَ الَّذِينَ مِنْ قَبْلِهِمْ مِثْلَ قَوْلِهِمْ ۘ تَشَابَهَتْ قُلُوبُهُمْ ۗ قَدْ بَيَّنَّا الْآيَاتِ لِقَوْمٍ يُوقِنُونَ",
-      "uzbekReading": "Va qaalal laziyna laa ya'lamuuna law laa yukallimunal laahu aw taatiynaaa aayah; kazaalika qaalal laziyna min qablihim misla qavlihim; tashaabahat quluubuhum; qad baiyannal aayaati liqavminy yuuqinuun.",
+      "uzbekReading": "Va qaalal laziyna laa ya'lamuuna lav laa yukallimunal laahu av taatiynaaa aayah; kazaalika qaalal laziyna min qablihim misla qavlihim; tashaabahat quluubuhum; qad baiyannal aayaati liqavminy yuuqinuun.",
       "russianReading": "Уакалал лазиина ла йа'ламууна лаула йукаллимуналлаху ау та'тиина айа казалика калал лазиина мин каблихим мисла каулихим ташабахат кулуубухум кад баййаннал айати ликаумий йуукинуун.",
       "uzbekTranslation": "Bilmaydigan kimsalar: «Alloh biz bilan gaplashsa edi yoki mo''jiza kelsa edi», deyishdi. Ulardan oldingilar ham ularning so'ziga o'xshash gapirgan edilar. Qalblari o'xshash bo'ldi. Batahqiq, Biz yaxshi biluvchi qavmlarga mo''jizalarni bayon qilganmiz."
     },
     {
       "ayahNumber": 119,
       "arabic": "إِنَّا أَرْسَلْنَاكَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا ۖ وَلَا تُسْأَلُ عَنْ أَصْحَابِ الْجَحِيمِ",
-      "uzbekReading": "Innaaa arsalnaaka bilhaqqi bashiyranw va naziyranw va laa tus'alu 'am Ashaabil Jahiym.",
+      "uzbekReading": "Innaaa arsalnaaka bilhaqqi bashiyranv va naziyranv va laa tus'alu 'am Ashaabil Jahiym.",
       "russianReading": "Инна арсалнака билхакки башиирау уаназииран уала тусалу 'ан асхабил жахиим.",
       "uzbekTranslation": "Albatta, Biz seni haq bilan suyunchli xabar beruvchi va ogohlantiruvchi qilib yubordik. Va do'zaxilar haqida so'ralmaysan."
     },
     {
       "ayahNumber": 120,
       "arabic": "وَلَنْ تَرْضَىٰ عَنْكَ الْيَهُودُ وَلَا النَّصَارَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمْ ۗ قُلْ إِنَّ هُدَى اللَّهِ هُوَ الْهُدَىٰ ۗ وَلَئِنِ اتَّبَعْتَ أَهْوَاءَهُمْ بَعْدَ الَّذِي جَاءَكَ مِنَ الْعِلْمِ ۙ مَا لَكَ مِنَ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
-      "uzbekReading": "Va lan tardaa 'ankal Yahuudu va lan Nasaaraa hattaa tattabi'a millatahum; qul inna hudal laahi huvalhudaa; va la'init taba'ta ahvaaa'ahum ba'dal laziy jaaa'aka minal 'ilmimaa laka minal laahi minw valiyyinw va laa nasiyr.",
+      "uzbekReading": "Va lan tardaa 'ankal Yahuudu va lan Nasaaraa hattaa tattabi'a millatahum; qul inna hudal laahi huvalhudaa; va la'init taba'ta ahvaaa'ahum ba'dal laziy jaaa'aka minal 'ilmimaa laka minal laahi minv valiyyinv va laa nasiyr.",
       "russianReading": "Уалан тарда 'анкал йахууду уалан насара хатта таттаби'а миллатахум кул инна худаллахи хууал худа уалаинит таба'та ахуаахум ба'дал лазии жаака минал 'илми ма лака миналлахи миу уалиййиу уала насиир.",
       "uzbekTranslation": "Sendan yahudiylar ham, nasroniylar ham ularning millatiga ergashmaguningcha hech-hech rozi bo'lmaslar. «Albatta, Allohning hidoyati haqiqiy hidoyatdir», deb ayt. Agar senga kelgan ilmdan keyin ham ularning havoi nafslariga ergashsang, seni Allohdan."
     },
     {
       "ayahNumber": 121,
       "arabic": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ ۗ وَمَنْ يَكْفُرْ بِهِ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
-      "uzbekReading": "Allaziyna aatainaahumul Kitaaba yatluunahuu haqqa tilaavatihiye ulaaa'ika yu'minuuna bi; va mai yakfur bihiy fa ulaaa'ika humul xaasiruun.",
+      "uzbekReading": "Allaziyna aatainaahumul Kitaaba yatluunahuu haqqa tilaavatihiy ulaaa'ika yu'minuuna bi; va mai yakfur bihiy fa ulaaa'ika humul xaasiruun.",
       "russianReading": "Аллазиина атайнахумул китаба йатлуунаху хакка тилауатихи уулаика йу'минууна бих уамай йакфур бихи фауулаика хумул хасируун.",
       "uzbekTranslation": "Biz kitob berganlardan uni o'rniga qo'yib tilovat qiladiganlari, ana o'shalari unga iymon keltiradi. Kim unga kufr keltirsa, ana o'shalar, o'zlarigina yutqazganlardir."
     },
     {
       "ayahNumber": 122,
       "arabic": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
-      "uzbekReading": "Yaa Baniye Israaa'iylaz-kuruu ni'matiyal latiye an'amtu 'alaikum va anniy faddaltukum 'alal 'aalamiyn.",
+      "uzbekReading": "Yaa Baniy Israaa'iylaz-kuruu ni'matiyal latiy an'amtu 'alaikum va anniy faddaltukum 'alal 'aalamiyn.",
       "russianReading": "Йа бании исраиила зкуруу ни'матийал латии ан'амту 'алайкум уааннии фаддалтукум 'алал 'аламиин.",
       "uzbekTranslation": "Ey Bani Isroil, sizga bergan ne'matlarimni va Men sizlarni olamlardan afzal qilib qo'yganimni eslang!"
     },
     {
       "ayahNumber": 123,
       "arabic": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا عَدْلٌ وَلَا تَنْفَعُهَا شَفَاعَةٌ وَلَا هُمْ يُنْصَرُونَ",
-      "uzbekReading": "Vattaquu yavmal laa tajziy nafsun 'an nafsin shai 'anw va laa yuqbalu minhaa 'adlunw va laa tanfa'uhaa shafaa 'atunw va laa hum yunsaruun.",
+      "uzbekReading": "Vattaquu yavmal laa tajziy nafsun 'an nafsin shai 'anv va laa yuqbalu minhaa 'adlunv va laa tanfa'uhaa shafaa 'atunv va laa hum yunsaruun.",
       "russianReading": "Уаттакуу йаумал ла тажзии нафсун 'ан нафсин шайау уала йукбалу минха 'адлуу уала танфа'уха шафа'атуу уала хум йунсаруун.",
       "uzbekTranslation": "Bir jon boshqa jondan hech narsani ado qila olmaydigan, undan shafoat qabul qilinmaydigan, undan to'lov olinmaydigan va ularga yordam berilmaydigan Kundan qo'rqing!"
     },
@@ -874,14 +874,14 @@
     {
       "ayahNumber": 125,
       "arabic": "وَإِذْ جَعَلْنَا الْبَيْتَ مَثَابَةً لِلنَّاسِ وَأَمْنًا وَاتَّخِذُوا مِنْ مَقَامِ إِبْرَاهِيمَ مُصَلًّى ۖ وَعَهِدْنَا إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ أَنْ طَهِّرَا بَيْتِيَ لِلطَّائِفِينَ وَالْعَاكِفِينَ وَالرُّكَّعِ السُّجُودِ",
-      "uzbekReading": "Va iz ja'alnal Baita masaabatal linnassi va amnanw vattaxizuu mim Maqaami Ibraahiyma musallaaa; va 'ahidnaaa ilaaa Ibraahiyma va Ismaa'iyla an tahhiraa Baitiya littaaa'ifiyna val'aakifiyna varrukka'is sujuud.",
+      "uzbekReading": "Va iz ja'alnal Baita masaabatal linnassi va amnanv vattaxizuu mim Maqaami Ibraahiyma musallaaa; va 'ahidnaaa ilaaa Ibraahiyma va Ismaa'iyla an tahhiraa Baitiya littaaa'ifiyna val'aakifiyna varrukka'is sujuud.",
       "russianReading": "Уаиз жа'алнал байта масабатал линнаси уаамнау уаттахизуу мим маками ибрахиима мусаллан уа'ахидна ила ибрахиима уаисма'иила ан таххира байтийа литтаифиина уал'акифиина уаррукка'ис сужууд.",
       "uzbekTranslation": "«Uy»ni odamlar uchun masaba va omonlik joyi qilganimizni eslang. Va Ibrohimning maqomini namozgoh tuting. Va Ibrohim va Ismoilga: «Uyimni tavof qiluvchilar, muqim turuvchilar, ruku' va sajda qiluvchilar uchun poklab qo'yinglar», deb amr qildik."
     },
     {
       "ayahNumber": 126,
       "arabic": "وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ اجْعَلْ هَٰذَا بَلَدًا آمِنًا وَارْزُقْ أَهْلَهُ مِنَ الثَّمَرَاتِ مَنْ آمَنَ مِنْهُمْ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۖ قَالَ وَمَنْ كَفَرَ فَأُمَتِّعُهُ قَلِيلًا ثُمَّ أَضْطَرُّهُ إِلَىٰ عَذَابِ النَّارِ ۖ وَبِئْسَ الْمَصِيرُ",
-      "uzbekReading": "Va iz qaala Ibraahiymu Robbij 'al haazaa baladan aaminanw varzuq ahlahuu minas samaraati man aamana minhum billaahi val yavmil aaxiri qaala va man kafara faumatti'uhuu qaliylan summa adtarruhuuo ilaa 'azaabin Naari va bi'salmasiyr.",
+      "uzbekReading": "Va iz qaala Ibraahiymu Robbij 'al haazaa baladan aaminanv varzuq ahlahuu minas samaraati man aamana minhum billaahi val yavmil aaxiri qaala va man kafara faumatti'uhuu qaliylan summa adtarruhuu ilaa 'azaabin Naari va bi'salmasiyr.",
       "russianReading": "Уаиз кала ибрахииму рабби ж'ал хаза баладан аминау уарзук ахлаху минас самарати ман амана минхум биллахи уалйаумил ахири кала уаман кафара фауматти'уху калиилан сумма адтарруху ила 'азабин нари уабисал масиир.",
       "uzbekTranslation": "Ibrohimning: «Robbim, buni omonlik yurti qilgin va ahlidan Allohga va qiyomat kuniga iymon keltirganlarini mevalar ila rizqlantirgin», deganini esla. U zot: «Kim kufr keltirsa, ozgina huzur baxsh etaman, so'ngra do'zax azobiga majbur qilaman va u qanday ham yomon joy!» dedi."
     },
@@ -895,7 +895,7 @@
     {
       "ayahNumber": 128,
       "arabic": "رَبَّنَا وَاجْعَلْنَا مُسْلِمَيْنِ لَكَ وَمِنْ ذُرِّيَّتِنَا أُمَّةً مُسْلِمَةً لَكَ وَأَرِنَا مَنَاسِكَنَا وَتُبْ عَلَيْنَا ۖ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
-      "uzbekReading": "Robbanaa vaj'alnaa muslimaini laka va min zurriyyatinaaa ummatam muslimatal laka va arinaa manaasikanaa va tub 'alainaa innaka antat Tavwaabur Rahiym.",
+      "uzbekReading": "Robbanaa vaj'alnaa muslimaini laka va min zurriyyatinaaa ummatam muslimatal laka va arinaa manaasikanaa va tub 'alainaa innaka antat Tavvaabur Rahiym.",
       "russianReading": "Раббана уаж'ална муслимайни лака уамин зурриййатина умматам муслиматал лака уаарина манасикана уатуб 'алайна иннака антат таууабур рахиим.",
       "uzbekTranslation": "«Robbimiz, ikkovimizni O'zingga musulmon bo'lganlardan qil va zurriyotimizdan ham O'zingga musulmon ummat qil, bizga ibodatlarimizni ko'rsat, tavbamizni qabul et. Albatta, Sening O'zing tavbalarni ko'plab qabul etuvchi, rahmli zotsan»."
     },
@@ -916,7 +916,7 @@
     {
       "ayahNumber": 131,
       "arabic": "إِذْ قَالَ لَهُ رَبُّهُ أَسْلِمْ ۖ قَالَ أَسْلَمْتُ لِرَبِّ الْعَالَمِينَ",
-      "uzbekReading": "Iz qaala lahuu Robbuhuuo aslim qaala aslamtu li Robbil 'aalamiyn.",
+      "uzbekReading": "Iz qaala lahuu Robbuhuu aslim qaala aslamtu li Robbil 'aalamiyn.",
       "russianReading": "Из кала лаху раббуху аслим кала асламту лираббил 'аламиин.",
       "uzbekTranslation": "Chunki Robbi unga: «Musulmon bo'l!» deganida, u: «Olamlarning Robbiga musulmon bo'ldim», dedi."
     },
@@ -930,7 +930,7 @@
     {
       "ayahNumber": 133,
       "arabic": "أَمْ كُنْتُمْ شُهَدَاءَ إِذْ حَضَرَ يَعْقُوبَ الْمَوْتُ إِذْ قَالَ لِبَنِيهِ مَا تَعْبُدُونَ مِنْ بَعْدِي قَالُوا نَعْبُدُ إِلَٰهَكَ وَإِلَٰهَ آبَائِكَ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ إِلَٰهًا وَاحِدًا وَنَحْنُ لَهُ مُسْلِمُونَ",
-      "uzbekReading": "Am kuntum shuhadaaa'a iz hadara Ya'quubal mavtu iz qaala libaniyhi maa ta'buduuna mim ba'diy qaaluu na'budu ilaahaka va ilaaha aabaaa'ika Ibraahiyma va Ismaa'iyla va Ishaaqa Ilaahanw vaahidanw va nahnu lahuu muslimuun.",
+      "uzbekReading": "Am kuntum shuhadaaa'a iz hadara Ya'quubal mavtu iz qaala libaniyhi maa ta'buduuna mim ba'diy qaaluu na'budu ilaahaka va ilaaha aabaaa'ika Ibraahiyma va Ismaa'iyla va Ishaaqa Ilaahanv vaahidanv va nahnu lahuu muslimuun.",
       "russianReading": "Ам кунтум шухадаа из хадара йа'куубал мауту из кала либаниихи ма та'будууна мин ба'дии калуу на'буду илахака уаилаха абаика ибрахиима уаисма'иила уаисхака илахау уахидау уанахну лаху муслимуун.",
       "uzbekTranslation": "Yoki Ya'qubga o'lim hozir bo'lib, u o'z bolalariga: «Mendan keyin nimaga ibodat qilasizlar?» deganida, ular: «Sening ilohingga va otalaring Ibrohim, Ismoil va Ishoqlarning ilohiga, yolg'iz ilohga ibodat qilamiz hamda biz Unga musulmon bo'luvchimiz», deganlarida guvoh bo'lganmisiz?!"
     },
@@ -944,28 +944,28 @@
     {
       "ayahNumber": 135,
       "arabic": "وَقَالُوا كُونُوا هُودًا أَوْ نَصَارَىٰ تَهْتَدُوا ۗ قُلْ بَلْ مِلَّةَ إِبْرَاهِيمَ حَنِيفًا ۖ وَمَا كَانَ مِنَ الْمُشْرِكِينَ",
-      "uzbekReading": "Va qaaluu kuunuu Huudan aw Nasaaraa tahtaduu; qul bal Millata Ibraahiyma Haniyfanw va maa kaana minal mushrikiyn.",
+      "uzbekReading": "Va qaaluu kuunuu Huudan av Nasaaraa tahtaduu; qul bal Millata Ibraahiyma Haniyfanv va maa kaana minal mushrikiyn.",
       "russianReading": "Уакалуу куунуу хуудан ау насара тахтаду кул бал миллата ибрахиима ханиифан уама кана минал мушрикиин.",
       "uzbekTranslation": "Ular: «Yahudiy yoki nasroniy bo'ling, hidoyat topasiz», deydilar. Balki: «Ibrohimning hanif millatiga."
     },
     {
       "ayahNumber": 136,
       "arabic": "قُولُوا آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ إِلَىٰ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطِ وَمَا أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَا أُوتِيَ النَّبِيُّونَ مِنْ رَبِّهِمْ لَا نُفَرِّقُ بَيْنَ أَحَدٍ مِنْهُمْ وَنَحْنُ لَهُ مُسْلِمُونَ",
-      "uzbekReading": "Quuluuo aamannaa billaahi va maaa unzila ilainaa va maaa unzila ilaaa Ibraahiyma va Ismaa'iyla va Ishaaqa va Ya'quuba val Asbaati va maauutiya Muusa va 'Iysaa va maaa uutiyan Nabiyyuuna mir Robbihim laa nufaariq baina ahadim minhum va nahnu lahuu muslimuun.",
+      "uzbekReading": "Quuluu aamannaa billaahi va maaa unzila ilainaa va maaa unzila ilaaa Ibraahiyma va Ismaa'iyla va Ishaaqa va Ya'quuba val Asbaati va maauutiya Muusa va 'Iysaa va maaa uutiyan Nabiyyuuna mir Robbihim laa nufaariq baina ahadim minhum va nahnu lahuu muslimuun.",
       "russianReading": "Куулуу аманна биллахи уама унзила илайна уама унзила ила ибрахиима уаисма'иила уаисхака уайа'кууба уаласбати уама уутийа мууса уа'ииса уама уутийан набиййууна мир раббихим ла нуфаррику байна ахадим минхум уанахну лаху муслимуун.",
       "uzbekTranslation": "Aytinglar: «Allohga va bizga tushirilgan narsaga, Ibrohim, Ismoil, Ishoq, Ya'qub, asbotlarga tushirilgan narsaga, Muso va Iysoga berilgan narsaga va Payg'ambarlarga Robbilaridan berilgan narsaga iymon keltirdik. Ularning orasidan birortasini farqlamaymiz va biz Unga musulmonlarmiz»."
     },
     {
       "ayahNumber": 137,
       "arabic": "فَإِنْ آمَنُوا بِمِثْلِ مَا آمَنْتُمْ بِهِ فَقَدِ اهْتَدَوْا ۖ وَإِنْ تَوَلَّوْا فَإِنَّمَا هُمْ فِي شِقَاقٍ ۖ فَسَيَكْفِيكَهُمُ اللَّهُ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
-      "uzbekReading": "Fa in aamanuu bimisli maaa aamantum bihiy faqadih tadaw va in tavallaw fa innamaa hum fiy shiqaaq; fasayakfiykahumul laah; va Huvas Samiy'ul Aliym.",
+      "uzbekReading": "Fa in aamanuu bimisli maaa aamantum bihiy faqadih tadav va in tavallav fa innamaa hum fiy shiqaaq; fasayakfiykahumul laah; va Huvas Samiy'ul Aliym.",
       "russianReading": "Фаин амануу бимисли ма амантум бихи факади хтадау ууаин тауаллау фаиннама хум фии шикакин фасайакфиикахумуллах уахууас самии'ул 'алиим.",
       "uzbekTranslation": "Agar siz iymon keltirganga o'xshash iymon keltirsalar, batahqiq, hidoyat topadilar. Va agar yuz o'girsalar, bas, albatta, ular xilofdan boshqa narsada bo'lmaydilar. Alloh senga ular."
     },
     {
       "ayahNumber": 138,
       "arabic": "صِبْغَةَ اللَّهِ ۖ وَمَنْ أَحْسَنُ مِنَ اللَّهِ صِبْغَةً ۖ وَنَحْنُ لَهُ عَابِدُونَ",
-      "uzbekReading": "Sibg'atal laahi va man ahsanu minal laahi sibg'atanw va nahnu lahuu 'aabiduun.",
+      "uzbekReading": "Sibg'atal laahi va man ahsanu minal laahi sibg'atanv va nahnu lahuu 'aabiduun.",
       "russianReading": "Сибгаталлахи уаман ахсану миналлахи сибгатан уанахну лаху 'абидуун.",
       "uzbekTranslation": "Allohning bo'yog'ini."
     },
@@ -979,7 +979,7 @@
     {
       "ayahNumber": 140,
       "arabic": "أَمْ تَقُولُونَ إِنَّ إِبْرَاهِيمَ وَإِسْمَاعِيلَ وَإِسْحَاقَ وَيَعْقُوبَ وَالْأَسْبَاطَ كَانُوا هُودًا أَوْ نَصَارَىٰ ۗ قُلْ أَأَنْتُمْ أَعْلَمُ أَمِ اللَّهُ ۗ وَمَنْ أَظْلَمُ مِمَّنْ كَتَمَ شَهَادَةً عِنْدَهُ مِنَ اللَّهِ ۗ وَمَا اللَّهُ بِغَافِلٍ عَمَّا تَعْمَلُونَ",
-      "uzbekReading": "Am taquuluuna inna Ibraahiyma va Ismaa'iyla va Ishaaq va Ya'quuba val asbaata kaanuu Huudan aw Nasaaraa; qul 'a-antum a'lamu amil laah; va man azlamu mimman katama shahaadatan 'indahuu minallaah; va mallaahu big'aafilin 'ammaa ta'maluun.",
+      "uzbekReading": "Am taquuluuna inna Ibraahiyma va Ismaa'iyla va Ishaaq va Ya'quuba val asbaata kaanuu Huudan av Nasaaraa; qul 'a-antum a'lamu amil laah; va man azlamu mimman katama shahaadatan 'indahuu minallaah; va mallaahu big'aafilin 'ammaa ta'maluun.",
       "russianReading": "Ам такуулууна инна ибрахиима уаисма'иила уаисхака уайа'кууба уаласбата кануу хуудан ау насара кул аантум а'ламу амиллах уаман азламу мимман катама шахадатан 'индаху миналлах уамаллаху бигафилин 'амма та'малуун.",
       "uzbekTranslation": "Yoki: «Albatta, Ibrohim, Ismoil, Ishoq, Ya'qub va asbotlar yahudiy va nasroniy bo'lgan», deysizlarmi?! «Sizlar bilimdonroqmi yoki Allohmi?» degin. Huzuridagi Allohdan bo'lgan guvohlikni berkitgan kimsadan ham zolimroq odam bormi?! Va Alloh qilayotgan ishlaringizdan g'ofil emasdir."
     },
@@ -1000,7 +1000,7 @@
     {
       "ayahNumber": 143,
       "arabic": "وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنْتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَنْ يَتَّبِعُ الرَّسُولَ مِمَّنْ يَنْقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِنْ كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ ۗ وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ ۚ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَحِيمٌ",
-      "uzbekReading": "Va kazaalika ja'alnaakum ummatanw vasatal litakuunuu shuhadaaa'a 'alan naasi va yakuunar Rasuulu 'alaikum shahiydaa; va maa ja'alnal qiblatal latiy kunta 'alaihaaa illaa lina'lama mai yattabi'ur Rasuula mimmai yanqalibu 'alaa 'aqibayh; va in kaanat lakabiyratan illaa 'alal laziyna hadal laah; va maa kaanal laahu liyudiy'a iymaanakum; innal laaha binnaasi la Ra'uufur Rahiym.",
+      "uzbekReading": "Va kazaalika ja'alnaakum ummatanv vasatal litakuunuu shuhadaaa'a 'alan naasi va yakuunar Rasuulu 'alaikum shahiydaa; va maa ja'alnal qiblatal latiy kunta 'alaihaaa illaa lina'lama mai yattabi'ur Rasuula mimmai yanqalibu 'alaa 'aqibayh; va in kaanat lakabiyratan illaa 'alal laziyna hadal laah; va maa kaanal laahu liyudiy'a iymaanakum; innal laaha binnaasi la Ra'uufur Rahiym.",
       "russianReading": "Уаказалика жа'алнакум умматау уасатал литакуунуу шухадаа 'алан наси уайакуунар расуулу 'алайкум шахиида уама жа'алнал киблатал латии кунта 'алайха илла лина'лама май йаттаби'ур расуула миммай йанкалибу 'ала 'акибайх уаин канат лакабииратан илла 'алал лазиина хадаллах уама каналлаху лийудии'а ииманакум инналлаха биннаси лараууфур рахиим.",
       "uzbekTranslation": "Shuningdek, sizlarni odamlar ustidan guvoh bo'lishingiz va Payg'ambar sizlarning ustingizdan guvoh bo'lishi uchun o'rta millat qildik. Sen avval yuzlangan qiblani ortga burilib ketadiganlar kim-u Payg'ambarga ergashuvchilar kim ekanini bilish uchungina qilganmiz. Garchi bu ish Alloh hidoyatga solganlardan boshqalarga og'ir bo'lsa ham. Alloh iymoningizni zoye qilmaydi. Albatta, Alloh odamlarga mehribon va rahmlidir."
     },
@@ -1035,7 +1035,7 @@
     {
       "ayahNumber": 148,
       "arabic": "وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-      "uzbekReading": "Va likullinw vijhatun huva muvalliyhaa fastabiqul xairaat; ayna maa takuunuu yaati bikumullaahu jamiy'aa; innal laaha 'alaa kulli shai'in qadiyr.",
+      "uzbekReading": "Va likullinv vijhatun huva muvalliyhaa fastabiqul xairaat; ayna maa Takuunuu ya'tiy bikumullaahu jamiy'aa; innal laaha 'alaa kulli shai'in qadiyr.",
       "russianReading": "Уаликуллиу уижхатун хууа мууаллииха фастабикуул хайрат айна ма такуунуу йа'ти бикумуллаху жамии'а инналлаха 'ала кулли шайин кадиир.",
       "uzbekTranslation": "Har kimning yuzlanadigan tarafi bor. U o'shanga boqadi. Yaxshiliklarga shoshiling. Qayerda bo'lsangiz ham, Alloh sizlarni jamlaydi. Albatta, Alloh har bir narsaga qodirdir."
     },
@@ -1056,14 +1056,14 @@
     {
       "ayahNumber": 151,
       "arabic": "كَمَا أَرْسَلْنَا فِيكُمْ رَسُولًا مِنْكُمْ يَتْلُو عَلَيْكُمْ آيَاتِنَا وَيُزَكِّيكُمْ وَيُعَلِّمُكُمُ الْكِتَابَ وَالْحِكْمَةَ وَيُعَلِّمُكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ",
-      "uzbekReading": "kamaaa arsalnaa fiykum Rasuulam minkum yatluu 'alaikum aayaatina va yuzakkiykum va yu'alli mukumul kitaaba val hikmata va yu'allimukum maa lam takuunuu ta'lamuun.",
+      "uzbekReading": "Kamaaa arsalnaa fiykum Rasuulam minkum yatluu 'alaikum aayaatina va yuzakkiykum va yu'alli mukumul kitaaba val hikmata va yu'allimukum maa lam takuunuu ta'lamuun.",
       "russianReading": "Кама арсална фиикум расуулам минкум йатлуу 'алайкум айатина уайузаккиикум уайу'аллимукумул китаба уалхикмата уайу'аллимукум ма лам такуунуу та'ламуун.",
       "uzbekTranslation": "Shuningdek, ichingizga o'zingizdan, sizlarga oyatlarimizni tilovat qiladigan, sizlarni poklaydigan, sizlarga kitobni, hikmatni va bilmaydigan narsalaringizni o'rgatadigan Payg'ambar yubordik.'."
     },
     {
       "ayahNumber": 152,
       "arabic": "فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ",
-      "uzbekReading": "Fazkuruuniye azkurkum vashkuruu liy va laa takfuruun.",
+      "uzbekReading": "Fazkuruuniy azkurkum vashkuruu liy va laa takfuruun.",
       "russianReading": "Фазкуруунии азкуркум уашкуруу лии уала такфуруун.",
       "uzbekTranslation": "Bas, Meni eslangiz, sizni eslayman. Va Menga shukr qilingiz, kufr qilmangiz."
     },
@@ -1077,7 +1077,7 @@
     {
       "ayahNumber": 154,
       "arabic": "وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ أَمْوَاتٌ ۚ بَلْ أَحْيَاءٌ وَلَٰكِنْ لَا تَشْعُرُونَ",
-      "uzbekReading": "Va laa taquuluu limai yuqtalu fiy sabiylil laahi amvaat; bal ahyaaa'unw va laakil laa tash'uruun.",
+      "uzbekReading": "Va laa taquuluu limai yuqtalu fiy sabiylil laahi amvaat; bal ahyaaa'unv va laakil laa tash'uruun.",
       "russianReading": "Уала такуулуу лимай йукталу фии сабиилиллахи амуат бал ахйауу уалакил ла таш'уруун.",
       "uzbekTranslation": "Allohning yo'lida qatl bo'lganlarni o'liklar demang. Balki ular tirikdirlar, lekin siz sezmaysiz."
     },
@@ -1091,7 +1091,7 @@
     {
       "ayahNumber": 156,
       "arabic": "الَّذِينَ إِذَا أَصَابَتْهُمْ مُصِيبَةٌ قَالُوا إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
-      "uzbekReading": "Allaziyna izaaa asaabasum musiybatun qaaluuo innaa lillaahi va innaaa ilaihi raaji'uun.",
+      "uzbekReading": "Allaziyna izaaa asaabasum musiybatun qaaluu innaa lillaahi va innaaa ilaihi raaji'uun.",
       "russianReading": "Аллазиина иза асабатхум мусиибатун калуу инна лиллахи уаинна илайхи ражи'уун.",
       "uzbekTranslation": "Ular musibat yetganda: «Albatta, biz Allohnikimiz va, albatta, biz Unga qaytuvchimiz», derlar."
     },
@@ -1105,7 +1105,7 @@
     {
       "ayahNumber": 158,
       "arabic": "۞ إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ ۖ فَمَنْ حَجَّ الْبَيْتَ أَوِ اعْتَمَرَ فَلَا جُنَاحَ عَلَيْهِ أَنْ يَطَّوَّفَ بِهِمَا ۚ وَمَنْ تَطَوَّعَ خَيْرًا فَإِنَّ اللَّهَ شَاكِرٌ عَلِيمٌ",
-      "uzbekReading": "Innas Safaa val-Marvata min sha'aaa'iril laahi faman hajjal Baita avi'tamara falaa junaaha 'alaihi ai yattavwafa bihimaa; va man tatavwa'a xairan fa innal laaha Shaakirun'Aliym.",
+      "uzbekReading": "Innas Safaa val-Marvata min sha'aaa'iril laahi faman hajjal Baita avi'tamara falaa junaaha 'alaihi ai yattavvafa bihimaa; va man tatavva'a xairan fa innal laaha Shaakirun'Aliym.",
       "russianReading": "Иннас сафа уалмаруата мин ша'аириллахи фаман хажжал байта ауи 'тамара фала жунаха 'алайхи ай йаттаууафа бихима уаман татаууа'а хайран фаинналлаха шакирун 'алиим.",
       "uzbekTranslation": "Albatta, Safo va Marva Alloh."
     },
@@ -1119,7 +1119,7 @@
     {
       "ayahNumber": 160,
       "arabic": "إِلَّا الَّذِينَ تَابُوا وَأَصْلَحُوا وَبَيَّنُوا فَأُولَٰئِكَ أَتُوبُ عَلَيْهِمْ ۚ وَأَنَا التَّوَّابُ الرَّحِيمُ",
-      "uzbekReading": "Illal laziyna taabuu va aslahuu va baiyanuu fa ulaaa'ika atuubu 'alaihim; va Anat Tavwaabur Rahiym.",
+      "uzbekReading": "Illal laziyna taabuu va aslahuu va baiyanuu fa ulaaa'ika atuubu 'alaihim; va Anat Tavvaabur Rahiym.",
       "russianReading": "Иллал лазиина табуу уааслахуу уабаййануу фауулаика атуубу 'алайхим уаанат таууабур рахиим.",
       "uzbekTranslation": "Magar tavba qilib, ahli solih bo'lib, bayon qilganlarning, ana o'shalarning tavbasini qabul qilaman. Va Men tavbalarni ko'plab qabul qiluvchi va rahmlidirman."
     },
@@ -1133,28 +1133,28 @@
     {
       "ayahNumber": 162,
       "arabic": "خَالِدِينَ فِيهَا ۖ لَا يُخَفَّفُ عَنْهُمُ الْعَذَابُ وَلَا هُمْ يُنْظَرُونَ",
-      "uzbekReading": "xaalidiyna fiyha laa yuxaffafu 'anhumul 'azaabu va laa hum yunzaruun.",
+      "uzbekReading": "Xaalidiyna fiyha laa yuxaffafu 'anhumul 'azaabu va laa hum yunzaruun.",
       "russianReading": "Халидиина фииха ла йухаффафу 'анхумул 'азабу уала хум йунзаруун.",
       "uzbekTranslation": "Unda abadiy bo'lurlar. Ulardan azob yengillatilmas. Va ularga nazar ham solinmas."
     },
     {
       "ayahNumber": 163,
       "arabic": "وَإِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ ۖ لَا إِلَٰهَ إِلَّا هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
-      "uzbekReading": "Va ilaahukum illaahunw vaahid, laaa ilaaha illaa Huvar Rohmaanur Rahiym.",
+      "uzbekReading": "Va ilaahukum illaahunv vaahid, laaa ilaaha illaa Huvar Rohmaanur Rahiym.",
       "russianReading": "Уаилахукум илахуу уахидул ла илаха илла хууар рахманур рахиим.",
       "uzbekTranslation": "Va ilohingiz bir ilohdir. Rohman va Rahiym bo'lmish Undan o'zga ibodatga sazovor zot yo'qdir."
     },
     {
       "ayahNumber": 164,
       "arabic": "إِنَّ فِي خَلْقِ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافِ اللَّيْلِ وَالنَّهَارِ وَالْفُلْكِ الَّتِي تَجْرِي فِي الْبَحْرِ بِمَا يَنْفَعُ النَّاسَ وَمَا أَنْزَلَ اللَّهُ مِنَ السَّمَاءِ مِنْ مَاءٍ فَأَحْيَا بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا وَبَثَّ فِيهَا مِنْ كُلِّ دَابَّةٍ وَتَصْرِيفِ الرِّيَاحِ وَالسَّحَابِ الْمُسَخَّرِ بَيْنَ السَّمَاءِ وَالْأَرْضِ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
-      "uzbekReading": "Inna fiy xalqis samaavaati val ardi vaxtilaafil laili vannahaari valfulkil latiy tajriy fil hahri bimaa yanfa'unnaasa va maaa anzalal laahu minas samaaa'i mim maaa'in fa ahyaa bihil arda ba'da mavtihaa va bas sa fiyhaa min kulli daaabbatinw va tasriyfir riyaahi vassahaabil musaxxari bainas samaaa'i val ardi la aayaatil liqavminy ya'qiluun.",
+      "uzbekReading": "Inna fiy xalqis samaavaati val ardi vaxtilaafil laili vannahaari valfulkil latiy tajriy fil hahri bimaa yanfa'unnaasa va maaa anzalal laahu minas samaaa'i mim maaa'in fa ahyaa bihil arda ba'da mavtihaa va bas sa fiyhaa min kulli daaabbatinv va tasriyfir riyaahi vassahaabil musaxxari bainas samaaa'i val ardi la aayaatil liqavminy ya'qiluun.",
       "russianReading": "Инна фии халкис самауати уаларди уахтилафил лайли уаннахари уалфулкил латии тажрии фиил бахри бима йанфа'ун наса уама анзалаллаху минас самаи мим маин фаахйа бихил арда ба'да маутиха уабасса фииха мин кулли даббатиу уатасриифир рийахи уассахабил мусаххари байнас самаи уаларди лаайатил ликаумий йа'килуун.",
       "uzbekTranslation": "Albatta, osmonlaru yerning yaratilishida, kechayu kunduzning almashib turishida, odamlarga manfaatli narsalari ila dengizda yurib turgan kemada, Allohning osmondan suv tushirib, u bilan o'lgan yerni tiriltirishi va unda turli jondorlarni taratishida, shamollarni yo'naltirishida, osmonu yer orasidagi itoatgo'y bulutda aql yurituvchi qavmlar uchun belgilar bor."
     },
     {
       "ayahNumber": 165,
       "arabic": "وَمِنَ النَّاسِ مَنْ يَتَّخِذُ مِنْ دُونِ اللَّهِ أَنْدَادًا يُحِبُّونَهُمْ كَحُبِّ اللَّهِ ۖ وَالَّذِينَ آمَنُوا أَشَدُّ حُبًّا لِلَّهِ ۗ وَلَوْ يَرَى الَّذِينَ ظَلَمُوا إِذْ يَرَوْنَ الْعَذَابَ أَنَّ الْقُوَّةَ لِلَّهِ جَمِيعًا وَأَنَّ اللَّهَ شَدِيدُ الْعَذَابِ",
-      "uzbekReading": "Va minan naasi mai yattaxizu min duunil laahi andaadai yuhibbuunahum kahubbil laahi vallaziyna aamanuuo ashaddu hubbal lillah; va law yaral laziyna zalamuu iz yaravnal 'azaaba annal quvwata lillaahi jamiy'anw va annallaaha shadiydul 'azaab.",
+      "uzbekReading": "Va minan naasi mai yattaxizu min duunil laahi andaadai yuhibbuunahum kahubbil laahi vallaziyna aamanuu ashaddu hubbal lillah; va lav yaral laziyna zalamuu iz yaravnal 'azaaba annal quvvata lillaahi jamiy'anv va annallaaha shadiydul 'azaab.",
       "russianReading": "Уаминан наси май йаттахизу мин дууниллахи андадай йухиббуунахум кахуббиллахи уаллазиина амануу ашадду хуббал лиллах уалау йарал лазиина заламуу из йараунал 'азаба аннал кууата лиллахи жамии'ау уаанналлаха шадиидул 'азаб.",
       "uzbekTranslation": "Odamlar ichida Allohdan o'zga tengdoshlarni tutadiganlar va ularni Allohni sevgandek sevadiganlar bor. Iymon keltirganlarning Allohga muhabbatlari qattiqdir. Zulm qilganlar azobni ko'rgan chog'larida, albatta, barcha quvvat Allohga xosligini va, albatta, Allohning azobi shiddatli ekanini bilsalar edi!"
     },
@@ -1168,35 +1168,35 @@
     {
       "ayahNumber": 167,
       "arabic": "وَقَالَ الَّذِينَ اتَّبَعُوا لَوْ أَنَّ لَنَا كَرَّةً فَنَتَبَرَّأَ مِنْهُمْ كَمَا تَبَرَّءُوا مِنَّا ۗ كَذَٰلِكَ يُرِيهِمُ اللَّهُ أَعْمَالَهُمْ حَسَرَاتٍ عَلَيْهِمْ ۖ وَمَا هُمْ بِخَارِجِينَ مِنَ النَّارِ",
-      "uzbekReading": "Va qaalal laziynat taba'uu law anna lanaa karratan fanatabarra a minhum kamaa tabarra'uu minnaa; kazaalika yuriyhimullaahu a'maalahum hasaraatin 'alaihim va maa hum bixaarijiyna minan Naar.",
+      "uzbekReading": "Va qaalal laziynat taba'uu lav anna lanaa karratan fanatabarra a minhum kamaa tabarra'uu minnaa; kazaalika yuriyhimullaahu a'maalahum hasaraatin 'alaihim va maa hum bixaarijiyna minan Naar.",
       "russianReading": "Уакалал лазиинат таба'уу лау анна лана карратан фанатабарраа минхум кама табаррауу минна казалика йуриихимуллаху а'малахум хасаратин 'алайхим уама хум бихарижиина минан нар.",
       "uzbekTranslation": "Va ergashganlar: «Qani endi bizga bir ortga qaytish bo'lsa edi, bizdan tonganlaridek, biz ham ulardan tonar edik», derlar. Shunday qilib, Alloh ularga amallarining o'zlariga hasrat bo'lganini ko'rsatur. Va ular do'zaxdan chiquvchi emaslar."
     },
     {
       "ayahNumber": 168,
       "arabic": "يَا أَيُّهَا النَّاسُ كُلُوا مِمَّا فِي الْأَرْضِ حَلَالًا طَيِّبًا وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
-      "uzbekReading": "Yaaa ayyuhan naasu kuluu mimmaa fil ardi halaalan taiyibanw va laa tattabi'uu xutu vaatish Shaitaan; innahuu lakum 'aduvwum mubiyn.",
+      "uzbekReading": "Yaaa ayyuhan naasu kuluu mimmaa fil ardi halaalan taiyibanv va laa tattabi'uu xutu vaatish Shaitaan; innahuu lakum 'aduvvum mubiyn.",
       "russianReading": "Йа аййухан насу кулуу мимма фиил арди халалан тайибау уала таттаби'уу хутууатиш шайтан иннаху лакум 'адууум мубиин.",
       "uzbekTranslation": "Ey odamlar! Yer yuzidagi narsalardan halol-poklarini yenglar. Va shayton izidan ergashmanglar, chunki u sizlarga ochiq dushmandir."
     },
     {
       "ayahNumber": 169,
       "arabic": "إِنَّمَا يَأْمُرُكُمْ بِالسُّوءِ وَالْفَحْشَاءِ وَأَنْ تَقُولُوا عَلَى اللَّهِ مَا لَا تَعْلَمُونَ",
-      "uzbekReading": "Innamaa yaamurukum bissuuo'i valfahshaaa'i va an taquuluu alal laahi maa laa ta'lamuun.",
+      "uzbekReading": "Innamaa yaamurukum bissuu'i valfahshaaa'i va an taquuluu alal laahi maa laa ta'lamuun.",
       "russianReading": "Иннама йа'мурукум биссууи уалфахшаи уаан такуулуу 'алаллахи ма ла та'ламуун.",
       "uzbekTranslation": "Albatta, u sizlarni yomon va fahsh ishlarga hamda Allohga qarshi bilmagan narsangizni gapirishingizga buyuradi."
     },
     {
       "ayahNumber": 170,
       "arabic": "وَإِذَا قِيلَ لَهُمُ اتَّبِعُوا مَا أَنْزَلَ اللَّهُ قَالُوا بَلْ نَتَّبِعُ مَا أَلْفَيْنَا عَلَيْهِ آبَاءَنَا ۗ أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْقِلُونَ شَيْئًا وَلَا يَهْتَدُونَ",
-      "uzbekReading": "Va izaa qiyla lahumuttabi'uu maaa anzalal laahu qaaluu bal nattabi'u maaa alfainaa 'alaihi aabaaa'anaaa; avalaw kaana aabaaa'hum laa ya'qiluuna shai'anw va laa yahtaduun.",
+      "uzbekReading": "Va izaa qiyla lahumuttabi'uu maaa anzalal laahu qaaluu bal nattabi'u maaa alfainaa 'alaihi aabaaa'anaaa; avalav kaana aabaaa'hum laa ya'qiluuna shai'anv va laa yahtaduun.",
       "russianReading": "Уаиза киила лахумут таби'уу ма анзалаллаху калуу бал наттаби'у ма алфайна 'алайхи абаана ауалау кана абаухум ла йа'килууна шайау уала йахтадуун.",
       "uzbekTranslation": "Ularga: «Alloh nozil qilgan narsaga ergashingiz», deyilsa, ular: «Yo'k, biz otalarimizni nimada topsak, shunga ergashamiz», deydilar. Otalari hech narsaga aqli yetmagan va hidoyat topmagan bo'lsalar ham-a?!"
     },
     {
       "ayahNumber": 171,
       "arabic": "وَمَثَلُ الَّذِينَ كَفَرُوا كَمَثَلِ الَّذِي يَنْعِقُ بِمَا لَا يَسْمَعُ إِلَّا دُعَاءً وَنِدَاءً ۚ صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَعْقِلُونَ",
-      "uzbekReading": "Va masalul laziyna kafaruu kamasalil laziy yan'iqu bimaa laa yasma'u illaa du'aaa'anw va nidaaa'aa; summum bukmun 'umyun fahum laa ya'qiluun.",
+      "uzbekReading": "Va masalul laziyna kafaruu kamasalil laziy yan'iqu bimaa laa yasma'u illaa du'aaa'anv va nidaaa'aa; summum bukmun 'umyun fahum laa ya'qiluun.",
       "russianReading": "Уамасалул лазиина кафаруу камасалил лазии йан'ику бима ла йасма'у илла ду'аау уанидаа суммун букмун 'умиун фахум ла йа'килуун.",
       "uzbekTranslation": "Kufr keltirganlar misoli xuddi qichqiriq va sasdan boshqa narsani eshitmaydiganlarga baqirayotganga o'xshaydi. Ular kar, soqov va ko'rdirlar. Ular aql ishlatmaslar."
     },
@@ -1210,7 +1210,7 @@
     {
       "ayahNumber": 173,
       "arabic": "إِنَّمَا حَرَّمَ عَلَيْكُمُ الْمَيْتَةَ وَالدَّمَ وَلَحْمَ الْخِنْزِيرِ وَمَا أُهِلَّ بِهِ لِغَيْرِ اللَّهِ ۖ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَلَا إِثْمَ عَلَيْهِ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
-      "uzbekReading": "Innamaa harrama 'alaikumul maitata vaddama va lahmal xinziyri va maaa uhilla bihiy lig'airil laahi famanid turra g'aira baag'inw va laa 'aadin falaaa isma 'alaih; innal laaha G'afuurur Rahiym.",
+      "uzbekReading": "Innamaa harrama 'alaikumul maitata vaddama va lahmal xinziyri va maaa uhilla bihiy lig'airil laahi famanid turra g'aira baag'inv va laa 'aadin falaaa isma 'alaih; innal laaha G'afuurur Rahiym.",
       "russianReading": "Иннама харрама 'алайкумул майтата уаддама уалахмал хинзиири уама ухилла бихи лигайриллахи фамани дтурра гайра багиу уала 'адин фала исма 'алайх инналлаха гафуурур рахиим.",
       "uzbekTranslation": "Albatta, U zot sizlarga faqat o'limtikni, qonni, cho'chqaning go'shtini va Allohdan boshqaga so'yilganni harom qildi. Kimki majbur bo'lsa-yu, zulm qilmay, haddan oshmay."
     },
@@ -1273,7 +1273,7 @@
     {
       "ayahNumber": 182,
       "arabic": "فَمَنْ خَافَ مِنْ مُوصٍ جَنَفًا أَوْ إِثْمًا فَأَصْلَحَ بَيْنَهُمْ فَلَا إِثْمَ عَلَيْهِ ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
-      "uzbekReading": "Faman xaafa mim muusin janafan aw isman fa aslaha bainahum falaaa ismaa 'alayh; innal laaha G'afuuru Rahiym.",
+      "uzbekReading": "Faman xaafa mim muusin janafan av isman fa aslaha bainahum falaaa ismaa 'alayh; innal laaha G'afuuru Rahiym.",
       "russianReading": "Фаман хафа мим муусин жанафан ау исман фааслаха байнахум фала исма 'алайх инналлаха гафуурур рахиим.",
       "uzbekTranslation": "Kimki vasiyat qiluvchidan toyilish yoki gunoh sodir bo'lishidan qo'rqsa, bas, ularning orasini isloh qilsa, unga gunoh bo'lmaydi. Albatta, Alloh mag'firatli va rahmli zotdir."
     },
@@ -1287,14 +1287,14 @@
     {
       "ayahNumber": 184,
       "arabic": "أَيَّامًا مَعْدُودَاتٍ ۚ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ ۚ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ۖ فَمَنْ تَطَوَّعَ خَيْرًا فَهُوَ خَيْرٌ لَهُ ۚ وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ ۖ إِنْ كُنْتُمْ تَعْلَمُونَ",
-      "uzbekReading": "Ayyaamam ma'duudaat; faman kaana minkum mariydan aw'alaa safarin fa'iddatum min ayyaamin uxar; va 'alal laziyna yutiyquunahuu fidyatun ta'aamu miskiynin faman tatavwa'a xairan fahuva xairulo lahuu va an tasuumuu xairul lakum in kuntum ta'lamuun.",
+      "uzbekReading": "Ayyaamam ma'duudaat; faman kaana minkum mariydan av'alaa safarin fa'iddatum min ayyaamin uxar; va 'alal laziyna yutiyquunahuu fidyatun ta'aamu miskiynin faman tatavva'a xairan fahuva xairulo lahuu va an tasuumuu xairul lakum in kuntum ta'lamuun.",
       "russianReading": "Аййамам ма'дуудат фаман кана минкум мариидан ау 'ала сафарин фа'иддатум мин аййамиу ухар уа'алал лазиина йутиикуунаху фидйатун та'аму мискиинин фаман татаууа'а хайран фахууа хайрул лах уаан тасуумуу хайрул лакум ин кунтум та'ламуун.",
       "uzbekTranslation": "Sanoqli kunlar. Sizlardan kim bemor yoki musofir bo'lsa, bas, sanog'ini boshqa kunlarda tutadi. Uni qiynalib tutadiganlar zimmasida bir miskin taomi fidya lozimdir. Kim yaxshilikni o'z ixtiyori ila qilsa, o'zi uchun yaxshidir. Agar bilsangiz, ro'za tutmog'ingiz siz uchun yaxshidir."
     },
     {
       "ayahNumber": 185,
       "arabic": "شَهْرُ رَمَضَانَ الَّذِي أُنْزِلَ فِيهِ الْقُرْآنُ هُدًى لِلنَّاسِ وَبَيِّنَاتٍ مِنَ الْهُدَىٰ وَالْفُرْقَانِ ۚ فَمَنْ شَهِدَ مِنْكُمُ الشَّهْرَ فَلْيَصُمْهُ ۖ وَمَنْ كَانَ مَرِيضًا أَوْ عَلَىٰ سَفَرٍ فَعِدَّةٌ مِنْ أَيَّامٍ أُخَرَ ۗ يُرِيدُ اللَّهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ وَلِتُكْمِلُوا الْعِدَّةَ وَلِتُكَبِّرُوا اللَّهَ عَلَىٰ مَا هَدَاكُمْ وَلَعَلَّكُمْ تَشْكُرُونَ",
-      "uzbekReading": "Shahru Ramadaanallaziye unzila fiyhil Qur'aanu hudal linnaasi va baiyinaatim minal hudaa val furqaan; faman shahida minkumush shahra falyasumhu va man kaana mariydan aw 'alaa safarin fa'iddatum min ayyaamin uxar; yuriydul laahu bikumul yusra va laa yuriydu bikumul 'usra va litukmilul 'iddata va litukabbirul laaha 'alaa maa hadaakum va la'allakum tashkuruun.",
+      "uzbekReading": "Shahru Ramadaanallaziy unzila fiyhil Qur'aanu hudal linnaasi va baiyinaatim minal hudaa val furqaan; faman shahida minkumush shahra falyasumhu va man kaana mariydan av 'alaa safarin fa'iddatum min ayyaamin uxar; yuriydul laahu bikumul yusra va laa yuriydu bikumul 'usra va litukmilul 'iddata va litukabbirul laaha 'alaa maa hadaakum va la'allakum tashkuruun.",
       "russianReading": "Шахру рамаданал лазии унзила фиихил курану худал линнаси уабайинатим минал худа уалфуркан фаман шахида минкумуш шахра фалйасумху уаман кана мариидан ау 'ала сафарин фа'иддатум мин аййамиу ухар йуриидуллаху бикумул йусра уала йурииду бикумул 'усра уалитукмилуул 'иддата уалитукаббирууллаха 'ала ма хадакум уала'аллакум ташкуруун.",
       "uzbekTranslation": "Ramazon oyiki, unda odamlarga hidoyat hamda hidoyatu furqondan iborat ochiq bayonotlar bo'lib, Qur'on tushirilgandir. Sizdan kim u oyda hozir bo'lsa, ro'zasini tutsin. Kim bemor yoki safarda bo'lsa, bas, sanog'ini boshqa kunlardan tutadi. Alloh sizlarga yengillikni xohlaydi va sizlarga qiyinchilikni xohlamaydi. Sanog'ini mukammal qilishingiz va sizni hidoyatga boshlagan Allohni ulug'lashingiz uchun. Shoyadki shukr qilsalaringiz."
     },
@@ -1329,7 +1329,7 @@
     {
       "ayahNumber": 190,
       "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ",
-      "uzbekReading": "Va qaatiluu fiy sabiylillaahil laziyna yuqaatiluunakum va laa ta'taduuo; innal laaha laa yuhibbul mu'tadiyn.",
+      "uzbekReading": "Va qaatiluu fiy sabiylillaahil laziyna yuqaatiluunakum va laa ta'taduu; innal laaha laa yuhibbul mu'tadiyn.",
       "russianReading": "Уакатилуу фии сабиилиллахил лазиина йукатилуунакум уала та'таду инналлаха ла йухиббул му'тадиин.",
       "uzbekTranslation": "Sizga urush qilayotganlarga qarshi Allohning yo'lida urush qiling. Va tajovuzkor bo'lmang. Albatta, Alloh tajovuzkor bo'lganlarni xush ko'rmas."
     },
@@ -1343,21 +1343,21 @@
     {
       "ayahNumber": 192,
       "arabic": "فَإِنِ انْتَهَوْا فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
-      "uzbekReading": "Fa ini-ntahaw fa innal laaha G'afuurur Rahiym.",
+      "uzbekReading": "Fa ini-ntahav fa innal laaha G'afuurur Rahiym.",
       "russianReading": "Фаини нтахау фаинналлаха гафуурур рахиим.",
       "uzbekTranslation": "Agar to'xtasalar, albatta, Alloh mag'firatli va rahmlidir."
     },
     {
       "ayahNumber": 193,
       "arabic": "وَقَاتِلُوهُمْ حَتَّىٰ لَا تَكُونَ فِتْنَةٌ وَيَكُونَ الدِّينُ لِلَّهِ ۖ فَإِنِ انْتَهَوْا فَلَا عُدْوَانَ إِلَّا عَلَى الظَّالِمِينَ",
-      "uzbekReading": "Va qaatiluuhum hatta laa takuuna fitnatunw va yakuunad diynu lillaahi fa-inin tahaw falaa 'udvaana illaa 'alaz zaalimiyn.",
+      "uzbekReading": "Va qaatiluuhum hatta laa takuuna fitnatunv va yakuunad diynu lillaahi fa-inin tahav falaa 'udvaana illaa 'alaz zaalimiyn.",
       "russianReading": "Уакатилуухум хатта ла такууна фитнатуу уайакуунад диину лиллахи фаини нтахау фала 'удуана илла 'алаз залимиин.",
       "uzbekTranslation": "Fitna bo'lmasligi va din Allohga bo'lishi uchun ular bilan jang qiling. Agar to'xtasalar, zolimlardan boshqalarga dushmanlik yo'q."
     },
     {
       "ayahNumber": 194,
       "arabic": "الشَّهْرُ الْحَرَامُ بِالشَّهْرِ الْحَرَامِ وَالْحُرُمَاتُ قِصَاصٌ ۚ فَمَنِ اعْتَدَىٰ عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَىٰ عَلَيْكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ مَعَ الْمُتَّقِينَ",
-      "uzbekReading": "Ash Shahrul Haraamu bish Shahril Haraami val hurumaatu qisaas; famani'tadaa 'alaikum fa'taduu 'alaihi bimsisli ma'tadaa 'alaikum; vattaqul laaha va'lamuuo annal laaha ma'al muttaqiyn.",
+      "uzbekReading": "Ash Shahrul Haraamu bish Shahril Haraami val hurumaatu qisaas; famani'tadaa 'alaikum fa'taduu 'alaihi bimsisli ma'tadaa 'alaikum; vattaqul laaha va'lamuu annal laaha ma'al muttaqiyn.",
       "russianReading": "Ашшахрул хараму бишшахрил харами уалхурумату кисас фамани 'тада 'алайкум фа'тадуу 'алайхи бимисли ма 'тада 'алайкум уаттакууллаха уа'ламуу анналлаха ма'ал муттакиин.",
       "uzbekTranslation": "Harom oyga harom oy. Harom qilingan narsalarda qasos bor. Kim sizga dushmanlik qilsa, siz ham unga shunga o'xshash dushmanlik qiling. Va Allohga taqvo qiling hamda, bilingki, albatta, Alloh taqvodorlar bilandir."
     },
@@ -1371,14 +1371,14 @@
     {
       "ayahNumber": 196,
       "arabic": "وَأَتِمُّوا الْحَجَّ وَالْعُمْرَةَ لِلَّهِ ۚ فَإِنْ أُحْصِرْتُمْ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۖ وَلَا تَحْلِقُوا رُءُوسَكُمْ حَتَّىٰ يَبْلُغَ الْهَدْيُ مَحِلَّهُ ۚ فَمَنْ كَانَ مِنْكُمْ مَرِيضًا أَوْ بِهِ أَذًى مِنْ رَأْسِهِ فَفِدْيَةٌ مِنْ صِيَامٍ أَوْ صَدَقَةٍ أَوْ نُسُكٍ ۚ فَإِذَا أَمِنْتُمْ فَمَنْ تَمَتَّعَ بِالْعُمْرَةِ إِلَى الْحَجِّ فَمَا اسْتَيْسَرَ مِنَ الْهَدْيِ ۚ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةٍ إِذَا رَجَعْتُمْ ۗ تِلْكَ عَشَرَةٌ كَامِلَةٌ ۗ ذَٰلِكَ لِمَنْ لَمْ يَكُنْ أَهْلُهُ حَاضِرِي الْمَسْجِدِ الْحَرَامِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
-      "uzbekReading": "Va atimmul Hajja val Umarata lillaah; fain uhsirtum famas taisara minal hadyi valaa tahliquu ru'uusakum hatta yablug'al hadyu mahillah; faman kaana minkum mariydan aw bihiye azam mir raasihiy fafidyatum min Siyaamin aw sadaqatin aw nusuk; fa izaaa amintum faman tamatta'a bil 'Umrati ilal Hajji famastaisara minal hady; famal lam yajid fa Siyaamu salaasti ayyaamin fil Hajji va sab'atin izaa raja'tum; tilka 'asharatun kaamilah; zaalika limal lam yakun ahluhuu haadiril Masjidil Haraam; vattaqul laaha va'lamuu annal laaha shadiydul'iqaab.",
+      "uzbekReading": "Va atimmul Hajja val Umarata lillaah; fain uhsirtum famas taisara minal hadyi valaa tahliquu ru'uusakum hatta yablug'al hadyu mahillah; faman kaana minkum mariydan av bihiy azam mir raasihiy fafidyatum min Siyaamin av sadaqatin av nusuk; fa izaaa amintum faman tamatta'a bil 'Umrati ilal Hajji famastaisara minal hady; famal lam yajid fa Siyaamu salaasti ayyaamin fil Hajji va sab'atin izaa raja'tum; tilka 'asharatun kaamilah; zaalika limal lam yakun ahluhuu haadiril Masjidil Haraam; vattaqul laaha va'lamuu annal laaha shadiydul'iqaab.",
       "russianReading": "Уаатиммуул хажжа уал'умрата лиллах фаиу ухсиртум фама стайсара минал хадии уала тахликуу руусакум хатта йаблугал хадйу махиллах фаман кана минкум мариидан ау бихи азам мир ра'сихи фафидйатум мин сийамин ау садакатин ау нусук фаиза аминтум фаман таматта'а бил'умрати илал хажжи фама стайсара минал хади фамал лам йажид фасийаму саласати аййамин фиил хажжи уасаб'атин иза ража'тум тилка 'ашаратун камила залика лимал лам йакун ахлуху хадириил масжидил харам уаттакууллаха уа'ламуу анналлаха шадиидул 'икаб.",
       "uzbekTranslation": "Alloh uchun haj va umrani tugal ado eting. Agar ushlanib qolsangiz, muyassar bo'lganicha qurbonlik qiling. Qurbonlik o'z joyiga yemaguncha, sochingizni oldirmang. Sizdan kim bemor bo'lsa yoki boshida ozor beruvchi narsa bo'lsa, ro'za tutish yoki sadaqa berish yoxud qurbonlik so'yish ila to'lov to'lasin. Agar tinch bo'lsangiz, kim umradan hajgacha huzur qilgan bo'lsa, muyassar bo'lgan qurbonlikni qilsin. Kim topmasa, uch kun hajda, yetti kun qaytganingizda–hammasi o'n kun to'liq ro'za tutsin. Bu ahli Masjidul Haromda yashamaydiganlar uchun. Va Allohga taqvo qiling hamda, bilingki, albatta, Alloh iqobi shiddatli zotdir."
     },
     {
       "ayahNumber": 197,
       "arabic": "الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ ۚ فَمَنْ فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ ۗ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ ۗ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ ۚ وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ",
-      "uzbekReading": "Al-Hajju ashhurum ma'-luumaat; faman farada fiyinnal hajja falaa rafasa va laa fusuuqa va laa jidaala fil Hajj; va maa taf'aluu min xairiny ya'lamhul laah; va tazavwaduu fa inna xairaz zaadit taqvaa; vattaquuni yaaa ulil albaab.",
+      "uzbekReading": "Al-Hajju ashhurum ma'-luumaat; faman farada fiyinnal hajja falaa rafasa va laa fusuuqa va laa jidaala fil Hajj; va maa taf'aluu min xairiny ya'lamhul laah; va tazavvaduu fa inna xairaz zaadit taqvaa; vattaquuni yaaa ulil albaab.",
       "russianReading": "Алхажжу ашхурум ма'луумат фаман фарада фиихиннал хажжа фала рафаса уала фусуука уала жидала фиил хажж уама таф'алуу мин хайрий йа'ламхуллах уатазаууадуу фаинна хайраз задит такуа уаттакууни йа уулиил албаб.",
       "uzbekTranslation": "Haj ma'lum oylardir. Kimki ularda o'ziga hajni farz qilsa, hajda shahvoniy narsalar, fisq va janjal yo'qdir. Nima yaxshilik qilsangiz, Alloh uni biladi. Ozuqa oling, eng yaxshi ozuqa taqvodir. Menga taqvo qiling, ey aql egalari!"
     },
@@ -1399,14 +1399,14 @@
     {
       "ayahNumber": 200,
       "arabic": "فَإِذَا قَضَيْتُمْ مَنَاسِكَكُمْ فَاذْكُرُوا اللَّهَ كَذِكْرِكُمْ آبَاءَكُمْ أَوْ أَشَدَّ ذِكْرًا ۗ فَمِنَ النَّاسِ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا وَمَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ",
-      "uzbekReading": "Fa-izan qadaitum manaa sikakum fazkurul laaha kazikrikum aabaaa'akum aw ashadda zikraa; faminannaasi mai yaquulu Robbanaaa aatinaa fiddunyaa va maa lahuu fil Aaxirati min xalaaq.",
+      "uzbekReading": "Fa-izan qadaitum manaa sikakum fazkurul laaha kazikrikum aabaaa'akum av ashadda zikraa; faminannaasi mai yaquulu Robbanaaa aatinaa fiddunyaa va maa lahuu fil Aaxirati min xalaaq.",
       "russianReading": "Фаиза кадайтум манасикакум фазкурууллаха казикрикум абаакум ау ашадда зикра фаминан наси май йакуулу раббана атина фиид дунйа уама лаху фиил ахирати мин халак.",
       "uzbekTranslation": "Ibodatlaringizni tugatganigizda, Allohni otalaringizni eslagandek, balki undan ham kuchliroq eslang. Odamlardan ba'zilari: «Robbimiz bizga bu dunyoda bergin», deydi va unga oxiratda nasiba yo'qdir."
     },
     {
       "ayahNumber": 201,
       "arabic": "وَمِنْهُمْ مَنْ يَقُولُ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
-      "uzbekReading": "Va minhum mai yaquulu Robbanaaa aatina fid dunyaa hasanatavn va fil aaxirati hasanatanw va qinaa azaaban Naar.",
+      "uzbekReading": "Va minhum mai yaquulu Robbanaaa aatina fid dunyaa hasanatavn va fil aaxirati hasanatanv va qinaa azaaban Naar.",
       "russianReading": "Уаминхум май йакуулу раббана атина фиид дунйа хасанатау уафиил ахирати хасанатау уакина 'азабан нар.",
       "uzbekTranslation": "Va ulardan ba'zilari: «Robbimiz, bizga bu dunyoda ham yaxshilikni, oxiratda ham yaxshilikni bergin va bizni do'zax olovi azobidan saqlagin», deydi.\""
     },
@@ -1420,7 +1420,7 @@
     {
       "ayahNumber": 203,
       "arabic": "۞ وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَعْدُودَاتٍ ۚ فَمَنْ تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَنْ تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ ۚ لِمَنِ اتَّقَىٰ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
-      "uzbekReading": "Vazkurul laaha fiye ayyaamim ma'duudaat; faman ta'ajjala fiy yavmaini falaaa ismaa 'alaihi va man taaxxara falaaa isma 'alayh; limanit-taqaa; vattaqul laaha va'lamuuo annakum ilaihi tuhsharuun.",
+      "uzbekReading": "Vazkurul laaha fiy ayyaamim ma'duudaat; faman ta'ajjala fiy yavmaini falaaa ismaa 'alaihi va man taaxxara falaaa isma 'alayh; limanit-taqaa; vattaqul laaha va'lamuu annakum ilaihi tuhsharuun.",
       "russianReading": "Уазкурууллаха фии аййамим ма'дуудат фаман та'ажжала фии йаумайни фала исма 'алайхи уаман тааххара фала исма 'алайх лиманит така уаттакууллаха уа'ламуу аннакум илайхи тухшаруун.",
       "uzbekTranslation": "Allohni sanoqli kunlarda eslang. Bas, kim ikki kundan keyin shoshilib, ketsa, unga gunoh yo'q. Kim kechikib qolsa, unga gunoh yo'q. Taqvo qiluvchilar uchun. Allohga taqvo qilinglar va, bilinglarki, albatta siz Unga to'planursiz."
     },
@@ -1455,7 +1455,7 @@
     {
       "ayahNumber": 208,
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا ادْخُلُوا فِي السِّلْمِ كَافَّةً وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ ۚ إِنَّهُ لَكُمْ عَدُوٌّ مُبِينٌ",
-      "uzbekReading": "Yaaa ayyuhal laziyna aamanud xuluu fis silmi kaaaffatanw va laa tattabi'uu xutuvaatish Shaitaan; innahuu lakum 'aduvwum mubiyn.",
+      "uzbekReading": "Yaaa ayyuhal laziyna aamanud xuluu fis silmi kaaaffatanv va laa tattabi'uu xutuvaatish Shaitaan; innahuu lakum 'aduvvum mubiyn.",
       "russianReading": "Йа аййухал лазиина амануу дхулуу фиис силми каффатау уала таттаби'уу хутууатиш шайтан иннаху лакум 'адууум мубиин.",
       "uzbekTranslation": "Ey iymon keltirganlar! Islomga to'lig'icha kiring. Va shaytonning izidan ergashmang. Albatta, u sizga ochiq dushmandir."
     },
@@ -1483,21 +1483,21 @@
     {
       "ayahNumber": 212,
       "arabic": "زُيِّنَ لِلَّذِينَ كَفَرُوا الْحَيَاةُ الدُّنْيَا وَيَسْخَرُونَ مِنَ الَّذِينَ آمَنُوا ۘ وَالَّذِينَ اتَّقَوْا فَوْقَهُمْ يَوْمَ الْقِيَامَةِ ۗ وَاللَّهُ يَرْزُقُ مَنْ يَشَاءُ بِغَيْرِ حِسَابٍ",
-      "uzbekReading": "Zuyyina lillaziyna kafarul hayaatud dunyaa va yasxaruuna minal laziyna aamanuu; vallaziynat taqaw favqahum yavmal Qiyaamah; vallaahu yarzuqu mai yashaaa'u big'airi hisaab;.",
+      "uzbekReading": "Zuyyina lillaziyna kafarul hayaatud dunyaa va yasxaruuna minal laziyna aamanuu; vallaziynat taqav favqahum yavmal Qiyaamah; vallaahu yarzuqu mai yashaaa'u big'airi hisaab;.",
       "russianReading": "Зуйина лиллазиина кафаруул хайатуд дунйа уайасхарууна минал лазиина аману уаллазиинат такау фаукахум йаумал кийама уаллаху йарзуку май йашау бигайри хисаб.",
       "uzbekTranslation": "Kufr keltirganlarga bu dunyo hayoti ziynatlandi va ular iymon keltirganlarni masxara qiladilar. Va holbuki, qiyomat kuni taqvo qilganlar ulardan ustundir. Alloh kimni xohlasa, behisob rizq beradi."
     },
     {
       "ayahNumber": 213,
       "arabic": "كَانَ النَّاسُ أُمَّةً وَاحِدَةً فَبَعَثَ اللَّهُ النَّبِيِّينَ مُبَشِّرِينَ وَمُنْذِرِينَ وَأَنْزَلَ مَعَهُمُ الْكِتَابَ بِالْحَقِّ لِيَحْكُمَ بَيْنَ النَّاسِ فِيمَا اخْتَلَفُوا فِيهِ ۚ وَمَا اخْتَلَفَ فِيهِ إِلَّا الَّذِينَ أُوتُوهُ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ بَغْيًا بَيْنَهُمْ ۖ فَهَدَى اللَّهُ الَّذِينَ آمَنُوا لِمَا اخْتَلَفُوا فِيهِ مِنَ الْحَقِّ بِإِذْنِهِ ۗ وَاللَّهُ يَهْدِي مَنْ يَشَاءُ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
-      "uzbekReading": "Kaanan naasu ummatanw vaahidatan fab'asal laahun Nabiyyiyna mubashshiriyna va munziriyna va anzala ma'ahumul kitaaba bilhaqqi liyahkuma bainan naasi fiymax talafuu fiyh; va max talafa fiyhi 'illallaziyna uutuuhu mim ba'di maa jaaa'asumul baiyinaatu bag'yam bainahm fahadal laahul laziyna aamanuu limax talafuu fiyhi minal haqqi bi iznih; vallaahu yahdiy mai yashaaa'u ilaa Sirootim Mustaqiym.",
+      "uzbekReading": "Kaanan naasu ummatanv vaahidatan fab'asal laahun Nabiyyiyna mubashshiriyna va munziriyna va anzala ma'ahumul kitaaba bilhaqqi liyahkuma bainan naasi fiymax talafuu fiyh; va max talafa fiyhi 'illallaziyna uutuuhu mim ba'di maa jaaa'asumul baiyinaatu bag'yam bainahm fahadal laahul laziyna aamanuu limax talafuu fiyhi minal haqqi bi iznih; vallaahu yahdiy mai yashaaa'u ilaa Sirootim Mustaqiym.",
       "russianReading": "Канан насу умматау уахидатан фаба'асаллахун набийиина мубашшириина уамунзириина уаанзала ма'ахумул китаба билхакки лийахкума байнан наси фиима хталафуу фиих уама хталафа фиихи иллал лазиина уутууху мин ба'ди ма жаатхумул байинату багиан байнахум фахадаллахул лазиина амануу лима хталафуу фиихи минал хакки биизних уаллаху йахдии май йашау ила сиратим мустакиим.",
       "uzbekTranslation": "Odamlar bir millat edilar. Bas, Alloh xushxabar va ogohlantirish beruvchi Nabiylarni yubordi va ularga odamlar o'rtasida, ular ixtilof qilgan narsalarda hukm qilish uchun haq kitob tushirdi. U to'g'risida ixtilofni ochiq hujjatlar kelgandan so'ng, kimga berilgan bo'lsa, o'shalargina haddan oshib qildilar. Iymon keltirganlarni haq to'g'risida ixtilof qilgan narsalarida Alloh O'z izni ila hidoyatga soladi. Alloh kimni xohlasa, to'g'ri yo'lga boshlaydi."
     },
     {
       "ayahNumber": 214,
       "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ وَلَمَّا يَأْتِكُمْ مَثَلُ الَّذِينَ خَلَوْا مِنْ قَبْلِكُمْ ۖ مَسَّتْهُمُ الْبَأْسَاءُ وَالضَّرَّاءُ وَزُلْزِلُوا حَتَّىٰ يَقُولَ الرَّسُولُ وَالَّذِينَ آمَنُوا مَعَهُ مَتَىٰ نَصْرُ اللَّهِ ۗ أَلَا إِنَّ نَصْرَ اللَّهِ قَرِيبٌ",
-      "uzbekReading": "Am hasibtum an tadxulul jannata va lammaa yaa-tikum masalul laziyna xalaw min qablikum massasumul baasaaa'u vaddarraaaa'u va zulziluu hattaa yaquular Rasuulu vallaziyna aamanuu ma'ahuu mataa nasrul laah; alaaa inna nasral laahiqariyb.",
+      "uzbekReading": "Am hasibtum an tadxulul jannata va lammaa yaa-tikum masalul laziyna xalav min qablikum massasumul baasaaa'u vaddarraaaa'u va zulziluu hattaa yaquular Rasuulu vallaziyna aamanuu ma'ahuu mataa nasrul laah; alaaa inna nasral laahiqariyb.",
       "russianReading": "Ам хасибтум ан тадхулуул жанната уаламма йа'тикум масалул лазиина халау мин кабликум ммассатхумул ба'сау уаддаррау уазулзилуу хатта йакуулар расуулу уаллазиина амануу ма'аху мата насруллах ала инна насраллахи карииб.",
       "uzbekTranslation": "Sizdan avval o'tganlarga kelganga o'xshash narsa sizlarga kelmasdan turib, jannatga kiramiz, deb o'yladingizmi? Ularni balo va musibatlar tutgan va larzaga tushirilganlar. Hattoki, Payg'ambar va u bilan iymon keltirganlar: «Allohning nusrati qachon bo'ladi?» deganlar. Ogoh bo'linglar, albatta, Allohning nusrati yaqindir."
     },
@@ -1511,14 +1511,14 @@
     {
       "ayahNumber": 216,
       "arabic": "كُتِبَ عَلَيْكُمُ الْقِتَالُ وَهُوَ كُرْهٌ لَكُمْ ۖ وَعَسَىٰ أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ ۖ وَعَسَىٰ أَنْ تُحِبُّوا شَيْئًا وَهُوَ شَرٌّ لَكُمْ ۗ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
-      "uzbekReading": "Kutiba alaikumulqitaalu va huva kurhullakum va 'asaaa an takrahuu shai'anw va huva xairullakum va 'asaaa an tuhibbo shai'anw va huva sharrullakum; vallaahu ya'lamu va antum laa ta'lamuun.",
+      "uzbekReading": "Kutiba alaikumulqitaalu va huva kurhullakum va 'asaaa an takrahuu shai'anv va huva xairullakum va 'asaaa an tuhibbo shai'anv va huva sharrullakum; vallaahu ya'lamu va antum laa ta'lamuun.",
       "russianReading": "Кутиба 'алайкумул киталу уахууа курхул лакум уа'аса ан такрахуу шайау уахууа хайрул лакум уа'аса ан тухиббуу шайау уахууа шаррул лакум уаллаху йа'ламу уаантум ла та'ламуун.",
       "uzbekTranslation": "Sizga yoqmasa ham, jang qilishingiz farz qilindi. Shoyadki yoqtirmagan narsangiz siz uchun yaxshi bo'lsa. Va shoyadki yoqtirgan narsangiz siz uchun yomon bo'lsa. Alloh biladi, siz bilmaysiz."
     },
     {
       "ayahNumber": 217,
       "arabic": "يَسْأَلُونَكَ عَنِ الشَّهْرِ الْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَنْ سَبِيلِ اللَّهِ وَكُفْرٌ بِهِ وَالْمَسْجِدِ الْحَرَامِ وَإِخْرَاجُ أَهْلِهِ مِنْهُ أَكْبَرُ عِنْدَ اللَّهِ ۚ وَالْفِتْنَةُ أَكْبَرُ مِنَ الْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَاتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَنْ دِينِكُمْ إِنِ اسْتَطَاعُوا ۚ وَمَنْ يَرْتَدِدْ مِنْكُمْ عَنْ دِينِهِ فَيَمُتْ وَهُوَ كَافِرٌ فَأُولَٰئِكَ حَبِطَتْ أَعْمَالُهُمْ فِي الدُّنْيَا وَالْآخِرَةِ ۖ وَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
-      "uzbekReading": "Yas'aluunaka 'anish Shahril Haraami qitaalin fiyhi qul qitaahun fiyhi kabiyrunw va saddun 'an sabiylil laahi va kufrum bihiy val Masjidil Haraami va ixraaju ahlihiy minhu akbaru 'indal laah; valfitnatu akbaru minal qatl; va laa yazaaluuna yuqaatiluunakum hatta yarudduukum 'an diynikum inis tataa'uu; va mai yartadid minkum 'an diynihiy fayamut vahuva kaafirun fa ulaaa'ika habitat a'maaluhum fid dunyaa val aaxirati va ulaaa'ika ashaabun Naari hum fiyhaa xaaliduun.",
+      "uzbekReading": "Yas'aluunaka 'anish Shahril Haraami qitaalin fiyhi qul qitaahun fiyhi kabiyrunv va saddun 'an sabiylil laahi va kufrum bihiy val Masjidil Haraami va ixraaju ahlihiy minhu akbaru 'indal laah; valfitnatu akbaru minal qatl; va laa yazaaluuna yuqaatiluunakum hatta yarudduukum 'an diynikum inis tataa'uu; va mai yartadid minkum 'an diynihiy fayamut vahuva kaafirun fa ulaaa'ika habitat a'maaluhum fid dunyaa val aaxirati va ulaaa'ika ashaabun Naari hum fiyhaa xaaliduun.",
       "russianReading": "Йасалуунака 'аниш шахрил харами киталин фиихи кул киталун фиихи кабиирун уасаддун 'ан сабиилиллахи уакуфрун бихи уалмасжидил харами уаихражу ахлихи минху акбару 'индаллах уалфитнату акбару минал катл уала йазалууна йукатилуунакум хатта йаруддуукум 'ан дииникум ини стата'у уамай йартадид минкум 'ан диинихи файамут уахууа кафирун фауулаика хабитат а'малухум фиид дунйа уалахирати уауулаика асхабун нари хум фииха халидуун.",
       "uzbekTranslation": "Sendan harom oyda urush qilish haqida so'raydilar. Sen: «Unda urush qilish katta gunoh. Allohning yo'lidan to'sish, unga kufr keltirish, Masjidul Haromdan to'sish, uning ahlini undan chiqarish Allohning huzurida eng katta gunohdir. Fitna o'ldirishdan kattaroqdir», deb ayt. Ular agar qodir bo'lsalar, sizlarni diningizdan qaytargunlaricha sizga qarshi urush qilaveradilar. Sizdan kimki dindan qaytib, kofir holida o'lib ketsa, ana o'shalar bu dunyoyu oxiratda amali habata bo'lganlardir. Ana o'shalar do'zax egalaridir. Ular unda abadiy qolguvchilardir."
     },
@@ -1532,35 +1532,35 @@
     {
       "ayahNumber": 219,
       "arabic": "۞ يَسْأَلُونَكَ عَنِ الْخَمْرِ وَالْمَيْسِرِ ۖ قُلْ فِيهِمَا إِثْمٌ كَبِيرٌ وَمَنَافِعُ لِلنَّاسِ وَإِثْمُهُمَا أَكْبَرُ مِنْ نَفْعِهِمَا ۗ وَيَسْأَلُونَكَ مَاذَا يُنْفِقُونَ قُلِ الْعَفْوَ ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
-      "uzbekReading": "Yas'aluunaka 'anilxamri valmaisiri qul fiyhimaaa ismun kabiyrunw va manaafi'u linnaasi va ismuhumaa akbaru min naf'ihimaa; va yas'aluunaka maaza yunfiquuna qulil-'afw; kazaalika yubaiyinul laahu lakumul-aayaati la'allakum tatafakkaruun.",
+      "uzbekReading": "Yas'aluunaka 'anilxamri valmaisiri qul fiyhimaaa ismun kabiyrunv va manaafi'u linnaasi va ismuhumaa akbaru min naf'ihimaa; va yas'aluunaka maaza yunfiquuna qulil-'afv; kazaalika yubaiyinul laahu lakumul-aayaati la'allakum tatafakkaruun.",
       "russianReading": "Йасалуунака 'анил хамри уалмайсири кул фиихима исмун кабиируу уаманафи'у линнаси уаисмухума акбару мин наф'ихима уайасалуунака маза йунфикууна кулил 'афу казалика йубайинуллаху лакумул айати ла'аллакум татафаккаруун.",
       "uzbekTranslation": "Sendan xamr va qimor haqida so'rarlar. Sen: «Ikkisida katta gunoh va kishilar uchun manfaat bor va gunohlari naflaridan kattadir», deb ayt. Va sendan nimani nafaqa qilishni so'rarlar. Sen: «Ortiqchasini», deb ayt. Alloh shundoq qilib sizga O'z oyatlarini bayon qiladi. Shoyadki tafakkur qilsangiz."
     },
     {
       "ayahNumber": 220,
       "arabic": "فِي الدُّنْيَا وَالْآخِرَةِ ۗ وَيَسْأَلُونَكَ عَنِ الْيَتَامَىٰ ۖ قُلْ إِصْلَاحٌ لَهُمْ خَيْرٌ ۖ وَإِنْ تُخَالِطُوهُمْ فَإِخْوَانُكُمْ ۚ وَاللَّهُ يَعْلَمُ الْمُفْسِدَ مِنَ الْمُصْلِحِ ۚ وَلَوْ شَاءَ اللَّهُ لَأَعْنَتَكُمْ ۚ إِنَّ اللَّهَ عَزِيزٌ حَكِيمٌ",
-      "uzbekReading": "Fid dunyaa val aaxirah; va yas'aluunaka 'anil yataamaa qul islaahullahum xayr, va in tuxaalituuhum fa ixvaanukum; vallaahu ya'lamul mufsida minalmuslih; va law shaaa'al laahu la-a'natakum; innal laaha 'Aziyzun Hakiym.",
+      "uzbekReading": "Fid dunyaa val aaxirah; va yas'aluunaka 'anil yataamaa qul islaahullahum xayr, va in tuxaalituuhum fa ixvaanukum; vallaahu ya'lamul mufsida minalmuslih; va lav shaaa'al laahu la-a'natakum; innal laaha 'Aziyzun Hakiym.",
       "russianReading": "Фиид дунйа уалахира уайасалуунака 'анил йатама кул ислахул лахум хайрун уаин тухалитуухум фаихуанукум уаллаху йа'ламул муфсида минал муслих уалау шааллаху лаа'натакум инналлаха 'азиизун хакиим.",
       "uzbekTranslation": "Bu dunyo va oxirat haqida. Sendan yetimlar haqida so'rarlar. Sen: «Ularga isloh qilish yaxshidir», deb ayt. Agar ularning."
     },
     {
       "ayahNumber": 221,
       "arabic": "وَلَا تَنْكِحُوا الْمُشْرِكَاتِ حَتَّىٰ يُؤْمِنَّ ۚ وَلَأَمَةٌ مُؤْمِنَةٌ خَيْرٌ مِنْ مُشْرِكَةٍ وَلَوْ أَعْجَبَتْكُمْ ۗ وَلَا تُنْكِحُوا الْمُشْرِكِينَ حَتَّىٰ يُؤْمِنُوا ۚ وَلَعَبْدٌ مُؤْمِنٌ خَيْرٌ مِنْ مُشْرِكٍ وَلَوْ أَعْجَبَكُمْ ۗ أُولَٰئِكَ يَدْعُونَ إِلَى النَّارِ ۖ وَاللَّهُ يَدْعُو إِلَى الْجَنَّةِ وَالْمَغْفِرَةِ بِإِذْنِهِ ۖ وَيُبَيِّنُ آيَاتِهِ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ",
-      "uzbekReading": "Va laatankihul mushrikaati hattaa yu'minn; va la amatum mu'minatun xairum mim mushrikatinw va law a'jabatkum; va laa tunkihul mushrikiyna hattaa yu'minuu; va la'abdummu'minun xairum mimmushrikinw va law 'ajabakum; ulaaa'ika yad'uuna ilan Naari vallaahu yad'uuo ilal Jannati valmag'firati biiznihiy va yubaiyinu Aayaatihiy linnaasi la'allahum yatazakkaruun.",
+      "uzbekReading": "Va laatankihul mushrikaati hattaa yu'minn; va la amatum mu'minatun xairum mim mushrikatinv va lav a'jabatkum; va laa tunkihul mushrikiyna hattaa yu'minuu; va la'abdummu'minun xairum mimmushrikinv va lav 'ajabakum; ulaaa'ika yad'uuna ilan Naari vallaahu yad'uu ilal Jannati valmag'firati biiznihiy va yubaiyinu Aayaatihiy linnaasi la'allahum yatazakkaruun.",
       "russianReading": "Уала танкихуул мушрикати хатта йу'минн уалааматум му'минатун хайрум мим мушрикатиу уалау а'жабаткум уала тункихуул мушрикиина хатта йу'мину уала'абдум му'минун хайрум мим мушрикиу уалау а'жабакум уулаика йад'ууна илан нари уаллаху йад'уу илал жаннати уалмагфирати биизнихи уайубайину айатихи линнаси ла'аллахум йатазаккаруун.",
       "uzbekTranslation": "Mushrika ayollarni iymon keltirmagunlaricha nikohingizga olmang. Shubhasiz, mo'mina cho'ri mushrikadan, gar u sizni ajablantirsa ham, yaxshidir. Va mushriklar iymonga kelmagunlaricha."
     },
     {
       "ayahNumber": 222,
       "arabic": "وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ ۖ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ ۖ وَلَا تَقْرَبُوهُنَّ حَتَّىٰ يَطْهُرْنَ ۖ فَإِذَا تَطَهَّرْنَ فَأْتُوهُنَّ مِنْ حَيْثُ أَمَرَكُمُ اللَّهُ ۚ إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ",
-      "uzbekReading": "Va yas'aluunaka 'anil mahiydi qul huva azan fa'tazilun nisaaa'a fil mahiydi va laa taqrabuu hunna hattaa yasurna fa-izaa tasharna faatuuhunna min haisu amarakumul laah; innallaaha yuhibbut Tavwaabiyna va yuhibbul mutatahhiriyn.",
+      "uzbekReading": "Va yas'aluunaka 'anil mahiydi qul huva azan fa'tazilun nisaaa'a fil mahiydi va laa taqrabuu hunna hattaa yasurna fa-izaa tasharna faatuuhunna min haisu amarakumul laah; innallaaha yuhibbut Tavvaabiyna va yuhibbul mutatahhiriyn.",
       "russianReading": "Уайасалуунака 'анил махииди кул хууа азан фа'тазилуун нисаа фиил махииди уала такрабуухунна хатта йатхурна фаиза татаххарна фа'туухунна мин хайсу амаракумуллах инналлаха йухиббут таууабиина уайухиббул мутатаххириин.",
       "uzbekTranslation": "Sendan hayz haqida so'rarlar. Sen: «U ko'ngilsiz narsadir. Hayz chog'ida ayollardan chetda bo'ling. Ularga pok bo'lmagunlaricha yaqinlashmanglar. Agar pok bo'lsalar, ularga Alloh amr qilgan joydan keling. Albatta, Alloh tavba qiluvchilarni sevadi va poklanuvchilarni sevadi», deb ayt."
     },
     {
       "ayahNumber": 223,
       "arabic": "نِسَاؤُكُمْ حَرْثٌ لَكُمْ فَأْتُوا حَرْثَكُمْ أَنَّىٰ شِئْتُمْ ۖ وَقَدِّمُوا لِأَنْفُسِكُمْ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ مُلَاقُوهُ ۗ وَبَشِّرِ الْمُؤْمِنِينَ",
-      "uzbekReading": "Nisaaa'ukum harsullakum faatuu harsakum annaa shi'tum va qaddimuu li anfusikum; vattaqul laaha va'lamuuo annakum mulaaquuh; va bash shirilmu 'miniyn.",
+      "uzbekReading": "Nisaaa'ukum harsullakum faatuu harsakum annaa shi'tum va qaddimuu li anfusikum; vattaqul laaha va'lamuu annakum mulaaquuh; va bash shirilmu 'miniyn.",
       "russianReading": "Нисаукум харсул лакум фа'туу харсакум анна шитум уакаддимуу лианфусикум уаттакууллаха уа'ламуу аннакум мулакуух уабашширил му'миниин.",
       "uzbekTranslation": "Ayollaringiz ekinzorlaringizdir. Bas, ekinzoringizga xohlaganingizcha keling. O'zingiz uchun."
     },
@@ -1574,7 +1574,7 @@
     {
       "ayahNumber": 225,
       "arabic": "لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
-      "uzbekReading": "Laa yu'aaxi zukumul laahu billag'vi fiye aymaa nikum va laakiny yu'aaxi zukum bimaa kasabat quluu bukum; vallaahu G'afuurun Haliym.",
+      "uzbekReading": "Laa yu'aaxi zukumul laahu billag'vi fiy aymaa nikum va laakiny yu'aaxi zukum bimaa kasabat quluu bukum; vallaahu G'afuurun Haliym.",
       "russianReading": "Ла йуахизукумуллаху биллагуи фии айманикум уалакий йуахизукум бима касабат кулуубукум уаллаху гафуурун халиим.",
       "uzbekTranslation": "Alloh sizlarning bexuda qasamlaringiz uchun tutmaydi. Lekin qalbdan kasb qilganingiz uchun tutadi. Va Alloh mag'firatli, rahmli zotdir."
     },
@@ -1595,14 +1595,14 @@
     {
       "ayahNumber": 228,
       "arabic": "وَالْمُطَلَّقَاتُ يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ ثَلَاثَةَ قُرُوءٍ ۚ وَلَا يَحِلُّ لَهُنَّ أَنْ يَكْتُمْنَ مَا خَلَقَ اللَّهُ فِي أَرْحَامِهِنَّ إِنْ كُنَّ يُؤْمِنَّ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِي ذَٰلِكَ إِنْ أَرَادُوا إِصْلَاحًا ۚ وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
-      "uzbekReading": "Valmutallaqaatu yatarab basna bi anfusihinna salaasata quruuo'; va laa yahillu lahunna ai yaktumna maa xalaqal laahu fiye arhaaminhinna in kunna yu'minna billaahi val yavmil aaxir; va bu'uula tuhunna ahaqqu biraddihinna fiy zaalika in araaduuo islaahaa; va lahunna mislul laziy 'araihinna bilma'ruuf; va lirrijjaali 'alaihinna daraja; vallaahu 'Aziyzun Hakiym.",
+      "uzbekReading": "Valmutallaqaatu yatarab basna bi anfusihinna salaasata quruu'; va laa yahillu lahunna ai yaktumna maa xalaqal laahu fiy arhaaminhinna in kunna yu'minna billaahi val yavmil aaxir; va bu'uula tuhunna ahaqqu biraddihinna fiy zaalika in araaduu islaahaa; va lahunna mislul laziy 'araihinna bilma'ruuf; va lirrijjaali 'alaihinna daraja; vallaahu 'Aziyzun Hakiym.",
       "russianReading": "Уалмуталлакату йатараббасна бианфусихинна саласата куруу уала йахиллу лахунна ай йактумна ма халакаллаху фии архамихинна ин кунна йу'минна биллахи уалйаумил ахир уабу'уулатухунна ахакку бираддихинна фии залика ин арадуу ислаха уалахунна мислул лазии 'алайхинна билма'рууф уалиррижали 'алайхинна даража уаллаху 'азиизун хакиим.",
       "uzbekTranslation": "Taloq qilingan ayollar uch qur'u kutadilar. Agar Allohga va qiyomat kuniga iymon keltirgan bo'lsalar, Alloh rahmlarida halq qilingan narsani berkitishlari halol bo'lmaydi. O'shanda erlari ularni, agar islohni iroda qilsalar, o'zlariga qaytarib olishga haqliroqdirlar. Va yaxshilik ila ularning burchlari muqobilida haqlari ham bordir. Va erkaklarga ulardan ustun daraja bordir. Alloh aziz va hakimdir."
     },
     {
       "ayahNumber": 229,
       "arabic": "الطَّلَاقُ مَرَّتَانِ ۖ فَإِمْسَاكٌ بِمَعْرُوفٍ أَوْ تَسْرِيحٌ بِإِحْسَانٍ ۗ وَلَا يَحِلُّ لَكُمْ أَنْ تَأْخُذُوا مِمَّا آتَيْتُمُوهُنَّ شَيْئًا إِلَّا أَنْ يَخَافَا أَلَّا يُقِيمَا حُدُودَ اللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ اللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا افْتَدَتْ بِهِ ۗ تِلْكَ حُدُودُ اللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَنْ يَتَعَدَّ حُدُودَ اللَّهِ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
-      "uzbekReading": "Attalaaqu marrataani fa imsaakum bima'ruufin aw tasriyhum bi ihsaan; va laa yahillu lakum an taaxuzuu mimmaaa aataitumuuhunna shai'an illaaa ai yaxaafaaa alla yuqiymaa huduudallahi fa in xiftum allaa yuqiymaa buduudal laahi falaa junaaha 'Alaihimaa fiymaf tadat bihiy tilka huduudul laahi falaa ta'taduuhaa; va mai yata'adda huduudal laahi fa ulaaa'ika humuzzaa limuun.",
+      "uzbekReading": "Attalaaqu marrataani fa imsaakum bima'ruufin av tasriyhum bi ihsaan; va laa yahillu lakum an taaxuzuu mimmaaa aataitumuuhunna shai'an illaaa ai yaxaafaaa alla yuqiymaa huduudallahi fa in xiftum allaa yuqiymaa buduudal laahi falaa junaaha 'Alaihimaa fiymaf tadat bihiy tilka huduudul laahi falaa ta'taduuhaa; va mai yata'adda huduudal laahi fa ulaaa'ika humuzzaa limuun.",
       "russianReading": "Атталаку марратани фаимсакун бима'рууфин ау тасриихун биихсан уала йахиллу лакум ан та'хузуу мимма атайтумуухунна шайан илла ай йахафа алла йукиима худуудаллахи фаин хифтум алла йукиима худуудаллахи фала жунаха 'алайхима фиима фтадат бих тилка худуудуллахи фала та'тадууха уамай йата'адда худуудаллахи фауулаика хумуз залимуун.",
       "uzbekTranslation": "Taloq ikki martadir. So'ngra yaxshilikcha ushlab qolish yoki yaxshilikcha qo'yib yuborish. Sizga ularga bergan narsangizdan biror narsani olish halol bo'lmaydi, magar ikkovlari Allohning chegaralarida tura olmaslikdan qo'rqsalar."
     },
@@ -1616,49 +1616,49 @@
     {
       "ayahNumber": 231,
       "arabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًا لِتَعْتَدُوا ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُ ۚ وَلَا تَتَّخِذُوا آيَاتِ اللَّهِ هُزُوًا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ وَمَا أَنْزَلَ عَلَيْكُمْ مِنَ الْكِتَابِ وَالْحِكْمَةِ يَعِظُكُمْ بِهِ ۚ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
-      "uzbekReading": "Va izaa tallaqtumun nisaaa'a fabalag'na ajala hunna fa amsikuuhunna bima'ruufin law sarrihuu hunna bima'ruuf; va laa tumsikuu hunna diraa rallita'taduu; va mai yaf'al zaalika faqad zalama nafsah; va laa tattaxizuuo aayaatillaahi huzuvaa; vazkuruu ni'matal laahi 'alaikum va maaa anzala 'alaikum minal kitaabi val ikmati ya'izukum bih; vattaqul laaha va'lamuuo annal laaha bikulli shai'i 'Aliym.",
+      "uzbekReading": "Va izaa tallaqtumun nisaaa'a fabalag'na ajala hunna fa amsikuuhunna bima'ruufin lav sarrihuu hunna bima'ruuf; va laa tumsikuu hunna diraa rallita'taduu; va mai yaf'al zaalika faqad zalama nafsah; va laa tattaxizuu aayaatillaahi huzuvaa; vazkuruu ni'matal laahi 'alaikum va maaa anzala 'alaikum minal kitaabi val ikmati ya'izukum bih; vattaqul laaha va'lamuu annal laaha bikulli shai'i 'Aliym.",
       "russianReading": "Уаиза таллактумун нисаа фабалагна ажалахунна фаамсикуухунна бима'рууфин ау саррихуухунна бима'рууф уала тумсикуухунна дирарал лита'таду уамай йаф'ал залика факад залама нафсах уала таттахизуу айатиллахи хузууа уазкуруу ни'маталлахи 'алайкум уама анзала 'алайкум минал китаби уалхикмати йа'изукум бих уаттакууллаха уа'ламуу анналлаха бикулли шайин 'алиим.",
       "uzbekTranslation": "Xotinlarni taloq qilishingizda, muddatlari oxiriga yetganda, ularni yaxshilik bilan ushlab qoling yoki yaxshilik bilan qo'yvoring. Ularni tajovuz uchun, zarar yetkazish yuzasidan ushlab turmang. Kim o'shandoq qilsa, shubhasiz, o'ziga zulm qiladi. Allohning oyatlarini hazil bilmang. Allohning sizga bergan ne'matini va va'z etib tushirgan kitobi va hikmatini esda tuting. Allohga taqvo qiling va, bilingki, albatta, Alloh har bir narsani biluvchidir."
     },
     {
       "ayahNumber": 232,
       "arabic": "وَإِذَا طَلَّقْتُمُ النِّسَاءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَنْ يَنْكِحْنَ أَزْوَاجَهُنَّ إِذَا تَرَاضَوْا بَيْنَهُمْ بِالْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِ مَنْ كَانَ مِنْكُمْ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَاللَّهُ يَعْلَمُ وَأَنْتُمْ لَا تَعْلَمُونَ",
-      "uzbekReading": "Va izaa tallaqtumun nisaaa'a fabalag'na ajalahunna falaa ta'duluu hunna ai yankihna azvaaja humna izaa taraadaw bainahum bilma' ruuf; zaalika yuu'azu bihiy man kaana minkum yu'minu billaahi val yavmil aaxir; zaalikum azkaa lakum va asar; vallaahu ya'lamu va antum laa ta'lamu va antum laa ta'lamuun.",
+      "uzbekReading": "Va izaa tallaqtumun nisaaa'a fabalag'na ajalahunna falaa ta'duluu hunna ai yankihna azvaaja humna izaa taraadav bainahum bilma' ruuf; zaalika yuu'azu bihiy man kaana minkum yu'minu billaahi val yavmil aaxir; zaalikum azkaa lakum va asar; vallaahu ya'lamu va antum laa ta'lamu va antum laa ta'lamuun.",
       "russianReading": "Уаиза таллактумун нисаа фабалагна ажалахунна фала та'дулуухунна ай йанкихна азуажахунна иза тарадау байнахум билма'рууф залика йуу'азу бихи ман кана минкум йу'мину биллахи уалйаумил ахир заликум азка лакум уаатхар уаллаху йа'ламу уаантум ла та'ламуун.",
       "uzbekTranslation": "Xotinlarni taloq qilganingizda, muddatlari oxiriga yetganda, yaxshilik bilan o'zaro rozi bo'lishib, erlariga qayta nikohlanishlarini man qilib, qiyinlashtirmang. Ushbu ila sizlardan Allohga va oxirat kuniga iymon keltirganlar va'zlanadi. Shundoq qilishingiz siz uchun tozaroq va pokroqdir. Va Alloh biladi, siz esa bilmaysiz."
     },
     {
       "ayahNumber": 233,
       "arabic": "۞ وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلَادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ ۚ وَعَلَى الْمَوْلُودِ لَهُ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِالْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَارَّ وَالِدَةٌ بِوَلَدِهَا وَلَا مَوْلُودٌ لَهُ بِوَلَدِهِ ۚ وَعَلَى الْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَنْ تَرَاضٍ مِنْهُمَا وَتَشَاوُرٍ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدْتُمْ أَنْ تَسْتَرْضِعُوا أَوْلَادَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُمْ مَا آتَيْتُمْ بِالْمَعْرُوفِ ۗ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
-      "uzbekReading": "Valvaa lidaatu yurdi'na avlaada hunna havlaini kaamilaini liman araada ai yutimmar radaa'ah; va 'alalmavluudi lahuu rizuhunna va kisvatuhunna bilma'ruuf; laatukallafu nafsun illaa vus'ahaa; laa tudaaarra vaalidatum bivaladihaa va laa mavluudul lahuu bivaladih; va 'alal vaarisi mislu zaalik; fa in araadaa Fisaalan 'an taraadim minhumaa va tashaavurin falaa junaaha 'alaimaa; va in arattum an tastardi'uuo avlaadakum falaa junaaha 'alaikum izaa sallamtum maaa aataitum bilma'ruuf; vattaqul laaha va'lamuuo annal laaha bimaa ta'maluuna basiyr.",
+      "uzbekReading": "Valvaa lidaatu yurdi'na avlaada hunna havlaini kaamilaini liman araada ai yutimmar radaa'ah; va 'alalmavluudi lahuu rizuhunna va kisvatuhunna bilma'ruuf; laatukallafu nafsun illaa vus'ahaa; laa tudaaarra vaalidatum bivaladihaa va laa mavluudul lahuu bivaladih; va 'alal vaarisi mislu zaalik; fa in araadaa Fisaalan 'an taraadim minhumaa va tashaavurin falaa junaaha 'alaimaa; va in arattum an tastardi'uu avlaadakum falaa junaaha 'alaikum izaa sallamtum maaa aataitum bilma'ruuf; vattaqul laaha va'lamuu annal laaha bimaa ta'maluuna basiyr.",
       "russianReading": "Уалуалидату йурди'на ауладахунна хаулайни камилайни лиман арада ай йутиммар рада'а уа'алал маулууди лаху ризкухунна уакисуатухунна билма'рууф ла тукаллафу нафсун илла уус'аха ла тударра уалидатун биуаладиха уала маулуудул лаху биуаладих уа'алал уариси мислу залик фаин арада фисалан 'ан тарадим минхума уаташауурин фала жунаха 'алайхима уаин арадттум ан тастарди'уу ауладакум фала жунаха 'алайкум иза салламтум ма атайтум билма'рууф уаттакууллаха уа'ламуу анналлаха бима та'малууна басиир.",
       "uzbekTranslation": "Kim emizishni batamom qilishni iroda qilsa, onalar farzandlarni to'liq ikki yil emizadilar. Ularni yaxshilab yedirib, kiyintirish otaning zimmasidadir. Hech bir jonga imkondan tashqari taklif bo'lmaydi. Ona ham, ota ham bolasi sababidan zarar tortmasin. Merosxo'rga ham xuddi shundoq. Agar o'zaro rozi bo'lib, sutdan ajratishni iroda qilsalar, ikkovlariga gunoh bo'lmaydi. Agar farzandlaringizga emizuvchi talab qilishni iroda qilsangiz, beradiganingizni yaxshilik bilan avvaldan topshirsangiz, gunoh bo'lmaydi. Va Allohga taqvo qiling hamda, bilingki, albatta, Alloh qilayotganingizni ko'rib turuvchidir."
     },
     {
       "ayahNumber": 234,
       "arabic": "وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا يَتَرَبَّصْنَ بِأَنْفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِي أَنْفُسِهِنَّ بِالْمَعْرُوفِ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
-      "uzbekReading": "Vallaziyna yutavaffavna minkum va yazaruuna azvaajai yatarabbasna bi anfusihinna arba'ata ashhurinw va 'ashran fa izaa balag'na ajalahunna falaa junaaha 'alaikum fiymaa fa'alna fiye anfusihinna bilma'ruuf; vallaahu bimaa ta'maluuna Xabiyr.",
+      "uzbekReading": "Vallaziyna yutavaffavna minkum va yazaruuna azvaajai yatarabbasna bi anfusihinna arba'ata ashhurinv va 'ashran fa izaa balag'na ajalahunna falaa junaaha 'alaikum fiymaa fa'alna fiy anfusihinna bilma'ruuf; vallaahu bimaa ta'maluuna Xabiyr.",
       "russianReading": "Уаллазиина йутауаффауна минкум уайазарууна азуажай йатараббасна бианфусихинна арба'ата ашхуриу уа'ашран фаиза балагна ажалахунна фала жунаха 'алайкум фиима фа'ална фии анфусихинна билма'рууф уаллаху бима та'малууна хабиир.",
       "uzbekTranslation": "Sizlardan vafot etib juftlarini qoldirganlarning ayollari o'zlaricha to'rt oy-u o'n kun kutadilar. Muddatlari yetganda o'zlari haqida yaxshilik bilan qilgan ishlarida sizga gunoh yo'q. Alloh qilayotgan amalingizdan xabardordir."
     },
     {
       "ayahNumber": 235,
       "arabic": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُمْ بِهِ مِنْ خِطْبَةِ النِّسَاءِ أَوْ أَكْنَنْتُمْ فِي أَنْفُسِكُمْ ۚ عَلِمَ اللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَٰكِنْ لَا تُوَاعِدُوهُنَّ سِرًّا إِلَّا أَنْ تَقُولُوا قَوْلًا مَعْرُوفًا ۚ وَلَا تَعْزِمُوا عُقْدَةَ النِّكَاحِ حَتَّىٰ يَبْلُغَ الْكِتَابُ أَجَلَهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي أَنْفُسِكُمْ فَاحْذَرُوهُ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ حَلِيمٌ",
-      "uzbekReading": "Va laa junaaha 'alaikum fiyma 'arradtum bihiy min xitbatin nisaaa'i aw aknantum fiye anfusikum; 'alimal laahu annakum satazkuruunahunna va laakil laa tuvaa'iduuhunna sirran illaaa an taquuluu qavlamma'ruufaa; va laa ta'zimuu 'uqdatan nikaahi hattaa yablug'al kitaabu ajalah; va'lamuuo annal laaha ya'lamumaa fiye anfusikum fahzaruuh; va'lamuuo annallaaha G'afuurun Haliym.",
+      "uzbekReading": "Va laa junaaha 'alaikum fiyma 'arradtum bihiy min xitbatin nisaaa'i av aknantum fiy anfusikum; 'alimal laahu annakum satazkuruunahunna va laakil laa tuvaa'iduuhunna sirran illaaa an taquuluu qavlamma'ruufaa; va laa ta'zimuu 'uqdatan nikaahi hattaa yablug'al kitaabu ajalah; va'lamuu annal laaha ya'lamumaa fiy anfusikum fahzaruuh; va'lamuu annallaaha G'afuurun Haliym.",
       "russianReading": "Уала жунаха 'алайкум фиима 'аррадтум бихи мин хитбатин нисаи ау акнантум фии анфусикум 'алималлаху аннакум сатазкуруунахунна уалакил ла тууа'идуухунна сирран илла ан такуулуу каулам ма'рууфа уала та'зимуу 'укдатан никахи хатта йаблугал китабу ажалах уа'ламуу анналлаха йа'ламу ма фии анфусикум фахзаруух уа'ламуу анналлаха гафуурун халиим.",
       "uzbekTranslation": "U ayollarga ishora ila sovchilik qilishingiz yoki uni o'z ichingizda tutishingizda gunoh yo'q. Alloh siz ularni, albatta, eslashingizni biladi. Lekin ular bilan xufyona va'dalashmang. Magar yaxshi gap gapirsangiz, mayli. Idda o'z muddatiga yetmaguncha, nikoh bog'lashni qasd qilmang. Va bilingki, albatta, Alloh ichingizdagini biladi. Bas, Undan ogoh bo'ling. Va bilingki, albatta, Alloh mag'firatli va halimdir."
     },
     {
       "ayahNumber": 236,
       "arabic": "لَا جُنَاحَ عَلَيْكُمْ إِنْ طَلَّقْتُمُ النِّسَاءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا لَهُنَّ فَرِيضَةً ۚ وَمَتِّعُوهُنَّ عَلَى الْمُوسِعِ قَدَرُهُ وَعَلَى الْمُقْتِرِ قَدَرُهُ مَتَاعًا بِالْمَعْرُوفِ ۖ حَقًّا عَلَى الْمُحْسِنِينَ",
-      "uzbekReading": "Laa junaaha 'alaikum in tallaqtumun nisaaa'a maa lam tamassuuhunna aw tafriduu lahunna fariydah; va matti'uuna 'alal muusi'i qadaruhuu va 'alal muqtiri qadaruhuu matta'am bilma'ruufi haqqan 'alalmuhsiniyn.",
+      "uzbekReading": "Laa junaaha 'alaikum in tallaqtumun nisaaa'a maa lam tamassuuhunna av tafriduu lahunna fariydah; va matti'uuna 'alal muusi'i qadaruhuu va 'alal muqtiri qadaruhuu matta'am bilma'ruufi haqqan 'alalmuhsiniyn.",
       "russianReading": "Ла жунаха 'алайкум ин таллактумун нисаа ма лам тамассуухунна ау тафридуу лахунна фариида уаматти'уухунна 'алал мууси'и кадаруху уа'алал муктири кадаруху мата'ан билма'рууфи хаккан 'алал мухсиниин.",
       "uzbekTranslation": "Agar xotinlarga qo'l tekkizmay turib yoki ularning mahrni aniqlamay turib taloq qilsangiz, sizga gunoh bo'lmaydi. Ularni boy boricha, yo'q holicha yaxshilik ila foyda bilan foydalantiring. Bu yaxshilik qiluvchilar burchidir."
     },
     {
       "ayahNumber": 237,
       "arabic": "وَإِنْ طَلَّقْتُمُوهُنَّ مِنْ قَبْلِ أَنْ تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةً فَنِصْفُ مَا فَرَضْتُمْ إِلَّا أَنْ يَعْفُونَ أَوْ يَعْفُوَ الَّذِي بِيَدِهِ عُقْدَةُ النِّكَاحِ ۚ وَأَنْ تَعْفُوا أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنْسَوُا الْفَضْلَ بَيْنَكُمْ ۚ إِنَّ اللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
-      "uzbekReading": "Va in tallaqtumuuhunna min qabli an tamassuuhunna va qad farad tum lahunna fariydatan fanisfu maa faradtum illaaa ai ya'fuuna aw ya'fuvallaziy biyadihiy 'uqdatunnikaah; va an ta'fuuna aw ya'fuvallaziy biyadihiy 'uqdatunnikaah; va an ta'fuuo aqrabu littaqvaa; va laa tansavulfadla bainakum; innal laaha bimaa ta'maluuna Basiyr.",
+      "uzbekReading": "Va in tallaqtumuuhunna min qabli an tamassuuhunna va qad farad tum lahunna fariydatan fanisfu maa faradtum illaaa ai ya'fuuna av ya'fuvallaziy biyadihiy 'uqdatunnikaah; va an ta'fuuna av ya'fuvallaziy biyadihiy 'uqdatunnikaah; va an ta'fuu aqrabu littaqvaa; va laa tansavulfadla bainakum; innal laaha bimaa ta'maluuna Basiyr.",
       "russianReading": "Уаин таллактумуухунна мин кабли ан тамассуухунна уакад фарадтум лахунна фариидатан фанисфу ма фарадтум илла ай йа'фууна ау йа'фууал лазии бийадихи 'укдатун никах уаан та'фуу акрабу литтакуа уала тансауул фадла байнакум инналлаха бима та'малууна басиир.",
       "uzbekTranslation": "Agar ularga qo'l tegizmay taloq qilsangiz va mahrni aniqlab qo'ygan bo'lsangiz, aniqlanganning yarmini berasiz, magar ayol yoki nikoh tuguni qo'lida bo'lgan kishi afv qilsa, bermaysiz. Va afv qilishingiz taqvoga yaqindir. Orangizdagi fazilatni unutmang. Albatta, Alloh qilayotgan amallaringizni ko'rib turuvchi zotdir."
     },
@@ -1672,14 +1672,14 @@
     {
       "ayahNumber": 239,
       "arabic": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًا ۖ فَإِذَا أَمِنْتُمْ فَاذْكُرُوا اللَّهَ كَمَا عَلَّمَكُمْ مَا لَمْ تَكُونُوا تَعْلَمُونَ",
-      "uzbekReading": "Fa in xiftum farijaalan aw rukbaanan fa izaaa amintum fazkurul laaha kamaa 'allamakum maa lam takuunuu ta'lamuun.",
+      "uzbekReading": "Fa in xiftum farijaalan av rukbaanan fa izaaa amintum fazkurul laaha kamaa 'allamakum maa lam takuunuu ta'lamuun.",
       "russianReading": "Фаин хифтум фарижалан ау рукбанан фаиза аминтум фазкурууллаха кама 'алламакум ма лам такуунуу та'ламуун.",
       "uzbekTranslation": "Agar xavfda qolsangiz, yurgan va mingan holingizda, xotirjam bo'lganingizda, bilmagan narsangizni qandoq o'rgatgan bo'lsa, Allohni shundoq zikr qiling."
     },
     {
       "ayahNumber": 240,
       "arabic": "وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا وَصِيَّةً لِأَزْوَاجِهِمْ مَتَاعًا إِلَى الْحَوْلِ غَيْرَ إِخْرَاجٍ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِي مَا فَعَلْنَ فِي أَنْفُسِهِنَّ مِنْ مَعْرُوفٍ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
-      "uzbekReading": "Vallaziyna yutavaf favna minkum va yazaruuna azvaajanw vasiyyatal li azvaajihim mataa'an ilal havlig'aira ixraaj; fa in xarajna falaa junaaha 'alaikum fiy maa fa'alna junaaha 'alaikum fiy maa fa'alna fiye anfusihinna mim ma'ruuf; vallaahu Aziyzun Hakiym.",
+      "uzbekReading": "Vallaziyna yutavaf favna minkum va yazaruuna azvaajanv vasiyyatal li azvaajihim mataa'an ilal havlig'aira ixraaj; fa in xarajna falaa junaaha 'alaikum fiy maa fa'alna junaaha 'alaikum fiy maa fa'alna fiy anfusihinna mim ma'ruuf; vallaahu Aziyzun Hakiym.",
       "russianReading": "Уаллазиина йутауаффауна минкум уайазарууна азуажау уасиййатал лиазуажихим мата'ан илал хаули гайра ихраж фаин харажна фала жунаха 'алайкум фии ма фа'ална фии анфусихинна мим ма'рууф уаллаху 'азиизун хакиим.",
       "uzbekTranslation": "Sizlardan vafot etganda juftlarini qoldirayotganlar, xotinlari chiqmasdan bir yilgacha foydalanishini vasiyat qilsinlar. Agar ular chiqsalar, o'z xususlarida yaxshilik bilan qilgan ishlarida sizga gunoh yo'q. Alloh aziz va hakim zotdir."
     },
@@ -1707,56 +1707,56 @@
     {
       "ayahNumber": 244,
       "arabic": "وَقَاتِلُوا فِي سَبِيلِ اللَّهِ وَاعْلَمُوا أَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
-      "uzbekReading": "Va qaatiluu fiy sabiylil laahi va'lamuuo annal laaha Samiy'un 'Aliym.",
+      "uzbekReading": "Va qaatiluu fiy sabiylil laahi va'lamuu annal laaha Samiy'un 'Aliym.",
       "russianReading": "Уакатилуу фии сабиилиллахи уа'ламуу анналлаха самии'ун 'алиим.",
       "uzbekTranslation": "Allohning yo'lida jang qiling. Va bilingki, albatta, Alloh eshituvchi va biluvchi zotdir."
     },
     {
       "ayahNumber": 245,
       "arabic": "مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ أَضْعَافًا كَثِيرَةً ۚ وَاللَّهُ يَقْبِضُ وَيَبْسُطُ وَإِلَيْهِ تُرْجَعُونَ",
-      "uzbekReading": "Man zal laziy yuqridul laaha qardan hasanan fayudaa 'ifahuu lahuu ad'aafan kasiyrah; vallaahu yaqbidu va yabsut-u va ilaihi turja'uun.",
+      "uzbekReading": "Man zal laziy yuqridul laaha qardan hasanan fayudaa 'ifahuu lahuu ad'aafan kasiyrah; vallaahu yaqbidu va yabsut va ilaihi turja'uun.",
       "russianReading": "Ман зал лазии йукридуллаха кардан хасанан файуда'ифаху лаху ад'афан касиира уаллаху йакбиду уайабсуту уаилайхи туржа'уун.",
       "uzbekTranslation": "Allohga yaxshi qarz beradigan kim bor?! Bas, toki U zot unga berganini ko'p marta ko'paytirib bersa. Va holbuki, Alloh."
     },
     {
       "ayahNumber": 246,
       "arabic": "أَلَمْ تَرَ إِلَى الْمَلَإِ مِنْ بَنِي إِسْرَائِيلَ مِنْ بَعْدِ مُوسَىٰ إِذْ قَالُوا لِنَبِيٍّ لَهُمُ ابْعَثْ لَنَا مَلِكًا نُقَاتِلْ فِي سَبِيلِ اللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِنْ كُتِبَ عَلَيْكُمُ الْقِتَالُ أَلَّا تُقَاتِلُوا ۖ قَالُوا وَمَا لَنَا أَلَّا نُقَاتِلَ فِي سَبِيلِ اللَّهِ وَقَدْ أُخْرِجْنَا مِنْ دِيَارِنَا وَأَبْنَائِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ تَوَلَّوْا إِلَّا قَلِيلًا مِنْهُمْ ۗ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
-      "uzbekReading": "Alam tara ilal malai mim Baniye Israaa'iyla mim ba'di Muusaaa iz qaaluu li Nabiyyil lahumub 'as lanaa malikan nuqaatil fiy sabiylillaahi qaala hal 'asaitum in kutiba 'alaikumul qitaalu allaa tuqaatiluu qaaluu va maa lanaaa allaa nuqaatila fiy sabiylil laahi va qad uxrijnaa min diyaarinaa va abnaaa'inaa falammaa kutiba 'alaihimul qitaalu tavallaw illaa qaliylam minhum; vallaahu 'aliymum bizzaalimiyn.",
+      "uzbekReading": "Alam tara ilal malai mim Baniy Israaa'iyla mim ba'di Muusaaa iz qaaluu li Nabiyyil lahumub 'as lanaa malikan nuqaatil fiy sabiylillaahi qaala hal 'asaitum in kutiba 'alaikumul qitaalu allaa tuqaatiluu qaaluu va maa lanaaa allaa nuqaatila fiy sabiylil laahi va qad uxrijnaa min diyaarinaa va abnaaa'inaa falammaa kutiba 'alaihimul qitaalu tavallav illaa qaliylam minhum; vallaahu 'aliymum bizzaalimiyn.",
       "russianReading": "Алам тара илал малаи мин бании исраиила мин ба'ди мууса из калуу линабиййил лахуму б'ас лана маликан нукатил фии сабиилиллахи кала хал 'асайтум ин кутиба 'алайкумул киталу алла тукатилуу калуу уама лана алла нукатила фии сабиилиллахи уакад ухрижна мин дийарина уаабнаина фаламма кутиба 'алайхимул киталу тауаллау илла калиилам минхум уаллаху 'алиимун биззалимиин.",
       "uzbekTranslation": "Musodan keyingi Bani Isroildan bo'lgan a'yonlarni bilmadingmi?! Vaqtiki o'z Nabiylariga: «Bizga bir podshoh tayin qilgin, Allohning yo'lida urush qilaylik», dedilar. U: «Agar sizlarga urush farz qilinsa, urushmasalaringiz-chi?!» dedi. Ular: «Bizga nima bo'libdiki, diyorimizdan va farzandlarimizdan judo qilinsak ham, Allohning yo'lida urushmasak», dedilar. Urush farz qilinganda esa, ozginalaridan boshqalari yuz o'girib ketdilar. Va Alloh zulm qiluvchilarni biluvchidir."
     },
     {
       "ayahNumber": 247,
       "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ اللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًا ۚ قَالُوا أَنَّىٰ يَكُونُ لَهُ الْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِالْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةً مِنَ الْمَالِ ۚ قَالَ إِنَّ اللَّهَ اصْطَفَاهُ عَلَيْكُمْ وَزَادَهُ بَسْطَةً فِي الْعِلْمِ وَالْجِسْمِ ۖ وَاللَّهُ يُؤْتِي مُلْكَهُ مَنْ يَشَاءُ ۚ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
-      "uzbekReading": "Va qaala lahum Nabiy yuhum innal laaha qad ba'asa lakum Taaluuta malikaa; qaaluuo annaa yakuunu lahul mulku 'alainaa va nahnu ahaqqu bilmulki minhu va lam yu'ta sa'atamminal maal; qaala innallaahas tafaahu 'alaikum va zaadahuu bastatan fil'ilmi valjismi vallaahu yu'tiy mulkahuu mai yashaaa'; vallaahu Vaasi'un 'Aliym.",
+      "uzbekReading": "Va qaala lahum Nabiy yuhum innal laaha qad ba'asa lakum Taaluuta malikaa; qaaluu annaa yakuunu lahul mulku 'alainaa va nahnu ahaqqu bilmulki minhu va lam yu'ta sa'atamminal maal; qaala innallaahas tafaahu 'alaikum va zaadahuu bastatan fil'ilmi valjismi vallaahu yu'tiy mulkahuu mai yashaaa'; vallaahu Vaasi'un 'Aliym.",
       "russianReading": "Уакала лахум набиййухум инналлаха кад ба'аса лакум талуута малика калуу анна йакууну лахул мулку 'алайна уанахну ахакку билмулки минху уалам йу'та са'атам минал мал кала инналлаха стафаху 'алайкум уазадаху бастатан фиил 'илми уалжисми уаллаху йу'тии мулкаху май йаша уаллаху уаси'ун 'алиим.",
       "uzbekTranslation": "Nabiylari ularga: «Albatta, Alloh Tolutni sizga podshoh qilib tayinladi», dedi. Ular: «U bizga qayoqdan podshoh bo'lsin. Undan ko'ra podshohlikka biz haqliroqmiz. Qolaversa, unga ko'proq mol ham berilmagan» dedilar. U: «Albatta, uni Allohning O'zi sizlarga tanladi va ilmda, jismda kengligini ziyoda qildi. Alloh podshohligini kimga xohlasa, o'shanga beradi. Va Alloh keng qamrovli va biluvchidir», dedi."
     },
     {
       "ayahNumber": 248,
       "arabic": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ آيَةَ مُلْكِهِ أَنْ يَأْتِيَكُمُ التَّابُوتُ فِيهِ سَكِينَةٌ مِنْ رَبِّكُمْ وَبَقِيَّةٌ مِمَّا تَرَكَ آلُ مُوسَىٰ وَآلُ هَارُونَ تَحْمِلُهُ الْمَلَائِكَةُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
-      "uzbekReading": "Va qaala lahum Nabiyyuhum inna Aayata mulkihiye ai yaatiyakumut Taabuutu fiyi sakiynatummir Robbikum va baqiyyatummimmaa taraka Aalu Muusa va Aalu Haaruuna tahmiluhul malaaa'ikah; inna fiy zaalika la Aayatal lakum in kuntum mu'miniyn.",
+      "uzbekReading": "Va qaala lahum Nabiyyuhum inna Aayata mulkihiy ai yaatiyakumut Taabuutu fiyi sakiynatummir Robbikum va baqiyyatummimmaa taraka Aalu Muusa va Aalu Haaruuna tahmiluhul malaaa'ikah; inna fiy zaalika la Aayatal lakum in kuntum mu'miniyn.",
       "russianReading": "Уакала лахум набиййухум инна айата мулкихи ай йа'тийакумут табууту фиихи сакиинатум мир раббикум уабакиййатум мимма тарака алу мууса уаалу харууна тахмилухул малаика инна фии залика лаайатал лакум ин кунтум му'миниин.",
       "uzbekTranslation": "Nabiylari ularga: «Albatta, uning podshohligining belgisi, sizlarga Robbingizdan tobut kelmog'idir, unda xotirjamlik va Muso hamda Horun ahlidan qolgan qoldiq bo'lib, farishtalar ko'tarib kelur. Agar mo'min bo'lsalaringiz, albatta bu narsada sizlarga belgi bor», dedi."
     },
     {
       "ayahNumber": 249,
       "arabic": "فَلَمَّا فَصَلَ طَالُوتُ بِالْجُنُودِ قَالَ إِنَّ اللَّهَ مُبْتَلِيكُمْ بِنَهَرٍ فَمَنْ شَرِبَ مِنْهُ فَلَيْسَ مِنِّي وَمَنْ لَمْ يَطْعَمْهُ فَإِنَّهُ مِنِّي إِلَّا مَنِ اغْتَرَفَ غُرْفَةً بِيَدِهِ ۚ فَشَرِبُوا مِنْهُ إِلَّا قَلِيلًا مِنْهُمْ ۚ فَلَمَّا جَاوَزَهُ هُوَ وَالَّذِينَ آمَنُوا مَعَهُ قَالُوا لَا طَاقَةَ لَنَا الْيَوْمَ بِجَالُوتَ وَجُنُودِهِ ۚ قَالَ الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو اللَّهِ كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ ۗ وَاللَّهُ مَعَ الصَّابِرِينَ",
-      "uzbekReading": "Falammaa fasala Taaluutu biljunuudi qaala innal laaha mubtaliykum binaharin faman shariba minhu falaisa minniy va mallam yat'amhu fa innahuu minniye illaa manig' tarafa g'urfatam biyadih; fasharibuu minhu illaa qaliylamminhum; falammaa jaavazahuu huva vallaziyna aamanuu ma'ahuu qaaluu laa taaqata lanal yavma bi Jaaluuta va junuudih; qaalallaziyna yazunnuuna annahum mulaaqul laahi kam min fi'atin qaliylatin g'alabat fi'atan kasiyratam bi iznil laah; vallaahuma'as saabiriyn.",
+      "uzbekReading": "Falammaa fasala Taaluutu biljunuudi qaala innal laaha mubtaliykum binaharin faman shariba minhu falaisa minniy va mallam yat'amhu fa innahuu minniy illaa manig' tarafa g'urfatam biyadih; fasharibuu minhu illaa qaliylamminhum; falammaa jaavazahuu huva vallaziyna aamanuu ma'ahuu qaaluu laa taaqata lanal yavma bi Jaaluuta va junuudih; qaalallaziyna yazunnuuna annahum mulaaqul laahi kam min fi'atin qaliylatin g'alabat fi'atan kasiyratam bi iznil laah; vallaahuma'as saabiriyn.",
       "russianReading": "Фаламма фасала талууту билжунууди кала инналлаха мубталиикум бинахарин фаман шариба минху фалайса миннии уамал лам йат'амху фаиннаху миннии илла мани гтарафа гурфатан бийадих фашарибуу минху илла калиилам минхум фаламма жауазаху хууа уаллазиина амануу ма'аху калуу ла таката ланал йаума бижалуута уажунуудих калал лазиина йазуннууна аннахум мулакууллахи кам мин фиатин калиилатин галабат фиатан касииратан биизниллах уаллаху ма'ас сабириин.",
       "uzbekTranslation": "Tolut askar bilan chiqqanda: «Albatta, Alloh sizni daryo bilan sinovchidir, kim undan ichsa, u mendan emas. Va kim uni tanovvul qilmasa, u, albatta, mendandir. Magar birov qo'li bilan bir ho'plam ho'plasa, mayli», dedi. Ozginalaridan boshqalari undan ichdilar. U va u bilan birga iymon keltirganlar daryodan o'tganlarida ular: «Bugun bizda Jolut va uning askari bilan jang qilishga toqat yo'q», dedilar. Allohga ro'baro' bo'lishga ishonganlar: «Qanchadan-qancha oz sonli guruhlar Allohning izni bilan ko'p sonli guruhlarga g'olib kelgan. Alloh sabrlilar bilandir», dedilar."
     },
     {
       "ayahNumber": 250,
       "arabic": "وَلَمَّا بَرَزُوا لِجَالُوتَ وَجُنُودِهِ قَالُوا رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
-      "uzbekReading": "Va lammaa barazuu liJaaluuta va junuudihiy qaaluu Robbanaaa afrig' 'alainaa sabranw va sabbit aqdaamanaa vansurnaa 'alal qavmil kaafiriyn.",
+      "uzbekReading": "Va lammaa barazuu liJaaluuta va junuudihiy qaaluu Robbanaaa afrig' 'alainaa sabranv va sabbit aqdaamanaa vansurnaa 'alal qavmil kaafiriyn.",
       "russianReading": "Уаламма баразуу лижалуута уажунуудихи калуу раббана африг 'алайна сабрау уасаббит акдамана уансурна 'алал каумил кафириин.",
       "uzbekTranslation": "Jolut va uning askarlariga ro'baro' kelganlarida: «Robbimiz, bizga sabr to'kkin, bizni sobitqadam qilgin va kofir qavmlarga qarshi nusrat bergin», dedilar."
     },
     {
       "ayahNumber": 251,
       "arabic": "فَهَزَمُوهُمْ بِإِذْنِ اللَّهِ وَقَتَلَ دَاوُودُ جَالُوتَ وَآتَاهُ اللَّهُ الْمُلْكَ وَالْحِكْمَةَ وَعَلَّمَهُ مِمَّا يَشَاءُ ۗ وَلَوْلَا دَفْعُ اللَّهِ النَّاسَ بَعْضَهُمْ بِبَعْضٍ لَفَسَدَتِ الْأَرْضُ وَلَٰكِنَّ اللَّهَ ذُو فَضْلٍ عَلَى الْعَالَمِينَ",
-      "uzbekReading": "Fahazamuuhum bi iznillaahi va qatala Daavuudu jaaluuta va aataahul laahulmulka Val Hikmata va 'allamahuu mimmaa yashaaa'; va law laa daf'ullaahin naasa ba'dahum biba'dil lafasadatil ardu va laakinnal laaha zuu fadlin 'alal'aalamiyn.",
+      "uzbekReading": "Fahazamuuhum bi iznillaahi va qatala Daavuudu jaaluuta va aataahul laahulmulka Val Hikmata va 'allamahuu mimmaa yashaaa'; va lav laa daf'ullaahin naasa ba'dahum biba'dil lafasadatil ardu va laakinnal laaha zuu fadlin 'alal'aalamiyn.",
       "russianReading": "Фахазамуухум биизниллахи уакатала даууду жалуута уаатахуллахул мулка уалхикмата уа'алламаху мимма йаша уалаула даф'уллахин наса ба'дахум биба'дил лафасадатил арду уалакинналлаха зуу фадлин 'алал 'аламиин.",
       "uzbekTranslation": "Bas, Allohning izni bilan urushda yengdilar va Dovud Jolutni qatl etdi. So'ngra Alloh unga podshohlik va hikmatni berdi va xohlagan narsasini o'rgatdi. Agar Allohning ba'zi."
     },
@@ -1770,21 +1770,21 @@
     {
       "ayahNumber": 253,
       "arabic": "۞ تِلْكَ الرُّسُلُ فَضَّلْنَا بَعْضَهُمْ عَلَىٰ بَعْضٍ ۘ مِنْهُمْ مَنْ كَلَّمَ اللَّهُ ۖ وَرَفَعَ بَعْضَهُمْ دَرَجَاتٍ ۚ وَآتَيْنَا عِيسَى ابْنَ مَرْيَمَ الْبَيِّنَاتِ وَأَيَّدْنَاهُ بِرُوحِ الْقُدُسِ ۗ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلَ الَّذِينَ مِنْ بَعْدِهِمْ مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَاتُ وَلَٰكِنِ اخْتَلَفُوا فَمِنْهُمْ مَنْ آمَنَ وَمِنْهُمْ مَنْ كَفَرَ ۚ وَلَوْ شَاءَ اللَّهُ مَا اقْتَتَلُوا وَلَٰكِنَّ اللَّهَ يَفْعَلُ مَا يُرِيدُ",
-      "uzbekReading": "Tilkar Rusulu faddalnaa ba'dahum 'alaa ba'd; minhum man kallamal laahu va rafa'a ba'dahum darajaat; va aatainaa 'Iysab na Maryamal baiyinaati va ayyadnaahu bi Ruuhil Qudus; va law shaaa'al laahu maqtatalal laziyna mimba'dihim mim ba'di maa jaaa'asumul baiyinaatu va laakinix talafuu faminhum man aamana va minhum man kafar; va law shaaa'al laahu maq tataluu va laakinnallaaha yaf'alu maa yuriyd (.",
+      "uzbekReading": "Tilkar Rusulu faddalnaa ba'dahum 'alaa ba'd; minhum man kallamal laahu va rafa'a ba'dahum darajaat; va aatainaa 'Iysab na Maryamal baiyinaati va ayyadnaahu bi Ruuhil Qudus; va lav shaaa'al laahu maqtatalal laziyna mimba'dihim mim ba'di maa jaaa'asumul baiyinaatu va laakinix talafuu faminhum man aamana va minhum man kafar; va lav shaaa'al laahu maq tataluu va laakinnallaaha yaf'alu maa yuriyd.",
       "russianReading": "Тилкар русулу фаддална ба'дахум 'ала ба'д мминхум ман калламаллаху уарафа'а ба'дахум даражат уаатайна 'ииса бна марйамал байинати уааййаднаху бируухил кудус уалау шааллаху ма ктаталал лазиина мин ба'дихим мин ба'ди ма жаатхумул байинату уалакини хталафуу фаминхум ман амана уаминхум ман кафар уалау шааллаху ма ктаталуу уалакинналлаха йаф'алу ма йуриид.",
       "uzbekTranslation": "O'shalar Payg'ambarlar. Ularning ba'zilarini ba'zilaridan fazllik qildik. Ulardan Alloh gaplashgani bor va ba'zilarining darajasini ko'targan. Va Iyso ibn Maryamga oydin."
     },
     {
       "ayahNumber": 254,
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِمَّا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا بَيْعٌ فِيهِ وَلَا خُلَّةٌ وَلَا شَفَاعَةٌ ۗ وَالْكَافِرُونَ هُمُ الظَّالِمُونَ",
-      "uzbekReading": "Yaa ayyuhal laziyna aamanuu anfiquu mimmaa razaqnaakum min qabli ai yaatiya yavmul laa bai'un fiy va la xullatunw va laa shafaa'ah; valkaa firuuna humuz zaalimuun.",
+      "uzbekReading": "Yaa ayyuhal laziyna aamanuu anfiquu mimmaa razaqnaakum min qabli ai yaatiya yavmul laa bai'un fiy va la xullatunv va laa shafaa'ah; valkaa firuuna humuz zaalimuun.",
       "russianReading": "Йа аййухал лазиина амануу анфикуу мимма разакнакум мин кабли ай йа'тийа йаумул ла бай'ун фиихи уала хуллатуу уала шафа'а уалкафирууна хумуз залимуун.",
       "uzbekTranslation": "Ey iymon keltirganlar! Sizga rizq qilib bergan narsalarimizdan, na oldi-sotdi, na oshna-og'aynichilik va na shafoatchilik yo'q kun kelmasdan oldin nafaqa qiling. Va kofirlar–o'shalar, zolimlardir."
     },
     {
       "ayahNumber": 255,
       "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَنْ ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
-      "uzbekReading": "Allahu laaa ilaaha illaa Huval Haiyul Qaiyuum; laa taaxuzuhuu sinatunw va laa navm; lahuu maa fissamaavaati va maa fil ard; man zal laziy yashfa'u indahuuo illaa bi-iznih; ya'lamu maa baina aydiyhim va mvw xalfahum va laa yuhiytuuna bishai'im min 'ilmihiy illaa bimaa shaaa'; vasi'a Kursiyyuhus samaavaati val arda va laa ya'uuduho hifzuhumaa; va Huval Aliyyul 'Aziym.",
+      "uzbekReading": "Allahu laaa ilaaha illaa Huval Haiyul Qaiyuum; laa taaxuzuhuu sinatunv va laa navm; lahuu maa fissamaavaati va maa fil ard; man zal laziy yashfa'u indahuu illaa bi-iznih; ya'lamu maa baina aydiyhim va maa xalfahum va laa yuhiytuuna bishai'im min 'ilmihiy illaa bimaa shaaa'; vasi'a Kursiyyuhus samaavaati val arda va laa ya'uuduhu hifzuhumaa; va Huval Aliyyul 'Aziym.",
       "russianReading": "Аллаху ла илаха илла хууал хаййул каййуум ла та'хузуху синатуу уала наум ллаху ма фиис самауати уама фиил ард ман зал лазии йашфа'у 'индаху илла биизних йа'ламу ма байна айдиихим уама халфахум уала йухиитууна бишайим мин 'илмихи илла бима ша уаси'а курсиййухус самауати уаларда уала йауудуху хифзухума уахууал 'алиййул 'азиим.",
       "uzbekTranslation": "Alloh Undan o'zga iloh yo'q zotdir. U tirik va qayyumdir. Uni mudroq ham, uyqu ham olmas. Osmonlaru yerdagi narsalar Unikidir. Uning huzurida O'zining iznisiz hech kim shafoat qila olmas. U ularning oldilaridagi narsani ham, ortlaridagi narsani ham bilur. Uning ilmidan hech narsani ihota qila olmaslar, magar O'zi xohlaganini, xalos. Uning kursisi osmonlaru yerni qamragan. Ularni muhofaza qilish Uni charchatmas. Va U Oliy va Azim zotdir."
     },
@@ -1798,21 +1798,21 @@
     {
       "ayahNumber": 257,
       "arabic": "اللَّهُ وَلِيُّ الَّذِينَ آمَنُوا يُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۖ وَالَّذِينَ كَفَرُوا أَوْلِيَاؤُهُمُ الطَّاغُوتُ يُخْرِجُونَهُمْ مِنَ النُّورِ إِلَى الظُّلُمَاتِ ۗ أُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
-      "uzbekReading": "Allaahu valiyyul laziyna aamanuu yuxrijuhum minaz zulumaati ilan nuuri vallaziyna kafaruuo avliyaaa'uhumut Taag'uutu yuxrijuunahum minan nuuri ilaz zulumaat; ulaaa'ika Ashaabun Naari hum fiyhaa xaaliduun.",
+      "uzbekReading": "Allaahu valiyyul laziyna aamanuu yuxrijuhum minaz zulumaati ilan nuuri vallaziyna kafaruu avliyaaa'uhumut Taag'uutu yuxrijuunahum minan nuuri ilaz zulumaat; ulaaa'ika Ashaabun Naari hum fiyhaa xaaliduun.",
       "russianReading": "Аллаху уалиййул лазиина амануу йухрижухум миназ зулумати илан нуури уаллазиина кафаруу аулийаухумут тагууту йухрижуунахум минан нуури илаз зулумат уулаика асхабун нари хум фииха халидуун.",
       "uzbekTranslation": "Alloh iymon keltirganlarning do'stidir. Ularni zulmatlardan nurga chiqarur. Kufr keltirganlarning do'stlari tog'utdir. Ularni nurdan zulmatlarga chiqarurlar. Ana o'shalar do'zax egalaridir. Ular unda abadiydirlar."
     },
     {
       "ayahNumber": 258,
       "arabic": "أَلَمْ تَرَ إِلَى الَّذِي حَاجَّ إِبْرَاهِيمَ فِي رَبِّهِ أَنْ آتَاهُ اللَّهُ الْمُلْكَ إِذْ قَالَ إِبْرَاهِيمُ رَبِّيَ الَّذِي يُحْيِي وَيُمِيتُ قَالَ أَنَا أُحْيِي وَأُمِيتُ ۖ قَالَ إِبْرَاهِيمُ فَإِنَّ اللَّهَ يَأْتِي بِالشَّمْسِ مِنَ الْمَشْرِقِ فَأْتِ بِهَا مِنَ الْمَغْرِبِ فَبُهِتَ الَّذِي كَفَرَ ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
-      "uzbekReading": "Alam tara ilal laziy Haaajja Ibraahiyma fiy Robbihiye an aataahullaahul mulka iz qaala Ibraahiymu Robbiyal laziy yuhyiy va yumiytu qaala ana uhyiy va yumiytu qaala ana uhyiy va umiytu qaala Ibraahiymu fa innal laaha yaatiy bishshamsi minal mashriqi faati bihaa minal mag'ribi fabuhital laziy kafar; vallaahu laa yahdil qavmaz zaalimiyn.",
+      "uzbekReading": "Alam tara ilal laziy Haaajja Ibraahiyma fiy Robbihiy an aataahullaahul mulka iz qaala Ibraahiymu Robbiyal laziy yuhyiy va yumiytu qaala ana uhyiy va yumiytu qaala ana uhyiy va umiytu qaala Ibraahiymu fa innal laaha yaatiy bishshamsi minal mashriqi faati bihaa minal mag'ribi fabuhital laziy kafar; vallaahu laa yahdil qavmaz zaalimiyn.",
       "russianReading": "Алам тара илал лазии хажжа ибрахиима фии раббихи ан атахуллахул мулка из кала ибрахииму раббийал лазии йухии уайумииту кала ана ухии уаумииту кала ибрахииму фаинналлаха йа'тии бишшамси минал машрики фа'ти биха минал магриби фабухитал лазии кафар уаллаху ла йахдиил каумаз залимиин.",
       "uzbekTranslation": "Alloh podshohlik berib qo'ygani sababidan Ibrohim bilan Robbisi haqida hujjat talashganni bilmadingmi? Ibrohim: «Mening Robbiim tiriltiradi va o'ldiradi», deganda, u: «Men tiriltiraman va o'ldiraman», dedi. Ibrohim: «Albatta, Alloh quyoshni Mashriqdan chiqaradi, bas, sen uni Mag'ribdan chiqargin-chi», dedi. Bas, kufr keltirgan lol qoldi. Va Alloh zolim qavmlarni hidoyatga solmas."
     },
     {
       "ayahNumber": 259,
       "arabic": "أَوْ كَالَّذِي مَرَّ عَلَىٰ قَرْيَةٍ وَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ يُحْيِي هَٰذِهِ اللَّهُ بَعْدَ مَوْتِهَا ۖ فَأَمَاتَهُ اللَّهُ مِائَةَ عَامٍ ثُمَّ بَعَثَهُ ۖ قَالَ كَمْ لَبِثْتَ ۖ قَالَ لَبِثْتُ يَوْمًا أَوْ بَعْضَ يَوْمٍ ۖ قَالَ بَلْ لَبِثْتَ مِائَةَ عَامٍ فَانْظُرْ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمْ يَتَسَنَّهْ ۖ وَانْظُرْ إِلَىٰ حِمَارِكَ وَلِنَجْعَلَكَ آيَةً لِلنَّاسِ ۖ وَانْظُرْ إِلَى الْعِظَامِ كَيْفَ نُنْشِزُهَا ثُمَّ نَكْسُوهَا لَحْمًا ۚ فَلَمَّا تَبَيَّنَ لَهُ قَالَ أَعْلَمُ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-      "uzbekReading": "Aw kallaziy marra 'alaa qaryatinw va hiya xaaviyatun 'alaa 'uruushihaa qaala annaa yuhyiy haazihil laahu ba'da mavtihaa fa amaatahul laahu mi'ata 'aamin suumma ba'asahuu qaala kam labista qaala labistu yavman aw ba'da yavmin qaala bal labista mi'ata 'aamin fanzur ilaa ta'aamika va sharaabika lam yatasannah vanzur ilaa himaarika va linaj'alaka Aayatal linnaasi vanzur ilal'izaami kaifa nunshizuhaa summa naksuuhaa lahmaa; falammaa tabiyana lahuu qaala a'lamu annal laaha 'alaakulli shai'in Qadiyr.",
+      "uzbekReading": "Av kallaziy marra 'alaa qaryatinv va hiya xaaviyatun 'alaa 'uruushihaa qaala annaa yuhyiy haazihil laahu ba'da mavtihaa fa amaatahul laahu mi'ata 'aamin suumma ba'asahuu qaala kam labista qaala labistu yavman av ba'da yavmin qaala bal labista mi'ata 'aamin fanzur ilaa ta'aamika va sharaabika lam yatasannah vanzur ilaa himaarika va linaj'alaka Aayatal linnaasi vanzur ilal'izaami kaifa nunshizuhaa summa naksuuhaa lahmaa; falammaa tabiyana lahuu qaala a'lamu annal laaha 'alaakulli shai'in Qadiyr.",
       "russianReading": "Ау каллазии марра 'ала карйатиу уахийа хауийатун 'ала 'уруушиха кала анна йухии хазихиллаху ба'да маутиха фааматахуллаху миата 'амин сумма ба'асаху кала кам лабиста кала лабисту йауман ау ба'да йаумин кала бал лабиста миата 'амин фанзур ила та'амика уашарабика лам йатасаннах уанзур ила химарика уалинаж'алака айатал линнаси уанзур илал 'изами кайфа нуншизуха сумма наксууха лахма фаламма табаййана лаху кала а'ламу анналлаха 'ала кулли шайин кадиир.",
       "uzbekTranslation": "Yoki shiftlari ustiga qulagan qishloqdan o'tgan kishiga o'xshashni ko'rmadingmi? U: «Alloh buni o'limidan keyin qanday tiriltiradi?» dedi. Bas, Alloh uni yuz yil o'ldirdi, so'ngra qayta tiriltirdi. U zot: «Qancha yotdng?», dedi. U: «Bir kun yoki bir kunning ba'zisicha yotdim», dedi. U zot: «Balki yuz yil yotding, taomingga va sharobingga nazar sol, o'zgargani yo'q va eshagingga ham qara. Seni odamlarga ibrat qilish uchun shunday qildik. Va suyaklarga nazar sol, ularni qandoq harakatga solamiz va ularga qandoq go'sht kiygizamiz», dedi. Unga ravshan bo'lganda: «Albatta, Alloh har bir narsaga qodirligini bildim», dedi."
     },
@@ -1833,14 +1833,14 @@
     {
       "ayahNumber": 262,
       "arabic": "الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ ثُمَّ لَا يُتْبِعُونَ مَا أَنْفَقُوا مَنًّا وَلَا أَذًى ۙ لَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
-      "uzbekReading": "Allaziyna yunfiquuna amvaalahum fiy sabiylillaahi summa laa yutbi'uuna maaa anfaquu mannanw va laaa azal lahum ajruhum 'inda Robbihim; va laa xavfun 'alaihim va laa hum yahzanuun.",
+      "uzbekReading": "Allaziyna yunfiquuna amvaalahum fiy sabiylillaahi summa laa yutbi'uuna maaa anfaquu mannanv va laaa azal lahum ajruhum 'inda Robbihim; va laa xavfun 'alaihim va laa hum yahzanuun.",
       "russianReading": "Аллазиина йунфикууна амуалахум фии сабиилиллахи сумма ла йутби'ууна ма анфакуу маннау уала азал лахум ажрухум 'инда раббихим уала хауфун 'алайхим уала хум йахзануун.",
       "uzbekTranslation": "Allohning yo'lida mollarini sarflab, so'ngra sarflari ketidan minnat qilmay va ozor bermaydiganlarning ajrlari Robbilari huzuridadir. Ularga xavf yo'q va ular xafa ham bo'lmaslar."
     },
     {
       "ayahNumber": 263,
       "arabic": "۞ قَوْلٌ مَعْرُوفٌ وَمَغْفِرَةٌ خَيْرٌ مِنْ صَدَقَةٍ يَتْبَعُهَا أَذًى ۗ وَاللَّهُ غَنِيٌّ حَلِيمٌ",
-      "uzbekReading": "Qavlum ma'ruufunw va mag'firatun xairum min sadaqatiny yatba'uhaaa azaa; vallaahu G'aniyyun Haliym.",
+      "uzbekReading": "Qavlum ma'ruufunv va mag'firatun xairum min sadaqatiny yatba'uhaaa azaa; vallaahu G'aniyyun Haliym.",
       "russianReading": "Каулум ма'рууфуу уамагфиратун хайрум мин садакатий йатба'уха аза уаллаху ганиййун халиим.",
       "uzbekTranslation": "Yaxshi so'z va kechirish, ortidan ozor keladigan sadaqadan ko'ra yaxshiroqdir. Va Alloh g'aniy va halim zotdir."
     },
@@ -1854,21 +1854,21 @@
     {
       "ayahNumber": 265,
       "arabic": "وَمَثَلُ الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمُ ابْتِغَاءَ مَرْضَاتِ اللَّهِ وَتَثْبِيتًا مِنْ أَنْفُسِهِمْ كَمَثَلِ جَنَّةٍ بِرَبْوَةٍ أَصَابَهَا وَابِلٌ فَآتَتْ أُكُلَهَا ضِعْفَيْنِ فَإِنْ لَمْ يُصِبْهَا وَابِلٌ فَطَلٌّ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
-      "uzbekReading": "Va masalul laziyna yunfiquuna amvaalahumub ti g'aaaa'a mardaatil laahi va tasbiytam min anfusihim kamasali jannatim birabvatin asaabahaa vaabilun fa aatat ukulahaa di'faini fa il lam yusibhaa vaabilun fatall; vallaahu bimaa ta'maluuna Basiyr.",
+      "uzbekReading": "Va masalul laziyna yunfiquuna amvaalahumub ti g'aaaa'a mardaatil laahi va tasbiytam min anfusihim kamasali jannatim birabvatin asaabahaa vaabilun fa aatat ukulahaa di'faini fa illam yusibhaa vaabilun fatall; vallaahu bimaa ta'maluuna Basiyr.",
       "russianReading": "Уамасалул лазиина йунфикууна амуалахуму бтигаа мардатиллахи уатасбиитам мин анфусихим камасали жаннатин бирабуатин асабаха уабилун фаатат укулаха ди'файни фаил лам йусибха уабилун фаталл уаллаху бима та'малууна басиир.",
       "uzbekTranslation": "Mollarini Allohning roziligini istab, o'zlaridagi ishonch bilan sarflaydiganlar xuddi tepalikdagi boqqa o'xsharlar. Unga qattiq yomg'ir yog'sa, mevasini ikki barobar beradi. Agar qattiq yomg'ir yog'masa, maydalab yoqqani ham bo'laveradi. Va Alloh qilayotganlaringizni ko'rib turuvchi zotdir."
     },
     {
       "ayahNumber": 266,
       "arabic": "أَيَوَدُّ أَحَدُكُمْ أَنْ تَكُونَ لَهُ جَنَّةٌ مِنْ نَخِيلٍ وَأَعْنَابٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ لَهُ فِيهَا مِنْ كُلِّ الثَّمَرَاتِ وَأَصَابَهُ الْكِبَرُ وَلَهُ ذُرِّيَّةٌ ضُعَفَاءُ فَأَصَابَهَا إِعْصَارٌ فِيهِ نَارٌ فَاحْتَرَقَتْ ۗ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَتَفَكَّرُونَ",
-      "uzbekReading": "Ayavaddu ahadukum an takuuna lahuu jannatum min naxiylinw va a'naabin tajriy min tahtihal anhaaru lahuu fiyhaa min kullis samaraati va asaabahul kibaru va lahuu zurriyyatun du'afaaa'u fa asaabahaaa i'saarun fiyhi naarun fahtaraqat; kazaalika yubaiyinul laahu lakumul aayaati la'allakum tatafakkaruun.",
+      "uzbekReading": "Ayavaddu ahadukum an takuuna lahuu jannatum min naxiylinv va a'naabin tajriy min tahtihal anhaaru lahuu fiyhaa min kullis samaraati va asaabahul kibaru va lahuu zurriyyatun du'afaaa'u fa asaabahaaa i'saarun fiyhi naarun fahtaraqat; kazaalika yubaiyinul laahu lakumul aayaati la'allakum tatafakkaruun.",
       "russianReading": "Айауадду ахадукум ан такууна лаху жаннатум мин нахиилиу уаа'набин тажрии мин тахтихал анхару лаху фииха мин куллис самарати уаасабахул кибару уалаху зурриййатун ду'афау фаасабаха и'сарун фиихи нарун фахтаракат казалика йубайинуллаху лакумул айати ла'аллакум татафаккаруун.",
       "uzbekTranslation": "Sizlardan birortangiz ostidan anhorlar oqib turgan xurmozor va uzumzor, turli mevali bog'i bo'laturib, yoshi bir joyga yetganda, zaifhol zurriyoti bor paytda unga o'tli bo'ron kelib yonib bitishini xohlaydimi?! Alloh sizlarga shu tariqa O'z oyatlarini bayon qiladir, shoyadki fikr yuritsangiz."
     },
     {
       "ayahNumber": 267,
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَنْفِقُوا مِنْ طَيِّبَاتِ مَا كَسَبْتُمْ وَمِمَّا أَخْرَجْنَا لَكُمْ مِنَ الْأَرْضِ ۖ وَلَا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ وَلَسْتُمْ بِآخِذِيهِ إِلَّا أَنْ تُغْمِضُوا فِيهِ ۚ وَاعْلَمُوا أَنَّ اللَّهَ غَنِيٌّ حَمِيدٌ",
-      "uzbekReading": "Yaaa 'ayyuhal laziyna aamanuuo anfiquu min taiyibaati maa kasabtum va mimmaaa axrajuaa lakum minal ardi va laa tayammamul xabiysa minhu tunfiquuna va lastum bi aaxiziyhi illaaa an tug'miduu fiyh; va'lamuuo annal laaha G'aniyyun Hamiyd.",
+      "uzbekReading": "Yaaa 'ayyuhal laziyna aamanuu anfiquu min taiyibaati maa kasabtum va mimmaaa axrajuaa lakum minal ardi va laa tayammamul xabiysa minhu tunfiquuna va lastum bi aaxiziyhi illaaa an tug'miduu fiyh; va'lamuu annal laaha G'aniyyun Hamiyd.",
       "russianReading": "Йа аййухал лазиина амануу анфикуу мин тайибати ма касабтум уамимма ахражна лакум минал арди уала тайаммамуул хабииса минху тунфикууна уаластум биахизиихи илла ан тугмидуу фиих уа'ламуу анналлаха ганиййун хамиид.",
       "uzbekTranslation": "Ey iymon keltirganlar! Kasb qilgan pok narsalaringizdan va Biz sizlarga yerdan chiqarib bergan narsalarimizdan sadaqa qilinglar. Nopokni qasd etib sadaqa qilmang. Holbuki, uni o'zingiz ham oluvchimassiz, magar ko'z yumsangizgina olasiz. Va bilingki, albatta, Alloh boy va maqtalgan zotdir."
     },
@@ -1889,7 +1889,7 @@
     {
       "ayahNumber": 270,
       "arabic": "وَمَا أَنْفَقْتُمْ مِنْ نَفَقَةٍ أَوْ نَذَرْتُمْ مِنْ نَذْرٍ فَإِنَّ اللَّهَ يَعْلَمُهُ ۗ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
-      "uzbekReading": "Va maaa anfaqtum min nafaqatin aw nazartum min nazrin fa innal laaha ya'lamuh; va maa lizzaalimiyna min ansaar.",
+      "uzbekReading": "Va maaa anfaqtum min nafaqatin av nazartum min nazrin fa innal laaha ya'lamuh; va maa lizzaalimiyna min ansaar.",
       "russianReading": "Уама анфактум мин нафакатин ау назартум мин назрин фаинналлаха йа'ламух уама лиззалимиина мин ансар.",
       "uzbekTranslation": "Qilgan nafaqangizni yoki nazringizni Alloh, albatta, biladi. Zolimlarga yordamchilar yo'qdir."
     },
@@ -1917,14 +1917,14 @@
     {
       "ayahNumber": 274,
       "arabic": "الَّذِينَ يُنْفِقُونَ أَمْوَالَهُمْ بِاللَّيْلِ وَالنَّهَارِ سِرًّا وَعَلَانِيَةً فَلَهُمْ أَجْرُهُمْ عِنْدَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
-      "uzbekReading": "Allaziyna yunfiquuna amvaalahum billaili van nahaari sirranw va 'alaaniyatan falahum ajruhum 'inda Robbihim va laa xavfun 'alaihim va laa hum yahzanuun.",
+      "uzbekReading": "Allaziyna yunfiquuna amvaalahum billaili van nahaari sirranv va 'alaaniyatan falahum ajruhum 'inda Robbihim va laa xavfun 'alaihim va laa hum yahzanuun.",
       "russianReading": "Аллазиина йунфикууна амуалахум биллайли уаннахари сиррау уа'аланийатан фалахум ажрухум 'инда раббихим уала хауфун 'алайхим уала хум йахзануун.",
       "uzbekTranslation": "Kechasiyu kunduzi mollarini nafaqa qiladiganlarning ajrlari Robbilari huzuridadir. Ularga xavf yo'q va ular xafa ham bo'lmaslar."
     },
     {
       "ayahNumber": 275,
       "arabic": "الَّذِينَ يَأْكُلُونَ الرِّبَا لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ الَّذِي يَتَخَبَّطُهُ الشَّيْطَانُ مِنَ الْمَسِّ ۚ ذَٰلِكَ بِأَنَّهُمْ قَالُوا إِنَّمَا الْبَيْعُ مِثْلُ الرِّبَا ۗ وَأَحَلَّ اللَّهُ الْبَيْعَ وَحَرَّمَ الرِّبَا ۚ فَمَنْ جَاءَهُ مَوْعِظَةٌ مِنْ رَبِّهِ فَانْتَهَىٰ فَلَهُ مَا سَلَفَ وَأَمْرُهُ إِلَى اللَّهِ ۖ وَمَنْ عَادَ فَأُولَٰئِكَ أَصْحَابُ النَّارِ ۖ هُمْ فِيهَا خَالِدُونَ",
-      "uzbekReading": "Allaziyna yaakuluunar ribaa laa yaquumuuna illaa kamaa yaquumul laziy yataxabbatuhush shaitaanu minal mass; zaalika bi annahum qaaluuo innamal bai'u mishur ribaa; va ahallal laahul bai'a va harramar ribba; faman jaaa'ahuu maw'izatum mir Robbihiy fantahaa falahuu maa salafa va amruhuuo ilal laahi va man 'aada fa ulaaa 'ika Ashaabun naari hum fiyhaa xaaliduun.",
+      "uzbekReading": "Allaziyna yaakuluunar ribaa laa yaquumuuna illaa kamaa yaquumul laziy yataxabbatuhush shaitaanu minal mass; zaalika bi annahum qaaluu innamal bai'u mishur ribaa; va ahallal laahul bai'a va harramar ribba; faman jaaa'ahuu mav'izatum mir Robbihiy fantahaa falahuu maa salafa va amruhuu ilal laahi va man 'aada fa ulaaa 'ika Ashaabun naari hum fiyhaa xaaliduun.",
       "russianReading": "Аллазиина йа'кулуунар риба ла йакуумууна илла кама йакуумул лазии йатахаббатухуш шайтану минал масс залика бианнахум калуу иннамал бай'у мислур риба уаахаллаллахул бай'а уахаррамар риба фаман жааху мау'изатум мир раббихи фантаха фалаху ма салафа уаамруху илаллахи уаман 'ада фауулаика асхабун нари хум фииха халидуун.",
       "uzbekTranslation": "Riboni yeydiganlar."
     },
@@ -1973,21 +1973,21 @@
     {
       "ayahNumber": 282,
       "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنْتُمْ بِدَيْنٍ إِلَىٰ أَجَلٍ مُسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُبْ بَيْنَكُمْ كَاتِبٌ بِالْعَدْلِ ۚ وَلَا يَأْبَ كَاتِبٌ أَنْ يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ ۚ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا ۚ فَإِنْ كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَنْ يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ ۚ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ ۖ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَنْ تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ ۚ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا ۚ وَلَا تَسْأَمُوا أَنْ تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ۚ ذَٰلِكُمْ أَقْسَطُ عِنْدَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا ۖ إِلَّا أَنْ تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا ۗ وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ ۚ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ ۚ وَإِنْ تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ ۗ وَاتَّقُوا اللَّهَ ۖ وَيُعَلِّمُكُمُ اللَّهُ ۗ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
-      "uzbekReading": "Yaa ayyuhal laziyna aamanuu izaa tadaayantum bidinin ilaa ajalimmusamman faktubuuh; valyaktub bainakum kaatibum bil'adl; va laa yaaba kaatibun ai yaktuba kamaa 'allamahul laah; falyaktub valyumlilil laziy 'alaihil haqqu valyattaqil laaha Robbahuu va laa yabxas minhu shai'aa; fa in kaanal laziy 'alaihil lhaqqu safiyhan aw da'iyfan aw laa yastatiy'u ai yumilla huva falyumlil valiyyuhuu bil'adl; vastash hiduu shahiydaini mir rijaalikum fa il lam yakuunaa rajulaini farajulunw vamra ataani mimman tardavna minash shuhadaaa'i an tadilla ihdaahumaa fatuzakkira ihdaahumal uxraa; va laa yaabash shuhadaaa'u izaa maadu'uu; va laa tas'amuuo an taktubuuhu sag'iyran avkabiyran ilaaa ajalih; zaalikum aqsatu 'indal laahi va aqvamu lishshahaadati va adnaaa allaa tartaabuuo illaaa an takuuna tijaaratan haadiratan tudiyruunahaa bainakum falaisa 'alaikum junaahun allaa taktubuuhan; va ashiduuo izaa tabaaya'tum; va laa yudaaarra kaatibunw va laa shahiyd; va in taf'aluu fa innahuu fusuuqum bikum; vattaqul laaha va yu'allimu kumul laah; vallaahu bikulli shai'in 'Aliym.",
+      "uzbekReading": "Yaa ayyuhal laziyna aamanuu izaa tadaayantum bidinin ilaa ajalimmusamman faktubuuh; valyaktub bainakum kaatibum bil'adl; va laa yaaba kaatibun ai yaktuba kamaa 'allamahul laah; falyaktub valyumlilil laziy 'alaihil haqqu valyattaqil laaha Robbahuu va laa yabxas minhu shai'aa; fa in kaanal laziy 'alaihil lhaqqu safiyhan av da'iyfan av laa yastatiy'u ai yumilla huva falyumlil valiyyuhuu bil'adl; vastash hiduu shahiydaini mir rijaalikum fa illam yakuunaa rajulaini farajulunv vamra ataani mimman tardavna minash shuhadaaa'i an tadilla ihdaahumaa fatuzakkira ihdaahumal uxraa; va laa yaabash shuhadaaa'u izaa maadu'uu; va laa tas'amuu an taktubuuhu sag'iyran avkabiyran ilaaa ajalih; zaalikum aqsatu 'indal laahi va aqvamu lishshahaadati va adnaaa allaa tartaabuu illaaa an takuuna tijaaratan haadiratan tudiyruunahaa bainakum falaisa 'alaikum junaahun allaa taktubuuhan; va ashiduu izaa tabaaya'tum; va laa yudaaarra kaatibunv va laa shahiyd; va in taf'aluu fa innahuu fusuuqum bikum; vattaqul laaha va yu'allimu kumul laah; vallaahu bikulli shai'in 'Aliym.",
       "russianReading": "Йа аййухал лазиина амануу иза тадайантум бидайнин ила ажалим мусамман фактубуух уалйактуб ббайнакум катибун бил'адл уала йа'ба катибун ай йактуба кама 'алламахуллах фалйактуб уалйумлилил лазии 'алайхил хакку уалйаттакиллаха раббаху уала йабхас минху шайа фаин канал лазии 'алайхил хакку сафиихан ау да'иифан ау ла йастатии'у ай йумилла хууа фалйумлил уалиййуху бил'адл уасташхидуу шахиидайни мир рижаликум фаил лам йакууна ражулайни фаражулуу уамраатани мимман тардауна минаш шухадаи ан тадилла ихдахума фатузаккира ихдахумал ухра уала йа'баш шухадау иза ма ду'у уала тасамуу ан тактубууху сагииран ау кабииран ила ажалих заликум аксату 'индаллахи уаакуаму лишшахадати уаадна алла тартабуу илла ан такууна тижаратан хадиратан тудиируунаха байнакум фалайса 'алайкум жунахун алла тактубууха уаашхидуу иза табайа'тум уала йударра катибуу уала шахиид уаин таф'алуу фаиннаху фусуукун бикум уаттакууллаха уайу'аллимукумуллах уаллаху бикулли шайин 'алиим.",
       "uzbekTranslation": "Ey iymon keltirganlar! Ma'lum muddatga qarz oldi-berdi qilgan vaqtingizda, uni yozib qo'ying. Orangizda bir yozuvchi adolat bilan yozsin. Hech bir yozuvchi Alloh bildirganidek qilib yozishdan bosh tortmasin. Bas, yozsin va haq zimmasiga tushgan kishi aytib tursin, Robbiga taqvo qilsin va undan hech narsani kamaytirmasin. Agar haq zimmasiga tushgan kishi esi past, zaif yoki aytib tura olmaydigan bo'lsa, uning valiysi adolat bilan aytib tursin. Erkaklaringizdan ikki kishini guvoh qiling. Agar ikki er kishi bo'lmasa, o'zingiz rozi bo'ladigan guvohlardan bir er kishi va ikki ayol kishi bo'lsin. Ikkovi."
     },
     {
       "ayahNumber": 283,
       "arabic": "۞ وَإِنْ كُنْتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَقْبُوضَةٌ ۖ فَإِنْ أَمِنَ بَعْضُكُمْ بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ ۗ وَلَا تَكْتُمُوا الشَّهَادَةَ ۚ وَمَنْ يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ ۗ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
-      "uzbekReading": "Va in kuntum 'alaa safarinw va lam tajiduu kaatiban farihaanum maqbuudatun fa in amina ba'dukum ba'dan falyu'addil lazi tumina amaa natahuu valyattaqil laaha Robbah; va laa taktumush shahaadah; va mai yaktumhaa fa innahuuo aasimun qalbuh; vallaahu bimaa ta'maluuna 'Aliym.",
+      "uzbekReading": "Va in kuntum 'alaa safarinv va lam tajiduu kaatiban farihaanum maqbuudatun fa in amina ba'dukum ba'dan falyu'addil lazi tumina amaa natahuu valyattaqil laaha Robbah; va laa taktumush shahaadah; va mai yaktumhaa fa innahuu aasimun qalbuh; vallaahu bimaa ta'maluuna 'Aliym.",
       "russianReading": "Уаин кунтум 'ала сафариу уалам тажидуу катибан фариханум макбуудатун фаин амина ба'дукум ба'дан фалйуаддил лазии 'тумина аманатаху уалйаттакиллаха раббах уала тактумууш шахада уамай йактумха фаиннаху асимун калбух уаллаху бима та'малууна 'алиим.",
       "uzbekTranslation": "Agar safarda bo'lsangiz va yozuvchi topa olmasangiz, bas, qo'lga olinadigan garov bo'lsin. Agar ba'zingiz ba'zingizga ishonsangiz, bas, ishonilgan omonatni ado qilsin, Allohga, Robbisiga taqvo qilsin. Guvohlikni berkitmang! Kim uni berkitsa, uning qalbi gunohkordir. Va Alloh qilayotgan amallaringizni biluvchi zotdir."
     },
     {
       "ayahNumber": 284,
       "arabic": "لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ وَإِنْ تُبْدُوا مَا فِي أَنْفُسِكُمْ أَوْ تُخْفُوهُ يُحَاسِبْكُمْ بِهِ اللَّهُ ۖ فَيَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-      "uzbekReading": "Lillaahi maa fissamaavaati va maa fil ard; va in tubduu maa fiye anfusikum aw tuxfuuhu yuhaasibkum bihil laa; fayag'firu li mai yashaaa'u va yu'azzibu mai yashaaa u;vallaahu 'alaa kulli shai in qadiyr.",
+      "uzbekReading": "Lillaahi maa fissamaavaati va maa fil ard; va in tubduu maa fiy anfusikum av tuxfuuhu yuhaasibkum bihil laa; fayag'firu li mai yashaaa'u va yu'azzibu mai yashaaa u;vallaahu 'alaa kulli shai in qadiyr.",
       "russianReading": "Лиллахи ма фиис самауати уама фиил ард уаин тубдуу ма фии анфусикум ау тухфууху йухасибкум бихиллаху файагфиру лимай йашау уайу'аззибу май йаша уаллаху 'ала кулли шайин кадиир.",
       "uzbekTranslation": "Osmonlaru yerdagi narsalar Allohnikidir. Agar ichingizdagi narsalarni oshkor qilsangiz ham, maxfiy qilsangiz ham, sizlarni Alloh hisob-kitob qiladi. Va kimni xohlasa, mag'firat qilar, kimni xohlasa, azoblar. Va U har bir narsaga qodirdir."
     },
@@ -2001,7 +2001,7 @@
     {
       "ayahNumber": 286,
       "arabic": "لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا اكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ ۖ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا ۚ أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
-      "uzbekReading": "Laa yukalliful-laahu nafsan illaa vus'ahaa; lahaa maa kasabat va 'alaihaa maktasabat; Robbanaa la tu'aaxiznaa in nasiynaaa aw axtaanaa; Robbanaa va laa tahmil-'alainaaa isran kamaa hamaltahuu 'alal-laziyna min qablinaa; Robbanaa va laa tuhammilnaa maa laa taaqata lanaa bih va'fu 'annaa vag'fir lanaa varhamnaa; Anta mavlaanaa fansurnaa 'alal qavmil kaafiriyn.",
+      "uzbekReading": "Laa yukalliful-laahu nafsan illaa vus'ahaa; lahaa maa kasabat va 'alaihaa maktasabat; Robbanaa la tu'aaxiznaa in nasiynaaa av axtaanaa; Robbanaa va laa tahmil-'alainaaa isran kamaa hamaltahuu 'alal-laziyna min qablinaa; Robbanaa va laa tuhammilnaa maa laa taaqata lanaa bih va'fu 'annaa vag'fir lanaa varhamnaa; Anta mavlaanaa fansurnaa 'alal qavmil kaafiriyn.",
       "russianReading": "Ла йукаллифуллаху нафсан илла уус'аха лаха ма касабат уа'алайха ма ктасабат раббана ла туахизна ин насиина ау ахта'на раббана уала тахмил 'алайна исран кама хамалтаху 'алал лазиина мин каблина раббана уала тухаммилна ма ла таката лана бихи уа'фу 'анна уагфир лана уархамна анта маулана фансурна 'алал каумил кафириин.",
       "uzbekTranslation": "Alloh hech bir jonni toqatidan tashqari narsaga taklif qilmas. Foydasi ham kasbidan, zarari ham kasbidan. Ey Robbimiz, agar unutsak yoki xato qilsak,."
     }

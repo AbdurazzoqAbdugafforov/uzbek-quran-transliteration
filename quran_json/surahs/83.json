@@ -20,7 +20,7 @@
     {
       "ayahNumber": 3,
       "arabic": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
-      "uzbekReading": "Va izaa kaaluuhum aw vazanuuhum yuxsiruun.",
+      "uzbekReading": "Va izaa kaaluuhum av vazanuuhum yuxsiruun.",
       "russianReading": "Уаиза калуухум ау ууазануухум йухсируун.",
       "uzbekTranslation": "Va agar odamlarga o'lchab yoki tortib bersalar, kamaytirarlar."
     },
@@ -83,14 +83,14 @@
     {
       "ayahNumber": 12,
       "arabic": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
-      "uzbekReading": "Va maa yukazzibu bihiye illaa kullu mu'tadin asiym.",
+      "uzbekReading": "Va maa yukazzibu bihiy illaa kullu mu'tadin asiym.",
       "russianReading": "Уама йуказзибу бихи илла куллу му'тадин асиим.",
       "uzbekTranslation": "U kunni haddan oshuvchi va o'ta gunohkorlardan boshqalar yolg'onga chiqarmaslar."
     },
     {
       "ayahNumber": 13,
       "arabic": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
-      "uzbekReading": "Izaa tutlaa'alaihi aayaatunaa qaala asaatiyrul avwaliyn.",
+      "uzbekReading": "Izaa tutlaa'alaihi aayaatunaa qaala asaatiyrul avvaliyn.",
       "russianReading": "Иза тутла 'алайхи айатуна кала асатиирул аууалиин.",
       "uzbekTranslation": "Qachon unga oyatlarimiz tilovat qilinsa, «avalgilarning afsonalari», der."
     },
@@ -216,14 +216,14 @@
     {
       "ayahNumber": 31,
       "arabic": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
-      "uzbekReading": "Va izan qalabuuo ilaaa ahlihimun qalabuu fakihiyn.",
+      "uzbekReading": "Va izan qalabuu ilaaa ahlihimun qalabuu fakihiyn.",
       "russianReading": "Уаиза нкалабуу ила ахлихиму нкалабуу факихиин.",
       "uzbekTranslation": "Agar u."
     },
     {
       "ayahNumber": 32,
       "arabic": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
-      "uzbekReading": "Va izaa ra avhum qaaluuo inna haaa'ulaaa'i ladaaal luun.",
+      "uzbekReading": "Va izaa ra avhum qaaluu inna haaa'ulaaa'i ladaaal luun.",
       "russianReading": "Уаиза рааухум калуу инна хаулаи ладаллуун.",
       "uzbekTranslation": "Va agar u."
     },
@@ -251,7 +251,7 @@
     {
       "ayahNumber": 36,
       "arabic": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
-      "uzbekReading": "Hal suvwibal kuffaaru maa kaanuu yaf'aluun.",
+      "uzbekReading": "Hal suvvibal kuffaaru maa kaanuu yaf'aluun.",
       "russianReading": "Хал сууибал куффару ма кануу йаф'алуун.",
       "uzbekTranslation": "Kofirlar qilgan ishlarining «savobini» olar mikanlar?!"
     }

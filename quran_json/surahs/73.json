@@ -6,7 +6,7 @@
     {
       "ayahNumber": 1,
       "arabic": "يَا أَيُّهَا الْمُزَّمِّلُ",
-      "uzbekReading": "Yaw ayyuhal muzzammil.",
+      "uzbekReading": "Ya aiyuhal muzzammil.",
       "russianReading": "Йа аййухал муззаммил.",
       "uzbekTranslation": "Ey o'ranib yotuvchi!"
     },
@@ -20,14 +20,14 @@
     {
       "ayahNumber": 3,
       "arabic": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
-      "uzbekReading": "Nisfahuuo avinqus minhu qaliylaa.",
+      "uzbekReading": "Nisfahuu avinqus minhu qaliylaa.",
       "russianReading": "Нисфаху ауи нкус минху калиила.",
       "uzbekTranslation": "Yarmini yoki undan bir oz qisqarog'ini."
     },
     {
       "ayahNumber": 4,
       "arabic": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
-      "uzbekReading": "Aw zid 'alaihi va rattilil Qur'aana tartiyla.",
+      "uzbekReading": "Av zid 'alaihi va rattilil Qur'aana tartiyla.",
       "russianReading": "Ау зид 'алайхи уараттилил курана тартиила.",
       "uzbekTranslation": "Yoki u."
     },
@@ -41,7 +41,7 @@
     {
       "ayahNumber": 6,
       "arabic": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
-      "uzbekReading": "Inn naashi'atal laili hiya ashadddu vat anw va aqvamu qiylaa.",
+      "uzbekReading": "Inn naashi'atal laili hiya ashadddu vat anv va aqvamu qiylaa.",
       "russianReading": "Инна нашиатал лайли хийа ашадду уатау уаакуаму киила.",
       "uzbekTranslation": "Albatta, kechasigi ibodat ko'proq muvofiq keladir va qiroati to'g'riroq bo'ladir."
     },
@@ -83,14 +83,14 @@
     {
       "ayahNumber": 12,
       "arabic": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
-      "uzbekReading": "Inna ladainaaa ankaalanw va jahiymaa.",
+      "uzbekReading": "Inna ladainaaa ankaalanv va jahiymaa.",
       "russianReading": "Инна ладайна анкалау уажахиима.",
       "uzbekTranslation": "Albatta, Bizda og'ir kishanlar va jahannam bor."
     },
     {
       "ayahNumber": 13,
       "arabic": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
-      "uzbekReading": "Va ta'aaman zaa g'ussa tinw va'azaaban aliymaa.",
+      "uzbekReading": "Va ta'aaman zaa g'ussa tinv va'azaaban aliymaa.",
       "russianReading": "Уата'аман за гуссатиу уа'азабан алиима.",
       "uzbekTranslation": "Va (tomoqqa) tiqiladigan taom va alamli azob bor."
     },
@@ -111,7 +111,7 @@
     {
       "ayahNumber": 16,
       "arabic": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
-      "uzbekReading": "Fa'asaa Fir'avnur Rasuula fa axaznaahu axzanw vabiylaa.",
+      "uzbekReading": "Fa'asaa Fir'avnur Rasuula fa axaznaahu axzanv vabiylaa.",
       "russianReading": "Фа'аса фир'аунур расуула фаахазнаху ахзау уабиила.",
       "uzbekTranslation": "Bas, Fir'avn Rasulga osiy bo'ldi va Biz uni shiddatli azob bilan tutdik."
     },
@@ -139,7 +139,7 @@
     {
       "ayahNumber": 20,
       "arabic": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
-      "uzbekReading": "Inna Robbaka ya'lamu annaka taquumu adnaa min sulusa yil laili va nisfahuu va sulusahuu va taaa'ifatum minal laziyna ma'ak; val laahu yuqaddirul laila vanna haar; 'alima al lan tuhsuuhu fataaba 'alaikum faqra'uu maa tayassara minal quraan; 'alima an sa yakuunu minkum mardaa va aaxaruuna yadribuuna fil ardi yabtag'uuna min fadlil laahi va aaxaruuna yuqaatiluuna fiy sabiylil laahi faqra'uu ma tayassara minhu va aqiymus salaata va aatuz zakaata va aqridul laaha qardan hasanaa; va maa tuqadimuu li anfusikum min xairin tajiduuhu 'indal laahi huva xayranw va a'zama ajraa; vastag'firul laahaa innal laaha g'afuurur rahiym.",
+      "uzbekReading": "Inna Robbaka ya'lamu annaka taquumu adnaa min sulusa yil laili va nisfahuu va sulusahuu va taaa'ifatum minal laziyna ma'ak; val laahu yuqaddirul laila vanna haar; 'alima al lan tuhsuuhu fataaba 'alaikum faqra'uu maa tayassara minal quraan; 'alima an sa yakuunu minkum mardaa va aaxaruuna yadribuuna fil ardi yabtag'uuna min fadlil laahi va aaxaruuna yuqaatiluuna fiy sabiylil laahi faqra'uu ma tayassara minhu va aqiymus salaata va aatuz zakaata va aqridul laaha qardan hasanaa; va maa tuqadimuu li anfusikum min xairin tajiduuhu 'indal laahi huva xayranv va a'zama ajraa; vastag'firul laahaa innal laaha g'afuurur rahiym.",
       "russianReading": "Инна раббака йа'ламу аннака такууму адна мин сулусаиил лайли уанисфаху уасулусаху уатаифатум минал лазиина ма'ак уаллаху йукаддирул лайла уаннахар 'алима ал лан тухсууху фатаба 'алайкум факрауу ма тайассара минал куран 'алима ан сайакууну минкум марда уаахарууна йадрибууна фиил арди йабтагууна мин фадлиллахи уаахарууна йукатилууна фии сабиилиллахи факрауу ма тайассара минх уаакиимуус салата уаатууз заката уаакридууллаха кардан хасана уама тукаддимуу лианфусикум мин хайрин тажидууху 'индаллахи хууа хайрау уаа'зама ажра уастагфирууллаха инналлаха гафуурур рахиим.",
       "uzbekTranslation": "Albatta, Robbing seni kechaning uchdan biridan ozrog'ini, yo yarmini, yo uchdan birini qoim bo'lib o'tkazayotganingni va sen bilan birga bo'lganlardan ham bir toifa."
     }

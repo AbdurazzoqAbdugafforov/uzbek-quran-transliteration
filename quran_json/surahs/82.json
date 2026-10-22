@@ -48,14 +48,14 @@
     {
       "ayahNumber": 7,
       "arabic": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
-      "uzbekReading": "Allaziy xalaqaka fasaw vaaka fa'adalak.",
+      "uzbekReading": "Allaziy xalaqaka fasav vaaka fa'adalak.",
       "russianReading": "Аллазии халакака фасаууака фа'адалак.",
       "uzbekTranslation": "U seni to'la-to'kis va mo''tadil qilib yaratgan zotdir."
     },
     {
       "ayahNumber": 8,
       "arabic": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ",
-      "uzbekReading": "Fiye ayye suuratim maa shaaa'a rakkabak.",
+      "uzbekReading": "Fiy ayye suuratim maa shaaa'a rakkabak.",
       "russianReading": "Фии айи сууратим ма шаа раккабак.",
       "uzbekTranslation": "O'zi xohlagan suratda seni tarkib qildi."
     },
@@ -132,7 +132,7 @@
     {
       "ayahNumber": 19,
       "arabic": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ",
-      "uzbekReading": "Yavma laa tamliku nafsul linafsin shai'anw valamru yavma'izil lillaah.",
+      "uzbekReading": "Yavma laa tamliku nafsul linafsin shai'anv valamru yavma'izil lillaah.",
       "russianReading": "Йаума ла тамлику нафсул линафсин шайан уаламру йаумаизил лиллах.",
       "uzbekTranslation": "O'sha kunda hech bir jon boshqa bir jon uchun biror narsa qilish imkoniga molik emasdir. U kunda barcha ish Allohning O'ziga xosdir."
     }

@@ -62,7 +62,7 @@
     {
       "ayahNumber": 9,
       "arabic": "دُحُورًا ۖ وَلَهُمْ عَذَابٌ وَاصِبٌ",
-      "uzbekReading": "Duhuuranw va lahum 'azaabunw vaasib.",
+      "uzbekReading": "Duhuuranv va lahum 'azaabunv vaasib.",
       "russianReading": "Духууран уалахум 'азабуу уасиб.",
       "uzbekTranslation": "Haydalurlar! Ular uchun uzluksiz azob bordir."
     },
@@ -97,28 +97,28 @@
     {
       "ayahNumber": 14,
       "arabic": "وَإِذَا رَأَوْا آيَةً يَسْتَسْخِرُونَ",
-      "uzbekReading": "Va izaa ra aw Aayatinw yastasxiruun.",
+      "uzbekReading": "Va izaa ra av Aayatinv yastasxiruun.",
       "russianReading": "Уаиза раау айатай йастасхируун.",
       "uzbekTranslation": "Qachonki biror oyat-belgini ko'rsalar, qattiqroq masxara qilurlar."
     },
     {
       "ayahNumber": 15,
       "arabic": "وَقَالُوا إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
-      "uzbekReading": "Va qaaluuo in haazaa illaa sihrum mubiyn.",
+      "uzbekReading": "Va qaaluu in haazaa illaa sihrum mubiyn.",
       "russianReading": "Уакалуу ин хаза илла сихрум мубиин.",
       "uzbekTranslation": "Ular: «Bu."
     },
     {
       "ayahNumber": 16,
       "arabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَبْعُوثُونَ",
-      "uzbekReading": "'A-izaa mitnaa va kunnaa turaabanw va 'izaaman 'ainnaa lamab'uusuun.",
+      "uzbekReading": "'A-izaa mitnaa va kunnaa turaabanv va 'izaaman 'ainnaa lamab'uusuun.",
       "russianReading": "Аиза митна уакунна турабау уа'изаман аинна ламаб'уусуун.",
       "uzbekTranslation": "O'lsak-da, tuproq va suyak bo'lsak-da, albatta, Biz qayta tiriltirilurmizmi?!"
     },
     {
       "ayahNumber": 17,
       "arabic": "أَوَآبَاؤُنَا الْأَوَّلُونَ",
-      "uzbekReading": "Ava aabaa'unal avwaluun.",
+      "uzbekReading": "Ava aabaa'unal avvaluun.",
       "russianReading": "Ауаабаунал аууалуун.",
       "uzbekTranslation": "Avvalgi ota-bobolarimiz ham-a?!» dedilar."
     },
@@ -132,14 +132,14 @@
     {
       "ayahNumber": 19,
       "arabic": "فَإِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَإِذَا هُمْ يَنْظُرُونَ",
-      "uzbekReading": "Fa innamaa hiya zajra tunw vaahidatun fa izaa hum yanzuruun.",
+      "uzbekReading": "Fa innamaa hiya zajra tunv vaahidatun fa izaa hum yanzuruun.",
       "russianReading": "Фаиннама хийа зажратуу уахидатун фаиза хум йанзуруун.",
       "uzbekTranslation": "Bas, u faqatgina bir qichqiriqdan iborat, xolos. Bas, birdan ular nazar solib turibdilar-da!"
     },
     {
       "ayahNumber": 20,
       "arabic": "وَقَالُوا يَا وَيْلَنَا هَٰذَا يَوْمُ الدِّينِ",
-      "uzbekReading": "Qa qaaluu yaa vailanaa haazaa Yavmud-Diyn.",
+      "uzbekReading": "Va qaaluu yaa vailanaa haazaa Yavmud-Diyn.",
       "russianReading": "Уакалуу йа уайлана хаза йаумуд диин.",
       "uzbekTranslation": "Va ular: «Voh, sho'rimiz qurisin! Bu jazo kuni-ku!» derlar."
     },
@@ -195,7 +195,7 @@
     {
       "ayahNumber": 28,
       "arabic": "قَالُوا إِنَّكُمْ كُنْتُمْ تَأْتُونَنَا عَنِ الْيَمِينِ",
-      "uzbekReading": "Qaaluuo innakum kuntum taatuunanaa 'anil yamiyn.",
+      "uzbekReading": "Qaaluu innakum kuntum taatuunanaa 'anil yamiyn.",
       "russianReading": "Калуу иннакум кунтум та'туунана 'анил йамиин.",
       "uzbekTranslation": "Ular: «Albatta, sizlar bizga o'ng tomondan kelar edingiz», derlar."
     },
@@ -244,21 +244,21 @@
     {
       "ayahNumber": 35,
       "arabic": "إِنَّهُمْ كَانُوا إِذَا قِيلَ لَهُمْ لَا إِلَٰهَ إِلَّا اللَّهُ يَسْتَكْبِرُونَ",
-      "uzbekReading": "Innahum kaanuuo izaa qiyla lahum laaa ilaaha illal laahu yastakbiruun.",
+      "uzbekReading": "Innahum kaanuu izaa qiyla lahum laaa ilaaha illal laahu yastakbiruun.",
       "russianReading": "Иннахум кануу иза киила лахум ла илаха иллаллаху йастакбируун.",
       "uzbekTranslation": "Chunki, ularga qachonki «La ilaha illollohu», deyilsa, mutakabbirlik qilar edilar."
     },
     {
       "ayahNumber": 36,
       "arabic": "وَيَقُولُونَ أَئِنَّا لَتَارِكُو آلِهَتِنَا لِشَاعِرٍ مَجْنُونٍ",
-      "uzbekReading": "Va yaquuluuna a'innaa lataarikuuo aalihatinaa lishaa'irim majnuun.",
+      "uzbekReading": "Va yaquuluuna a'innaa lataarikuu aalihatinaa lishaa'irim majnuun.",
       "russianReading": "Уайакуулууна аинна латарикуу алихатина лиша'ирим мажнуун.",
       "uzbekTranslation": "«Axir biz bir jinni shoirni deb o'z xudolarimizni tark qilguvchi bo'laylikmi?!» der edilar."
     },
     {
       "ayahNumber": 37,
       "arabic": "بَلْ جَاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَلِينَ",
-      "uzbekReading": "bal jaaa'a bilhaqqi va saddaqal mursaliyn.",
+      "uzbekReading": "Bal jaaa'a bilhaqqi va saddaqal mursaliyn.",
       "russianReading": "Бал жаа билхакки уасаддакал мурсалиин.",
       "uzbekTranslation": "Yo'q! U haqni keltirdi va Payg'ambarlarni tasdiq qildi."
     },
@@ -328,7 +328,7 @@
     {
       "ayahNumber": 47,
       "arabic": "لَا فِيهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ",
-      "uzbekReading": "Laa fiyhaa g'avlunw va laa hum 'anhaa yunzafuun.",
+      "uzbekReading": "Laa fiyhaa g'avlunv va laa hum 'anhaa yunzafuun.",
       "russianReading": "Ла фииха гаулуу уала хум 'анха йунзафуун.",
       "uzbekTranslation": "Unda hech bir zarar yo'qdir va undan sarxush ham bo'lmaslar."
     },
@@ -370,7 +370,7 @@
     {
       "ayahNumber": 53,
       "arabic": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا أَإِنَّا لَمَدِينُونَ",
-      "uzbekReading": "'A-izaa mitnaa va kunnaa turaabanw va 'izaaman 'ainnaa lamadiynuun.",
+      "uzbekReading": "'A-izaa mitnaa va kunnaa turaabanv va 'izaaman 'ainnaa lamadiynuun.",
       "russianReading": "Аиза митна уакунна турабау уа'изаман аинна ламадиинуун.",
       "uzbekTranslation": "O'lib, tuproq va suyaklar bo'lib ketsak ham, albatta, jazolanadiganlardan bo'lurmizmi?!» der edi."
     },
@@ -398,7 +398,7 @@
     {
       "ayahNumber": 57,
       "arabic": "وَلَوْلَا نِعْمَةُ رَبِّي لَكُنْتُ مِنَ الْمُحْضَرِينَ",
-      "uzbekReading": "Va law laa ni'matu Robbiy lakuntu minal muhdariyn.",
+      "uzbekReading": "Va lav laa ni'matu Robbiy lakuntu minal muhdariyn.",
       "russianReading": "Уалаула ни'мату раббии лакунту минал мухдариин.",
       "uzbekTranslation": "Agar Robbimning ne'mati bo'lmaganida, men ham."
     },
@@ -419,7 +419,7 @@
     {
       "ayahNumber": 60,
       "arabic": "إِنَّ هَٰذَا لَهُوَ الْفَوْزُ الْعَظِيمُ",
-      "uzbekReading": "Inna haazaa falya'ma lil'aamiluun.",
+      "uzbekReading": "Inna haazaa lahuval favzul 'aziym.",
       "russianReading": "Инна хаза лахууал фаузул 'азиим.",
       "uzbekTranslation": "Albatta, bu ayni ulug' yutuqdir."
     },
@@ -447,7 +447,7 @@
     {
       "ayahNumber": 64,
       "arabic": "إِنَّهَا شَجَرَةٌ تَخْرُجُ فِي أَصْلِ الْجَحِيمِ",
-      "uzbekReading": "Innahaa shajaratun taxruju fiye aslil Jahiym.",
+      "uzbekReading": "Innahaa shajaratun taxruju fiy aslil Jahiym.",
       "russianReading": "Иннаха шажаратун тахружу фии аслил жахиим.",
       "uzbekTranslation": "Darhaqiqat, u bir daraxt bo'lib, do'zax qa'ridan chiqur."
     },
@@ -482,7 +482,7 @@
     {
       "ayahNumber": 69,
       "arabic": "إِنَّهُمْ أَلْفَوْا آبَاءَهُمْ ضَالِّينَ",
-      "uzbekReading": "Innahum alfaw aabaaa'ahum daaalliyn.",
+      "uzbekReading": "Innahum alfav aabaaa'ahum daaalliyn.",
       "russianReading": "Иннахум алфау абаахум даллиин.",
       "uzbekTranslation": "Chunki ular o'z otalarini adashgan holda topdilar."
     },
@@ -496,7 +496,7 @@
     {
       "ayahNumber": 71,
       "arabic": "وَلَقَدْ ضَلَّ قَبْلَهُمْ أَكْثَرُ الْأَوَّلِينَ",
-      "uzbekReading": "Va laqad dalla qablahum aksarul avwaliyn.",
+      "uzbekReading": "Va laqad dalla qablahum aksarul avvaliyn.",
       "russianReading": "Уалакад далла каблахум аксарул аууалиин.",
       "uzbekTranslation": "Batahqiq, ulardan oldin avvalgilarning ko'plari adashganlar."
     },
@@ -629,7 +629,7 @@
     {
       "ayahNumber": 90,
       "arabic": "فَتَوَلَّوْا عَنْهُ مُدْبِرِينَ",
-      "uzbekReading": "Fatavallaw 'anhu mudbiriyn.",
+      "uzbekReading": "Fatavallav 'anhu mudbiriyn.",
       "russianReading": "Фатауаллау 'анху мудбириин.",
       "uzbekTranslation": "Darhol, undan yuz o'girib yurib ketdilar."
     },
@@ -657,7 +657,7 @@
     {
       "ayahNumber": 94,
       "arabic": "فَأَقْبَلُوا إِلَيْهِ يَزِفُّونَ",
-      "uzbekReading": "Fa aqbaluuo ilaihi yaziffuun.",
+      "uzbekReading": "Fa aqbaluu ilaihi yaziffuun.",
       "russianReading": "Фаакбалуу илайхи йазиффуун.",
       "uzbekTranslation": "Ular u tomon shoshib, bir-birlarini turtib kela boshladi."
     },
@@ -713,7 +713,7 @@
     {
       "ayahNumber": 102,
       "arabic": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ إِنِّي أَرَىٰ فِي الْمَنَامِ أَنِّي أَذْبَحُكَ فَانْظُرْ مَاذَا تَرَىٰ ۚ قَالَ يَا أَبَتِ افْعَلْ مَا تُؤْمَرُ ۖ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّابِرِينَ",
-      "uzbekReading": "Falamma balag'a ma'a hus sa'ya qaala yaa buniya inniye araa fil manaami anniye azbahuka fanzur maazaa taraa; qaala yaaa abatif 'al maa tu'maru satajiduniy in shaaa'allaahu minas saabiriyn.",
+      "uzbekReading": "Falamma balag'a ma'a hus sa'ya qaala yaa buniya inniy araa fil manaami anniy azbahuka fanzur maazaa taraa; qaala yaaa abatif 'al maa tu'maru satajiduniy in shaaa'allaahu minas saabiriyn.",
       "russianReading": "Фаламма балага ма'ахус са'йа кала йа бунаййа иннии ара фиил манами аннии азбахука фанзур маза тара кала йа абати ф'ал ма ту'мару сатажидунии ин шааллаху минас сабириин.",
       "uzbekTranslation": "Bas, qachonki."
     },
@@ -783,14 +783,14 @@
     {
       "ayahNumber": 112,
       "arabic": "وَبَشَّرْنَاهُ بِإِسْحَاقَ نَبِيًّا مِنَ الصَّالِحِينَ",
-      "uzbekReading": "Va bashsharnaahu bi Ishaaqa Nabiyayam minas saalihiyn.",
+      "uzbekReading": "Va bashsharnaahu bi Ishaaqa Nabiyam minas saalihiyn.",
       "russianReading": "Уабашшарнаху биисхака набиййам минас салихиин.",
       "uzbekTranslation": "Yana Biz unga solihlardan bir Payg'ambar bo'lajak Ishoqning xushxabarini berdik."
     },
     {
       "ayahNumber": 113,
       "arabic": "وَبَارَكْنَا عَلَيْهِ وَعَلَىٰ إِسْحَاقَ ۚ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِهِ مُبِينٌ",
-      "uzbekReading": "Va baaraknaa 'alaihi va 'alaaa Ishaaq; va min zurriyya tihimaa muhsinunw va zaalimul linafshihiy mubiyn.",
+      "uzbekReading": "Va baaraknaa 'alaihi va 'alaaa Ishaaq; va min zurriyya tihimaa muhsinunv va zaalimul linafshihiy mubiyn.",
       "russianReading": "Уабаракна 'алайхи уа'ала исхак уамин зурриййатихима мухсинуу уазалимул линафсихи мубиин.",
       "uzbekTranslation": "Va unga ham, Ishoqqa ham baraka berdik. Ikkovlarining zurriyotidan go'zal amal qilguvchi ham, o'ziga ochiq-oydin zulm qilguvchi ham bo'lur."
     },
@@ -867,21 +867,21 @@
     {
       "ayahNumber": 124,
       "arabic": "إِذْ قَالَ لِقَوْمِهِ أَلَا تَتَّقُونَ",
-      "uzbekReading": "Iz qaala liqavmihiye alaa tattaquun.",
+      "uzbekReading": "Iz qaala liqavmihiy alaa tattaquun.",
       "russianReading": "Из кала ликаумихи ала таттакуун.",
       "uzbekTranslation": "O'shanda u qavmiga: «Taqvo qilmaysizmi?!"
     },
     {
       "ayahNumber": 125,
       "arabic": "أَتَدْعُونَ بَعْلًا وَتَذَرُونَ أَحْسَنَ الْخَالِقِينَ",
-      "uzbekReading": "Atad'uuna Ba'lanw va tazaruuna ahsanal xaaliqiyn.",
+      "uzbekReading": "Atad'uuna Ba'lanv va tazaruuna ahsanal xaaliqiyn.",
       "russianReading": "Атад'ууна ба'лау уатазарууна ахсанал халикиин.",
       "uzbekTranslation": "Ba'lga ibodat qilib, yaratuvchilarning eng yaxshisini."
     },
     {
       "ayahNumber": 126,
       "arabic": "اللَّهَ رَبَّكُمْ وَرَبَّ آبَائِكُمُ الْأَوَّلِينَ",
-      "uzbekReading": "Allaaha Robbakum va Robba aabaaa'ikumul avwaliyn.",
+      "uzbekReading": "Allaaha Robbakum va Robba aabaaa'ikumul avvaliyn.",
       "russianReading": "Аллаха раббакум уарабба абаикумул аууалиин.",
       "uzbekTranslation": "O'z Robbingizni va avvalgi ota-bobolaringizning Robbi Allohni tark etasizmi?!» dedi."
     },
@@ -937,7 +937,7 @@
     {
       "ayahNumber": 134,
       "arabic": "إِذْ نَجَّيْنَاهُ وَأَهْلَهُ أَجْمَعِينَ",
-      "uzbekReading": "Iz najjainaahu va ahlahuuo ajma'iyn.",
+      "uzbekReading": "Iz najjainaahu va ahlahuu ajma'iyn.",
       "russianReading": "Из нажжайнаху уаахлаху ажма'иин.",
       "uzbekTranslation": "O'shanda Biz unga va uning ahliga, hammalariga najot berdik."
     },
@@ -986,7 +986,7 @@
     {
       "ayahNumber": 141,
       "arabic": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَضِينَ",
-      "uzbekReading": "Fasaahama fakaana minal muzadiyn.",
+      "uzbekReading": "Fasaahama fakaana minal MUD_H_TEMP-adiyn.",
       "russianReading": "Фасахама факана минал мудхадиин.",
       "uzbekTranslation": "Bas, qur'a tashlashdi va u mag'lublardan bo'ldi."
     },
@@ -1000,14 +1000,14 @@
     {
       "ayahNumber": 143,
       "arabic": "فَلَوْلَا أَنَّهُ كَانَ مِنَ الْمُسَبِّحِينَ",
-      "uzbekReading": "Falaw laaa annahuu kaana minal musabbihiyn.",
+      "uzbekReading": "Falav laaa annahuu kaana minal musabbihiyn.",
       "russianReading": "Фалаула аннаху кана минал мусаббихиин.",
       "uzbekTranslation": "Agar u ko'p tasbih aytguvchilardan bo'lmaganida edi."
     },
     {
       "ayahNumber": 144,
       "arabic": "لَلَبِثَ فِي بَطْنِهِ إِلَىٰ يَوْمِ يُبْعَثُونَ",
-      "uzbekReading": "Lalabisa fiy batnihiye ilaa Yavmi yub'asuun.",
+      "uzbekReading": "Lalabisa fiy batnihiy ilaa Yavmi yub'asuun.",
       "russianReading": "Лалабиса фии батнихи ила йауми йуб'асуун.",
       "uzbekTranslation": "Uning qornida qayta tiriltiradigan kungacha qolib ketar edi."
     },
@@ -1028,7 +1028,7 @@
     {
       "ayahNumber": 147,
       "arabic": "وَأَرْسَلْنَاهُ إِلَىٰ مِائَةِ أَلْفٍ أَوْ يَزِيدُونَ",
-      "uzbekReading": "Va arsalnaahu ilaa mi'ati alfin aw yaziyduun.",
+      "uzbekReading": "Va arsalnaahu ilaa mi'ati alfin av yaziyduun.",
       "russianReading": "Уаарсалнаху ила миати алфин ау йазиидуун.",
       "uzbekTranslation": "Va uni yuz ming yoki undan ko'proqqa Payg'ambar qilib yubordik."
     },
@@ -1049,7 +1049,7 @@
     {
       "ayahNumber": 150,
       "arabic": "أَمْ خَلَقْنَا الْمَلَائِكَةَ إِنَاثًا وَهُمْ شَاهِدُونَ",
-      "uzbekReading": "Am xalaqnal malaaa'i kata inaasanw va hm shaahiduun.",
+      "uzbekReading": "Am xalaqnal malaaa'i kata inaasanv va hm shaahiduun.",
       "russianReading": "Ам халакнал малаиката инасау уахум шахидуун.",
       "uzbekTranslation": "Yoki Biz farishtalarni qiz qilib yaratganmizu ular guvoh bo'lib turganlarmi?"
     },
@@ -1175,7 +1175,7 @@
     {
       "ayahNumber": 168,
       "arabic": "لَوْ أَنَّ عِنْدَنَا ذِكْرًا مِنَ الْأَوَّلِينَ",
-      "uzbekReading": "Law anna 'indana zikram minal avwaliyn.",
+      "uzbekReading": "Lav anna 'indana zikram minal avvaliyn.",
       "russianReading": "Лау анна 'индана зикрам минал аууалиин.",
       "uzbekTranslation": "«Agar bizning huzurimizda ham avvalgilardan bir eslatma bo'lganida."
     },
