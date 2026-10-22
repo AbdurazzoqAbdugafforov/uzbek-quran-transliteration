@@ -7,42 +7,49 @@
       "ayahNumber": 1,
       "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
       "uzbekReading": "Bismillahir rohmaanir rohiym.",
+      "russianReading": "Бисмиллахир рахманир рахиим.",
       "uzbekTranslation": "Mehribon va rahmli Alloh nomi bilan."
     },
     {
       "ayahNumber": 2,
       "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
       "uzbekReading": "Alhamdu lillaahi robbil 'aalamiyn.",
+      "russianReading": "Алхамду лиллахи раббил 'аламиин.",
       "uzbekTranslation": "Hamd olamlarning Robbi Allohgadir."
     },
     {
       "ayahNumber": 3,
       "arabic": "الرَّحْمَٰنِ الرَّحِيمِ",
       "uzbekReading": "Ar-rohmaanir rohiym.",
+      "russianReading": "Аррахманир рахиим.",
       "uzbekTranslation": "U Mehribon va rahmlidir."
     },
     {
       "ayahNumber": 4,
       "arabic": "مَالِكِ يَوْمِ الدِّينِ",
       "uzbekReading": "Maaliki yavmiddiyn.",
+      "russianReading": "Малики йаумид диин.",
       "uzbekTranslation": "Jazo kuni egasidir."
     },
     {
       "ayahNumber": 5,
       "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
       "uzbekReading": "Iyyaaka na'budu va iyyaaka nasta'iyn.",
+      "russianReading": "Иййака на'буду уаиййака наста'иин.",
       "uzbekTranslation": "Faqat Sengagina ibodat qilamiz va Sendangina yordam so'raymiz."
     },
     {
       "ayahNumber": 6,
       "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
       "uzbekReading": "Ihdinas-sirootol mustaqiym.",
+      "russianReading": "Ихдинас сиратал мустакиим.",
       "uzbekTranslation": "Bizni to'g'ri yo'lga hidoyat qilgin."
     },
     {
       "ayahNumber": 7,
       "arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
       "uzbekReading": "Sirootol-laziyna an'amta 'alayhim, g'oyril mag'duubi 'alayhim valad-doolliyn.",
+      "russianReading": "Сиратал лазиина ан'амта 'алайхим гайрил магдууби 'алайхим уалад даллиин.",
       "uzbekTranslation": "Ne'mat bergan zotlaring yo'liga; g'azabga uchraganlar va adashganlar yo'liga emas."
     }
   ]

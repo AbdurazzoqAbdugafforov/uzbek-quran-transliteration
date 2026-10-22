@@ -7,48 +7,56 @@
       "ayahNumber": 1,
       "arabic": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
       "uzbekReading": "Alam nashrah laka sadrak.",
+      "russianReading": "Алам нашрах лака садрак.",
       "uzbekTranslation": "Sening ko'ksingni keng qilib qo'ymadikmi?"
     },
     {
       "ayahNumber": 2,
       "arabic": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
       "uzbekReading": "Va va d'ana 'anka vizrak.",
+      "russianReading": "Уауада'на 'анка уизрак.",
       "uzbekTranslation": "Va sening yukingni yengillatmadikmi?"
     },
     {
       "ayahNumber": 3,
       "arabic": "الَّذِي أَنْقَضَ ظَهْرَكَ",
       "uzbekReading": "Allaziy anqada zahrak.",
+      "russianReading": "Аллазии анкада захрак.",
       "uzbekTranslation": "U sening yelkangni bosib turgan edi."
     },
     {
       "ayahNumber": 4,
       "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
       "uzbekReading": "Va raf 'ana laka zikrak.",
+      "russianReading": "Уарафа'на лака зикрак.",
       "uzbekTranslation": "Va sening zikringni yuqori ko'tardik."
     },
     {
       "ayahNumber": 5,
       "arabic": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
       "uzbekReading": "Fa inna ma'al usri yusra.",
+      "russianReading": "Фаинна ма'ал 'усри йусра.",
       "uzbekTranslation": "Bas, albatta, bir qiyinchilik bilan osonchilik bordir."
     },
     {
       "ayahNumber": 6,
       "arabic": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
       "uzbekReading": "Inna ma'al 'usri yusra.",
+      "russianReading": "Инна ма'ал 'усри йусра.",
       "uzbekTranslation": "Albatta, bir qiyinchilik bilan osonchilik bordir."
     },
     {
       "ayahNumber": 7,
       "arabic": "فَإِذَا فَرَغْتَ فَانْصَبْ",
       "uzbekReading": "Fa iza farag' ta fansab.",
+      "russianReading": "Фаиза фарагта фансаб.",
       "uzbekTranslation": "Forig' bo'lsang, ibodatiga uringin."
     },
     {
       "ayahNumber": 8,
       "arabic": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
       "uzbekReading": "Va ilaa Robbika far g'ab.",
+      "russianReading": "Уаила раббика фаргаб.",
       "uzbekTranslation": "Va faqat Robbingga rag'bat qil."
     }
   ]

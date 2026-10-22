@@ -7,114 +7,133 @@
       "ayahNumber": 1,
       "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
       "uzbekReading": "Sabbihisma Robbikal A'laa.",
+      "russianReading": "Саббихи сма раббикал а'ла.",
       "uzbekTranslation": "Oliy qadar bo'lgan Robbing ismini poklab yod et."
     },
     {
       "ayahNumber": 2,
       "arabic": "الَّذِي خَلَقَ فَسَوَّىٰ",
       "uzbekReading": "Allaziy xalaqa fasavwaa.",
+      "russianReading": "Аллазии халака фасаууа.",
       "uzbekTranslation": "U yaratgan va mutanosib qilgan zotdir."
     },
     {
       "ayahNumber": 3,
       "arabic": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
       "uzbekReading": "Vallaziy qaddara fahadaa.",
+      "russianReading": "Уаллазии каддара фахада.",
       "uzbekTranslation": "U o'lchovli qilgan va hidoyatga boshlagan zotdir."
     },
     {
       "ayahNumber": 4,
       "arabic": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
       "uzbekReading": "Vallaziye axrajal mar'aa.",
+      "russianReading": "Уаллазии ахражал мар'а.",
       "uzbekTranslation": "U o't-o'lanni chiqargan zotdir."
     },
     {
       "ayahNumber": 5,
       "arabic": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
       "uzbekReading": "Faja'alahuu g'usaaa'an ahvaa.",
+      "russianReading": "Фажа'алаху гусаан ахуа.",
       "uzbekTranslation": "Bas, U uni qoraygan xashak qilgan zotdir."
     },
     {
       "ayahNumber": 6,
       "arabic": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ",
       "uzbekReading": "Sanuqri'uka falaa tansaaa.",
+      "russianReading": "Санукриука фала танса.",
       "uzbekTranslation": "Biz senga qiroat qildiramiz, bas, esdan chiqarmayssan."
     },
     {
       "ayahNumber": 7,
       "arabic": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
       "uzbekReading": "Illaa maa shaaa'al laah; innahuu ya'lamul jahra va maa yaxfaa.",
+      "russianReading": "Илла ма шааллах иннаху йа'ламул жахра уама йахфа.",
       "uzbekTranslation": "Magar Alloh xohlaganini. Albatta, U oshkorni ham, maxfiy narsani ham biladir."
     },
     {
       "ayahNumber": 8,
       "arabic": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
       "uzbekReading": "Va nu-yassiruka lilyusraa.",
+      "russianReading": "Уануйассирука лилйусра.",
       "uzbekTranslation": "Va seni oson yo'lga muyassar qilarmiz."
     },
     {
       "ayahNumber": 9,
       "arabic": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ",
       "uzbekReading": "Fazakkir in nafa'atizzikraa.",
+      "russianReading": "Фазаккир ин нафа'атиз зикра.",
       "uzbekTranslation": "Bas, agar eslatish manfaat bersa, eslatgin."
     },
     {
       "ayahNumber": 10,
       "arabic": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ",
       "uzbekReading": "Sa yazzakkaru maiyaxshaa.",
+      "russianReading": "Сайаззаккару май йахша.",
       "uzbekTranslation": "Albatta, qo'rqqan esga oladir."
     },
     {
       "ayahNumber": 11,
       "arabic": "وَيَتَجَنَّبُهَا الْأَشْقَى",
       "uzbekReading": "Va yatajannabuhal ashqaa.",
+      "russianReading": "Уайатажаннабухал ашка.",
       "uzbekTranslation": "Va badbaxt undan chetda bo'ladir."
     },
     {
       "ayahNumber": 12,
       "arabic": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
       "uzbekReading": "Allaziy yaslan Naaral kubraa.",
+      "russianReading": "Аллазии йаслан нарал кубра.",
       "uzbekTranslation": "U katta olovga kiradir."
     },
     {
       "ayahNumber": 13,
       "arabic": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
       "uzbekReading": "Summa laa yamuutu fiyhaa va laa yahyaa.",
+      "russianReading": "Сумма ла йамууту фииха уала йахйа.",
       "uzbekTranslation": "So'ngra uning ichida o'lmay ham, tirilmay ham qoladir."
     },
     {
       "ayahNumber": 14,
       "arabic": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
       "uzbekReading": "Qad aflaha man tazakkaa.",
+      "russianReading": "Кад афлаха ман тазакка.",
       "uzbekTranslation": "Batahqiq, kim pok bo'lsa, yutuq topadir."
     },
     {
       "ayahNumber": 15,
       "arabic": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
       "uzbekReading": "Va zakaras ma Robbihiy fasallaa.",
+      "russianReading": "Уазакара сма раббихи фасалла.",
       "uzbekTranslation": "Va Robbisi ismini zikr qilsa va namoz o'qisa hamdir."
     },
     {
       "ayahNumber": 16,
       "arabic": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
       "uzbekReading": "Bal tu'siruunal hayaatad dunyaa.",
+      "russianReading": "Бал ту'сируунал хайатад дунйа.",
       "uzbekTranslation": "Lekin, sizlar dunyo hayotini ustun qo'yasizlar."
     },
     {
       "ayahNumber": 17,
       "arabic": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
       "uzbekReading": "Val Aaxiratu xairunw va abqaa.",
+      "russianReading": "Уалахирату хайруу уаабка.",
       "uzbekTranslation": "Holbuki, oxirat yaxshiroq va boqiyroqdir."
     },
     {
       "ayahNumber": 18,
       "arabic": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
       "uzbekReading": "Inna haazaa lafis suhu fil uulaa.",
+      "russianReading": "Инна хаза лафиис сухуфил уула.",
       "uzbekTranslation": "Albatta, bu avvalgi sahifalarda bordir."
     },
     {
       "ayahNumber": 19,
       "arabic": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
       "uzbekReading": "Suhufi Ibraahiyma va Muusaa.",
+      "russianReading": "Сухуфи ибрахиима уамууса.",
       "uzbekTranslation": "Ibrohim va Muso sahifalaridadir."
     }
   ]

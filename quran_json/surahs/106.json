@@ -7,24 +7,28 @@
       "ayahNumber": 1,
       "arabic": "لِإِيلَافِ قُرَيْشٍ",
       "uzbekReading": "Li-ilaafi quraish.",
+      "russianReading": "Лиилафи курайш.",
       "uzbekTranslation": "Qurayshning lozim tutishi qanday yaxshi!"
     },
     {
       "ayahNumber": 2,
       "arabic": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
       "uzbekReading": "Elaafihim rihlatash shitaa-i vass saif.",
+      "russianReading": "Иилафихим рихлаташ шитаи уассайф.",
       "uzbekTranslation": "Ularning qish va yoz safarlarini o'zlariga lozim tutishlari qanday yaxshi!"
     },
     {
       "ayahNumber": 3,
       "arabic": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
       "uzbekReading": "Fal y'abudu Robba haazal-bait.",
+      "russianReading": "Фалйа'будуу рабба хазал байт.",
       "uzbekTranslation": "Bas, ular mana shu Baytning Robbisiga ibodat qilsinlar!"
     },
     {
       "ayahNumber": 4,
       "arabic": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
       "uzbekReading": "Allazi at'amahum min ju'inw-va-aamana hum min xavf.",
+      "russianReading": "Аллазии ат'амахум мин жуу'иу уааманахум мин хауф.",
       "uzbekTranslation": "U zot ularini ochlikdan to'q qilgan, xavfdan omon qilgandir."
     }
   ]

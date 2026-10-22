@@ -7,48 +7,56 @@
       "ayahNumber": 1,
       "arabic": "وَالتِّينِ وَالزَّيْتُونِ",
       "uzbekReading": "Vat tiyni vaz zaituun.",
+      "russianReading": "Уаттиини уаззайтуун.",
       "uzbekTranslation": "Anjir bilan qasam va zaytun bilan qasam."
     },
     {
       "ayahNumber": 2,
       "arabic": "وَطُورِ سِينِينَ",
       "uzbekReading": "Va tuuri siniyn.",
+      "russianReading": "Уатуури сииниин.",
       "uzbekTranslation": "Va Turi Siyno bilan qasam."
     },
     {
       "ayahNumber": 3,
       "arabic": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
       "uzbekReading": "Va haazal balad-il amiyn.",
+      "russianReading": "Уахазал баладил амиин.",
       "uzbekTranslation": "Va mana bu, eminlik yurti (Makka) bilan qasam."
     },
     {
       "ayahNumber": 4,
       "arabic": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
       "uzbekReading": "Laqad xalaqnal insaana fiy ahsani taqviym.",
+      "russianReading": "Лакад халакнал инсана фии ахсани такуиим.",
       "uzbekTranslation": "Batahqiq, Biz insonni eng yaxshi suratda yaratdik."
     },
     {
       "ayahNumber": 5,
       "arabic": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
       "uzbekReading": "Summa ra dad naahu asfala saafiliyn.",
+      "russianReading": "Сумма рададнаху асфала сафилиин.",
       "uzbekTranslation": "So'ngra uni asfala safilinga qaytardik."
     },
     {
       "ayahNumber": 6,
       "arabic": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
       "uzbekReading": "Ill-lal laziyna aamanuu va 'amilus saalihaati; falahum ajrun g'airu mamnuun.",
+      "russianReading": "Иллал лазиина амануу уа'амилуус салихати фалахум ажрун гайру мамнуун.",
       "uzbekTranslation": "Magar iymon keltirganlar va yaxshi amallar qilganlarga minnatsiz va uzluksiz ajrlar bordir."
     },
     {
       "ayahNumber": 7,
       "arabic": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
       "uzbekReading": "Fama yu kaz zibuka b'adu bid diyn.",
+      "russianReading": "Фама йуказзибука ба'ду биддиин.",
       "uzbekTranslation": "Bas, seni nima oxiratni yolg'onga chiqarishga olib keladi (ey kofir)?"
     },
     {
       "ayahNumber": 8,
       "arabic": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
       "uzbekReading": "Alai sal laahu bi-ahkamil haakimiyn.",
+      "russianReading": "Алайсаллаху биахкамил хакимиин.",
       "uzbekTranslation": "Alloh hukm qilguvchilarning eng hikmatlisi emasmi?!"
     }
   ]

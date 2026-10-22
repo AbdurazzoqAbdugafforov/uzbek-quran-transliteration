@@ -7,102 +7,119 @@
       "ayahNumber": 1,
       "arabic": "وَالسَّمَاءِ وَالطَّارِقِ",
       "uzbekReading": "Vassamaaa'i vattaariq.",
+      "russianReading": "Уассамаи уаттарик.",
       "uzbekTranslation": "Osmon bilan qasam va toriq bilan qasam."
     },
     {
       "ayahNumber": 2,
       "arabic": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
       "uzbekReading": "Va maaa adraaka mattaariq.",
+      "russianReading": "Уама адрака мат тарик.",
       "uzbekTranslation": "Toriq nimaligini senga ne bildirdi?"
     },
     {
       "ayahNumber": 3,
       "arabic": "النَّجْمُ الثَّاقِبُ",
       "uzbekReading": "Annajmus saaqib.",
+      "russianReading": "Аннажмус сакиб.",
       "uzbekTranslation": "U nur sochib turuvchi yulduzdir."
     },
     {
       "ayahNumber": 4,
       "arabic": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
       "uzbekReading": "In kullu nafsil lammaa 'alaihaa haafiz.",
+      "russianReading": "Ин куллу нафсил ламма 'алайха хафиз.",
       "uzbekTranslation": "Hech bir jon yo'qki, uning hifz qilib turuvchisi bo'lmasa."
     },
     {
       "ayahNumber": 5,
       "arabic": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
       "uzbekReading": "Fal yanzuril insaanu mimma xuliq.",
+      "russianReading": "Фалйанзурил инсану мимма хулик.",
       "uzbekTranslation": "Inson nimadan yaralganiga nazar solsin."
     },
     {
       "ayahNumber": 6,
       "arabic": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
       "uzbekReading": "Xuliqa mim maaa'in daafiq.",
+      "russianReading": "Хулика мим маин дафик.",
       "uzbekTranslation": "U otilib chiquvchi suvdan yaratilgandir."
     },
     {
       "ayahNumber": 7,
       "arabic": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
       "uzbekReading": "Yaxruju mim bainissulbi vat taraaa'ib.",
+      "russianReading": "Йахружу мин байнис сулби уаттараиб.",
       "uzbekTranslation": "U (suv) sulb (umurtqa) va taroib (ko'krak suyagi) orasidan chiqadir."
     },
     {
       "ayahNumber": 8,
       "arabic": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
       "uzbekReading": "Innahuu 'alaa raj'ihiy laqaadir.",
+      "russianReading": "Иннаху 'ала раж'ихи лакадир.",
       "uzbekTranslation": "Albatta U zot uni qayta tiriltirishga qodirdir."
     },
     {
       "ayahNumber": 9,
       "arabic": "يَوْمَ تُبْلَى السَّرَائِرُ",
       "uzbekReading": "Yavma tublas saraaa'ir.",
+      "russianReading": "Йаума тублас сараир.",
       "uzbekTranslation": "Sirlar fosh bo'ladigan kundadir."
     },
     {
       "ayahNumber": 10,
       "arabic": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
       "uzbekReading": "Famaa lahuu min quvwatinw va laa naasir.",
+      "russianReading": "Фама лаху мин кууатиу уала насир.",
       "uzbekTranslation": "Bas,."
     },
     {
       "ayahNumber": 11,
       "arabic": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
       "uzbekReading": "Vassamaaa'i zaatir raj'.",
+      "russianReading": "Уассамаи затир раж'.",
       "uzbekTranslation": "Qaytuvchi."
     },
     {
       "ayahNumber": 12,
       "arabic": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
       "uzbekReading": "Val ardi zaatis sad'.",
+      "russianReading": "Уаларди затис сад'.",
       "uzbekTranslation": "Yorib chiquvchi egasi bo'lgan yer bilan qasam."
     },
     {
       "ayahNumber": 13,
       "arabic": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
       "uzbekReading": "Innahuu laqavlun fasl.",
+      "russianReading": "Иннаху лакаулун фасл.",
       "uzbekTranslation": "Albatta u(Qur'on) ajratuvchi so'zdir."
     },
     {
       "ayahNumber": 14,
       "arabic": "وَمَا هُوَ بِالْهَزْلِ",
       "uzbekReading": "Va maa huva bil hazl.",
+      "russianReading": "Уама хууа билхазл.",
       "uzbekTranslation": "Va u hazil emasdir."
     },
     {
       "ayahNumber": 15,
       "arabic": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
       "uzbekReading": "Innahum yakiyduuna kaidaa.",
+      "russianReading": "Иннахум йакиидууна кайда.",
       "uzbekTranslation": "Albatta ular hiyla-nayrang qilarlar."
     },
     {
       "ayahNumber": 16,
       "arabic": "وَأَكِيدُ كَيْدًا",
       "uzbekReading": "Va akiydu kaidaa.",
+      "russianReading": "Уаакииду кайда.",
       "uzbekTranslation": "Va Men ham hiyla qilurman."
     },
     {
       "ayahNumber": 17,
       "arabic": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
       "uzbekReading": "Famahhilil kaafiriyna amhilhum ruvaidaa.",
+      "russianReading": "Фамаххилил кафириина амхилхум рууайда.",
       "uzbekTranslation": "Muhlat ber kofirlarga, ularga ozgina muhlat ber."
     }
   ]

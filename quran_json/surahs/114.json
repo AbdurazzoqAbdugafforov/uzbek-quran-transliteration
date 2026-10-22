@@ -7,36 +7,42 @@
       "ayahNumber": 1,
       "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
       "uzbekReading": "Qul a'uzu birabbin naas.",
+      "russianReading": "Кул а'уузу бираббин нас.",
       "uzbekTranslation": "Odamlar Robbisidan."
     },
     {
       "ayahNumber": 2,
       "arabic": "مَلِكِ النَّاسِ",
       "uzbekReading": "Malikin naas.",
+      "russianReading": "Маликин нас.",
       "uzbekTranslation": "Odamlar Podshohidan."
     },
     {
       "ayahNumber": 3,
       "arabic": "إِلَٰهِ النَّاسِ",
       "uzbekReading": "Ilaahin naas.",
+      "russianReading": "Илахин нас.",
       "uzbekTranslation": "Odamlar Ilohidan panoh so'rayman."
     },
     {
       "ayahNumber": 4,
       "arabic": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
       "uzbekReading": "Min sharril vas vaasil xannaas.",
+      "russianReading": "Мин шаррил уасуасил ханнас.",
       "uzbekTranslation": "Berkinib, ko'rinib turuvchi vasvosning."
     },
     {
       "ayahNumber": 5,
       "arabic": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
       "uzbekReading": "Al laziy yuvas visu fiy suduurin naas.",
+      "russianReading": "Аллазии йууасуису фии судуурин нас.",
       "uzbekTranslation": "Odamlar qalbiga vasvasa soladiganning."
     },
     {
       "ayahNumber": 6,
       "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ",
       "uzbekReading": "Minal jinnati van naas.",
+      "russianReading": "Минал жиннати уаннас.",
       "uzbekTranslation": "Jinlardan va odamlardan bo'lganning yomonligidan, deb ayt."
     }
   ]

@@ -7,240 +7,280 @@
       "ayahNumber": 1,
       "arabic": "عَمَّ يَتَسَاءَلُونَ",
       "uzbekReading": "'Amma Yatasaa-aluun.",
+      "russianReading": "'Амма йатасаалуун.",
       "uzbekTranslation": "Nima haqida so'rashadi?"
     },
     {
       "ayahNumber": 2,
       "arabic": "عَنِ النَّبَإِ الْعَظِيمِ",
       "uzbekReading": "'Anin-nabaa-il 'aziym.",
+      "russianReading": "'Анин набаил 'азиим.",
       "uzbekTranslation": "Ulkan, muhim xabar haqida (so'rashadi)."
     },
     {
       "ayahNumber": 3,
       "arabic": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
       "uzbekReading": "Allazi hum fiyhi mux talifuun.",
+      "russianReading": "Аллазии хум фиихи мухталифуун.",
       "uzbekTranslation": "Shunday xabarki, u."
     },
     {
       "ayahNumber": 4,
       "arabic": "كَلَّا سَيَعْلَمُونَ",
       "uzbekReading": "Kallaa sa y'alamuun.",
+      "russianReading": "Калла сайа'ламуун.",
       "uzbekTranslation": "Yo'q! Ular tezda bilarlar!"
     },
     {
       "ayahNumber": 5,
       "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
       "uzbekReading": "Summa kallaa sa y'alamuun.",
+      "russianReading": "Сумма калла сайа'ламуун.",
       "uzbekTranslation": "Yana yo'q! Ular tezda bilarlar!"
     },
     {
       "ayahNumber": 6,
       "arabic": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
       "uzbekReading": "Alam naj'alil arda mihaa da.",
+      "russianReading": "Алам наж'алил арда михада.",
       "uzbekTranslation": "Yerni to'shab qo'ymadikmi?"
     },
     {
       "ayahNumber": 7,
       "arabic": "وَالْجِبَالَ أَوْتَادًا",
       "uzbekReading": "Val jibaala au taada.",
+      "russianReading": "Уалжибала аутада.",
       "uzbekTranslation": "Va tog'larni qoziq (qilib qo'ymadikmi?)."
     },
     {
       "ayahNumber": 8,
       "arabic": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
       "uzbekReading": "Va xalaq naakum azvaaja.",
+      "russianReading": "Уахалакнакум азуажа.",
       "uzbekTranslation": "Va sizlarni juft qilib yaratdik."
     },
     {
       "ayahNumber": 9,
       "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
       "uzbekReading": "Vaja'alnan naumakum subata.",
+      "russianReading": "Уажа'ална наумакум субата.",
       "uzbekTranslation": "Va uyqularingizni rohat qilib qo'ydik."
     },
     {
       "ayahNumber": 10,
       "arabic": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
       "uzbekReading": "Vaja'alnal laila libasa.",
+      "russianReading": "Уажа'алнал лайла либаса.",
       "uzbekTranslation": "Va kechasini libos qilib qo'ydik."
     },
     {
       "ayahNumber": 11,
       "arabic": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
       "uzbekReading": "Vaja'alnan nahara ma 'aasha.",
+      "russianReading": "Уажа'алнан нахара ма'аша.",
       "uzbekTranslation": "Va kunduzni tiriklik qildik."
     },
     {
       "ayahNumber": 12,
       "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
       "uzbekReading": "Va banaina fauqakum sab 'an shi daada.",
+      "russianReading": "Уабанайна фаукакум саб'ан шидада.",
       "uzbekTranslation": "Tepalarngizga yetti mustahkam (osmon)ni bino qildik."
     },
     {
       "ayahNumber": 13,
       "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
       "uzbekReading": "Vaja'alna siraajaw vah haaja.",
+      "russianReading": "Уажа'ална сиражау уаххажа.",
       "uzbekTranslation": "Va shu'la taratuvchi chiroq ham qildik."
     },
     {
       "ayahNumber": 14,
       "arabic": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
       "uzbekReading": "Va anzalna minal m'uSirooti maa-an saj-jaaja.",
+      "russianReading": "Уаанзална минал му'сирати маан сажжажа.",
       "uzbekTranslation": "Va siqilgan."
     },
     {
       "ayahNumber": 15,
       "arabic": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
       "uzbekReading": "Linux rija bihiy habbaw vana baata.",
+      "russianReading": "Линухрижа бихи хаббау уанабата.",
       "uzbekTranslation": "U(suv) bilan don va nabotot chiqarishimiz uchun."
     },
     {
       "ayahNumber": 16,
       "arabic": "وَجَنَّاتٍ أَلْفَافًا",
       "uzbekReading": "Va jan naatin alfafa.",
+      "russianReading": "Уажаннатин алфафа.",
       "uzbekTranslation": "Va daraxtlari bir-biriga kirishgan bo'stonlar."
     },
     {
       "ayahNumber": 17,
       "arabic": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
       "uzbekReading": "Inna yaumal-fasli kana miqaata.",
+      "russianReading": "Инна йаумал фасли кана мииката.",
       "uzbekTranslation": "Albatta, ajrim kuni vaqti belgilangan edi."
     },
     {
       "ayahNumber": 18,
       "arabic": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
       "uzbekReading": "Yauma yun faxu fis-suuri fataa tuuna afvaaja.",
+      "russianReading": "Йаума йунфаху фиис суури фата'тууна афуажа.",
       "uzbekTranslation": "U kunda surga puflanur va sizlar to'p-to'p bo'lib kelursizlar."
     },
     {
       "ayahNumber": 19,
       "arabic": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
       "uzbekReading": "Va futiha tis samaa-u fakaanat abvaaba.",
+      "russianReading": "Уафутихатис самау факанат абуаба.",
       "uzbekTranslation": "Osmon yorilib, eshik-eshiklar ochilur."
     },
     {
       "ayahNumber": 20,
       "arabic": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
       "uzbekReading": "Va suyyi raatil jibaalu fa kaanat saraaba.",
+      "russianReading": "Уасуйиратил жибалу факанат сараба.",
       "uzbekTranslation": "Tog'lar o'rnidan ko'chirilib, sarobga aylanur."
     },
     {
       "ayahNumber": 21,
       "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
       "uzbekReading": "Inna jahan nama kaanat mirsaada.",
+      "russianReading": "Инна жаханнама канат мирсада.",
       "uzbekTranslation": "Albatta, jahannam poylab turuvchi edi."
     },
     {
       "ayahNumber": 22,
       "arabic": "لِلطَّاغِينَ مَآبًا",
       "uzbekReading": "Lit taa g'iyna ma aaba.",
+      "russianReading": "Литтагиина мааба.",
       "uzbekTranslation": "Tug'yonga ketganlarga qaytar joydir."
     },
     {
       "ayahNumber": 23,
       "arabic": "لَابِثِينَ فِيهَا أَحْقَابًا",
       "uzbekReading": "Laa bisiyna fiyhaa ahqaaba.",
+      "russianReading": "Лабисиина фииха ахкаба.",
       "uzbekTranslation": "Ular unda zamonlar bo'yi qoluvchilardir."
     },
     {
       "ayahNumber": 24,
       "arabic": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
       "uzbekReading": "Laa ya zuuquuna fiyha bar daw valaa sharaaba.",
+      "russianReading": "Ла йазуукууна фииха бардау уала шараба.",
       "uzbekTranslation": "Ular unda sovuqni ham, sharobni ham tatiy olmaslar."
     },
     {
       "ayahNumber": 25,
       "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
       "uzbekReading": "Illa hamiy maw-va g'as saaqa.",
+      "russianReading": "Илла хамиимау уагассака.",
       "uzbekTranslation": "Magar qaynoq suv va yiringni (tatirlar)."
     },
     {
       "ayahNumber": 26,
       "arabic": "جَزَاءً وِفَاقًا",
       "uzbekReading": "Jazaa-aw vi faaqa.",
+      "russianReading": "Жазаау уифака.",
       "uzbekTranslation": "Muvofiq jazo o'laroq."
     },
     {
       "ayahNumber": 27,
       "arabic": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
       "uzbekReading": "Innahum kaanu laa yarjuuna hisaaba.",
+      "russianReading": "Иннахум кануу ла йаржууна хисаба.",
       "uzbekTranslation": "Chunki ular hisob-kitob bo'lishiga ishonmasdilar."
     },
     {
       "ayahNumber": 28,
       "arabic": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
       "uzbekReading": "Va kazzabu bi aayaa tina kizzaba.",
+      "russianReading": "Уаказзабуу биайатина киззаба.",
       "uzbekTranslation": "Va Bizning oyatlariimizni yolg'on deyishgan edi, yolg'on!."
     },
     {
       "ayahNumber": 29,
       "arabic": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
       "uzbekReading": "Va kulla shai-in ahsai naahu kitaa ba.",
+      "russianReading": "Уакулла шайин ахсайнаху китаба.",
       "uzbekTranslation": "Biz barcha narsani kitobga jamlab qo'yganmiz."
     },
     {
       "ayahNumber": 30,
       "arabic": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا",
       "uzbekReading": "Fa zuuquu falan-naziy dakum ill-laa azaaba.",
+      "russianReading": "Фазуукуу фалан назиидакум илла 'азаба.",
       "uzbekTranslation": "Bas, tatib ko'ringlar, sizlarga azobdan boshqa hech narsani ziyoda qilmasmiz."
     },
     {
       "ayahNumber": 31,
       "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
       "uzbekReading": "Inna lil mutta qiyna mafaaza.",
+      "russianReading": "Инна лилмуттакиина мафаза.",
       "uzbekTranslation": "Albatta, taqvodorlarga yutuq bordir:."
     },
     {
       "ayahNumber": 32,
       "arabic": "حَدَائِقَ وَأَعْنَابًا",
       "uzbekReading": "Hadaa-iqa va a'anaa ba.",
+      "russianReading": "Хадаика уаа'наба.",
       "uzbekTranslation": "Bog'-rog'lar, uzumzorlar bordir."
     },
     {
       "ayahNumber": 33,
       "arabic": "وَكَوَاعِبَ أَتْرَابًا",
       "uzbekReading": "Va kaava 'iba at raaba.",
+      "russianReading": "Уакауа'иба атраба.",
       "uzbekTranslation": "Va yangi bo'yi yetgan bir xil yoshdagi qizlar bordir."
     },
     {
       "ayahNumber": 34,
       "arabic": "وَكَأْسًا دِهَاقًا",
       "uzbekReading": "Va ka'san di haaqa.",
+      "russianReading": "Уака'сан дихака.",
       "uzbekTranslation": "Va to'ldirilgan qadahlar bordir."
     },
     {
       "ayahNumber": 35,
       "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
       "uzbekReading": "Laa yasma'uuna fiha lag' vaw valaa kizzaba.",
+      "russianReading": "Ла йасма'ууна фииха лагуау уала киззаба.",
       "uzbekTranslation": "U yerda bekorchi gaplarni ham, yolg'on gaplarni ham eshitmaslar."
     },
     {
       "ayahNumber": 36,
       "arabic": "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا",
       "uzbekReading": "Jazaa-am mir-Robbika ataa-an hisaaba.",
+      "russianReading": "Жазаам мир раббика 'атаан хисаба.",
       "uzbekTranslation": "Robbingdan mukofot, sovg'a hisobidandir."
     },
     {
       "ayahNumber": 37,
       "arabic": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
       "uzbekReading": "Robbis samaa vaati val ardi va maa baina humar Rohmaani laa yam likuuna minhu xi taaba.",
+      "russianReading": "Раббис самауати уаларди уама байнахумар рахмани ла йамликууна минху хитаба.",
       "uzbekTranslation": "U osmonlar, yer va ularning orasidagi barcha narsalarning Robbisi, Rohmandir, Uning huzurida hech kim xitob qilishga qodir bo'lmas."
     },
     {
       "ayahNumber": 38,
       "arabic": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا",
       "uzbekReading": "Yauma yaquu mur ruuhu val malaa-ikatu saf-fal laa yata kalla muuna illa man azina lahur Rohmaanu va qaala savaaba.",
+      "russianReading": "Йаума йакуумур рууху уалмалаикату саффал ла йатакалламууна илла ман азина лахур рахману уакала сауаба.",
       "uzbekTranslation": "O'sha kunda Ruh va farishtalar saf bo'lib turadir. Rohman izn berganlar va to'g'ri so'zlaganlardan o'zgalar gapira olmaslar."
     },
     {
       "ayahNumber": 39,
       "arabic": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
       "uzbekReading": "Zaalikal yaumul haqqu faman shaa-at ta xaaza ill-laa Robbihi ma-aaba.",
+      "russianReading": "Заликал йаумул хакку фаман шаат тахаза ила раббихи мааба.",
       "uzbekTranslation": "U haq kundir. Kim xohlasa, o'z Robbisiga qaytar yo'l oladir."
     },
     {
       "ayahNumber": 40,
       "arabic": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
       "uzbekReading": "In naa anzar naakum azaaban qariybaiy-yauma yan zurul marr-u maa qaddamat yadaahu va ya quulul-kaafiru yaa lai taniy kuntu turaaba.",
+      "russianReading": "Инна анзарнакум 'азабан кариибай йаума йанзурул мару ма каддамат йадаху уайакуулул кафиру йа лайтании кунту тураба.",
       "uzbekTranslation": "Albatta, Biz sizlarni yaqin kelajakdagi azobdan qo'rqitdik. U kunda, har kishi."
     }
   ]

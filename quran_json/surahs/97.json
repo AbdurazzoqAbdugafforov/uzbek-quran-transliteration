@@ -7,30 +7,35 @@
       "ayahNumber": 1,
       "arabic": "إِنَّا أَنْزَلْنَاهُ فِي لَيْلَةِ الْقَدْرِ",
       "uzbekReading": "Innaa anzalnaahu fiy lailatil qadr.",
+      "russianReading": "Инна анзалнаху фии лайлатил кадр.",
       "uzbekTranslation": "Albatta, Biz u."
     },
     {
       "ayahNumber": 2,
       "arabic": "وَمَا أَدْرَاكَ مَا لَيْلَةُ الْقَدْرِ",
       "uzbekReading": "Va maa adraaka ma lailatul qadr.",
+      "russianReading": "Уама адрака ма лайлатул кадр.",
       "uzbekTranslation": "Laylatul Qadr qandoq narsa ekanini senga nima bildirdi?"
     },
     {
       "ayahNumber": 3,
       "arabic": "لَيْلَةُ الْقَدْرِ خَيْرٌ مِنْ أَلْفِ شَهْرٍ",
       "uzbekReading": "Lailatul qadri xairum min alfiy shahr.",
+      "russianReading": "Лайлатул кадри хайрум мин алфи шахр.",
       "uzbekTranslation": "Laylatul Qadr ming oydin yaxshiroqdir."
     },
     {
       "ayahNumber": 4,
       "arabic": "تَنَزَّلُ الْمَلَائِكَةُ وَالرُّوحُ فِيهَا بِإِذْنِ رَبِّهِمْ مِنْ كُلِّ أَمْرٍ",
       "uzbekReading": "Tanaz zalul malaa-ikatu var ruuhu fiyha bi izni-rab bihim min kulli amr.",
+      "russianReading": "Таназзалул малаикату уаррууху фииха биизни раббихим мин кулли амр.",
       "uzbekTranslation": "Unda farishtalar va Ruh Robbilari izni bilan barcha ishlar uchun tushadir."
     },
     {
       "ayahNumber": 5,
       "arabic": "سَلَامٌ هِيَ حَتَّىٰ مَطْلَعِ الْفَجْرِ",
       "uzbekReading": "Salaamun hiya hattaa mat la'il fajr.",
+      "russianReading": "Саламун хийа хатта матла'ил фажр.",
       "uzbekTranslation": "U to tong otguncha salom bo'lib turadir."
     }
   ]

@@ -7,30 +7,35 @@
       "ayahNumber": 1,
       "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
       "uzbekReading": "Qul a'uzuu bi Robbil-falaq.",
+      "russianReading": "Кул а'уузу бираббил фалак.",
       "uzbekTranslation": "Tong Robbisidan panoh so'rayman."
     },
     {
       "ayahNumber": 2,
       "arabic": "مِنْ شَرِّ مَا خَلَقَ",
       "uzbekReading": "Min sharri ma xalaq.",
+      "russianReading": "Мин шарри ма халак.",
       "uzbekTranslation": "U yaratgan narsalar yomonligidan."
     },
     {
       "ayahNumber": 3,
       "arabic": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
       "uzbekReading": "Va min sharri g'asiqin iza vaqab.",
+      "russianReading": "Уамин шарри гасикин иза уакаб.",
       "uzbekTranslation": "Va kirib kelgan qorong'ulik yomonligidan."
     },
     {
       "ayahNumber": 4,
       "arabic": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
       "uzbekReading": "Va min sharrin-naffaa-saati fil 'uqad.",
+      "russianReading": "Уамин шаррин наффасати фиил 'укад.",
       "uzbekTranslation": "Va tugunlarga dam soluvchilar yomonligidan."
     },
     {
       "ayahNumber": 5,
       "arabic": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
       "uzbekReading": "Va min shar ri haasidin iza hasad.",
+      "russianReading": "Уамин шарри хасидин иза хасад.",
       "uzbekTranslation": "Va hasad qilgan hasadchining yomonligidan, deb ayt."
     }
   ]
